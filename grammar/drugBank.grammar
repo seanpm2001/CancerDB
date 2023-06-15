@@ -1,0 +1,4 @@
+drugBankParser
+ extends abstractChemicalGuidParser
+ string sourceDomain drugbank.com
+ description What is the DrugBank ID of this drug?

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/ovarian-seromucinous-borderline-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ovarian-seromucinous-adenoma.html ovarian-seromucinous-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="ovarian-seromucinous-adenoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="ovarian-seromucinous-carcinoma.html">&gt;</a>
+
+title Ovarian Seromucinous Borderline Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ovarian-seromucinous-borderline-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Ovarian Seromucinous Borderline Tumor is a type of <a href="/rows/ovarian-epithelial-tumor.html">Ovarian Epithelial Tumor</a>
+
+code
+ title Ovarian Seromucinous Borderline Tumor
+ type cancerType
+ mainType Ovarian Cancer
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId OSMBT
+ parentOncoTreeId OVT
+ umls C1511264
+ nciCode C40038
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

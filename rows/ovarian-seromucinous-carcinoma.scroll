@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/ovarian-seromucinous-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ovarian-seromucinous-borderline-tumor.html oxaliplatin.html
+<a class="trueBaseThemePreviousItem" href="ovarian-seromucinous-borderline-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="oxaliplatin.html">&gt;</a>
+
+title Ovarian Seromucinous Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ovarian-seromucinous-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Ovarian Seromucinous Carcinoma is a type of <a href="/rows/ovarian-epithelial-tumor.html">Ovarian Epithelial Tumor</a>
+
+code
+ title Ovarian Seromucinous Carcinoma
+ type cancerType
+ mainType Ovarian Cancer
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId OSMCA
+ parentOncoTreeId OVT
+ umls C0279392
+ nciCode C40090
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

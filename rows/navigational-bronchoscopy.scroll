@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/navigational-bronchoscopy.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav nature-reviews-cancer.html ncbi-gene.html
+<a class="trueBaseThemePreviousItem" href="nature-reviews-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="ncbi-gene.html">&gt;</a>
+
+title Navigational Bronchoscopy
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=navigational-bronchoscopy" class="material-symbols-outlined">edit</a></div>
+
+A navigational bronchoscopy uses a special bronchoscope to examine and treat lesions in areas of the lungs that are inaccessible using a regular bronchoscope. Navigational bronchoscopy combines electromagnetic navigation with real-time computed tomography (CT) images to create a three-dimensional map of the lungs. Doctors are then able to use this map to guide the navigational bronchoscope, which includes an extended working channel and guide wire, to difficult-to-access areas of the lungs to take a biopsy or help guide radiation therapy directly to a hard-to-reach lesion.
+
+- Read more about Navigational Bronchoscopy on <a href="https://weillcornell.org/news/what-to-know-about-navigational-bronchoscopy">weillcornell.org</a>
+
+code
+ title Navigational Bronchoscopy
+ type imagingProcedure
+ cancerTypes lung
+ description A navigational bronchoscopy uses a special bronchoscope to examine and treat lesions in areas of the lungs that are inaccessible using a regular bronchoscope. Navigational bronchoscopy combines electromagnetic navigation with real-time computed tomography (CT) images to create a three-dimensional map of the lungs. Doctors are then able to use this map to guide the navigational bronchoscope, which includes an extended working channel and guide wire, to difficult-to-access areas of the lungs to take a biopsy or help guide radiation therapy directly to a hard-to-reach lesion.
+ related ebus
+ 
+ reference https://weillcornell.org/news/what-to-know-about-navigational-bronchoscopy
+ 
+
+import ../footer.scroll

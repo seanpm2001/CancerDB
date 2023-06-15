@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/lymphomatoid-papulosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lymphomatoid-granulomatosis.html lymphoplasmacytic-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="lymphomatoid-granulomatosis.html">&lt;</a><a class="trueBaseThemeNextItem" href="lymphoplasmacytic-lymphoma.html">&gt;</a>
+
+title Lymphomatoid Papulosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lymphomatoid-papulosis" class="material-symbols-outlined">edit</a></div>
+
+* Lymphomatoid Papulosis is a type of <a href="/rows/primary-cutaneous-cd30-positive-t-cell-lymphoproliferative-disorders.html">Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders</a>
+
+code
+ title Lymphomatoid Papulosis
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId LYP
+ parentOncoTreeId PCLPD
+ oncoTreeLevel 6
+ subTypes 0
+ 
+
+import ../footer.scroll

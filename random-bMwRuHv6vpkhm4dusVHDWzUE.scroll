@@ -1,0 +1,63 @@
+import header.scroll
+
+canonicalLink 
+
+title Which cancer types cause the most deaths?
+ hidden
+
+description Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">notMissing uscsDeathsPerYear
+ select uscsDeathsPerYear
+ sortBy uscsDeathsPerYear
+ reverse
+ title Which cancer types cause the most deaths?
+ description Data is from the 2019 United States Cancer Statistics dataset from the CDC.</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 1,453 files and found 24 matches in 0.02s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# Which cancer types cause the most deaths?
+* Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM uscsDeathsPerYear
+ Lung Cancer DeLiM /rows/lung.html DeLiM 139558
+ Colon Cancer DeLiM /rows/colon.html DeLiM 51874
+ Pancreatic Cancer DeLiM /rows/pancreas.html DeLiM 45868
+ Breast Cancer DeLiM /rows/breast.html DeLiM 42269
+ Prostate Cancer DeLiM /rows/prostate.html DeLiM 31628
+ Liver Cancer DeLiM /rows/liver.html DeLiM 27882
+ Leukemia DeLiM /rows/leukemia.html DeLiM 23324
+ Non-Hodgkin Lymphoma DeLiM /rows/non-hodgkin-lymphoma.html DeLiM 20247
+ Brain Cancer DeLiM /rows/brain.html DeLiM 17215
+ Bladder Cancer DeLiM /rows/bladder-cancer.html DeLiM 16757
+ Esophagus/Stomach Cancer DeLiM /rows/esophagus-stomach.html DeLiM 15918
+ Kidney Cancer DeLiM /rows/kidney.html DeLiM 13940
+ Ovarian Cancer DeLiM /rows/ovarian-cancer.html DeLiM 13426
+ Multiple Myeloma DeLiM /rows/multiple-myeloma.html DeLiM 12425
+ Uterine Cancer DeLiM /rows/uterus.html DeLiM 11539
+ Stomach Cancer DeLiM /rows/stomach-cancer.html DeLiM 11071
+ Oral Cancer DeLiM /rows/oral-cancer.html DeLiM 10447
+ Skin Cancer DeLiM /rows/skin.html DeLiM 8059
+ Cervical Cancer DeLiM /rows/cervix.html DeLiM 4144
+ Laryngeal cancer DeLiM /rows/laryngeal-cancer.html DeLiM 3789
+ Mesothelioma DeLiM /rows/mesothelioma.html DeLiM 2402
+ Thyroid Cancer DeLiM /rows/thyroid.html DeLiM 2000
+ Hodgkin Lymphoma DeLiM /rows/hodgkin-lymphoma.html DeLiM 873
+ Testicular Cancer DeLiM /rows/testis.html DeLiM 421
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=notMissing%20uscsDeathsPerYear%0Aselect%20uscsDeathsPerYear%0AsortBy%20uscsDeathsPerYear%0Areverse%0Atitle%20Which%20cancer%20types%20cause%20the%20most%20deaths%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. JSON
+ link /search.csv?q=notMissing%20uscsDeathsPerYear%0Aselect%20uscsDeathsPerYear%0AsortBy%20uscsDeathsPerYear%0Areverse%0Atitle%20Which%20cancer%20types%20cause%20the%20most%20deaths%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. CSV
+ link /search.tsv?q=notMissing%20uscsDeathsPerYear%0Aselect%20uscsDeathsPerYear%0AsortBy%20uscsDeathsPerYear%0Areverse%0Atitle%20Which%20cancer%20types%20cause%20the%20most%20deaths%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. TSV
+ link /search.tree?q=notMissing%20uscsDeathsPerYear%0Aselect%20uscsDeathsPerYear%0AsortBy%20uscsDeathsPerYear%0Areverse%0Atitle%20Which%20cancer%20types%20cause%20the%20most%20deaths%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav b-cell-prolymphocytic-leukemia.html b-lymphoblastic-leukemia-lymphoma-nos.html
+<a class="trueBaseThemePreviousItem" href="b-cell-prolymphocytic-leukemia.html">&lt;</a><a class="trueBaseThemeNextItem" href="b-lymphoblastic-leukemia-lymphoma-nos.html">&gt;</a>
+
+title B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like" class="material-symbols-outlined">edit</a></div>
+
+* B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like is a type of <a href="/rows/b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities.html">B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities</a>
+
+code
+ title B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like
+ type cancerType
+ mainType B-Lymphoblastic Leukemia/Lymphoma
+ tissue Lymphoid
+ 
+ oncoTreeId BLLBCRABL1L
+ parentOncoTreeId BLLRGA
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

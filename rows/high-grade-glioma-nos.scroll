@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/high-grade-glioma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav high-grade-endometrial-stromal-sarcoma.html high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum.html
+<a class="trueBaseThemePreviousItem" href="high-grade-endometrial-stromal-sarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum.html">&gt;</a>
+
+title High-Grade Glioma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=high-grade-glioma-nos" class="material-symbols-outlined">edit</a></div>
+
+* High-Grade Glioma, NOS is a type of <a href="/rows/diffuse-glioma.html">Diffuse Glioma</a>
+
+code
+ title High-Grade Glioma, NOS
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId HGGNOS
+ parentOncoTreeId DIFG
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

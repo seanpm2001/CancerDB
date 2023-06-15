@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/proximal-type-epithelioid-sarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav prostatectomy.html pseudomyogenic-hemangioendothelioma.html
+<a class="trueBaseThemePreviousItem" href="prostatectomy.html">&lt;</a><a class="trueBaseThemeNextItem" href="pseudomyogenic-hemangioendothelioma.html">&gt;</a>
+
+title Proximal-Type Epithelioid Sarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=proximal-type-epithelioid-sarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Proximal-Type Epithelioid Sarcoma is a type of <a href="/rows/epithelioid-sarcoma.html">Epithelioid Sarcoma</a>
+
+code
+ title Proximal-Type Epithelioid Sarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId PTES
+ parentOncoTreeId EPIS
+ umls C1335563
+ nciCode C27472
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

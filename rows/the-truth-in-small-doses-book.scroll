@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/the-truth-in-small-doses-book.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav the-truth-about-cancer.html the-university-of-chicago-comprehensive-cancer-center.html
+<a class="trueBaseThemePreviousItem" href="the-truth-about-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="the-university-of-chicago-comprehensive-cancer-center.html">&gt;</a>
+
+title The Truth in Small Doses: Why We're Losing the War on Cancer-and How to Win It
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=the-truth-in-small-doses-book" class="material-symbols-outlined">edit</a></div>
+
+code
+ title The Truth in Small Doses: Why We're Losing the War on Cancer-and How to Win It
+ type book
+ appeared 2014
+ author Clifton Leaf
+ 
+ amazon https://www.amazon.com/Truth-Small-Doses-Losing-Cancer/dp/1476739994
+ 
+
+import ../footer.scroll

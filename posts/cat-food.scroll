@@ -1,0 +1,10 @@
+import header.scroll
+title Cat food
+date 11-29-2022
+openGraphImage https://cancerdb.com/posts/catfood.jpg
+
+youTube https://www.youtube.com/embed/e0fPvvDBY6s
+
+groups index commercials
+keyboardNav
+import ../footer.scroll

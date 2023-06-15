@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/choroid-plexus-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav choriocarcinoma.html choroid-plexus-papilloma.html
+<a class="trueBaseThemePreviousItem" href="choriocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="choroid-plexus-papilloma.html">&gt;</a>
+
+title Choroid Plexus Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=choroid-plexus-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Choroid Plexus Carcinoma is a type of <a href="/rows/choroid-plexus-tumor.html">Choroid Plexus Tumor</a>
+
+code
+ title Choroid Plexus Carcinoma
+ type cancerType
+ mainType Choroid Plexus Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId CPC
+ parentOncoTreeId CPT
+ umls C0431109
+ nciCode C4715
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

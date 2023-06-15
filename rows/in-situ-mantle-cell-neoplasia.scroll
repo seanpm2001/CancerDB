@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/in-situ-mantle-cell-neoplasia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav in-situ-follicular-neoplasia.html incan.html
+<a class="trueBaseThemePreviousItem" href="in-situ-follicular-neoplasia.html">&lt;</a><a class="trueBaseThemeNextItem" href="incan.html">&gt;</a>
+
+title In Situ Mantle Cell Neoplasia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=in-situ-mantle-cell-neoplasia" class="material-symbols-outlined">edit</a></div>
+
+* In Situ Mantle Cell Neoplasia is a type of <a href="/rows/mantle-cell-lymphoma.html">Mantle Cell Lymphoma</a>
+
+code
+ title In Situ Mantle Cell Neoplasia
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId ISMCL
+ parentOncoTreeId MCL
+ oncoTreeLevel 6
+ subTypes 0
+ 
+
+import ../footer.scroll

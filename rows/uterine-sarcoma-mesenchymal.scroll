@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/uterine-sarcoma-mesenchymal.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav uterine-perivascular-epithelioid-cell-tumor.html uterine-sarcoma-other.html
+<a class="trueBaseThemePreviousItem" href="uterine-perivascular-epithelioid-cell-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="uterine-sarcoma-other.html">&gt;</a>
+
+title Uterine Sarcoma/Mesenchymal
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=uterine-sarcoma-mesenchymal" class="material-symbols-outlined">edit</a></div>
+
+* Uterine Sarcoma/Mesenchymal is a type of <a href="/rows/uterus.html">Uterine Cancer</a>
+* Subtypes of Uterine Sarcoma/Mesenchymal include <a href="/rows/endometrial-stromal-sarcoma.html">Endometrial Stromal Sarcoma</a>, <a href="/rows/undifferentiated-uterine-sarcoma.html">Undifferentiated Uterine Sarcoma</a>, <a href="/rows/uterine-adenosarcoma.html">Uterine Adenosarcoma</a>, <a href="/rows/uterine-perivascular-epithelioid-cell-tumor.html">Uterine Perivascular Epithelioid Cell Tumor</a>, <a href="/rows/uterine-sarcoma-other.html">Uterine Sarcoma, Other</a>, <a href="/rows/uterine-smooth-muscle-tumor.html">Uterine Smooth Muscle Tumor</a>
+
+code
+ title Uterine Sarcoma/Mesenchymal
+ type cancerType
+ mainType Uterine Sarcoma
+ tissue Uterus
+ 
+ oncoTreeId USARC
+ parentOncoTreeId UTERUS
+ umls C0338113
+ nciCode C6339
+ oncoTreeLevel 2
+ subTypes 13
+ 
+
+import ../footer.scroll

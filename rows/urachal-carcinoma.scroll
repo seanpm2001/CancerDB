@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/urachal-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav urachal-adenocarcinoma.html uramustine.html
+<a class="trueBaseThemePreviousItem" href="urachal-adenocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="uramustine.html">&gt;</a>
+
+title Urachal Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=urachal-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Urachal Carcinoma is a type of <a href="/rows/bladder-cancer.html">Bladder Cancer</a>
+* Subtypes of Urachal Carcinoma include <a href="/rows/urachal-adenocarcinoma.html">Urachal Adenocarcinoma</a>
+
+code
+ title Urachal Carcinoma
+ type cancerType
+ mainType Bladder Cancer
+ tissue Bladder/Urinary Tract
+ 
+ oncoTreeId URCA
+ parentOncoTreeId BLADDER
+ umls C1511205
+ nciCode C39842
+ oncoTreeLevel 2
+ subTypes 1
+ 
+
+import ../footer.scroll

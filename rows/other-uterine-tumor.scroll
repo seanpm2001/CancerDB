@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/other-uterine-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav osteosarcoma.html other.html
+<a class="trueBaseThemePreviousItem" href="osteosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="other.html">&gt;</a>
+
+title Other Uterine Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=other-uterine-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Other Uterine Tumor is a type of <a href="/rows/uterus.html">Uterine Cancer</a>
+
+code
+ title Other Uterine Tumor
+ type cancerType
+ mainType Endometrial Cancer
+ tissue Uterus
+ 
+ oncoTreeId OUTT
+ parentOncoTreeId UTERUS
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

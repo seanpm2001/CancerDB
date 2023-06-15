@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/solid-papillary-carcinoma-of-the-breast.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav soft-tissue.html solid-pseudopapillary-neoplasm-of-the-pancreas.html
+<a class="trueBaseThemePreviousItem" href="soft-tissue.html">&lt;</a><a class="trueBaseThemeNextItem" href="solid-pseudopapillary-neoplasm-of-the-pancreas.html">&gt;</a>
+
+title Solid Papillary Carcinoma of the Breast
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=solid-papillary-carcinoma-of-the-breast" class="material-symbols-outlined">edit</a></div>
+
+* Solid Papillary Carcinoma of the Breast is a type of <a href="/rows/invasive-breast-carcinoma.html">Invasive Breast Carcinoma</a>
+
+code
+ title Solid Papillary Carcinoma of the Breast
+ type cancerType
+ mainType Breast Cancer
+ tissue Breast
+ 
+ oncoTreeId SPC
+ parentOncoTreeId BRCA
+ umls C1336027
+ nciCode C6870
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

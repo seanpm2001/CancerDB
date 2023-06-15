@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/bccr-bn.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav bbcr-ar.html bcrisktool.html
+<a class="trueBaseThemePreviousItem" href="bbcr-ar.html">&lt;</a><a class="trueBaseThemeNextItem" href="bcrisktool.html">&gt;</a>
+
+title BCCR
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=bccr-bn" class="material-symbols-outlined">edit</a></div>
+
+Cancer registration started in Benin in 2013 with a pathology registry located at the pathology department (Medical school of Cotonou). In 2014, the Ministry of Health established a population based cancer registry under the control of the National program for the fight against NCDs.
+
+- Read more about BCCR on <a href="https://afcrn.org/index.php/membership/membership-list/134-cotonoucancerregistry">afcrn.org</a>
+
+code
+ title BCCR
+ type registry
+ standsFor Benin - Cotonou Cancer Registry
+ description Cancer registration started in Benin in 2013 with a pathology registry located at the pathology department (Medical school of Cotonou). In 2014, the Ministry of Health established a population based cancer registry under the control of the National program for the fight against NCDs.
+ 
+ reference https://afcrn.org/index.php/membership/membership-list/134-cotonoucancerregistry
+ 
+ country The Republic of Benin
+ 
+
+import ../footer.scroll

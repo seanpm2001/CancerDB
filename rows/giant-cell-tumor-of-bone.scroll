@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/giant-cell-tumor-of-bone.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav giant-cell-carcinoma-of-the-lung.html gideon-burrows-dot-com.html
+<a class="trueBaseThemePreviousItem" href="giant-cell-carcinoma-of-the-lung.html">&lt;</a><a class="trueBaseThemeNextItem" href="gideon-burrows-dot-com.html">&gt;</a>
+
+title Giant Cell Tumor of Bone
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=giant-cell-tumor-of-bone" class="material-symbols-outlined">edit</a></div>
+
+* Giant Cell Tumor of Bone is a type of <a href="/rows/bone.html">Bone Cancer</a>
+
+code
+ title Giant Cell Tumor of Bone
+ type cancerType
+ mainType Bone Cancer
+ tissue Bone
+ 
+ oncoTreeId GCTB
+ parentOncoTreeId BONE
+ umls C0206638
+ nciCode C121932
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

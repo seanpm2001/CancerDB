@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/soft-tissue.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav soft-tissue-myoepithelial-carcinoma.html solid-papillary-carcinoma-of-the-breast.html
+<a class="trueBaseThemePreviousItem" href="soft-tissue-myoepithelial-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="solid-papillary-carcinoma-of-the-breast.html">&gt;</a>
+
+title Soft Tissue
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=soft-tissue" class="material-symbols-outlined">edit</a></div>
+
+* Subtypes of Soft Tissue include <a href="/rows/aggressive-angiomyxoma.html">Aggressive Angiomyxoma</a>, <a href="/rows/alveolar-soft-part-sarcoma.html">Alveolar Soft Part Sarcoma</a>, <a href="/rows/angiomatoid-fibrous-histiocytoma.html">Angiomatoid Fibrous Histiocytoma</a>, <a href="/rows/angiosarcoma.html">Angiosarcoma</a>, <a href="/rows/clear-cell-sarcoma.html">Clear Cell Sarcoma</a>, <a href="/rows/dendritic-cell-sarcoma.html">Dendritic Cell Sarcoma</a>, <a href="/rows/desmoid-aggressive-fibromatosis.html">Desmoid/Aggressive Fibromatosis</a>, <a href="/rows/desmoplastic-small-round-cell-tumor.html">Desmoplastic Small-Round-Cell Tumor</a>, <a href="/rows/epithelioid-hemangioendothelioma.html">Epithelioid Hemangioendothelioma</a>, <a href="/rows/epithelioid-sarcoma.html">Epithelioid Sarcoma</a>, <a href="/rows/ewing-sarcoma-of-soft-tissue.html">Ewing Sarcoma of Soft Tissue</a>, <a href="/rows/fibrosarcoma.html">Fibrosarcoma</a>, <a href="/rows/gastrointestinal-stromal-tumor.html">Gastrointestinal Stromal Tumor</a>, <a href="/rows/glomangiosarcoma.html">Glomangiosarcoma</a>, <a href="/rows/hemangioma.html">Hemangioma</a>, <a href="/rows/infantile-fibrosarcoma.html">Infantile Fibrosarcoma</a>, <a href="/rows/inflammatory-myofibroblastic-tumor.html">Inflammatory Myofibroblastic Tumor</a>, <a href="/rows/intimal-sarcoma.html">Intimal Sarcoma</a>, <a href="/rows/leiomyoma.html">Leiomyoma</a>, <a href="/rows/leiomyosarcoma.html">Leiomyosarcoma</a>, <a href="/rows/liposarcoma.html">Liposarcoma</a>, <a href="/rows/low-grade-fibromyxoid-sarcoma.html">Low-Grade Fibromyxoid Sarcoma</a>, <a href="/rows/malignant-glomus-tumor.html">Malignant Glomus Tumor</a>, <a href="/rows/myofibroma.html">Myofibroma</a>, <a href="/rows/myofibromatosis.html">Myofibromatosis</a>, <a href="/rows/myopericytoma.html">Myopericytoma</a>, <a href="/rows/myxofibrosarcoma.html">Myxofibrosarcoma</a>, <a href="/rows/myxoma.html">Myxoma</a>, <a href="/rows/paraganglioma.html">Paraganglioma</a>, <a href="/rows/perivascular-epithelioid-cell-tumor.html">Perivascular Epithelioid Cell Tumor</a>, <a href="/rows/pseudomyogenic-hemangioendothelioma.html">Pseudomyogenic Hemangioendothelioma</a>, <a href="/rows/radiation-associated-sarcoma.html">Radiation-Associated Sarcoma</a>, <a href="/rows/rhabdomyosarcoma.html">Rhabdomyosarcoma</a>, <a href="/rows/round-cell-sarcoma-nos.html">Round Cell Sarcoma, NOS</a>, <a href="/rows/sarcoma-nos.html">Sarcoma, NOS</a>, <a href="/rows/soft-tissue-myoepithelial-carcinoma.html">Soft Tissue Myoepithelial Carcinoma</a>, <a href="/rows/solitary-fibrous-tumor-hemangiopericytoma.html">Solitary Fibrous Tumor/Hemangiopericytoma</a>, <a href="/rows/synovial-sarcoma.html">Synovial Sarcoma</a>, <a href="/rows/tenosynovial-giant-cell-tumor-diffuse-type.html">Tenosynovial Giant Cell Tumor Diffuse Type</a>, <a href="/rows/undifferentiated-pleomorphic-sarcoma-malignant-fibrous-histiocytoma-high-grade-spindle-cell-sarcoma.html">Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma</a>
+
+code
+ title Soft Tissue
+ type cancerType
+ mainType Soft Tissue Cancer, NOS
+ tissue Soft Tissue
+ 
+ oncoTreeId SOFT_TISSUE
+ parentOncoTreeId TISSUE
+ umls C0225317
+ nciCode C12471
+ oncoTreeLevel 1
+ subTypes 53
+ 
+
+import ../footer.scroll

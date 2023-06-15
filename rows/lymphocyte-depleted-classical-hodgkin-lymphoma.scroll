@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/lymphocyte-depleted-classical-hodgkin-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lymphedema-sleeve.html lymphocyte-rich-classical-hodgkin-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="lymphedema-sleeve.html">&lt;</a><a class="trueBaseThemeNextItem" href="lymphocyte-rich-classical-hodgkin-lymphoma.html">&gt;</a>
+
+title Lymphocyte-Depleted Classical Hodgkin Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lymphocyte-depleted-classical-hodgkin-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Lymphocyte-Depleted Classical Hodgkin Lymphoma is a type of <a href="/rows/classical-hodgkin-lymphoma.html">Classical Hodgkin Lymphoma</a>
+
+code
+ title Lymphocyte-Depleted Classical Hodgkin Lymphoma
+ type cancerType
+ mainType Hodgkin Lymphoma
+ tissue Lymphoid
+ 
+ oncoTreeId LDCHL
+ parentOncoTreeId CHL
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

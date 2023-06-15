@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/germinal-center-b-cell-type.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav germany-ncc.html germinoma.html
+<a class="trueBaseThemePreviousItem" href="germany-ncc.html">&lt;</a><a class="trueBaseThemeNextItem" href="germinoma.html">&gt;</a>
+
+title Germinal Center B-Cell Type
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=germinal-center-b-cell-type" class="material-symbols-outlined">edit</a></div>
+
+* Germinal Center B-Cell Type is a type of <a href="/rows/diffuse-large-b-cell-lymphoma-nos.html">Diffuse Large B-Cell Lymphoma, NOS</a>
+
+code
+ title Germinal Center B-Cell Type
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId GCB
+ parentOncoTreeId DLBCLNOS
+ oncoTreeLevel 6
+ subTypes 0
+ 
+
+import ../footer.scroll

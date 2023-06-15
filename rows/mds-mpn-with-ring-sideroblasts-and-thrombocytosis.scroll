@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/mds-mpn-with-ring-sideroblasts-and-thrombocytosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mds-mpn-unclassifiable.html mds-unclassifiable.html
+<a class="trueBaseThemePreviousItem" href="mds-mpn-unclassifiable.html">&lt;</a><a class="trueBaseThemeNextItem" href="mds-unclassifiable.html">&gt;</a>
+
+title MDS/MPN with Ring Sideroblasts and Thrombocytosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mds-mpn-with-ring-sideroblasts-and-thrombocytosis" class="material-symbols-outlined">edit</a></div>
+
+* MDS/MPN with Ring Sideroblasts and Thrombocytosis is a type of <a href="/rows/myelodysplastic-myeloproliferative-neoplasms.html">Myelodysplastic/Myeloproliferative Neoplasms</a>
+
+code
+ title MDS/MPN with Ring Sideroblasts and Thrombocytosis
+ type cancerType
+ mainType Myelodysplastic/Myeloproliferative Neoplasms
+ tissue Myeloid
+ 
+ oncoTreeId MDSMPNRST
+ parentOncoTreeId MDS/MPN
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

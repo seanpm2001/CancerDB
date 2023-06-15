@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/gamma-heavy-chain-disease.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav gallbladder-cancer.html gangliocytoma.html
+<a class="trueBaseThemePreviousItem" href="gallbladder-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="gangliocytoma.html">&gt;</a>
+
+title Gamma Heavy-Chain Disease
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=gamma-heavy-chain-disease" class="material-symbols-outlined">edit</a></div>
+
+* Gamma Heavy-Chain Disease is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Gamma Heavy-Chain Disease
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId GHCD
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

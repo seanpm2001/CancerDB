@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/oligoastrocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav olfactory-neuroblastoma.html oligodendroglioma.html
+<a class="trueBaseThemePreviousItem" href="olfactory-neuroblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="oligodendroglioma.html">&gt;</a>
+
+title Oligoastrocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=oligoastrocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Oligoastrocytoma is a type of <a href="/rows/diffuse-glioma.html">Diffuse Glioma</a>
+
+code
+ title Oligoastrocytoma
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId OAST
+ parentOncoTreeId DIFG
+ umls C0280793
+ nciCode C4050
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

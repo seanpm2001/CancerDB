@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/low-grade-endometrial-stromal-sarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav low-grade-central-osteosarcoma.html low-grade-fibromyxoid-sarcoma.html
+<a class="trueBaseThemePreviousItem" href="low-grade-central-osteosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="low-grade-fibromyxoid-sarcoma.html">&gt;</a>
+
+title Low-Grade Endometrial Stromal Sarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=low-grade-endometrial-stromal-sarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Low-Grade Endometrial Stromal Sarcoma is a type of <a href="/rows/endometrial-stromal-sarcoma.html">Endometrial Stromal Sarcoma</a>
+
+code
+ title Low-Grade Endometrial Stromal Sarcoma
+ type cancerType
+ mainType Uterine Sarcoma
+ tissue Uterus
+ 
+ oncoTreeId LGESS
+ parentOncoTreeId ESS
+ umls C0334486
+ nciCode C4263
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,25 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/natural-strategies-for-cancer-patients.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma.html nature-reviews-cancer.html
+<a class="trueBaseThemePreviousItem" href="natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="nature-reviews-cancer.html">&gt;</a>
+
+title Natural Strategies for Cancer Patients
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=natural-strategies-for-cancer-patients" class="material-symbols-outlined">edit</a></div>
+
+- Read more about Natural Strategies for Cancer Patients on <a href="https://www.barnesandnoble.com/w/natural-strategies-for-cancer-patients-russell-l-blaylock/1100186009">barnesandnoble.com</a>
+
+code
+ title Natural Strategies for Cancer Patients
+ type book
+ appeared 2019
+ author Russell L. Blaylock
+ 
+ reference https://www.barnesandnoble.com/w/natural-strategies-for-cancer-patients-russell-l-blaylock/1100186009
+ amazon https://www.amazon.com/Natural-Strategies-Patients-Russell-Blaylock/dp/0806539224
+ 
+
+import ../footer.scroll

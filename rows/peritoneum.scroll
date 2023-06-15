@@ -1,0 +1,34 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/peritoneum.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav peritoneal-serous-carcinoma.html perivascular-epithelioid-cell-tumor.html
+<a class="trueBaseThemePreviousItem" href="peritoneal-serous-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="perivascular-epithelioid-cell-tumor.html">&gt;</a>
+
+title Peritoneal Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=peritoneum" class="material-symbols-outlined">edit</a></div>
+
+* Subtypes of Peritoneal Cancer include <a href="/rows/peritoneal-mesothelioma.html">Peritoneal Mesothelioma</a>, <a href="/rows/peritoneal-serous-carcinoma.html">Peritoneal Serous Carcinoma</a>
+
+- Read more about Peritoneal Cancer on <a href="https://www.ucsfhealth.org/conditions/peritoneal-cancer">ucsfhealth.org</a> · <a href="https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/peritoneal-cancer.html">cedars-sinai.org</a>
+
+code
+ title Peritoneal Cancer
+ type cancerType
+ mainType Peritoneal Cancer, NOS
+ tissue Peritoneum
+ 
+ oncoTreeId PERITONEUM
+ parentOncoTreeId TISSUE
+ umls C0031153
+ nciCode C12770
+ oncoTreeLevel 1
+ subTypes 2
+ 
+ reference https://www.ucsfhealth.org/conditions/peritoneal-cancer
+ reference https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/peritoneal-cancer.html
+ 
+
+import ../footer.scroll

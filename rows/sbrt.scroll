@@ -1,0 +1,25 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/sbrt.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sauna.html schwannoma.html
+<a class="trueBaseThemePreviousItem" href="sauna.html">&lt;</a><a class="trueBaseThemeNextItem" href="schwannoma.html">&gt;</a>
+
+title Stereotactic Body Radiation Therapy
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sbrt" class="material-symbols-outlined">edit</a></div>
+
+Stereotactic body radiation therapy, or SBRT, is a cancer treatment that delivers extremely precise, very intense doses of radiation to cancer cells while minimizing damage to healthy tissue. SBRT involves the use of sophisticated image guidance that pinpoints the exact three-dimensional location of a tumor so that the radiation can be more precisely delivered to cancer cells.
+
+- Read more about Stereotactic Body Radiation Therapy on <a href="https://www.mskcc.org/cancer-care/diagnosis-treatment/cancer-treatments/radiation-therapy/what-sbrt">mskcc.org</a>
+
+code
+ title Stereotactic Body Radiation Therapy
+ type radiationTherapy
+ description Stereotactic body radiation therapy, or SBRT, is a cancer treatment that delivers extremely precise, very intense doses of radiation to cancer cells while minimizing damage to healthy tissue. SBRT involves the use of sophisticated image guidance that pinpoints the exact three-dimensional location of a tumor so that the radiation can be more precisely delivered to cancer cells.
+ 
+ reference https://www.mskcc.org/cancer-care/diagnosis-treatment/cancer-treatments/radiation-therapy/what-sbrt
+ 
+
+import ../footer.scroll

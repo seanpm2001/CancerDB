@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/wacanreg.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav vulva-vagina.html wake-forest-baptist-comprehensive-cancer-center.html
+<a class="trueBaseThemePreviousItem" href="vulva-vagina.html">&lt;</a><a class="trueBaseThemeNextItem" href="wake-forest-baptist-comprehensive-cancer-center.html">&gt;</a>
+
+title WACANREG
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.health.wa.gov.au/Articles/U_Z/Western-Australian-Cancer-Registry" class="material-symbols-outlined">home</a> <a href="/edit.html?id=wacanreg" class="material-symbols-outlined">edit</a></div>
+
+The Western Australian Cancer Registry collects information about cancer diagnoses across the State. This information is required to be collected by law from pathology reports and radiation oncology treatment records.A separate register records asbestos exposure and other history for all cases of malignant mesothelioma.
+
+code
+ title WACANREG
+ type registry
+ appeared 1982
+ standsFor Western Australian Cancer Registry 
+ description The Western Australian Cancer Registry collects information about cancer diagnoses across the State. This information is required to be collected by law from pathology reports and radiation oncology treatment records.A separate register records asbestos exposure and other history for all cases of malignant mesothelioma.
+ 
+ website https://www.health.wa.gov.au/Articles/U_Z/Western-Australian-Cancer-Registry
+ 
+ country Australia
+ 
+
+import ../footer.scroll

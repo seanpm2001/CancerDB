@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/smooth-muscle-neoplasm-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav smoldering-systemic-mastocytosis.html sncr-sy.html
+<a class="trueBaseThemePreviousItem" href="smoldering-systemic-mastocytosis.html">&lt;</a><a class="trueBaseThemeNextItem" href="sncr-sy.html">&gt;</a>
+
+title Smooth Muscle Neoplasm, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=smooth-muscle-neoplasm-nos" class="material-symbols-outlined">edit</a></div>
+
+* Smooth Muscle Neoplasm, NOS is a type of <a href="/rows/esophagus-stomach.html">Esophagus/Stomach Cancer</a>
+
+code
+ title Smooth Muscle Neoplasm, NOS
+ type cancerType
+ mainType Esophagogastric Cancer
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId SMN
+ parentOncoTreeId STOMACH
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

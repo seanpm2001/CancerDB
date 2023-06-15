@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/myeloid-proliferations-related-to-down-syndrome.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myeloid-neoplasms-with-germ-line-predisposition.html myeloid-sarcoma.html
+<a class="trueBaseThemePreviousItem" href="myeloid-neoplasms-with-germ-line-predisposition.html">&lt;</a><a class="trueBaseThemeNextItem" href="myeloid-sarcoma.html">&gt;</a>
+
+title Myeloid Proliferations Related to Down Syndrome
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myeloid-proliferations-related-to-down-syndrome" class="material-symbols-outlined">edit</a></div>
+
+* Myeloid Proliferations Related to Down Syndrome is a type of <a href="/rows/acute-myeloid-leukemia.html">Acute Myeloid Leukemia</a>
+* Subtypes of Myeloid Proliferations Related to Down Syndrome include <a href="/rows/myeloid-leukemia-associated-with-down-syndrome.html">Myeloid Leukemia Associated with Down Syndrome</a>, <a href="/rows/transient-abnormal-myelopoiesis.html">Transient Abnormal Myelopoiesis</a>
+
+code
+ title Myeloid Proliferations Related to Down Syndrome
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId MPRDS
+ parentOncoTreeId AML
+ oncoTreeLevel 4
+ subTypes 2
+ 
+
+import ../footer.scroll

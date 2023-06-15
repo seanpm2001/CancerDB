@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/europa-donna-armenia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav etoposide.html ewing-sarcoma-of-soft-tissue.html
+<a class="trueBaseThemePreviousItem" href="etoposide.html">&lt;</a><a class="trueBaseThemeNextItem" href="ewing-sarcoma-of-soft-tissue.html">&gt;</a>
+
+title Europa Donna Armenia
+
+<div class="trueBaseThemeQuickLinks"><a href="https://twitter.com/europadonnaarm"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a> <a href="https://www.facebook.com/www.europadonna.am"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Logo Facebook</title><path d="M480 257.35c0-123.7-100.3-224-224-224s-224 100.3-224 224c0 111.8 81.9 204.47 189 221.29V322.12h-56.89v-64.77H221V208c0-56.13 33.45-87.16 84.61-87.16 24.51 0 50.15 4.38 50.15 4.38v55.13H327.5c-27.81 0-36.51 17.26-36.51 35v42h62.12l-9.92 64.77H291v156.54c107.1-16.81 189-109.48 189-221.31z" fill-rule="evenodd"/></svg></a> <a href="/edit.html?id=europa-donna-armenia" class="material-symbols-outlined">edit</a></div>
+
+Armenian representation of the European Breast Cancer Coalition.
+
+- Read more about Europa Donna Armenia on <a href="https://www.uicc.org/sites/main/files/atoms/files/Declaration-Report-2016_Armenia.pdf">uicc.org</a>
+
+code
+ title Europa Donna Armenia
+ type cancerNonProfit
+ appeared 2015
+ description Armenian representation of the European Breast Cancer Coalition.
+ 
+ reference https://www.uicc.org/sites/main/files/atoms/files/Declaration-Report-2016_Armenia.pdf
+ twitter https://twitter.com/europadonnaarm
+ facebook https://www.facebook.com/www.europadonna.am
+ 
+ country Armenia
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/miaderm-cream.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav methotrexate.html microcystic-adnexal-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="methotrexate.html">&lt;</a><a class="trueBaseThemeNextItem" href="microcystic-adnexal-carcinoma.html">&gt;</a>
+
+title Miaderm Creme
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.miaderm.com/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=miaderm-cream" class="material-symbols-outlined">edit</a></div>
+
+Developed by oncologists specifically for radiation dermatitis.
+
+code
+ title Miaderm Creme
+ type lotion
+ company Aiden Industries, LLC
+ description Developed by oncologists specifically for radiation dermatitis.
+ 
+ website https://www.miaderm.com/
+ 
+ phoneNumber 1-877-642-7727
+ 
+ domainName miaderm.com
+  registered 2007
+ 
+
+import ../footer.scroll

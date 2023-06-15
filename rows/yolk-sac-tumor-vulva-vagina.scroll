@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/yolk-sac-tumor-vulva-vagina.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav yolk-sac-tumor-testis.html yolk-sac-tumor.html
+<a class="trueBaseThemePreviousItem" href="yolk-sac-tumor-testis.html">&lt;</a><a class="trueBaseThemeNextItem" href="yolk-sac-tumor.html">&gt;</a>
+
+title Yolk Sac Tumor Vulva/Vagina
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=yolk-sac-tumor-vulva-vagina" class="material-symbols-outlined">edit</a></div>
+
+* Yolk Sac Tumor Vulva/Vagina is a type of <a href="/rows/germ-cell-tumor-of-the-vulva.html">Germ Cell Tumor of the Vulva</a>
+
+code
+ title Yolk Sac Tumor Vulva/Vagina
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Vulva/Vagina
+ 
+ oncoTreeId VYST
+ parentOncoTreeId VGCT
+ umls C1336945
+ nciCode C6379
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

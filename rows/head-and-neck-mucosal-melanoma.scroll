@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/head-and-neck-mucosal-melanoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav head-and-neck-carcinoma-other.html head-and-neck-neuroendocrine-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="head-and-neck-carcinoma-other.html">&lt;</a><a class="trueBaseThemeNextItem" href="head-and-neck-neuroendocrine-carcinoma.html">&gt;</a>
+
+title Head and Neck Mucosal Melanoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=head-and-neck-mucosal-melanoma" class="material-symbols-outlined">edit</a></div>
+
+* Head and Neck Mucosal Melanoma is a type of <a href="/rows/head-and-neck.html">Head and Neck Cancer</a>
+
+code
+ title Head and Neck Mucosal Melanoma
+ type cancerType
+ mainType Melanoma
+ tissue Head and Neck
+ 
+ oncoTreeId HNMUCM
+ parentOncoTreeId HEAD_NECK
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

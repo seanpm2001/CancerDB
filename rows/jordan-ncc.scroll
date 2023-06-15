@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/jordan-ncc.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav jonsson-comprehensive-cancer-center.html journal-of-clinical-oncology.html
+<a class="trueBaseThemePreviousItem" href="jonsson-comprehensive-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="journal-of-clinical-oncology.html">&gt;</a>
+
+title King Hussein Cancer Center
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.khcc.jo/en" class="material-symbols-outlined">home</a> <a href="/edit.html?id=jordan-ncc" class="material-symbols-outlined">edit</a></div>
+
+code
+ title King Hussein Cancer Center
+ type nationalCancerInstitute
+ 
+ website https://www.khcc.jo/en
+ 
+ country Jordan
+ 
+
+import ../footer.scroll

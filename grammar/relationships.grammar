@@ -1,0 +1,8 @@
+abstractRelationshipParser
+ extends abstractTrueBaseLinksColumnParser
+relatedParser
+ extends abstractRelationshipParser
+ description What entities are related?
+parentOrganizationParser
+ extends abstractRelationshipParser
+ description What is the parent entity(ies)?

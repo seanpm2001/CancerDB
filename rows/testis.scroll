@@ -1,0 +1,64 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/testis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav testicular-mesothelioma.html teva.html
+<a class="trueBaseThemePreviousItem" href="testicular-mesothelioma.html">&lt;</a><a class="trueBaseThemeNextItem" href="teva.html">&gt;</a>
+
+title Testicular Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=testis" class="material-symbols-outlined">edit</a></div>
+
+dashboard
+ 421 U.S. deaths per year
+ 8,729 U.S. cases per year
+ 5% U.S. mortality rate
+
+* Testicular Cancer on <a href="https://www.cancer.org/cancer/testicular-cancer.html">Cancer.org</a>
+
+* Subtypes of Testicular Cancer include <a href="/rows/non-seminomatous-germ-cell-tumor.html">Non-Seminomatous Germ Cell Tumor</a>, <a href="/rows/seminoma.html">Seminoma</a>, <a href="/rows/sex-cord-stromal-tumor-testis.html">Sex Cord Stromal Tumor Testis</a>, <a href="/rows/testicular-lymphoma.html">Testicular Lymphoma</a>, <a href="/rows/testicular-mesothelioma.html">Testicular Mesothelioma</a>
+
+code
+ title Testicular Cancer
+ type cancerType
+ mainType Testicular Cancer, NOS
+ tissue Testis
+ uscsDeathsPerYear 421
+ uscsCasesPerYear 8729
+ uscsMortalityRate 5%
+ 
+ oncoTreeId TESTIS
+ parentOncoTreeId TISSUE
+ umls C0039597
+ nciCode C12412
+ oncoTreeLevel 1
+ subTypes 11
+ 
+ cancerDotOrg https://www.cancer.org/cancer/testicular-cancer.html
+ gco https://gco.iarc.fr/today/data/factsheets/cancers/28-Testis-fact-sheet.pdf
+ 
+ uscsTable 2019
+  sex|age|population|cases|deaths
+  M|0|1921001|~|~
+  M|1-4|8080265|22|~
+  M|5-9|10335306|~|~
+  M|10-14|10629162|26|~
+  M|15-19|10752848|345|~
+  M|20-24|11066850|1061|38
+  M|25-29|12020738|1593|73
+  M|30-34|11370500|1601|59
+  M|35-39|10892543|1314|44
+  M|40-44|9906220|906|50
+  M|45-49|10082635|592|32
+  M|50-54|10082296|401|35
+  M|55-59|10639047|357|34
+  M|60-64|9851308|206|16
+  M|65-69|8191801|148|22
+  M|70-74|6499159|72|18
+  M|75-79|4317707|38|~
+  M|80-84|2678743|26|~
+  M|85+|2374207|21|~
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/anorectal-mucosal-melanoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav annals-of-oncology.html anticancer.html
+<a class="trueBaseThemePreviousItem" href="annals-of-oncology.html">&lt;</a><a class="trueBaseThemeNextItem" href="anticancer.html">&gt;</a>
+
+title Anorectal Mucosal Melanoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=anorectal-mucosal-melanoma" class="material-symbols-outlined">edit</a></div>
+
+* Anorectal Mucosal Melanoma is a type of <a href="/rows/colon.html">Colon Cancer</a>
+
+code
+ title Anorectal Mucosal Melanoma
+ type cancerType
+ mainType Melanoma
+ tissue Bowel
+ 
+ oncoTreeId ARMM
+ parentOncoTreeId BOWEL
+ umls C0349538
+ nciCode C4639
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

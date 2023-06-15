@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/extraosseous-plasmacytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav extranodal-nk--t-cell-lymphoma-nasal-type.html extraskeletal-myxoid-chondrosarcoma.html
+<a class="trueBaseThemePreviousItem" href="extranodal-nk--t-cell-lymphoma-nasal-type.html">&lt;</a><a class="trueBaseThemeNextItem" href="extraskeletal-myxoid-chondrosarcoma.html">&gt;</a>
+
+title Extraosseous Plasmacytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=extraosseous-plasmacytoma" class="material-symbols-outlined">edit</a></div>
+
+* Extraosseous Plasmacytoma is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Extraosseous Plasmacytoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId EP
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

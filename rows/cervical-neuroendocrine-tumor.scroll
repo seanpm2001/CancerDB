@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/cervical-neuroendocrine-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-leiomyosarcoma.html cervical-rhabdomyosarcoma.html
+<a class="trueBaseThemePreviousItem" href="cervical-leiomyosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-rhabdomyosarcoma.html">&gt;</a>
+
+title Cervical Neuroendocrine Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-neuroendocrine-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Neuroendocrine Tumor is a type of <a href="/rows/cervix.html">Cervical Cancer</a>
+
+code
+ title Cervical Neuroendocrine Tumor
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CENE
+ parentOncoTreeId CERVIX
+ umls C1516417
+ nciCode C40214
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

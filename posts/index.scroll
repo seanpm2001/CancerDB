@@ -1,0 +1,4 @@
+import header.scroll
+title The CancerDB Blog
+snippets index
+import ../footer.scroll

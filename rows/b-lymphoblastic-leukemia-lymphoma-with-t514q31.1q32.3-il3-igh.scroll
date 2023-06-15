@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1.html b-lymphoblastic-leukemia-lymphoma-with-t922q34.1q11.2bcr-abl1.html
+<a class="trueBaseThemePreviousItem" href="b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1.html">&lt;</a><a class="trueBaseThemeNextItem" href="b-lymphoblastic-leukemia-lymphoma-with-t922q34.1q11.2bcr-abl1.html">&gt;</a>
+
+title B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh" class="material-symbols-outlined">edit</a></div>
+
+* B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH is a type of <a href="/rows/b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities.html">B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities</a>
+
+code
+ title B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH
+ type cancerType
+ mainType B-Lymphoblastic Leukemia/Lymphoma
+ tissue Lymphoid
+ 
+ oncoTreeId BLLIL3IGH
+ parentOncoTreeId BLLRGA
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,5 @@
+import ../settings.scroll
+description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
+replace BASE_URL ..
+permalink feed.xml
+printFeed index

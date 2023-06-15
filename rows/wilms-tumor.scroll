@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/wilms-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav who.html wim-hof-method.html
+<a class="trueBaseThemePreviousItem" href="who.html">&lt;</a><a class="trueBaseThemeNextItem" href="wim-hof-method.html">&gt;</a>
+
+title Wilms' Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=wilms-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Wilms' Tumor is a type of <a href="/rows/kidney.html">Kidney Cancer</a>
+
+code
+ title Wilms' Tumor
+ type cancerType
+ mainType Wilms Tumor
+ tissue Kidney
+ 
+ oncoTreeId WT
+ parentOncoTreeId KIDNEY
+ umls CL343552
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

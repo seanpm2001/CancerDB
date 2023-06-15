@@ -1,0 +1,24 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/your-disease-risk.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav yolk-sac-tumor.html zmncr-zm.html
+<a class="trueBaseThemePreviousItem" href="yolk-sac-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="zmncr-zm.html">&gt;</a>
+
+title Your Disease Risk
+
+<div class="trueBaseThemeQuickLinks"><a href="https://siteman.wustl.edu/prevention/ydr/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=your-disease-risk" class="material-symbols-outlined">edit</a></div>
+
+Cancer risk calculator
+
+code
+ title Your Disease Risk
+ type website
+ description Cancer risk calculator
+ related mycanceriq
+ 
+ website https://siteman.wustl.edu/prevention/ydr/
+ 
+
+import ../footer.scroll

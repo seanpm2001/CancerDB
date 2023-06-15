@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/nccp-al.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav nccp-af.html nccr.html
+<a class="trueBaseThemePreviousItem" href="nccp-af.html">&lt;</a><a class="trueBaseThemeNextItem" href="nccr.html">&gt;</a>
+
+title NCCP-AL
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=nccp-al" class="material-symbols-outlined">edit</a></div>
+
+The cancer registry is based on hospital records of the “Mother Teresa” University Hospital Center in Tirana (TUHC). The computerization of data has started in 2008. The data collected from 36 districts are then sent to TUHC. The cancer and risk factors surveillance is based on the institutional collaboration between TUHC and the Institute of Public Health. The incidence estimates for this country have a high degree of uncertainty because they are not based on population based cancer registry.
+
+- Read more about NCCP-AL on <a href="https://www.iccp-portal.org/system/files/plans/ALB_2020.pdf">iccp-portal.org</a> · <a href="https://extranet.who.int/ncdccs/Data/ALB_B5_NCCP%20Albania%20English.pdf">extranet.who.int</a>
+
+code
+ title NCCP-AL
+ type registry
+ appeared 2011
+ standsFor The National Cancer Control Program Albania
+ description The cancer registry is based on hospital records of the “Mother Teresa” University Hospital Center in Tirana (TUHC). The computerization of data has started in 2008. The data collected from 36 districts are then sent to TUHC. The cancer and risk factors surveillance is based on the institutional collaboration between TUHC and the Institute of Public Health. The incidence estimates for this country have a high degree of uncertainty because they are not based on population based cancer registry.
+ 
+ reference https://www.iccp-portal.org/system/files/plans/ALB_2020.pdf
+ reference https://extranet.who.int/ncdccs/Data/ALB_B5_NCCP%20Albania%20English.pdf
+ 
+ country Albania
+ 
+
+import ../footer.scroll

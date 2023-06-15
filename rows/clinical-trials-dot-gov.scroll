@@ -1,0 +1,26 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/clinical-trials-dot-gov.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav clinical-cancer-research.html cms.html
+<a class="trueBaseThemePreviousItem" href="clinical-cancer-research.html">&lt;</a><a class="trueBaseThemeNextItem" href="cms.html">&gt;</a>
+
+title ClinicalTrials.gov
+
+<div class="trueBaseThemeQuickLinks"><a href="https://clinicaltrials.gov/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=clinical-trials-dot-gov" class="material-symbols-outlined">edit</a></div>
+
+ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.
+
+code
+ title ClinicalTrials.gov
+ type onlineDatabase
+ parentOrganization nlm
+ description ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.
+ 
+ website https://clinicaltrials.gov/
+ 
+ domainName clinicaltrials.gov
+ 
+
+import ../footer.scroll

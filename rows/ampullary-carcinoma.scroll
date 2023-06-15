@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/ampullary-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ampulla-of-vater.html amyloidosis.html
+<a class="trueBaseThemePreviousItem" href="ampulla-of-vater.html">&lt;</a><a class="trueBaseThemeNextItem" href="amyloidosis.html">&gt;</a>
+
+title Ampullary Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ampullary-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Ampullary Carcinoma is a type of <a href="/rows/ampulla-of-vater.html">Ampulla of Vater</a>
+* Subtypes of Ampullary Carcinoma include <a href="/rows/intestinal-ampullary-carcinoma.html">Intestinal Ampullary Carcinoma</a>, <a href="/rows/mixed-ampullary-carcinoma.html">Mixed Ampullary Carcinoma</a>, <a href="/rows/pancreatobiliary-ampullary-carcinoma.html">Pancreatobiliary Ampullary Carcinoma</a>
+
+code
+ title Ampullary Carcinoma
+ type cancerType
+ mainType Ampullary Cancer
+ tissue Ampulla of Vater
+ 
+ oncoTreeId AMPCA
+ parentOncoTreeId AMPULLA_OF_VATER
+ umls C0262401
+ nciCode C3908
+ oncoTreeLevel 2
+ subTypes 3
+ 
+
+import ../footer.scroll

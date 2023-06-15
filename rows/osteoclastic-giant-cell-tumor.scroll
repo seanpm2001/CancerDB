@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/osteoclastic-giant-cell-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav osteoblastic-osteosarcoma.html osteosarcoma.html
+<a class="trueBaseThemePreviousItem" href="osteoblastic-osteosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="osteosarcoma.html">&gt;</a>
+
+title Osteoclastic Giant Cell Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=osteoclastic-giant-cell-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Osteoclastic Giant Cell Tumor is a type of <a href="/rows/undifferentiated-carcinoma-of-the-pancreas.html">Undifferentiated Carcinoma of the Pancreas</a>
+
+code
+ title Osteoclastic Giant Cell Tumor
+ type cancerType
+ mainType Pancreatic Cancer
+ tissue Pancreas
+ 
+ oncoTreeId OSGCT
+ parentOncoTreeId UCP
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

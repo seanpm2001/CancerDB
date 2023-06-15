@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/small-cell-carcinoma-of-unknown-primary.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav small-cell-carcinoma-of-the-stomach.html small-cell-gallbladder-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="small-cell-carcinoma-of-the-stomach.html">&lt;</a><a class="trueBaseThemeNextItem" href="small-cell-gallbladder-carcinoma.html">&gt;</a>
+
+title Small Cell Carcinoma of Unknown Primary
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=small-cell-carcinoma-of-unknown-primary" class="material-symbols-outlined">edit</a></div>
+
+* Small Cell Carcinoma of Unknown Primary is a type of <a href="/rows/cancer-of-unknown-primary.html">Cancer of Unknown Primary</a>
+
+code
+ title Small Cell Carcinoma of Unknown Primary
+ type cancerType
+ mainType Cancer of Unknown Primary
+ tissue Other
+ 
+ oncoTreeId SCUP
+ parentOncoTreeId CUP
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

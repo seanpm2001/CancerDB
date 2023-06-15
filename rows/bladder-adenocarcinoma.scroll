@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/bladder-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav biontech.html bladder-cancer-subreddit.html
+<a class="trueBaseThemePreviousItem" href="biontech.html">&lt;</a><a class="trueBaseThemeNextItem" href="bladder-cancer-subreddit.html">&gt;</a>
+
+title Bladder Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=bladder-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Bladder Adenocarcinoma is a type of <a href="/rows/bladder-cancer.html">Bladder Cancer</a>
+
+code
+ title Bladder Adenocarcinoma
+ type cancerType
+ mainType Bladder Cancer
+ tissue Bladder/Urinary Tract
+ 
+ oncoTreeId BLAD
+ parentOncoTreeId BLADDER
+ umls C0279682
+ nciCode C4032
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

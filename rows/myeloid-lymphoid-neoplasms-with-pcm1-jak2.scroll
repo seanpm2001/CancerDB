@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/myeloid-lymphoid-neoplasms-with-pcm1-jak2.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement.html myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement.html
+<a class="trueBaseThemePreviousItem" href="myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement.html">&lt;</a><a class="trueBaseThemeNextItem" href="myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement.html">&gt;</a>
+
+title Myeloid/Lymphoid Neoplasms with PCM1-JAK2
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myeloid-lymphoid-neoplasms-with-pcm1-jak2" class="material-symbols-outlined">edit</a></div>
+
+* Myeloid/Lymphoid Neoplasms with PCM1-JAK2 is a type of <a href="/rows/myeloid-lymphoid-neoplasms-with-eosinophilia-and-rearrangement-of-pdgfra-pdgfrb-or-fgfr1-or-with-pcm1-jak2.html">Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2</a>
+
+code
+ title Myeloid/Lymphoid Neoplasms with PCM1-JAK2
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId MLNPCM1JAK2
+ parentOncoTreeId MLNER
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/renal-medullary-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav renal-clear-cell-carcinoma.html renal-mucinous-tubular-spindle-cell-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="renal-clear-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="renal-mucinous-tubular-spindle-cell-carcinoma.html">&gt;</a>
+
+title Renal Medullary Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=renal-medullary-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Renal Medullary Carcinoma is a type of <a href="/rows/renal-non-clear-cell-carcinoma.html">Renal Non-Clear Cell Carcinoma</a>
+
+code
+ title Renal Medullary Carcinoma
+ type cancerType
+ mainType Renal Cell Carcinoma
+ tissue Kidney
+ 
+ oncoTreeId MRC
+ parentOncoTreeId NCCRCC
+ umls CL448379
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

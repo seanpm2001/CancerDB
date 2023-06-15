@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/vcr-au.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav vats.html veganism.html
+<a class="trueBaseThemePreviousItem" href="vats.html">&lt;</a><a class="trueBaseThemeNextItem" href="veganism.html">&gt;</a>
+
+title VCR
+
+<div class="trueBaseThemeQuickLinks"><a href="https://registry.cancervic.org.au" class="material-symbols-outlined">home</a> <a href="/edit.html?id=vcr-au" class="material-symbols-outlined">edit</a></div>
+
+The Anti-Cancer Council of Victoria became an incorporated body by Act of Parliament. Our first meetings were chaired by the Lord Mayor at the Melbourne Town Hall. With the economy still recovering from the Great Depression, our first public appeal raised $66,000 - equivalent to several million in today's money! Ivy Brookes begins her term serving as our Vice President until her retirement in 1966.More recently, Quit Victoria celebrates its 30th anniversary. Today, 800,000+ Victorians don't smoke, which means more than half a million Victorians have or will be saved from premature death. From 1 January, solariums are banned in Victoria following campaigning from Cancer Council over many years.
+
+code
+ title VCR
+ type registry
+ appeared 1936
+ standsFor Victorian Cancer Registry
+ description The Anti-Cancer Council of Victoria became an incorporated body by Act of Parliament. Our first meetings were chaired by the Lord Mayor at the Melbourne Town Hall. With the economy still recovering from the Great Depression, our first public appeal raised $66,000 - equivalent to several million in today's money! Ivy Brookes begins her term serving as our Vice President until her retirement in 1966.More recently, Quit Victoria celebrates its 30th anniversary. Today, 800,000+ Victorians don't smoke, which means more than half a million Victorians have or will be saved from premature death. From 1 January, solariums are banned in Victoria following campaigning from Cancer Council over many years.
+ 
+ website https://registry.cancervic.org.au
+ 
+ country Australia
+ 
+
+import ../footer.scroll

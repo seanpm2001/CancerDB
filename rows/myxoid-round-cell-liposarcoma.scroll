@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/myxoid-round-cell-liposarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myxoid-chondrosarcoma.html myxoma.html
+<a class="trueBaseThemePreviousItem" href="myxoid-chondrosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="myxoma.html">&gt;</a>
+
+title Myxoid/Round-Cell Liposarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myxoid-round-cell-liposarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Myxoid/Round-Cell Liposarcoma is a type of <a href="/rows/liposarcoma.html">Liposarcoma</a>
+
+code
+ title Myxoid/Round-Cell Liposarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId MRLS
+ parentOncoTreeId LIPO
+ umls C0206634
+ nciCode C27781
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

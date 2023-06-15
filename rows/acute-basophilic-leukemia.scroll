@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/acute-basophilic-leukemia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acupuncture.html acute-leukemias-of-ambiguous-lineage.html
+<a class="trueBaseThemePreviousItem" href="acupuncture.html">&lt;</a><a class="trueBaseThemeNextItem" href="acute-leukemias-of-ambiguous-lineage.html">&gt;</a>
+
+title Acute Basophilic Leukemia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acute-basophilic-leukemia" class="material-symbols-outlined">edit</a></div>
+
+* Acute Basophilic Leukemia is a type of <a href="/rows/aml-nos.html">AML, NOS</a>
+
+code
+ title Acute Basophilic Leukemia
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId ABL
+ parentOncoTreeId AMLNOS
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

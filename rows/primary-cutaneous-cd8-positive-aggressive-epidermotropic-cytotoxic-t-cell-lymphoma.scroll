@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder.html primary-cutaneous-dlbcl-leg-type.html
+<a class="trueBaseThemePreviousItem" href="primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder.html">&lt;</a><a class="trueBaseThemeNextItem" href="primary-cutaneous-dlbcl-leg-type.html">&gt;</a>
+
+title Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma is a type of <a href="/rows/mature-t-and-nk-neoplasms.html">Mature T and NK Neoplasms</a>
+
+code
+ title Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId PCAECTCL
+ parentOncoTreeId MTNN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

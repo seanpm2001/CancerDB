@@ -1,0 +1,26 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/vats.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav vanderbilt-ingram-cancer-center.html vcr-au.html
+<a class="trueBaseThemePreviousItem" href="vanderbilt-ingram-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="vcr-au.html">&gt;</a>
+
+title VATS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=vats" class="material-symbols-outlined">edit</a></div>
+
+Video-assisted thoracoscopic surgery (VATS) is a minimally invasive surgical technique used to diagnose and treat problems in the chest.
+
+- Read more about VATS on <a href="https://www.mayoclinic.org/tests-procedures/video-assisted-thoracic-surgery/about/pac-20384922">mayoclinic.org</a>
+
+code
+ title VATS
+ type surgery
+ standsFor Video-assisted thoracoscopic surgery
+ description Video-assisted thoracoscopic surgery (VATS) is a minimally invasive surgical technique used to diagnose and treat problems in the chest.
+ 
+ reference https://www.mayoclinic.org/tests-procedures/video-assisted-thoracic-surgery/about/pac-20384922
+ 
+
+import ../footer.scroll

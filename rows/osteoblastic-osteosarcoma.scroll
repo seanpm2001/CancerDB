@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/osteoblastic-osteosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ossifying-fibromyxoid-tumor.html osteoclastic-giant-cell-tumor.html
+<a class="trueBaseThemePreviousItem" href="ossifying-fibromyxoid-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="osteoclastic-giant-cell-tumor.html">&gt;</a>
+
+title Osteoblastic Osteosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=osteoblastic-osteosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Osteoblastic Osteosarcoma is a type of <a href="/rows/osteosarcoma.html">Osteosarcoma</a>
+
+code
+ title Osteoblastic Osteosarcoma
+ type cancerType
+ mainType Bone Cancer
+ tissue Bone
+ 
+ oncoTreeId OSOS
+ parentOncoTreeId OS
+ umls C1704328
+ nciCode C53953
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

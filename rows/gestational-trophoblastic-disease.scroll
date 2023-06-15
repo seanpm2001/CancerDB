@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/gestational-trophoblastic-disease.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav germinoma.html gfobt.html
+<a class="trueBaseThemePreviousItem" href="germinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="gfobt.html">&gt;</a>
+
+title Gestational Trophoblastic Disease
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=gestational-trophoblastic-disease" class="material-symbols-outlined">edit</a></div>
+
+* Gestational Trophoblastic Disease is a type of <a href="/rows/uterus.html">Uterine Cancer</a>
+* Subtypes of Gestational Trophoblastic Disease include <a href="/rows/choriocarcinoma-uterus.html">Choriocarcinoma Uterus</a>, <a href="/rows/epithelioid-trophoblastic-tumor.html">Epithelioid Trophoblastic Tumor</a>, <a href="/rows/molar-pregnancy.html">Molar Pregnancy</a>, <a href="/rows/placental-site-trophoblastic-tumor.html">Placental Site Trophoblastic Tumor</a>
+
+code
+ title Gestational Trophoblastic Disease
+ type cancerType
+ mainType Gestational Trophoblastic Disease
+ tissue Uterus
+ 
+ oncoTreeId GTD
+ parentOncoTreeId UTERUS
+ umls C1135868
+ nciCode C4699
+ oncoTreeLevel 2
+ subTypes 7
+ 
+
+import ../footer.scroll

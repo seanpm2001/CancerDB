@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/acinar-cell-carcinoma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acd-au.html acinar-cell-carcinoma-of-the-pancreas.html
+<a class="trueBaseThemePreviousItem" href="acd-au.html">&lt;</a><a class="trueBaseThemeNextItem" href="acinar-cell-carcinoma-of-the-pancreas.html">&gt;</a>
+
+title Acinar Cell Carcinoma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acinar-cell-carcinoma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Acinar Cell Carcinoma, NOS is a type of <a href="/rows/cancer-of-unknown-primary.html">Cancer of Unknown Primary</a>
+
+code
+ title Acinar Cell Carcinoma, NOS
+ type cancerType
+ mainType Cancer of Unknown Primary
+ tissue Other
+ 
+ oncoTreeId ACN
+ parentOncoTreeId CUP
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

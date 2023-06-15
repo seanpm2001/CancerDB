@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/lymphomatoid-granulomatosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lymphoma.html lymphomatoid-papulosis.html
+<a class="trueBaseThemePreviousItem" href="lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="lymphomatoid-papulosis.html">&gt;</a>
+
+title Lymphomatoid Granulomatosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lymphomatoid-granulomatosis" class="material-symbols-outlined">edit</a></div>
+
+* Lymphomatoid Granulomatosis is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Lymphomatoid Granulomatosis
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId LYG
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

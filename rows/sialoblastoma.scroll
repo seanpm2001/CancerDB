@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/sialoblastoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sezary-syndrome.html sidney-kimmel-cancer-center-at-thomas-jefferson-university.html
+<a class="trueBaseThemePreviousItem" href="sezary-syndrome.html">&lt;</a><a class="trueBaseThemeNextItem" href="sidney-kimmel-cancer-center-at-thomas-jefferson-university.html">&gt;</a>
+
+title Sialoblastoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sialoblastoma" class="material-symbols-outlined">edit</a></div>
+
+* Sialoblastoma is a type of <a href="/rows/head-and-neck.html">Head and Neck Cancer</a>
+
+code
+ title Sialoblastoma
+ type cancerType
+ mainType Sialoblastoma
+ tissue Head and Neck
+ 
+ oncoTreeId SBL
+ parentOncoTreeId HEAD_NECK
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

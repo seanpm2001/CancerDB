@@ -1,0 +1,26 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/lymphedema-sleeve.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lung.html lymphocyte-depleted-classical-hodgkin-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="lung.html">&lt;</a><a class="trueBaseThemeNextItem" href="lymphocyte-depleted-classical-hodgkin-lymphoma.html">&gt;</a>
+
+title Lymphedema Sleeve
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lymphedema-sleeve" class="material-symbols-outlined">edit</a></div>
+
+May help control Lymphedema. Lymphedema is the term used to describe the swelling that occurs when lymph fluid builds up in the tissues of your body.
+
+- Read more about Lymphedema Sleeve on <a href="https://www.verywellhealth.com/what-is-a-compression-sleeve-430209">verywellhealth.com</a>
+
+code
+ title Lymphedema Sleeve
+ type clothing
+ description May help control Lymphedema. Lymphedema is the term used to describe the swelling that occurs when lymph fluid builds up in the tissues of your body.
+ aka compression sleeve
+ 
+ reference https://www.verywellhealth.com/what-is-a-compression-sleeve-430209
+ 
+
+import ../footer.scroll

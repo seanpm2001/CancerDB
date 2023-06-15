@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/mature-teratoma-cns-brain.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mature-t-and-nk-neoplasms.html mature-teratoma-vulva-vagina.html
+<a class="trueBaseThemePreviousItem" href="mature-t-and-nk-neoplasms.html">&lt;</a><a class="trueBaseThemeNextItem" href="mature-teratoma-vulva-vagina.html">&gt;</a>
+
+title Mature Teratoma CNS/Brain
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mature-teratoma-cns-brain" class="material-symbols-outlined">edit</a></div>
+
+* Mature Teratoma CNS/Brain is a type of <a href="/rows/germ-cell-tumor-brain.html">Germ Cell Tumor, Brain</a>
+
+code
+ title Mature Teratoma CNS/Brain
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId BMT
+ parentOncoTreeId BGCT
+ umls C1332886
+ nciCode C7013
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

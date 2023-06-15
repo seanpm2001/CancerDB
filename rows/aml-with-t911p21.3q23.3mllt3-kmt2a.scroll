@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/aml-with-t911p21.3q23.3mllt3-kmt2a.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav aml-with-t821q22q22.1runx1-runx1t1.html aml-without-maturation.html
+<a class="trueBaseThemePreviousItem" href="aml-with-t821q22q22.1runx1-runx1t1.html">&lt;</a><a class="trueBaseThemeNextItem" href="aml-without-maturation.html">&gt;</a>
+
+title AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=aml-with-t911p21.3q23.3mllt3-kmt2a" class="material-symbols-outlined">edit</a></div>
+
+* AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A is a type of <a href="/rows/aml-with-recurrent-genetic-abnormalities.html">AML with Recurrent Genetic Abnormalities</a>
+
+code
+ title AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId AMLMLLT3KMT2A
+ parentOncoTreeId AMLRGA
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

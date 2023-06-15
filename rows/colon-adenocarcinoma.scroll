@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/colon-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav colon-adenocarcinoma-in-situ.html colon-cancer-subreddit.html
+<a class="trueBaseThemePreviousItem" href="colon-adenocarcinoma-in-situ.html">&lt;</a><a class="trueBaseThemeNextItem" href="colon-cancer-subreddit.html">&gt;</a>
+
+title Colon Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=colon-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Colon Adenocarcinoma is a type of <a href="/rows/colorectal-adenocarcinoma.html">Colorectal Adenocarcinoma</a>
+
+code
+ title Colon Adenocarcinoma
+ type cancerType
+ mainType Colorectal Cancer
+ tissue Bowel
+ 
+ oncoTreeId COAD
+ parentOncoTreeId COADREAD
+ umls C0338106
+ nciCode C4349
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

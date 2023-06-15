@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/breast-book.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast-angiosarcoma.html breast-cancer-awareness-month.html
+<a class="trueBaseThemePreviousItem" href="breast-angiosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="breast-cancer-awareness-month.html">&gt;</a>
+
+title Dr. Susan Love’s Breast Book
+
+<div class="trueBaseThemeQuickLinks"><a href="https://drsusanloveresearch.org/breast-cancer-explained/dr-susan-loves-breast-book-el-libro-de-la-mama/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=breast-book" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Dr. Susan Love’s Breast Book
+ type book
+ appeared 2010
+ author Susan M. Love
+ 
+ website https://drsusanloveresearch.org/breast-cancer-explained/dr-susan-loves-breast-book-el-libro-de-la-mama/
+ amazon https://www.amazon.com/Susan-Loves-Breast-Merloyd-Lawrence/dp/0738213594
+ 
+
+import ../footer.scroll

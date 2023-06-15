@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/the-cancer-journals.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav the-c-word.html the-death-of-cancer-book.html
+<a class="trueBaseThemePreviousItem" href="the-c-word.html">&lt;</a><a class="trueBaseThemeNextItem" href="the-death-of-cancer-book.html">&gt;</a>
+
+title The Cancer Journals
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=the-cancer-journals" class="material-symbols-outlined">edit</a></div>
+
+code
+ title The Cancer Journals
+ type book
+ appeared 1980
+ author Audre Lorde
+ 
+
+import ../footer.scroll

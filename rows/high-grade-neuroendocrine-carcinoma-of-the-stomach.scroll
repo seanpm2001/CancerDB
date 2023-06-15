@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/high-grade-neuroendocrine-carcinoma-of-the-stomach.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav high-grade-neuroendocrine-carcinoma-of-the-ovary.html high-grade-neuroepithelial-tumor.html
+<a class="trueBaseThemePreviousItem" href="high-grade-neuroendocrine-carcinoma-of-the-ovary.html">&lt;</a><a class="trueBaseThemeNextItem" href="high-grade-neuroepithelial-tumor.html">&gt;</a>
+
+title High-Grade Neuroendocrine Carcinoma of the Stomach
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=high-grade-neuroendocrine-carcinoma-of-the-stomach" class="material-symbols-outlined">edit</a></div>
+
+* High-Grade Neuroendocrine Carcinoma of the Stomach is a type of <a href="/rows/gastrointestinal-neuroendocrine-tumors-of-the-esophagus-stomach.html">Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach</a>
+
+code
+ title High-Grade Neuroendocrine Carcinoma of the Stomach
+ type cancerType
+ mainType Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId HGNES
+ parentOncoTreeId GINETES
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

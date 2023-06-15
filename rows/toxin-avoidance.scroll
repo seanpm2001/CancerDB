@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/toxin-avoidance.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav topotecan.html transarterial-chemoembolization.html
+<a class="trueBaseThemePreviousItem" href="topotecan.html">&lt;</a><a class="trueBaseThemeNextItem" href="transarterial-chemoembolization.html">&gt;</a>
+
+title Toxin Advoidance
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=toxin-avoidance" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Toxin Advoidance
+ type lifestyle
+ 
+
+import ../footer.scroll

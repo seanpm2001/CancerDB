@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/gangliocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav gamma-heavy-chain-disease.html ganglioglioma.html
+<a class="trueBaseThemePreviousItem" href="gamma-heavy-chain-disease.html">&lt;</a><a class="trueBaseThemeNextItem" href="ganglioglioma.html">&gt;</a>
+
+title Gangliocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=gangliocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Gangliocytoma is a type of <a href="/rows/encapsulated-glioma.html">Encapsulated Glioma</a>
+
+code
+ title Gangliocytoma
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId GNC
+ parentOncoTreeId ENCG
+ umls CL378224
+ nciCode C6934
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

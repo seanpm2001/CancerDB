@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/penile-squamous-cell-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pembrolizumab.html penis.html
+<a class="trueBaseThemePreviousItem" href="pembrolizumab.html">&lt;</a><a class="trueBaseThemeNextItem" href="penis.html">&gt;</a>
+
+title Penile Squamous Cell Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=penile-squamous-cell-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Penile Squamous Cell Carcinoma is a type of <a href="/rows/penis.html">Penile Cancer</a>
+* Subtypes of Penile Squamous Cell Carcinoma include <a href="/rows/basaloid-penile-squamous-cell-carcinoma.html">Basaloid Penile Squamous Cell Carcinoma</a>, <a href="/rows/verrucous-penile-squamous-cell-carcinoma.html">Verrucous Penile Squamous Cell Carcinoma</a>, <a href="/rows/warty-penile-squamous-cell-carcinoma.html">Warty Penile Squamous Cell Carcinoma</a>
+
+code
+ title Penile Squamous Cell Carcinoma
+ type cancerType
+ mainType Penile Cancer
+ tissue Penis
+ 
+ oncoTreeId PSCC
+ parentOncoTreeId PENIS
+ umls C0238348
+ nciCode C7729
+ oncoTreeLevel 2
+ subTypes 3
+ 
+
+import ../footer.scroll

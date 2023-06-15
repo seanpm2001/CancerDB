@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/acral-melanoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acinic-cell-carcinoma.html acs-can.html
+<a class="trueBaseThemePreviousItem" href="acinic-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="acs-can.html">&gt;</a>
+
+title Acral Melanoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acral-melanoma" class="material-symbols-outlined">edit</a></div>
+
+* Acral Melanoma is a type of <a href="/rows/melanoma.html">Melanoma</a>
+
+code
+ title Acral Melanoma
+ type cancerType
+ mainType Melanoma
+ tissue Skin
+ 
+ oncoTreeId ACRM
+ parentOncoTreeId MEL
+ umls C0346037
+ nciCode C4022
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

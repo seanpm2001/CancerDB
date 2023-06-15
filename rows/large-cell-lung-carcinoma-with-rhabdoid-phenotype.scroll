@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/large-cell-lung-carcinoma-with-rhabdoid-phenotype.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav large-cell-anaplastic-medulloblastoma.html large-cell-lung-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="large-cell-anaplastic-medulloblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="large-cell-lung-carcinoma.html">&gt;</a>
+
+title Large Cell Lung Carcinoma With Rhabdoid Phenotype
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=large-cell-lung-carcinoma-with-rhabdoid-phenotype" class="material-symbols-outlined">edit</a></div>
+
+* Large Cell Lung Carcinoma With Rhabdoid Phenotype is a type of <a href="/rows/large-cell-lung-carcinoma.html">Large Cell Lung Carcinoma</a>
+
+code
+ title Large Cell Lung Carcinoma With Rhabdoid Phenotype
+ type cancerType
+ mainType Non-Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId RLCLC
+ parentOncoTreeId LCLC
+ umls C1265997
+ nciCode C6876
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

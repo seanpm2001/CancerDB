@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/chaos-and-cancers-theories-concerning-carcinogene.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chao-family-comprehensive-cancer-center.html chlorambucil.html
+<a class="trueBaseThemePreviousItem" href="chao-family-comprehensive-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="chlorambucil.html">&gt;</a>
+
+title Chaos and cancers. Theories concerning carcinogenesis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chaos-and-cancers-theories-concerning-carcinogene" class="material-symbols-outlined">edit</a></div>
+
+- Read more about Chaos and cancers. Theories concerning carcinogenesis on <a href="https://pubmed.ncbi.nlm.nih.gov/33757157/">pubmed.ncbi.nlm.nih.gov</a>
+
+code
+ title Chaos and cancers. Theories concerning carcinogenesis
+ type paper
+ appeared 2021
+ originCommunity Medical University of Lublin, Poland
+ author Wojciech Kwasniewski and Aleksandra Stupak and Jan Kotarski and Anna Gozdzicak-Jozefiak
+ 
+ pdf https://journals.viamedica.pl/ginekologia_polska/article/download/GP.a2021.0003/55497
+ 
+ reference https://pubmed.ncbi.nlm.nih.gov/33757157/
+ 
+ country Poland
+ 
+
+import ../footer.scroll

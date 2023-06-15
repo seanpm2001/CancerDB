@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/pulmonary-lymphangiomyomatosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pubmed.html pulmonary-metastasectomy.html
+<a class="trueBaseThemePreviousItem" href="pubmed.html">&lt;</a><a class="trueBaseThemeNextItem" href="pulmonary-metastasectomy.html">&gt;</a>
+
+title Pulmonary Lymphangiomyomatosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pulmonary-lymphangiomyomatosis" class="material-symbols-outlined">edit</a></div>
+
+* Pulmonary Lymphangiomyomatosis is a type of <a href="/rows/lung.html">Lung Cancer</a>
+
+code
+ title Pulmonary Lymphangiomyomatosis
+ type cancerType
+ mainType Non-Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId LAM
+ parentOncoTreeId LUNG
+ umls C0349649
+ nciCode C38153
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

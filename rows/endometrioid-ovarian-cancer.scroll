@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/endometrioid-ovarian-cancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav endometrioid-borderlin-ovarian-tumor.html enteropathy-associated-t-cell-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="endometrioid-borderlin-ovarian-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="enteropathy-associated-t-cell-lymphoma.html">&gt;</a>
+
+title Endometrioid Ovarian Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=endometrioid-ovarian-cancer" class="material-symbols-outlined">edit</a></div>
+
+* Endometrioid Ovarian Cancer is a type of <a href="/rows/ovarian-epithelial-tumor.html">Ovarian Epithelial Tumor</a>
+
+code
+ title Endometrioid Ovarian Cancer
+ type cancerType
+ mainType Ovarian Cancer
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId EOV
+ parentOncoTreeId OVT
+ umls C0346163
+ nciCode C7979
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

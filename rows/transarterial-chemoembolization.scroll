@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/transarterial-chemoembolization.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav toxin-avoidance.html transarterial-embolization.html
+<a class="trueBaseThemePreviousItem" href="toxin-avoidance.html">&lt;</a><a class="trueBaseThemeNextItem" href="transarterial-embolization.html">&gt;</a>
+
+title Transarterial Chemoembolization
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=transarterial-chemoembolization" class="material-symbols-outlined">edit</a></div>
+
+Transarterial embolization along with chemotherapy injected via catheter.
+
+code
+ title Transarterial Chemoembolization
+ type surgery
+ description Transarterial embolization along with chemotherapy injected via catheter.
+ aka TACE
+ related transarterial-embolization
+ 
+
+import ../footer.scroll

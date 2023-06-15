@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/cervical-rhabdomyosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-neuroendocrine-tumor.html cervical-serous-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="cervical-neuroendocrine-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-serous-carcinoma.html">&gt;</a>
+
+title Cervical Rhabdomyosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-rhabdomyosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Rhabdomyosarcoma is a type of <a href="/rows/cervix.html">Cervical Cancer</a>
+
+code
+ title Cervical Rhabdomyosarcoma
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CERMS
+ parentOncoTreeId CERVIX
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

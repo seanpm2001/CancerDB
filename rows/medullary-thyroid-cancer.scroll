@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/medullary-thyroid-cancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav medullary-carcinoma-of-the-colon.html medulloblastoma-with-extensive-nodularity.html
+<a class="trueBaseThemePreviousItem" href="medullary-carcinoma-of-the-colon.html">&lt;</a><a class="trueBaseThemeNextItem" href="medulloblastoma-with-extensive-nodularity.html">&gt;</a>
+
+title Medullary Thyroid Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=medullary-thyroid-cancer" class="material-symbols-outlined">edit</a></div>
+
+* Medullary Thyroid Cancer is a type of <a href="/rows/thyroid.html">Thyroid Cancer</a>
+
+code
+ title Medullary Thyroid Cancer
+ type cancerType
+ mainType Thyroid Cancer
+ tissue Thyroid
+ 
+ oncoTreeId THME
+ parentOncoTreeId THYROID
+ umls C0238462
+ nciCode C3879
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

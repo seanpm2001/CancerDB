@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/renal-non-clear-cell-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav renal-neuroendocrine-tumor.html renal-oncocytoma.html
+<a class="trueBaseThemePreviousItem" href="renal-neuroendocrine-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="renal-oncocytoma.html">&gt;</a>
+
+title Renal Non-Clear Cell Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=renal-non-clear-cell-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Renal Non-Clear Cell Carcinoma is a type of <a href="/rows/renal-cell-carcinoma.html">Renal Cell Carcinoma</a>
+* Subtypes of Renal Non-Clear Cell Carcinoma include <a href="/rows/chromophobe-renal-cell-carcinoma.html">Chromophobe Renal Cell Carcinoma</a>, <a href="/rows/clear-cell-papillary-renal-cell-carcinoma.html">Clear Cell Papillary Renal Cell Carcinoma</a>, <a href="/rows/collecting-duct-renal-cell-carcinoma.html">Collecting Duct Renal Cell Carcinoma</a>, <a href="/rows/fh-deficient-renal-cell-carcinoma.html">FH-Deficient Renal Cell Carcinoma</a>, <a href="/rows/papillary-renal-cell-carcinoma.html">Papillary Renal Cell Carcinoma</a>, <a href="/rows/renal-angiomyolipoma.html">Renal Angiomyolipoma</a>, <a href="/rows/renal-medullary-carcinoma.html">Renal Medullary Carcinoma</a>, <a href="/rows/renal-mucinous-tubular-spindle-cell-carcinoma.html">Renal Mucinous Tubular Spindle Cell Carcinoma</a>, <a href="/rows/renal-oncocytoma.html">Renal Oncocytoma</a>, <a href="/rows/renal-small-cell-carcinoma.html">Renal Small Cell Carcinoma</a>, <a href="/rows/sarcomatoid-renal-cell-carcinoma.html">Sarcomatoid Renal Cell Carcinoma</a>, <a href="/rows/translocation-associated-renal-cell-carcinoma.html">Translocation-Associated Renal Cell Carcinoma</a>, <a href="/rows/unclassified-renal-cell-carcinoma.html">Unclassified Renal Cell Carcinoma</a>
+
+code
+ title Renal Non-Clear Cell Carcinoma
+ type cancerType
+ mainType Renal Cell Carcinoma
+ tissue Kidney
+ 
+ oncoTreeId NCCRCC
+ parentOncoTreeId RCC
+ oncoTreeLevel 3
+ subTypes 13
+ 
+
+import ../footer.scroll

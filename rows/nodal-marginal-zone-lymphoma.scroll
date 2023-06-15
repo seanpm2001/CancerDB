@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/nodal-marginal-zone-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav nncr-na.html nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html
+<a class="trueBaseThemePreviousItem" href="nncr-na.html">&lt;</a><a class="trueBaseThemeNextItem" href="nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html">&gt;</a>
+
+title Nodal Marginal Zone Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=nodal-marginal-zone-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Nodal Marginal Zone Lymphoma is a type of <a href="/rows/marginal-zone-lymphoma.html">Marginal Zone Lymphoma</a>
+
+code
+ title Nodal Marginal Zone Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId NMZL
+ parentOncoTreeId MZL
+ umls C0855139
+ nciCode C8863
+ oncoTreeLevel 6
+ subTypes 0
+ 
+
+import ../footer.scroll

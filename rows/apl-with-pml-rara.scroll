@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/apl-with-pml-rara.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav anticancer.html appendiceal-adenocarcinoma.html
+<a class="trueBaseThemePreviousItem" href="anticancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="appendiceal-adenocarcinoma.html">&gt;</a>
+
+title APL with PML-RARA
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=apl-with-pml-rara" class="material-symbols-outlined">edit</a></div>
+
+* APL with PML-RARA is a type of <a href="/rows/aml-with-recurrent-genetic-abnormalities.html">AML with Recurrent Genetic Abnormalities</a>
+
+code
+ title APL with PML-RARA
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId APLPMLRARA
+ parentOncoTreeId AMLRGA
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

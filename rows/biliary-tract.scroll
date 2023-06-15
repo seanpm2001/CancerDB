@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/biliary-tract.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav bexarotene.html biogen.html
+<a class="trueBaseThemePreviousItem" href="bexarotene.html">&lt;</a><a class="trueBaseThemeNextItem" href="biogen.html">&gt;</a>
+
+title Biliary Tract
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=biliary-tract" class="material-symbols-outlined">edit</a></div>
+
+* Subtypes of Biliary Tract include <a href="/rows/cholangiocarcinoma.html">Cholangiocarcinoma</a>, <a href="/rows/gallbladder-cancer.html">Gallbladder Cancer</a>
+
+code
+ title Biliary Tract
+ type cancerType
+ mainType Biliary Tract Cancer, NOS
+ tissue Biliary Tract
+ 
+ oncoTreeId BILIARY_TRACT
+ parentOncoTreeId TISSUE
+ umls C0005423
+ nciCode C12678
+ oncoTreeLevel 1
+ subTypes 8
+ 
+
+import ../footer.scroll

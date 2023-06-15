@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/nodular-lymphocyte-predominant-hodgkin-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html nodular-sclerosis-classical-hodgkin-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html">&lt;</a><a class="trueBaseThemeNextItem" href="nodular-sclerosis-classical-hodgkin-lymphoma.html">&gt;</a>
+
+title Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=nodular-lymphocyte-predominant-hodgkin-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Nodular Lymphocyte-Predominant Hodgkin Lymphoma is a type of <a href="/rows/hodgkin-lymphoma.html">Hodgkin Lymphoma</a>
+
+code
+ title Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+ type cancerType
+ mainType Hodgkin Lymphoma
+ tissue Lymphoid
+ 
+ oncoTreeId NLPHL
+ parentOncoTreeId HL
+ umls C1334968
+ nciCode C7258
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

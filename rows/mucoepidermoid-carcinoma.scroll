@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/mucoepidermoid-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mucoepidermoid-carcinoma-of-the-lung.html mucosal-melanoma-of-the-esophagus.html
+<a class="trueBaseThemePreviousItem" href="mucoepidermoid-carcinoma-of-the-lung.html">&lt;</a><a class="trueBaseThemeNextItem" href="mucosal-melanoma-of-the-esophagus.html">&gt;</a>
+
+title Mucoepidermoid Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mucoepidermoid-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Mucoepidermoid Carcinoma is a type of <a href="/rows/salivary-carcinoma.html">Salivary Carcinoma</a>
+
+code
+ title Mucoepidermoid Carcinoma
+ type cancerType
+ mainType Salivary Gland Cancer
+ tissue Head and Neck
+ 
+ oncoTreeId MUCC
+ parentOncoTreeId SACA
+ umls C0206694
+ nciCode C3772
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/transarterial-embolization.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav transarterial-chemoembolization.html transient-abnormal-myelopoiesis.html
+<a class="trueBaseThemePreviousItem" href="transarterial-chemoembolization.html">&lt;</a><a class="trueBaseThemeNextItem" href="transient-abnormal-myelopoiesis.html">&gt;</a>
+
+title Transarterial Embolization
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=transarterial-embolization" class="material-symbols-outlined">edit</a></div>
+
+A procedure in which the blood supply to a tumor or an abnormal area of tissue is blocked. Small particles made of tiny gelatin sponges or beads are injected via catheter. This blocks the artery and stops the flow of blood to the tumor or abnormal area of tissue. Transarterial embolization is used to treat some types of liver cancer, kidney cancer, and neuroendocrine tumors.
+
+- Read more about Transarterial Embolization on <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/transarterial-embolization">cancer.gov</a>
+
+code
+ title Transarterial Embolization
+ type surgery
+ cancerTypes liver kidney neuroendocrine
+ description A procedure in which the blood supply to a tumor or an abnormal area of tissue is blocked. Small particles made of tiny gelatin sponges or beads are injected via catheter. This blocks the artery and stops the flow of blood to the tumor or abnormal area of tissue. Transarterial embolization is used to treat some types of liver cancer, kidney cancer, and neuroendocrine tumors.
+ aka TAE
+ 
+ reference https://www.cancer.gov/publications/dictionaries/cancer-terms/def/transarterial-embolization
+ 
+
+import ../footer.scroll

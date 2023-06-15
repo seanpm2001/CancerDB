@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/erdheim-chester-disease.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ercr-ar.html erlotinib.html
+<a class="trueBaseThemePreviousItem" href="ercr-ar.html">&lt;</a><a class="trueBaseThemeNextItem" href="erlotinib.html">&gt;</a>
+
+title Erdheim-Chester Disease
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=erdheim-chester-disease" class="material-symbols-outlined">edit</a></div>
+
+* Erdheim-Chester Disease is a type of <a href="/rows/histiocytic-and-dendritic-cell-neoplasms.html">Histiocytic and Dendritic Cell Neoplasms</a>
+
+code
+ title Erdheim-Chester Disease
+ type cancerType
+ mainType Histiocytosis
+ tissue Myeloid
+ 
+ oncoTreeId ECD
+ parentOncoTreeId HDCN
+ umls C0878675
+ nciCode C53972
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

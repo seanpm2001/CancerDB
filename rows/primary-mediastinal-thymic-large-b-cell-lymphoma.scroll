@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/primary-mediastinal-thymic-large-b-cell-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav primary-effusion-lymphoma.html primary-myelofibrosis-prefibrotic-early-stage.html
+<a class="trueBaseThemePreviousItem" href="primary-effusion-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="primary-myelofibrosis-prefibrotic-early-stage.html">&gt;</a>
+
+title Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=primary-mediastinal-thymic-large-b-cell-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Primary Mediastinal (Thymic) Large B-Cell Lymphoma is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId PMBL
+ parentOncoTreeId MBN
+ umls C1292754
+ nciCode C9280
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

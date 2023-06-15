@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/chondroblastic-osteosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cholangiocarcinoma.html chondroblastoma.html
+<a class="trueBaseThemePreviousItem" href="cholangiocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="chondroblastoma.html">&gt;</a>
+
+title Chondroblastic Osteosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chondroblastic-osteosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Chondroblastic Osteosarcoma is a type of <a href="/rows/osteosarcoma.html">Osteosarcoma</a>
+
+code
+ title Chondroblastic Osteosarcoma
+ type cancerType
+ mainType Bone Cancer
+ tissue Bone
+ 
+ oncoTreeId CHOS
+ parentOncoTreeId OS
+ umls C0279603
+ nciCode C4021
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

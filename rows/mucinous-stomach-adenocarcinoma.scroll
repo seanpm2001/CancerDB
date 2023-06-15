@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/mucinous-stomach-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mucinous-ovarian-cancer.html mucoepidermoid-carcinoma-of-the-lung.html
+<a class="trueBaseThemePreviousItem" href="mucinous-ovarian-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="mucoepidermoid-carcinoma-of-the-lung.html">&gt;</a>
+
+title Mucinous Stomach Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mucinous-stomach-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Mucinous Stomach Adenocarcinoma is a type of <a href="/rows/stomach-adenocarcinoma.html">Stomach Adenocarcinoma</a>
+
+code
+ title Mucinous Stomach Adenocarcinoma
+ type cancerType
+ mainType Esophagogastric Cancer
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId MSTAD
+ parentOncoTreeId STAD
+ umls C1334809
+ nciCode C5248
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

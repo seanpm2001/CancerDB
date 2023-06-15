@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/tlcr-dz.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav tisch-cancer-institute.html tocr-dz.html
+<a class="trueBaseThemePreviousItem" href="tisch-cancer-institute.html">&lt;</a><a class="trueBaseThemeNextItem" href="tocr-dz.html">&gt;</a>
+
+title TLCR
+
+<div class="trueBaseThemeQuickLinks"><a href="https://cancerlab.univ-tlemcen.dz/en" class="material-symbols-outlined">home</a> <a href="/edit.html?id=tlcr-dz" class="material-symbols-outlined">edit</a></div>
+
+Could also be referred to as West Algerian cancer regsitry in some literature.
+
+- Read more about TLCR on <a href="https://academic.oup.com/ije/article/44/suppl_1/i250/2573481">academic.oup.com</a>
+
+code
+ title TLCR
+ type registry
+ appeared 1999
+ standsFor Tlemcen Cancer Registry
+ description Could also be referred to as West Algerian cancer regsitry in some literature.
+ 
+ website https://cancerlab.univ-tlemcen.dz/en
+ reference https://academic.oup.com/ije/article/44/suppl_1/i250/2573481
+ 
+ country Algeria
+ 
+
+import ../footer.scroll

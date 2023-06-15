@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/primary-myelofibrosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav primary-myelofibrosis-prefibrotic-early-stage.html primary-myelofibrosisovert-fibrotic-stage.html
+<a class="trueBaseThemePreviousItem" href="primary-myelofibrosis-prefibrotic-early-stage.html">&lt;</a><a class="trueBaseThemeNextItem" href="primary-myelofibrosisovert-fibrotic-stage.html">&gt;</a>
+
+title Primary Myelofibrosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=primary-myelofibrosis" class="material-symbols-outlined">edit</a></div>
+
+* Primary Myelofibrosis is a type of <a href="/rows/myeloproliferative-neoplasms.html">Myeloproliferative Neoplasms</a>
+* Subtypes of Primary Myelofibrosis include <a href="/rows/primary-myelofibrosis-prefibrotic-early-stage.html">Primary Myelofibrosis, Prefibrotic/Early Stage</a>, <a href="/rows/primary-myelofibrosisovert-fibrotic-stage.html">Primary Myelofibrosis,Overt Fibrotic Stage</a>
+
+code
+ title Primary Myelofibrosis
+ type cancerType
+ mainType Myeloproliferative Neoplasms
+ tissue Myeloid
+ 
+ oncoTreeId PMF
+ parentOncoTreeId MPN
+ oncoTreeLevel 4
+ subTypes 2
+ 
+
+import ../footer.scroll

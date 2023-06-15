@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/monoclonal-b-cell-lymphocytosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav molar-pregnancy.html monoclonal-gammopathy-of-undetermined-significance.html
+<a class="trueBaseThemePreviousItem" href="molar-pregnancy.html">&lt;</a><a class="trueBaseThemeNextItem" href="monoclonal-gammopathy-of-undetermined-significance.html">&gt;</a>
+
+title Monoclonal B-Cell Lymphocytosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=monoclonal-b-cell-lymphocytosis" class="material-symbols-outlined">edit</a></div>
+
+* Monoclonal B-Cell Lymphocytosis is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Monoclonal B-Cell Lymphocytosis
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId MCBCL
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

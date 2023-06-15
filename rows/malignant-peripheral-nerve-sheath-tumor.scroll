@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/malignant-peripheral-nerve-sheath-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav malignant-nonepithelial-tumor-of-the-liver.html malignant-phyllodes-tumor-of-the-breast.html
+<a class="trueBaseThemePreviousItem" href="malignant-nonepithelial-tumor-of-the-liver.html">&lt;</a><a class="trueBaseThemeNextItem" href="malignant-phyllodes-tumor-of-the-breast.html">&gt;</a>
+
+title Malignant Peripheral Nerve Sheath Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=malignant-peripheral-nerve-sheath-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Malignant Peripheral Nerve Sheath Tumor is a type of <a href="/rows/nerve-sheath-tumor.html">Nerve Sheath Tumor</a>
+
+code
+ title Malignant Peripheral Nerve Sheath Tumor
+ type cancerType
+ mainType Nerve Sheath Tumor
+ tissue Peripheral Nervous System
+ 
+ oncoTreeId MPNST
+ parentOncoTreeId NST
+ umls C0751690
+ nciCode C3798
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

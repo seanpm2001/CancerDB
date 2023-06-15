@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/cocr-ar.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav coc.html cognitive-behavioral-therapy.html
+<a class="trueBaseThemePreviousItem" href="coc.html">&lt;</a><a class="trueBaseThemeNextItem" href="cognitive-behavioral-therapy.html">&gt;</a>
+
+title COCR 
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cocr-ar" class="material-symbols-outlined">edit</a></div>
+
+One registry covering a whole province of the country exists:the Córdoba Cancer Registry. Córdoba Cancer Registry is a provincial population-based registry which started in 2003 and covers approximately 9% of the Argentinean population. Seems to be located in the University of Córdoba.
+
+- Read more about COCR  on <a href="https://accamargo.phlnet.com.br/applied/ACR201030p.245-52.pdf">accamargo.phlnet.com.br</a>
+
+code
+ title COCR 
+ type registry
+ appeared 2003
+ standsFor Córdoba Cancer Registry Argentina 
+ description One registry covering a whole province of the country exists:the Córdoba Cancer Registry. Córdoba Cancer Registry is a provincial population-based registry which started in 2003 and covers approximately 9% of the Argentinean population. Seems to be located in the University of Córdoba.
+ 
+ reference https://accamargo.phlnet.com.br/applied/ACR201030p.245-52.pdf
+ 
+ country Argentina
+ 
+
+import ../footer.scroll

@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/breast-fibroepithelial-neoplasms.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast-ductal-carcinoma-in-situ.html breast-implant-associated-anaplastic-large-cell-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="breast-ductal-carcinoma-in-situ.html">&lt;</a><a class="trueBaseThemeNextItem" href="breast-implant-associated-anaplastic-large-cell-lymphoma.html">&gt;</a>
+
+title Breast Fibroepithelial Neoplasms
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=breast-fibroepithelial-neoplasms" class="material-symbols-outlined">edit</a></div>
+
+* Breast Fibroepithelial Neoplasms is a type of <a href="/rows/breast.html">Breast Cancer</a>
+* Subtypes of Breast Fibroepithelial Neoplasms include <a href="/rows/fibroadenoma.html">Fibroadenoma</a>, <a href="/rows/phyllodes-tumor-of-the-breast.html">Phyllodes Tumor of the Breast</a>
+
+code
+ title Breast Fibroepithelial Neoplasms
+ type cancerType
+ mainType Breast Sarcoma
+ tissue Breast
+ 
+ oncoTreeId BFN
+ parentOncoTreeId BREAST
+ umls C1511309
+ nciCode C40405
+ oncoTreeLevel 2
+ subTypes 5
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/pineocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pineoblastoma.html pipobroman.html
+<a class="trueBaseThemePreviousItem" href="pineoblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="pipobroman.html">&gt;</a>
+
+title Pineocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pineocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Pineocytoma is a type of <a href="/rows/pineal-tumor.html">Pineal Tumor</a>
+
+code
+ title Pineocytoma
+ type cancerType
+ mainType Pineal Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId PINC
+ parentOncoTreeId PINT
+ umls C0917890
+ nciCode C6966
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

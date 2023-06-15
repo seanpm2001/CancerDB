@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/phyllodes-tumor-of-the-breast.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pheochromocytoma.html pilocytic-astrocytoma.html
+<a class="trueBaseThemePreviousItem" href="pheochromocytoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="pilocytic-astrocytoma.html">&gt;</a>
+
+title Phyllodes Tumor of the Breast
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=phyllodes-tumor-of-the-breast" class="material-symbols-outlined">edit</a></div>
+
+* Phyllodes Tumor of the Breast is a type of <a href="/rows/breast-fibroepithelial-neoplasms.html">Breast Fibroepithelial Neoplasms</a>
+* Subtypes of Phyllodes Tumor of the Breast include <a href="/rows/benign-phyllodes-tumor-of-the-breast.html">Benign Phyllodes Tumor of the Breast</a>, <a href="/rows/borderline-phyllodes-tumor-of-the-breast.html">Borderline Phyllodes Tumor of the Breast</a>, <a href="/rows/malignant-phyllodes-tumor-of-the-breast.html">Malignant Phyllodes Tumor of the Breast</a>
+
+code
+ title Phyllodes Tumor of the Breast
+ type cancerType
+ mainType Breast Sarcoma
+ tissue Breast
+ 
+ oncoTreeId PT
+ parentOncoTreeId BFN
+ umls C0238031
+ nciCode C7575
+ oncoTreeLevel 3
+ subTypes 3
+ 
+
+import ../footer.scroll

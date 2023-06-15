@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/malignant-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav malignant-glomus-tumor.html malignant-nonepithelial-tumor-of-the-liver.html
+<a class="trueBaseThemePreviousItem" href="malignant-glomus-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="malignant-nonepithelial-tumor-of-the-liver.html">&gt;</a>
+
+title Malignant Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=malignant-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Malignant Lymphoma is a type of <a href="/rows/miscellaneous-brain-tumor.html">Miscellaneous Brain Tumor</a>
+
+code
+ title Malignant Lymphoma
+ type cancerType
+ mainType Miscellaneous Brain Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId MLYM
+ parentOncoTreeId MBT
+ umls C0024299
+ nciCode C3208
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,4 @@
+courseraParser
+ description What is the link to this course on Coursera?
+ extends abstractUrlColumnParser
+ string sourceDomain coursera.com

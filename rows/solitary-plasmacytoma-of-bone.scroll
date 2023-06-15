@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/solitary-plasmacytoma-of-bone.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav solitary-fibrous-tumor-of-the-central-nervous-system.html sorafenib.html
+<a class="trueBaseThemePreviousItem" href="solitary-fibrous-tumor-of-the-central-nervous-system.html">&lt;</a><a class="trueBaseThemeNextItem" href="sorafenib.html">&gt;</a>
+
+title Solitary Plasmacytoma of Bone
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=solitary-plasmacytoma-of-bone" class="material-symbols-outlined">edit</a></div>
+
+* Solitary Plasmacytoma of Bone is a type of <a href="/rows/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Solitary Plasmacytoma of Bone
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId SPB
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

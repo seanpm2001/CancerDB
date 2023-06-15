@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/scr-dz.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sclerosing-epithelioid-fibrosarcoma.html seattle-childrens-hospital.html
+<a class="trueBaseThemePreviousItem" href="sclerosing-epithelioid-fibrosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="seattle-childrens-hospital.html">&gt;</a>
+
+title SCR
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=scr-dz" class="material-symbols-outlined">edit</a></div>
+
+The population-based Cancer Registry of Setif,Wilaya, Algeria, has been recording cancer incidence, mortality, and survival since 1986. These data can test etiological hypotheses by means of epidemiological studies, in addition to being a source of information for cancer planning and corresponding surveillance. Data are recorded by means of CanReg 5. This software is a specific tool for cancer registration, which is standardized to capture, control, and process data. CanReg 5 has been developed by the International Agency for Research on Cancer (IARC) of Lyon.
+
+- Read more about SCR on <a href="https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-14-637">bmccancer.biomedcentral.com</a> · <a href="https://moh-it.elsevierpure.com/en/publications/cancer-in-setif-algeria-1986-2010">moh-it.elsevierpure.com</a>
+
+code
+ title SCR
+ type registry
+ appeared 1986
+ standsFor Sétif Cancer Registry
+ description The population-based Cancer Registry of Setif,Wilaya, Algeria, has been recording cancer incidence, mortality, and survival since 1986. These data can test etiological hypotheses by means of epidemiological studies, in addition to being a source of information for cancer planning and corresponding surveillance. Data are recorded by means of CanReg 5. This software is a specific tool for cancer registration, which is standardized to capture, control, and process data. CanReg 5 has been developed by the International Agency for Research on Cancer (IARC) of Lyon.
+ 
+ reference https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-14-637
+ reference https://moh-it.elsevierpure.com/en/publications/cancer-in-setif-algeria-1986-2010
+ 
+ country Algeria
+ 
+
+import ../footer.scroll

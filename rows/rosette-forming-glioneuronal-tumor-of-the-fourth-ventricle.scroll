@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav rosai-dorfman-disease.html roswell-park-comprehensive-cancer-center.html
+<a class="trueBaseThemePreviousItem" href="rosai-dorfman-disease.html">&lt;</a><a class="trueBaseThemeNextItem" href="roswell-park-comprehensive-cancer-center.html">&gt;</a>
+
+title Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle" class="material-symbols-outlined">edit</a></div>
+
+* Rosette-forming Glioneuronal Tumor of the Fourth Ventricle is a type of <a href="/rows/miscellaneous-neuroepithelial-tumor.html">Miscellaneous Neuroepithelial Tumor</a>
+
+code
+ title Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
+ type cancerType
+ mainType Miscellaneous Neuroepithelial Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId RGNT
+ parentOncoTreeId MNET
+ umls C2347979
+ nciCode C67559
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

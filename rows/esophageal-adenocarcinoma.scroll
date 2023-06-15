@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/esophageal-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav erlotinib.html esophageal-poorly-differentiated-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="erlotinib.html">&lt;</a><a class="trueBaseThemeNextItem" href="esophageal-poorly-differentiated-carcinoma.html">&gt;</a>
+
+title Esophageal Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=esophageal-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Esophageal Adenocarcinoma is a type of <a href="/rows/esophagogastric-adenocarcinoma.html">Esophagogastric Adenocarcinoma</a>
+
+code
+ title Esophageal Adenocarcinoma
+ type cancerType
+ mainType Esophagogastric Cancer
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId ESCA
+ parentOncoTreeId EGC
+ umls C0279628
+ nciCode C4025
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

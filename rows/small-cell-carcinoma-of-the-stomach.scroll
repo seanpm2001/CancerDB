@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/small-cell-carcinoma-of-the-stomach.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav small-cell-carcinoma-of-the-ovary.html small-cell-carcinoma-of-unknown-primary.html
+<a class="trueBaseThemePreviousItem" href="small-cell-carcinoma-of-the-ovary.html">&lt;</a><a class="trueBaseThemeNextItem" href="small-cell-carcinoma-of-unknown-primary.html">&gt;</a>
+
+title Small Cell Carcinoma of the Stomach
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=small-cell-carcinoma-of-the-stomach" class="material-symbols-outlined">edit</a></div>
+
+* Small Cell Carcinoma of the Stomach is a type of <a href="/rows/esophagogastric-adenocarcinoma.html">Esophagogastric Adenocarcinoma</a>
+
+code
+ title Small Cell Carcinoma of the Stomach
+ type cancerType
+ mainType Esophagogastric Cancer
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId STSC
+ parentOncoTreeId EGC
+ umls C1333788
+ nciCode C6764
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/perivascular-epithelioid-cell-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav peritoneum.html pfizer.html
+<a class="trueBaseThemePreviousItem" href="peritoneum.html">&lt;</a><a class="trueBaseThemeNextItem" href="pfizer.html">&gt;</a>
+
+title Perivascular Epithelioid Cell Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=perivascular-epithelioid-cell-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Perivascular Epithelioid Cell Tumor is a type of <a href="/rows/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Perivascular Epithelioid Cell Tumor
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId PECOMA
+ parentOncoTreeId SOFT_TISSUE
+ umls C1300127
+ nciCode C38150
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

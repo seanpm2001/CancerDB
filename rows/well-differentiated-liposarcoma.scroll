@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/well-differentiated-liposarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav weight-loss.html well-differentiated-neuroendocrine-tumor-of-the-appendix.html
+<a class="trueBaseThemePreviousItem" href="weight-loss.html">&lt;</a><a class="trueBaseThemeNextItem" href="well-differentiated-neuroendocrine-tumor-of-the-appendix.html">&gt;</a>
+
+title Well-Differentiated Liposarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=well-differentiated-liposarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Well-Differentiated Liposarcoma is a type of <a href="/rows/liposarcoma.html">Liposarcoma</a>
+
+code
+ title Well-Differentiated Liposarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId WDLS
+ parentOncoTreeId LIPO
+ umls C1370889
+ nciCode C4250
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll
