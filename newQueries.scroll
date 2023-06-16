@@ -1,5 +1,8 @@
 importOnly
 
+What are all the entries in CancerDB?
+ class query
+ link /queries/all.html
 How many cancer types are there?
  class query
  link /queries/how-many-cancer-types-are-there.html
