@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/desmoplastic-infantile-astrocytoma.cdb
+viewSourceUrl /rows/desmoplastic-infantile-astrocytoma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

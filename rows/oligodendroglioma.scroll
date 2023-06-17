@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/oligodendroglioma.cdb
+viewSourceUrl /rows/oligodendroglioma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/fred-hutchinson-university-of-washington-cancer-consortium.cdb
+viewSourceUrl /rows/fred-hutchinson-university-of-washington-cancer-consortium.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

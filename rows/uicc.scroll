@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/uicc.cdb
+viewSourceUrl /rows/uicc.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

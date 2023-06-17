@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/cutaneous-squamous-cell-carcinoma.cdb
+viewSourceUrl /rows/cutaneous-squamous-cell-carcinoma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

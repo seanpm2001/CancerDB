@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/head-and-neck-carcinoma-other.cdb
+viewSourceUrl /rows/head-and-neck-carcinoma-other.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

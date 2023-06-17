@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/plasma-cell-myeloma.cdb
+viewSourceUrl /rows/plasma-cell-myeloma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

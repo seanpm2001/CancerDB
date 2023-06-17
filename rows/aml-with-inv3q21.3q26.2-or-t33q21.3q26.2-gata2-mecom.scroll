@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom.cdb
+viewSourceUrl /rows/aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

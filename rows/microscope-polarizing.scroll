@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/microscope-polarizing.cdb
+viewSourceUrl /rows/microscope-polarizing.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

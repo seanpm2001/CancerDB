@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/microscope-electron.cdb
+viewSourceUrl /rows/microscope-electron.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

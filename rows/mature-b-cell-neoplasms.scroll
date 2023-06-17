@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/mature-b-cell-neoplasms.cdb
+viewSourceUrl /rows/mature-b-cell-neoplasms.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

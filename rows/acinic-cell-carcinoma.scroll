@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/acinic-cell-carcinoma.cdb
+viewSourceUrl /rows/acinic-cell-carcinoma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

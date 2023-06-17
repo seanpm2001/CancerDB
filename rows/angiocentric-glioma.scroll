@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/angiocentric-glioma.cdb
+viewSourceUrl /rows/angiocentric-glioma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

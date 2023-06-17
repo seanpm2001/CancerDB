@@ -24667,11 +24667,11 @@ eventsPageParser
  description What is the URL to this entity's events page?
 wikipediaParser
  extends abstractUrlColumnParser
- description What is the URL of this entity on Wikipedia, if and only if it has a page dedicated to it?
+ description What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?
  string sourceDomain wikipedia.org
 wolframAlphaParser
  extends abstractUrlColumnParser
- description What is the URL to this entity on WolframAlpha?
+ description What is the URL to this concept on WolframAlpha?
  string sourceDomain wolframalpha.com
 abstractUrlGuidColumnParser
  description A column containing a URL that is also a Globablly Unique Identifier (GUID) for an entity on that site.
@@ -24718,7 +24718,7 @@ publicationFrequencyParser
  description How often does the publication come out?
  cells columnNameCell publicationFrequencyCell
 typeParser
- description What kind of thing is this entity?
+ description What kind of concept is this?
  cells columnNameCell typeCell
  catchAllCellType typeCell
  extends abstractEnumColumnParser
@@ -24805,7 +24805,7 @@ cityParser
  catchAllCellType cityStateCell
  extends abstractStringColumnParser
 titleParser
- description What is the title of this entity?
+ description What is the title of this concept?
  extends abstractStringColumnParser
  required
 standsForParser

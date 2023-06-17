@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/cervical-endometrioid-carcinoma.cdb
+viewSourceUrl /rows/cervical-endometrioid-carcinoma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

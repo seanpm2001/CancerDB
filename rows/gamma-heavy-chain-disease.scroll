@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/gamma-heavy-chain-disease.cdb
+viewSourceUrl /rows/gamma-heavy-chain-disease.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

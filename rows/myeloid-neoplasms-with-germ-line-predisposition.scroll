@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/myeloid-neoplasms-with-germ-line-predisposition.cdb
+viewSourceUrl /rows/myeloid-neoplasms-with-germ-line-predisposition.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

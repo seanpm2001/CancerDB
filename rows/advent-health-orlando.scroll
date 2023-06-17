@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/advent-health-orlando.cdb
+viewSourceUrl /rows/advent-health-orlando.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/betrayed-by-nature-the-war-on-cancer.cdb
+viewSourceUrl /rows/betrayed-by-nature-the-war-on-cancer.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

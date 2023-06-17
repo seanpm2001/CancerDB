@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/chordoid-glioma-of-the-third-ventricle.cdb
+viewSourceUrl /rows/chordoid-glioma-of-the-third-ventricle.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

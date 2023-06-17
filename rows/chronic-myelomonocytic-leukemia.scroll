@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/chronic-myelomonocytic-leukemia.cdb
+viewSourceUrl /rows/chronic-myelomonocytic-leukemia.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

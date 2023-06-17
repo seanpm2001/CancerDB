@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/carcinoma-with-chondroid-metaplasia.cdb
+viewSourceUrl /rows/carcinoma-with-chondroid-metaplasia.cdb
 
 baseUrl https://cancerdb.com/truebase/
 

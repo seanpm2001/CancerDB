@@ -1,5 +1,5 @@
 import ../header.scroll
-viewSourceUrl https://github.com/breck7/CancerDB/blob/main/rows/primary-effusion-lymphoma.cdb
+viewSourceUrl /rows/primary-effusion-lymphoma.cdb
 
 baseUrl https://cancerdb.com/truebase/
 
