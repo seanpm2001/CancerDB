@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/chronic-myeloid-leukemia-bcr-abl1p.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chronic-myelogenous-leukemia.html chronic-myelomonocytic-leukemia-0.html
+<a class="trueBaseThemePreviousItem" href="chronic-myelogenous-leukemia.html">&lt;</a><a class="trueBaseThemeNextItem" href="chronic-myelomonocytic-leukemia-0.html">&gt;</a>
+
+title Chronic Myeloid Leukemia, BCR-ABL1+
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chronic-myeloid-leukemia-bcr-abl1p" class="material-symbols-outlined">edit</a></div>
+
+* Chronic Myeloid Leukemia, BCR-ABL1+ is a type of <a href="/concepts/chronic-myelogenous-leukemia.html">Chronic Myelogenous Leukemia</a>
+
+code
+ title Chronic Myeloid Leukemia, BCR-ABL1+
+ type cancerType
+ mainType Myeloproliferative Neoplasms
+ tissue Myeloid
+ 
+ oncoTreeId CMLBCRABL1
+ parentOncoTreeId CML
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

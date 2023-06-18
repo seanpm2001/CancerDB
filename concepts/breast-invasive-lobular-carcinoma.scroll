@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/breast-invasive-lobular-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast-invasive-ductal-carcinoma.html breast-invasive-mixed-mucinous-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="breast-invasive-ductal-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="breast-invasive-mixed-mucinous-carcinoma.html">&gt;</a>
+
+title Breast Invasive Lobular Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=breast-invasive-lobular-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Breast Invasive Lobular Carcinoma is a type of <a href="/concepts/invasive-breast-carcinoma.html">Invasive Breast Carcinoma</a>
+
+code
+ title Breast Invasive Lobular Carcinoma
+ type cancerType
+ mainType Breast Cancer
+ tissue Breast
+ 
+ oncoTreeId ILC
+ parentOncoTreeId BRCA
+ umls C0279565
+ nciCode C7950
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

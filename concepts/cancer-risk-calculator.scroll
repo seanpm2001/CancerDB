@@ -1,0 +1,24 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cancer-risk-calculator.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cancer-research-uk.html cancer-society-of-finland.html
+<a class="trueBaseThemePreviousItem" href="cancer-research-uk.html">&lt;</a><a class="trueBaseThemeNextItem" href="cancer-society-of-finland.html">&gt;</a>
+
+title Cancer Risk Calculator
+
+<div class="trueBaseThemeQuickLinks"><a href="https://cancerqld.org.au/cancer-prevention/crc/calculator" class="material-symbols-outlined">home</a> <a href="/edit.html?id=cancer-risk-calculator" class="material-symbols-outlined">edit</a></div>
+
+Cancer risk calculator
+
+code
+ title Cancer Risk Calculator
+ type website
+ description Cancer risk calculator
+ related mycanceriq
+ 
+ website https://cancerqld.org.au/cancer-prevention/crc/calculator
+ 
+
+import ../footer.scroll

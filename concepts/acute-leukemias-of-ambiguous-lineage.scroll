@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/acute-leukemias-of-ambiguous-lineage.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acute-basophilic-leukemia.html acute-megakaryoblastic-leukemia.html
+<a class="trueBaseThemePreviousItem" href="acute-basophilic-leukemia.html">&lt;</a><a class="trueBaseThemeNextItem" href="acute-megakaryoblastic-leukemia.html">&gt;</a>
+
+title Acute Leukemias of Ambiguous Lineage
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acute-leukemias-of-ambiguous-lineage" class="material-symbols-outlined">edit</a></div>
+
+* Acute Leukemias of Ambiguous Lineage is a type of <a href="/concepts/myeloid-neoplasm.html">Myeloid Neoplasm</a>
+* Subtypes of Acute Leukemias of Ambiguous Lineage include <a href="/concepts/acute-undifferentiated-leukemia.html">Acute Undifferentiated Leukemia</a>, <a href="/concepts/mixed-phenotype-acute-leukemia-b-myeloid-nos.html">Mixed Phenotype Acute Leukemia, B/Myeloid, NOS</a>, <a href="/concepts/mixed-phenotype-acute-leukemia-t-myeloid-nos.html">Mixed Phenotype Acute Leukemia, T/Myeloid, NOS</a>, <a href="/concepts/mixed-phenotype-acute-leukemia-with-t922q34.1q11.2-bcr-abl1.html">Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1</a>, <a href="/concepts/mixed-phenotype-acute-leukemia-with-tv11q23.3-kmt2a-rearranged.html">Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged</a>
+
+code
+ title Acute Leukemias of Ambiguous Lineage
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId ALAL
+ parentOncoTreeId MNM
+ oncoTreeLevel 3
+ subTypes 5
+ 
+
+import ../footer.scroll

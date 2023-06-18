@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/systemic-mastocytosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav systemic-mastocytosis-with-an-associated-hematological-neoplasm.html t-cell-histiocyte-rich-large-b-cell-lymphoma.html
+<a class="trueBaseThemePreviousItem" href="systemic-mastocytosis-with-an-associated-hematological-neoplasm.html">&lt;</a><a class="trueBaseThemeNextItem" href="t-cell-histiocyte-rich-large-b-cell-lymphoma.html">&gt;</a>
+
+title Systemic Mastocytosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=systemic-mastocytosis" class="material-symbols-outlined">edit</a></div>
+
+* Systemic Mastocytosis is a type of <a href="/concepts/mastocytosis.html">Mastocytosis</a>
+* Subtypes of Systemic Mastocytosis include <a href="/concepts/aggressive-systemic-mastocytosis.html">Aggressive Systemic Mastocytosis</a>, <a href="/concepts/indolent-systemic-mastocytosis.html">Indolent Systemic Mastocytosis</a>, <a href="/concepts/mast-cell-leukemia.html">Mast Cell Leukemia</a>, <a href="/concepts/smoldering-systemic-mastocytosis.html">Smoldering Systemic Mastocytosis</a>, <a href="/concepts/systemic-mastocytosis-with-an-associated-hematological-neoplasm.html">Systemic Mastocytosis with an Associated Hematological Neoplasm</a>
+
+code
+ title Systemic Mastocytosis
+ type cancerType
+ mainType Mastocytosis
+ tissue Myeloid
+ 
+ oncoTreeId SM
+ parentOncoTreeId MCD
+ umls C0221013
+ nciCode C9235
+ oncoTreeLevel 4
+ subTypes 5
+ 
+
+import ../footer.scroll

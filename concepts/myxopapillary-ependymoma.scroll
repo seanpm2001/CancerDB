@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/myxopapillary-ependymoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myxoma.html naaccr.html
+<a class="trueBaseThemePreviousItem" href="myxoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="naaccr.html">&gt;</a>
+
+title Myxopapillary Ependymoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myxopapillary-ependymoma" class="material-symbols-outlined">edit</a></div>
+
+* Myxopapillary Ependymoma is a type of <a href="/concepts/ependymomal-tumor.html">Ependymomal Tumor</a>
+
+code
+ title Myxopapillary Ependymoma
+ type cancerType
+ mainType CNS Cancer
+ tissue CNS/Brain
+ 
+ oncoTreeId MPE
+ parentOncoTreeId EPMT
+ umls C0205769
+ nciCode C3697
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

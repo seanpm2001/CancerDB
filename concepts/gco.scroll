@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/gco.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav gastrointestinal-stromal-tumor.html gcr-ug.html
+<a class="trueBaseThemePreviousItem" href="gastrointestinal-stromal-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="gcr-ug.html">&gt;</a>
+
+title GCO
+
+<div class="trueBaseThemeQuickLinks"><a href="https://gco.iarc.fr" class="material-symbols-outlined">home</a> <a href="/edit.html?id=gco" class="material-symbols-outlined">edit</a></div>
+
+The Global Cancer Observatory (GCO) is an interactive web-based platform presenting global cancer statistics to inform cancer control and cancer research.
+
+code
+ title GCO
+ type organizationDivision
+ parentOrganization iarc
+ standsFor Global Cancer Observatory
+ description The Global Cancer Observatory (GCO) is an interactive web-based platform presenting global cancer statistics to inform cancer control and cancer research.
+ 
+ website https://gco.iarc.fr
+ 
+ domainName gco.iarc.fr
+ 
+
+import ../footer.scroll

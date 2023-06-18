@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/acute-monoblastic-monocytic-leukemia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acute-megakaryoblastic-leukemia.html acute-myeloid-leukemia.html
+<a class="trueBaseThemePreviousItem" href="acute-megakaryoblastic-leukemia.html">&lt;</a><a class="trueBaseThemeNextItem" href="acute-myeloid-leukemia.html">&gt;</a>
+
+title Acute Monoblastic/Monocytic Leukemia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acute-monoblastic-monocytic-leukemia" class="material-symbols-outlined">edit</a></div>
+
+* Acute Monoblastic/Monocytic Leukemia is a type of <a href="/concepts/aml-nos.html">AML, NOS</a>
+
+code
+ title Acute Monoblastic/Monocytic Leukemia
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId AMOL
+ parentOncoTreeId AMLNOS
+ umls C0023465
+ nciCode C4861
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

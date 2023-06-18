@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/aml-with-bcr-abl1.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav aml-nos.html aml-with-biallelic-mutations-of-cebpa.html
+<a class="trueBaseThemePreviousItem" href="aml-nos.html">&lt;</a><a class="trueBaseThemeNextItem" href="aml-with-biallelic-mutations-of-cebpa.html">&gt;</a>
+
+title AML with BCR-ABL1
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=aml-with-bcr-abl1" class="material-symbols-outlined">edit</a></div>
+
+* AML with BCR-ABL1 is a type of <a href="/concepts/aml-with-recurrent-genetic-abnormalities.html">AML with Recurrent Genetic Abnormalities</a>
+
+code
+ title AML with BCR-ABL1
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId AMLBCRABL1
+ parentOncoTreeId AMLRGA
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

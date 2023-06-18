@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/sezary-syndrome.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sex-cord-stromal-tumor.html sialoblastoma.html
+<a class="trueBaseThemePreviousItem" href="sex-cord-stromal-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="sialoblastoma.html">&gt;</a>
+
+title Sezary Syndrome
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sezary-syndrome" class="material-symbols-outlined">edit</a></div>
+
+* Sezary Syndrome is a type of <a href="/concepts/mature-t-and-nk-neoplasms.html">Mature T and NK Neoplasms</a>
+
+code
+ title Sezary Syndrome
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId SS
+ parentOncoTreeId MTNN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

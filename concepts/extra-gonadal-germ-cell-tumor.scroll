@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/extra-gonadal-germ-cell-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav exercise.html extrahepatic-cholangiocarcinoma.html
+<a class="trueBaseThemePreviousItem" href="exercise.html">&lt;</a><a class="trueBaseThemeNextItem" href="extrahepatic-cholangiocarcinoma.html">&gt;</a>
+
+title Extra Gonadal Germ Cell Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=extra-gonadal-germ-cell-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Extra Gonadal Germ Cell Tumor is a type of <a href="/concepts/other.html">Other</a>
+
+code
+ title Extra Gonadal Germ Cell Tumor
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Other
+ 
+ oncoTreeId EGCT
+ parentOncoTreeId OTHER
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/salivary-duct-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav salivary-carcinoma.html salivary-gland-oncocytoma.html
+<a class="trueBaseThemePreviousItem" href="salivary-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="salivary-gland-oncocytoma.html">&gt;</a>
+
+title Salivary Duct Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=salivary-duct-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Salivary Duct Carcinoma is a type of <a href="/concepts/salivary-carcinoma.html">Salivary Carcinoma</a>
+
+code
+ title Salivary Duct Carcinoma
+ type cancerType
+ mainType Salivary Gland Cancer
+ tissue Head and Neck
+ 
+ oncoTreeId SDCA
+ parentOncoTreeId SACA
+ umls C1301194
+ nciCode C5904
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

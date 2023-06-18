@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cervical-adenoid-basal-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-adenocarcinoma.html cervical-adenoid-cystic-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="cervical-adenocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-adenoid-cystic-carcinoma.html">&gt;</a>
+
+title Cervical Adenoid Basal Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-adenoid-basal-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Adenoid Basal Carcinoma is a type of <a href="/concepts/cervix.html">Cervical Cancer</a>
+
+code
+ title Cervical Adenoid Basal Carcinoma
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CABC
+ parentOncoTreeId CERVIX
+ umls C1516403
+ nciCode C40213
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

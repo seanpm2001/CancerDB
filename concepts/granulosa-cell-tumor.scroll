@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/granulosa-cell-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav granular-cell-tumor.html gsk.html
+<a class="trueBaseThemePreviousItem" href="granular-cell-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="gsk.html">&gt;</a>
+
+title Granulosa Cell Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=granulosa-cell-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Granulosa Cell Tumor is a type of <a href="/concepts/sex-cord-stromal-tumor.html">Sex Cord Stromal Tumor</a>
+
+code
+ title Granulosa Cell Tumor
+ type cancerType
+ mainType Sex Cord Stromal Tumor
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId GRCT
+ parentOncoTreeId SCST
+ umls C0018206
+ nciCode C3070
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

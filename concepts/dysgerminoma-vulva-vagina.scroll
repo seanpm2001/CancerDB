@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/dysgerminoma-vulva-vagina.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav dysembryoplastic-neuroepithelial-tumor.html dysgerminoma.html
+<a class="trueBaseThemePreviousItem" href="dysembryoplastic-neuroepithelial-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="dysgerminoma.html">&gt;</a>
+
+title Dysgerminoma Vulva/Vagina
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dysgerminoma-vulva-vagina" class="material-symbols-outlined">edit</a></div>
+
+* Dysgerminoma Vulva/Vagina is a type of <a href="/concepts/germ-cell-tumor-of-the-vulva.html">Germ Cell Tumor of the Vulva</a>
+
+code
+ title Dysgerminoma Vulva/Vagina
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Vulva/Vagina
+ 
+ oncoTreeId VDYS
+ parentOncoTreeId VGCT
+ umls C0346185
+ nciCode C8106
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

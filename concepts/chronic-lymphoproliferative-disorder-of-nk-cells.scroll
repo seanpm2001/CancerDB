@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/chronic-lymphoproliferative-disorder-of-nk-cells.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma.html chronic-myelogenous-leukemia.html
+<a class="trueBaseThemePreviousItem" href="chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="chronic-myelogenous-leukemia.html">&gt;</a>
+
+title Chronic Lymphoproliferative Disorder of NK Cells
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chronic-lymphoproliferative-disorder-of-nk-cells" class="material-symbols-outlined">edit</a></div>
+
+* Chronic Lymphoproliferative Disorder of NK Cells is a type of <a href="/concepts/mature-t-and-nk-neoplasms.html">Mature T and NK Neoplasms</a>
+
+code
+ title Chronic Lymphoproliferative Disorder of NK Cells
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId CLPDNK
+ parentOncoTreeId MTNN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

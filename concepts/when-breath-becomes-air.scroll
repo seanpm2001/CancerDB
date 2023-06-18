@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/when-breath-becomes-air.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav well-differentiated-thyroid-cancer.html who.html
+<a class="trueBaseThemePreviousItem" href="well-differentiated-thyroid-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="who.html">&gt;</a>
+
+title When Breath Becomes Air
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=when-breath-becomes-air" class="material-symbols-outlined">edit</a></div>
+
+code
+ title When Breath Becomes Air
+ type book
+ appeared 2016
+ author Paul Kalanithi
+ 
+
+import ../footer.scroll

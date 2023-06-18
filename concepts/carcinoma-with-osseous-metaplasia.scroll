@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/carcinoma-with-osseous-metaplasia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav carcinoma-with-chondroid-metaplasia.html carmustine.html
+<a class="trueBaseThemePreviousItem" href="carcinoma-with-chondroid-metaplasia.html">&lt;</a><a class="trueBaseThemeNextItem" href="carmustine.html">&gt;</a>
+
+title Carcinoma with Osseous Metaplasia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=carcinoma-with-osseous-metaplasia" class="material-symbols-outlined">edit</a></div>
+
+* Carcinoma with Osseous Metaplasia is a type of <a href="/concepts/mixed-type-metaplastic-breast-cancer.html">Mixed Type Metaplastic Breast Cancer</a>
+
+code
+ title Carcinoma with Osseous Metaplasia
+ type cancerType
+ mainType Breast Cancer
+ tissue Breast
+ 
+ oncoTreeId COM
+ parentOncoTreeId MMBC
+ umls C1711312
+ nciCode C47848
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

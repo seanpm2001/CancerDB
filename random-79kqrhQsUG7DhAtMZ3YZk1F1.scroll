@@ -1,0 +1,63 @@
+import header.scroll
+
+canonicalLink 
+
+title What are the oldest cancer non-profits?
+ hidden
+
+
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">title What are the oldest cancer non-profits?
+ select appeared country
+ notMissing appeared
+ sortBy appeared
+ where type includes cancerNonProfit</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 1,453 files and found 25 matches in 0.03s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# What are the oldest cancer non-profits?
+
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM appeared DeLiM country
+ Swiss Cancer League DeLiM /concepts/swiss-cancer-league.html DeLiM 1910 DeLiM Switzerland
+ American Cancer Society DeLiM /concepts/american-cancer-society.html DeLiM 1913 DeLiM United States
+ UICC DeLiM /concepts/uicc.html DeLiM 1933 DeLiM 
+ Cancer Society of Finland DeLiM /concepts/cancer-society-of-finland.html DeLiM 1936 DeLiM Finland
+ Canadian Cancer Society DeLiM /concepts/canadian-cancer-society.html DeLiM 1938 DeLiM Canada
+ Norwegian Cancer Society DeLiM /concepts/norwegian-cancer-society.html DeLiM 1938 DeLiM Norway
+ CancerCare DeLiM /concepts/cancercare.html DeLiM 1944 DeLiM United States
+ Dutch Cancer Society DeLiM /concepts/dutch-cancer-society.html DeLiM 1949 DeLiM Netherlands
+ Icelandic Cancer Society DeLiM /concepts/icelandic-cancer-society.html DeLiM 1951 DeLiM Iceland
+ Asociación Española Contra el Cancer DeLiM /concepts/aecc.html DeLiM 1953 DeLiM Spain
+ NCC DeLiM /concepts/ncc.html DeLiM 1953 DeLiM United States
+ Cancer Council Australia DeLiM /concepts/cancer-council-australia.html DeLiM 1961 DeLiM Australia
+ National Cancer Registrars Association DeLiM /concepts/ncra.html DeLiM 1974 DeLiM 
+ AICR DeLiM /concepts/aicr.html DeLiM 1982 DeLiM United States
+ Prevent Cancer Foundation DeLiM /concepts/prevent-cancer-foundation.html DeLiM 1985 DeLiM United States
+ World Cancer Research Fund UK DeLiM /concepts/wcrf-uk.html DeLiM 1990 DeLiM 
+ National Breast Cancer Foundation DeLiM /concepts/national-breast-cancer-foundation.html DeLiM 1991 DeLiM 
+ Bone Marrow & Cancer Foundation DeLiM /concepts/bone-marrow-and-cancer-foundation.html DeLiM 1992 DeLiM 
+ WCRF DeLiM /concepts/wcrf.html DeLiM 1999 DeLiM United Kingdom
+ American Cancer Society Cancer Action Network DeLiM /concepts/acs-can.html DeLiM 2001 DeLiM United States
+ Imerman Angels DeLiM /concepts/imerman-angels.html DeLiM 2006 DeLiM 
+ HealingStrong DeLiM /concepts/healing-strong.html DeLiM 2013 DeLiM United States
+ Cancer Crackdown DeLiM /concepts/cancer-crackdown.html DeLiM 2014 DeLiM United States
+ Europa Donna Armenia DeLiM /concepts/europa-donna-armenia.html DeLiM 2015 DeLiM Armenia
+ C/Can DeLiM /concepts/ccan.html DeLiM 2017 DeLiM Switzerland
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=title%20What%20are%20the%20oldest%20cancer%20non-profits%3F%0Aselect%20appeared%20country%0AnotMissing%20appeared%0AsortBy%20appeared%0Awhere%20type%20includes%20cancerNonProfit JSON
+ link /search.csv?q=title%20What%20are%20the%20oldest%20cancer%20non-profits%3F%0Aselect%20appeared%20country%0AnotMissing%20appeared%0AsortBy%20appeared%0Awhere%20type%20includes%20cancerNonProfit CSV
+ link /search.tsv?q=title%20What%20are%20the%20oldest%20cancer%20non-profits%3F%0Aselect%20appeared%20country%0AnotMissing%20appeared%0AsortBy%20appeared%0Awhere%20type%20includes%20cancerNonProfit TSV
+ link /search.tree?q=title%20What%20are%20the%20oldest%20cancer%20non-profits%3F%0Aselect%20appeared%20country%0AnotMissing%20appeared%0AsortBy%20appeared%0Awhere%20type%20includes%20cancerNonProfit Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

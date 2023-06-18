@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/alk-positive-large-b-cell-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav alitretinoin.html alkaline-diet.html
+<a class="trueBaseThemePreviousItem" href="alitretinoin.html">&lt;</a><a class="trueBaseThemeNextItem" href="alkaline-diet.html">&gt;</a>
+
+title ALK Positive Large B-Cell Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=alk-positive-large-b-cell-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* ALK Positive Large B-Cell Lymphoma is a type of <a href="/concepts/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title ALK Positive Large B-Cell Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId ALKLBCL
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

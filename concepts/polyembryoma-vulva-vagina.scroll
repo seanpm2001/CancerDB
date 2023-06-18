@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/polyembryoma-vulva-vagina.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav polycythemia-vera.html polyembryoma.html
+<a class="trueBaseThemePreviousItem" href="polycythemia-vera.html">&lt;</a><a class="trueBaseThemeNextItem" href="polyembryoma.html">&gt;</a>
+
+title Polyembryoma Vulva/Vagina
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=polyembryoma-vulva-vagina" class="material-symbols-outlined">edit</a></div>
+
+* Polyembryoma Vulva/Vagina is a type of <a href="/concepts/germ-cell-tumor-of-the-vulva.html">Germ Cell Tumor of the Vulva</a>
+
+code
+ title Polyembryoma Vulva/Vagina
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Vulva/Vagina
+ 
+ oncoTreeId VPE
+ parentOncoTreeId VGCT
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

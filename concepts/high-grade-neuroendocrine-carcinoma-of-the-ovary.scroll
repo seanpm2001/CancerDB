@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/high-grade-neuroendocrine-carcinoma-of-the-ovary.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav high-grade-neuroendocrine-carcinoma-of-the-esophagus.html high-grade-neuroendocrine-carcinoma-of-the-stomach.html
+<a class="trueBaseThemePreviousItem" href="high-grade-neuroendocrine-carcinoma-of-the-esophagus.html">&lt;</a><a class="trueBaseThemeNextItem" href="high-grade-neuroendocrine-carcinoma-of-the-stomach.html">&gt;</a>
+
+title High-Grade Neuroendocrine Carcinoma of the Ovary
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=high-grade-neuroendocrine-carcinoma-of-the-ovary" class="material-symbols-outlined">edit</a></div>
+
+* High-Grade Neuroendocrine Carcinoma of the Ovary is a type of <a href="/concepts/ovarian-cancer-other.html">Ovarian Cancer, Other</a>
+
+code
+ title High-Grade Neuroendocrine Carcinoma of the Ovary
+ type cancerType
+ mainType Ovarian Cancer
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId HGONEC
+ parentOncoTreeId OOVC
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

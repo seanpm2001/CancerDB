@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/dta-dz.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav dr-sebi-cure-for-cancer.html duke-cancer-institute.html
+<a class="trueBaseThemePreviousItem" href="dr-sebi-cure-for-cancer.html">&lt;</a><a class="trueBaseThemeNextItem" href="duke-cancer-institute.html">&gt;</a>
+
+title DTA
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dta-dz" class="material-symbols-outlined">edit</a></div>
+
+Seems to have been stationed in two hospitals in the city of Algiers (Aïn Taya and Hussein Dey)
+
+- Read more about DTA on <a href="http://www.santemaghreb.com/algerie/registre_tumeurs.pdf">santemaghreb.com</a> · <a href="https://ghdx.healthdata.org/record/algeria-algiers-cancer-registry-report-2004">ghdx.healthdata.org</a>
+
+code
+ title DTA
+ type registry
+ appeared 2004
+ standsFor Des Tumeurs d’Alger
+ description Seems to have been stationed in two hospitals in the city of Algiers (Aïn Taya and Hussein Dey)
+ 
+ reference http://www.santemaghreb.com/algerie/registre_tumeurs.pdf
+ reference https://ghdx.healthdata.org/record/algeria-algiers-cancer-registry-report-2004
+ 
+ country Algeria
+ 
+
+import ../footer.scroll

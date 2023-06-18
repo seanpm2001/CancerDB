@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/panama-ncc.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav paleo-diet.html pancreas.html
+<a class="trueBaseThemePreviousItem" href="paleo-diet.html">&lt;</a><a class="trueBaseThemeNextItem" href="pancreas.html">&gt;</a>
+
+title National Institute of Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.minsa.gob.pa/contenido/instituto-nacional-de-cancerologia" class="material-symbols-outlined">home</a> <a href="/edit.html?id=panama-ncc" class="material-symbols-outlined">edit</a></div>
+
+code
+ title National Institute of Cancer
+ type nationalCancerInstitute
+ 
+ website http://www.minsa.gob.pa/contenido/instituto-nacional-de-cancerologia
+ 
+ country Panama
+ 
+
+import ../footer.scroll

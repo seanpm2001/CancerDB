@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/soft-tissue-myoepithelial-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sncr-sy.html soft-tissue.html
+<a class="trueBaseThemePreviousItem" href="sncr-sy.html">&lt;</a><a class="trueBaseThemeNextItem" href="soft-tissue.html">&gt;</a>
+
+title Soft Tissue Myoepithelial Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=soft-tissue-myoepithelial-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Soft Tissue Myoepithelial Carcinoma is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Soft Tissue Myoepithelial Carcinoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId STMYEC
+ parentOncoTreeId SOFT_TISSUE
+ umls C0334699
+ nciCode C7596
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

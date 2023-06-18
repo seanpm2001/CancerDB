@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/embryonal-tumor-with-abundant-neuropil-and-true-rosettes.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav embryonal-rhabdomyosarcoma.html embryonal-tumor.html
+<a class="trueBaseThemePreviousItem" href="embryonal-rhabdomyosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="embryonal-tumor.html">&gt;</a>
+
+title Embryonal Tumor with Abundant Neuropil and True Rosettes
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=embryonal-tumor-with-abundant-neuropil-and-true-rosettes" class="material-symbols-outlined">edit</a></div>
+
+* Embryonal Tumor with Abundant Neuropil and True Rosettes is a type of <a href="/concepts/embryonal-tumor.html">Embryonal Tumor</a>
+
+code
+ title Embryonal Tumor with Abundant Neuropil and True Rosettes
+ type cancerType
+ mainType Embryonal Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId ETANTR
+ parentOncoTreeId EMBT
+ umls C0700367
+ nciCode C4915
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

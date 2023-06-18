@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cancer-of-unknown-primary-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cancer-journal.html cancer-of-unknown-primary.html
+<a class="trueBaseThemePreviousItem" href="cancer-journal.html">&lt;</a><a class="trueBaseThemeNextItem" href="cancer-of-unknown-primary.html">&gt;</a>
+
+title Cancer of Unknown Primary, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cancer-of-unknown-primary-nos" class="material-symbols-outlined">edit</a></div>
+
+* Cancer of Unknown Primary, NOS is a type of <a href="/concepts/cancer-of-unknown-primary.html">Cancer of Unknown Primary</a>
+
+code
+ title Cancer of Unknown Primary, NOS
+ type cancerType
+ mainType Cancer of Unknown Primary
+ tissue Other
+ 
+ oncoTreeId CUPNOS
+ parentOncoTreeId CUP
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/lung-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lung-adenocarcinoma-in-situ.html lung-adenosquamous-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="lung-adenocarcinoma-in-situ.html">&lt;</a><a class="trueBaseThemeNextItem" href="lung-adenosquamous-carcinoma.html">&gt;</a>
+
+title Lung Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lung-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Lung Adenocarcinoma is a type of <a href="/concepts/non-small-cell-lung-cancer.html">Non-Small Cell Lung Cancer</a>
+
+code
+ title Lung Adenocarcinoma
+ type cancerType
+ mainType Non-Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId LUAD
+ parentOncoTreeId NSCLC
+ umls C0152013
+ nciCode C3512
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

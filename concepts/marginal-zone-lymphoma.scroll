@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/marginal-zone-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav margin-probe.html marijuana.html
+<a class="trueBaseThemePreviousItem" href="margin-probe.html">&lt;</a><a class="trueBaseThemeNextItem" href="marijuana.html">&gt;</a>
+
+title Marginal Zone Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=marginal-zone-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Marginal Zone Lymphoma is a type of <a href="/concepts/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+* Subtypes of Marginal Zone Lymphoma include <a href="/concepts/extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma.html">Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)</a>, <a href="/concepts/nodal-marginal-zone-lymphoma.html">Nodal Marginal Zone Lymphoma</a>, <a href="/concepts/splenic-marginal-zone-lymphoma.html">Splenic Marginal Zone Lymphoma</a>
+
+code
+ title Marginal Zone Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId MZL
+ parentOncoTreeId MBN
+ umls C1367654
+ nciCode C4341
+ oncoTreeLevel 5
+ subTypes 3
+ 
+
+import ../footer.scroll

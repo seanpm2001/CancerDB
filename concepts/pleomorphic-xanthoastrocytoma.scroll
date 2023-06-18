@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/pleomorphic-xanthoastrocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pleomorphic-rhabdomyosarcoma.html pleura.html
+<a class="trueBaseThemePreviousItem" href="pleomorphic-rhabdomyosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="pleura.html">&gt;</a>
+
+title Pleomorphic Xanthoastrocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pleomorphic-xanthoastrocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Pleomorphic Xanthoastrocytoma is a type of <a href="/concepts/encapsulated-glioma.html">Encapsulated Glioma</a>
+
+code
+ title Pleomorphic Xanthoastrocytoma
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId PXA
+ parentOncoTreeId ENCG
+ umls C0334586
+ nciCode C4323
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

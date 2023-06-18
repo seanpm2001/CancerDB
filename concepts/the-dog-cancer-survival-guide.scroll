@@ -1,0 +1,25 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/the-dog-cancer-survival-guide.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav the-death-of-cancer-book.html the-eden-prescription-book.html
+<a class="trueBaseThemePreviousItem" href="the-death-of-cancer-book.html">&lt;</a><a class="trueBaseThemeNextItem" href="the-eden-prescription-book.html">&gt;</a>
+
+title The Dog Cancer Survival Guide
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=the-dog-cancer-survival-guide" class="material-symbols-outlined">edit</a></div>
+
+- Read more about The Dog Cancer Survival Guide on <a href="https://www.barnesandnoble.com/w/the-dog-cancer-survival-guide-demian-dressler/1030522401">barnesandnoble.com</a>
+
+code
+ title The Dog Cancer Survival Guide
+ type book
+ appeared 2011
+ author Demian Dressler
+ 
+ reference https://www.barnesandnoble.com/w/the-dog-cancer-survival-guide-demian-dressler/1030522401
+ amazon https://www.amazon.com/Dog-Cancer-Survival-Guide-Treatments/dp/0975263153
+ 
+
+import ../footer.scroll

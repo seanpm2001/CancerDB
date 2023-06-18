@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/canswer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cancerfonden.html capecitabine.html
+<a class="trueBaseThemePreviousItem" href="cancerfonden.html">&lt;</a><a class="trueBaseThemeNextItem" href="capecitabine.html">&gt;</a>
+
+title CAnswer
+
+<div class="trueBaseThemeQuickLinks"><a href="https://cancerbulletin.facs.org/forums/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=canswer" class="material-symbols-outlined">edit</a></div>
+
+The CAnswer Forum is a tool and resource for the American College of Surgeons (ACS) Cancer Programs constituents to ask questions, search topics, and connect with Cancer Program colleagues across the country.
+
+code
+ title CAnswer
+ type onlineForum
+ description The CAnswer Forum is a tool and resource for the American College of Surgeons (ACS) Cancer Programs constituents to ask questions, search topics, and connect with Cancer Program colleagues across the country.
+ 
+ website https://cancerbulletin.facs.org/forums/
+ 
+
+import ../footer.scroll

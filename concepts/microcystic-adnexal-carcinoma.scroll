@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/microcystic-adnexal-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav miaderm-cream.html microscope-confocal.html
+<a class="trueBaseThemePreviousItem" href="miaderm-cream.html">&lt;</a><a class="trueBaseThemeNextItem" href="microscope-confocal.html">&gt;</a>
+
+title Microcystic Adnexal Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=microcystic-adnexal-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Microcystic Adnexal Carcinoma is a type of <a href="/concepts/skin.html">Skin Cancer</a>
+
+code
+ title Microcystic Adnexal Carcinoma
+ type cancerType
+ mainType Skin Cancer, Non-Melanoma
+ tissue Skin
+ 
+ oncoTreeId MAC
+ parentOncoTreeId SKIN
+ umls C0346027
+ nciCode C7581
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

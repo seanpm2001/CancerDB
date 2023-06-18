@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/pleomorphic-rhabdomyosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pleomorphic-liposarcoma.html pleomorphic-xanthoastrocytoma.html
+<a class="trueBaseThemePreviousItem" href="pleomorphic-liposarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="pleomorphic-xanthoastrocytoma.html">&gt;</a>
+
+title Pleomorphic Rhabdomyosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pleomorphic-rhabdomyosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Pleomorphic Rhabdomyosarcoma is a type of <a href="/concepts/rhabdomyosarcoma.html">Rhabdomyosarcoma</a>
+
+code
+ title Pleomorphic Rhabdomyosarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId PLRMS
+ parentOncoTreeId RMS
+ umls C0334480
+ nciCode C4258
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

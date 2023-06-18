@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/small-cell-lung-cancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav small-cell-glioblastoma.html small-cell-osteosarcoma.html
+<a class="trueBaseThemePreviousItem" href="small-cell-glioblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="small-cell-osteosarcoma.html">&gt;</a>
+
+title Small Cell Lung Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=small-cell-lung-cancer" class="material-symbols-outlined">edit</a></div>
+
+* Small Cell Lung Cancer is a type of <a href="/concepts/lung-neuroendocrine-tumor.html">Lung Neuroendocrine Tumor</a>
+
+code
+ title Small Cell Lung Cancer
+ type cancerType
+ mainType Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId SCLC
+ parentOncoTreeId LNET
+ umls C0149925
+ nciCode C4917
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

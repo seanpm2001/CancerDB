@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/colorectal-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav colonoscopy.html colorectal.html
+<a class="trueBaseThemePreviousItem" href="colonoscopy.html">&lt;</a><a class="trueBaseThemeNextItem" href="colorectal.html">&gt;</a>
+
+title Colorectal Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=colorectal-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Colorectal Adenocarcinoma is a type of <a href="/concepts/colon.html">Colon Cancer</a>
+* Subtypes of Colorectal Adenocarcinoma include <a href="/concepts/colon-adenocarcinoma-in-situ.html">Colon Adenocarcinoma In Situ</a>, <a href="/concepts/colon-adenocarcinoma.html">Colon Adenocarcinoma</a>, <a href="/concepts/mucinous-adenocarcinoma-of-the-colon-and-rectum.html">Mucinous Adenocarcinoma of the Colon and Rectum</a>, <a href="/concepts/rectal-adenocarcinoma.html">Rectal Adenocarcinoma</a>, <a href="/concepts/signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum.html">Signet Ring Cell Adenocarcinoma of the Colon and Rectum</a>
+
+code
+ title Colorectal Adenocarcinoma
+ type cancerType
+ mainType Colorectal Cancer
+ tissue Bowel
+ 
+ oncoTreeId COADREAD
+ parentOncoTreeId BOWEL
+ umls C1319315
+ nciCode C5105
+ oncoTreeLevel 2
+ subTypes 5
+ 
+
+import ../footer.scroll

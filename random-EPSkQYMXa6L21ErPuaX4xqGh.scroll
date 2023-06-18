@@ -1,0 +1,64 @@
+import header.scroll
+
+canonicalLink 
+
+title What are the most common cancer types?
+ hidden
+
+description Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">notMissing uscsCasesPerYear
+ select uscsCasesPerYear
+ sortBy uscsCasesPerYear
+ reverse
+ title What are the most common cancer types?
+ description Data is from the 2019 United States Cancer Statistics dataset from the CDC.</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 1,453 files and found 25 matches in 0.01s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# What are the most common cancer types?
+* Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM uscsCasesPerYear
+ Breast Cancer DeLiM /concepts/breast.html DeLiM 264115
+ Prostate Cancer DeLiM /concepts/prostate.html DeLiM 224703
+ Lung Cancer DeLiM /concepts/lung.html DeLiM 221020
+ Colon Cancer DeLiM /concepts/colon.html DeLiM 142438
+ Skin Cancer DeLiM /concepts/skin.html DeLiM 88001
+ Bladder Cancer DeLiM /concepts/bladder-cancer.html DeLiM 74949
+ Non-Hodgkin Lymphoma DeLiM /concepts/non-hodgkin-lymphoma.html DeLiM 71565
+ Kidney Cancer DeLiM /concepts/kidney.html DeLiM 68020
+ Uterine Cancer DeLiM /concepts/uterus.html DeLiM 59447
+ Pancreatic Cancer DeLiM /concepts/pancreas.html DeLiM 53957
+ Leukemia DeLiM /concepts/leukemia.html DeLiM 50627
+ Oral Cancer DeLiM /concepts/oral-cancer.html DeLiM 47783
+ Thyroid Cancer DeLiM /concepts/thyroid.html DeLiM 45272
+ Liver Cancer DeLiM /concepts/liver.html DeLiM 35443
+ Multiple Myeloma DeLiM /concepts/multiple-myeloma.html DeLiM 27799
+ Stomach Cancer DeLiM /concepts/stomach-cancer.html DeLiM 24359
+ Brain Cancer DeLiM /concepts/brain.html DeLiM 22538
+ Ovarian Cancer DeLiM /concepts/ovarian-cancer.html DeLiM 19561
+ Esophagus/Stomach Cancer DeLiM /concepts/esophagus-stomach.html DeLiM 18872
+ Cervical Cancer DeLiM /concepts/cervix.html DeLiM 12790
+ Laryngeal cancer DeLiM /concepts/laryngeal-cancer.html DeLiM 12050
+ Testicular Cancer DeLiM /concepts/testis.html DeLiM 8729
+ Hodgkin Lymphoma DeLiM /concepts/hodgkin-lymphoma.html DeLiM 8515
+ Mesothelioma DeLiM /concepts/mesothelioma.html DeLiM 2828
+ Karposi's Sarcoma DeLiM /concepts/kaposi-sarcoma.html DeLiM 54
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=notMissing%20uscsCasesPerYear%0Aselect%20uscsCasesPerYear%0AsortBy%20uscsCasesPerYear%0Areverse%0Atitle%20What%20are%20the%20most%20common%20cancer%20types%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. JSON
+ link /search.csv?q=notMissing%20uscsCasesPerYear%0Aselect%20uscsCasesPerYear%0AsortBy%20uscsCasesPerYear%0Areverse%0Atitle%20What%20are%20the%20most%20common%20cancer%20types%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. CSV
+ link /search.tsv?q=notMissing%20uscsCasesPerYear%0Aselect%20uscsCasesPerYear%0AsortBy%20uscsCasesPerYear%0Areverse%0Atitle%20What%20are%20the%20most%20common%20cancer%20types%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. TSV
+ link /search.tree?q=notMissing%20uscsCasesPerYear%0Aselect%20uscsCasesPerYear%0AsortBy%20uscsCasesPerYear%0Areverse%0Atitle%20What%20are%20the%20most%20common%20cancer%20types%3F%0Adescription%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

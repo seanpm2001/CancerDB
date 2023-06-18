@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/acute-panmyelosis-with-myelofibrosis.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav acute-myelomonocytic-leukemia.html acute-undifferentiated-leukemia.html
+<a class="trueBaseThemePreviousItem" href="acute-myelomonocytic-leukemia.html">&lt;</a><a class="trueBaseThemeNextItem" href="acute-undifferentiated-leukemia.html">&gt;</a>
+
+title Acute Panmyelosis with Myelofibrosis
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acute-panmyelosis-with-myelofibrosis" class="material-symbols-outlined">edit</a></div>
+
+* Acute Panmyelosis with Myelofibrosis is a type of <a href="/concepts/aml-nos.html">AML, NOS</a>
+
+code
+ title Acute Panmyelosis with Myelofibrosis
+ type cancerType
+ mainType Leukemia
+ tissue Myeloid
+ 
+ oncoTreeId APMF
+ parentOncoTreeId AMLNOS
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

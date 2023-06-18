@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/breast-invasive-carcinosarcoma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast-invasive-carcinoma-nos.html breast-invasive-ductal-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="breast-invasive-carcinoma-nos.html">&lt;</a><a class="trueBaseThemeNextItem" href="breast-invasive-ductal-carcinoma.html">&gt;</a>
+
+title Breast Invasive Carcinosarcoma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=breast-invasive-carcinosarcoma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Breast Invasive Carcinosarcoma, NOS is a type of <a href="/concepts/invasive-breast-carcinoma.html">Invasive Breast Carcinoma</a>
+
+code
+ title Breast Invasive Carcinosarcoma, NOS
+ type cancerType
+ mainType Breast Cancer
+ tissue Breast
+ 
+ oncoTreeId CSNOS
+ parentOncoTreeId BRCA
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/craniopharyngioma-adamantinomatous-type.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav conventional-type-chordoma.html craniopharyngioma-papillary-type.html
+<a class="trueBaseThemePreviousItem" href="conventional-type-chordoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="craniopharyngioma-papillary-type.html">&gt;</a>
+
+title Craniopharyngioma, Adamantinomatous Type
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=craniopharyngioma-adamantinomatous-type" class="material-symbols-outlined">edit</a></div>
+
+* Craniopharyngioma, Adamantinomatous Type is a type of <a href="/concepts/sellar-tumor.html">Sellar Tumor</a>
+
+code
+ title Craniopharyngioma, Adamantinomatous Type
+ type cancerType
+ mainType Sellar Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId ACPG
+ parentOncoTreeId SELT
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/qcancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav qatar-ncc.html qcr-au.html
+<a class="trueBaseThemePreviousItem" href="qatar-ncc.html">&lt;</a><a class="trueBaseThemeNextItem" href="qcr-au.html">&gt;</a>
+
+title QCancer
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.qcancer.org/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=qcancer" class="material-symbols-outlined">edit</a></div>
+
+Developed for the UK population, and is intended for use in the UK. It gives a risk of undiagnosed cancer for the individual across a whole range of tumour sites. It is, therefore, a patient centred score, rather than a tumour site centred score.
+
+code
+ title QCancer
+ type website
+ appeared 2013
+ description Developed for the UK population, and is intended for use in the UK. It gives a risk of undiagnosed cancer for the individual across a whole range of tumour sites. It is, therefore, a patient centred score, rather than a tumour site centred score.
+ 
+ website https://www.qcancer.org/
+ 
+ country United Kingdom
+ 
+ domainName qcancer.org
+  registered 2011
+ 
+
+import ../footer.scroll

@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/national-cancer-center-korea.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav national-cancer-center-japan.html national-cancer-grid-india.html
+<a class="trueBaseThemePreviousItem" href="national-cancer-center-japan.html">&lt;</a><a class="trueBaseThemeNextItem" href="national-cancer-grid-india.html">&gt;</a>
+
+title National Cancer Center Korea
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.ncc.re.kr/indexEn.ncc" class="material-symbols-outlined">home</a> <a href="/edit.html?id=national-cancer-center-korea" class="material-symbols-outlined">edit</a></div>
+
+code
+ title National Cancer Center Korea
+ type nationalCancerInstitute
+ aka NCCK
+ 
+ website https://www.ncc.re.kr/indexEn.ncc
+ 
+ country South Korea
+ 
+
+import ../footer.scroll

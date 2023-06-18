@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/bncr-bt.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav bleomycin.html boehringer-ingelheim.html
+<a class="trueBaseThemePreviousItem" href="bleomycin.html">&lt;</a><a class="trueBaseThemeNextItem" href="boehringer-ingelheim.html">&gt;</a>
+
+title BNCR
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=bncr-bt" class="material-symbols-outlined">edit</a></div>
+
+The Botswana National Cancer Registry (BNCR) which is a population-based cancer registry collects information on demographic, risk factors, treatment and care of cancers in the whole country through its referral and district hospitals. The Ministry of Health with the assistance of the International Association of Cancer Registries (IACR) established a National Cancer Registry under Diseases control in 1999 as a means of surveillance system.
+
+- Read more about BNCR on <a href="https://afcrn.org/index.php/membership/membership-list/118-bncr">afcrn.org</a>
+
+code
+ title BNCR
+ type registry
+ standsFor Botswana National Cancer Registry
+ description The Botswana National Cancer Registry (BNCR) which is a population-based cancer registry collects information on demographic, risk factors, treatment and care of cancers in the whole country through its referral and district hospitals. The Ministry of Health with the assistance of the International Association of Cancer Registries (IACR) established a National Cancer Registry under Diseases control in 1999 as a means of surveillance system.
+ 
+ reference https://afcrn.org/index.php/membership/membership-list/118-bncr
+ 
+ country Botswana
+ 
+
+import ../footer.scroll

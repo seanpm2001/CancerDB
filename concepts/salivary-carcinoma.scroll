@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/salivary-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav salivary-carcinoma-other.html salivary-duct-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="salivary-carcinoma-other.html">&lt;</a><a class="trueBaseThemeNextItem" href="salivary-duct-carcinoma.html">&gt;</a>
+
+title Salivary Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=salivary-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Salivary Carcinoma is a type of <a href="/concepts/head-and-neck.html">Head and Neck Cancer</a>
+* Subtypes of Salivary Carcinoma include <a href="/concepts/acinic-cell-carcinoma.html">Acinic Cell Carcinoma</a>, <a href="/concepts/adenoid-cystic-carcinoma.html">Adenoid Cystic Carcinoma</a>, <a href="/concepts/mammary-analogue-secretory-carcinoma-of-salivary-gland-origin.html">Mammary Analogue Secretory Carcinoma of Salivary Gland Origin</a>, <a href="/concepts/mucoepidermoid-carcinoma.html">Mucoepidermoid Carcinoma</a>, <a href="/concepts/myoepithelial-carcinoma.html">Myoepithelial Carcinoma</a>, <a href="/concepts/salivary-adenocarcinoma.html">Salivary Adenocarcinoma</a>, <a href="/concepts/salivary-carcinoma-other.html">Salivary Carcinoma, Other</a>, <a href="/concepts/salivary-duct-carcinoma.html">Salivary Duct Carcinoma</a>, <a href="/concepts/salivary-gland-oncocytoma.html">Salivary Gland Oncocytoma</a>
+
+code
+ title Salivary Carcinoma
+ type cancerType
+ mainType Salivary Gland Cancer
+ tissue Head and Neck
+ 
+ oncoTreeId SACA
+ parentOncoTreeId HEAD_NECK
+ umls C0948750
+ nciCode C9272
+ oncoTreeLevel 2
+ subTypes 9
+ 
+
+import ../footer.scroll

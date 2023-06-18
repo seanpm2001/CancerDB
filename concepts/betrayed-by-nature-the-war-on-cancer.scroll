@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/betrayed-by-nature-the-war-on-cancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav beth-israel.html bevacizumab.html
+<a class="trueBaseThemePreviousItem" href="beth-israel.html">&lt;</a><a class="trueBaseThemeNextItem" href="bevacizumab.html">&gt;</a>
+
+title Betrayed by Nature: The War on Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=betrayed-by-nature-the-war-on-cancer" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Betrayed by Nature: The War on Cancer
+ type book
+ appeared 2012
+ author Robin Hesketh
+ 
+ amazon https://www.amazon.com/Betrayed-Nature-War-Cancer-MacSci/dp/0230338488
+ 
+
+import ../footer.scroll

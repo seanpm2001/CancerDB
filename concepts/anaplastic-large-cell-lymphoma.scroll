@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/anaplastic-large-cell-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav anaplastic-large-cell-lymphoma-alk-positive.html anaplastic-meningioma.html
+<a class="trueBaseThemePreviousItem" href="anaplastic-large-cell-lymphoma-alk-positive.html">&lt;</a><a class="trueBaseThemeNextItem" href="anaplastic-meningioma.html">&gt;</a>
+
+title Anaplastic Large Cell Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=anaplastic-large-cell-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Anaplastic Large Cell Lymphoma is a type of <a href="/concepts/mature-t-and-nk-neoplasms.html">Mature T and NK Neoplasms</a>
+* Subtypes of Anaplastic Large Cell Lymphoma include <a href="/concepts/anaplastic-large-cell-lymphoma-alk-negative.html">Anaplastic Large-Cell Lymphoma ALK Negative</a>, <a href="/concepts/anaplastic-large-cell-lymphoma-alk-positive.html">Anaplastic Large-Cell Lymphoma ALK Positive</a>, <a href="/concepts/breast-implant-associated-anaplastic-large-cell-lymphoma.html">Breast Implant-Associated Anaplastic Large-Cell Lymphoma</a>
+
+code
+ title Anaplastic Large Cell Lymphoma
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId ALCL
+ parentOncoTreeId MTNN
+ umls C0206180
+ nciCode C3720
+ oncoTreeLevel 5
+ subTypes 3
+ 
+
+import ../footer.scroll

@@ -1,0 +1,34 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/breastcancer-dot-org.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast.html brenner-tumor-benign.html
+<a class="trueBaseThemePreviousItem" href="breast.html">&lt;</a><a class="trueBaseThemeNextItem" href="brenner-tumor-benign.html">&gt;</a>
+
+title Breastcancer.org
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.breastcancer.org" class="material-symbols-outlined">home</a> <a href="https://twitter.com/Breastcancerorg"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a> <a href="https://www.youtube.com/c/breastcancerorg" class="material-symbols-outlined">smart_display</a> <a href="https://www.facebook.com/breastcancerorg"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Logo Facebook</title><path d="M480 257.35c0-123.7-100.3-224-224-224s-224 100.3-224 224c0 111.8 81.9 204.47 189 221.29V322.12h-56.89v-64.77H221V208c0-56.13 33.45-87.16 84.61-87.16 24.51 0 50.15 4.38 50.15 4.38v55.13H327.5c-27.81 0-36.51 17.26-36.51 35v42h62.12l-9.92 64.77H291v156.54c107.1-16.81 189-109.48 189-221.31z" fill-rule="evenodd"/></svg></a> <a href="https://www.instagram.com/breastcancerorg"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Logo Instagram</title><path d="M349.33 69.33a93.62 93.62 0 0193.34 93.34v186.66a93.62 93.62 0 01-93.34 93.34H162.67a93.62 93.62 0 01-93.34-93.34V162.67a93.62 93.62 0 0193.34-93.34h186.66m0-37.33H162.67C90.8 32 32 90.8 32 162.67v186.66C32 421.2 90.8 480 162.67 480h186.66C421.2 480 480 421.2 480 349.33V162.67C480 90.8 421.2 32 349.33 32z"/><path d="M377.33 162.67a28 28 0 1128-28 27.94 27.94 0 01-28 28zM256 181.33A74.67 74.67 0 11181.33 256 74.75 74.75 0 01256 181.33m0-37.33a112 112 0 10112 112 112 112 0 00-112-112z"/></svg></a> <a href="/edit.html?id=breastcancer-dot-org" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Breastcancer.org
+ type website cancerNonProfit
+ cancerTypes breast
+ 
+ website https://www.breastcancer.org
+ twitter https://twitter.com/Breastcancerorg
+ facebook https://www.facebook.com/breastcancerorg
+ youTubeChannel https://www.youtube.com/c/breastcancerorg
+ instagram https://www.instagram.com/breastcancerorg
+ 
+ country United States
+ city Ardmore, PA
+ 
+ ein 233082851
+ charityNavigator https://www.charitynavigator.org/ein/233082851
+ 
+ domainName breastcancer.org
+  registered 1996
+ 
+
+import ../footer.scroll

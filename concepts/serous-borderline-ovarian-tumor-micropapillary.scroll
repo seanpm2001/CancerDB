@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/serous-borderline-ovarian-tumor-micropapillary.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav serene-hospice-care.html serous-borderline-ovarian-tumor.html
+<a class="trueBaseThemePreviousItem" href="serene-hospice-care.html">&lt;</a><a class="trueBaseThemeNextItem" href="serous-borderline-ovarian-tumor.html">&gt;</a>
+
+title Serous Borderline Ovarian Tumor, Micropapillary
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=serous-borderline-ovarian-tumor-micropapillary" class="material-symbols-outlined">edit</a></div>
+
+* Serous Borderline Ovarian Tumor, Micropapillary is a type of <a href="/concepts/ovarian-epithelial-tumor.html">Ovarian Epithelial Tumor</a>
+
+code
+ title Serous Borderline Ovarian Tumor, Micropapillary
+ type cancerType
+ mainType Ovarian Cancer
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId SBMOV
+ parentOncoTreeId OVT
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

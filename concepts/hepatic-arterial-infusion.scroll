@@ -1,0 +1,25 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/hepatic-arterial-infusion.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav hepatectomy.html hepatoblastoma.html
+<a class="trueBaseThemePreviousItem" href="hepatectomy.html">&lt;</a><a class="trueBaseThemeNextItem" href="hepatoblastoma.html">&gt;</a>
+
+title Hepatic Arterial Infusion
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=hepatic-arterial-infusion" class="material-symbols-outlined">edit</a></div>
+
+HAI is a type of chemotherapy delivered by a pump connected to the liver. This lets doctors take advantage of the liver’s unique anatomy.
+
+- Read more about Hepatic Arterial Infusion on <a href="https://www.ohsu.edu/knight-cancer-institute/hepatic-arterial-infusion-hai">ohsu.edu</a>
+
+code
+ title Hepatic Arterial Infusion
+ type chemotherapyProcedure
+ description HAI is a type of chemotherapy delivered by a pump connected to the liver. This lets doctors take advantage of the liver’s unique anatomy.
+ 
+ reference https://www.ohsu.edu/knight-cancer-institute/hepatic-arterial-infusion-hai
+ 
+
+import ../footer.scroll

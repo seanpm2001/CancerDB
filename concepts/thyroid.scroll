@@ -1,0 +1,84 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/thyroid.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav thyroid-cancer-subreddit.html thyroidectomy.html
+<a class="trueBaseThemePreviousItem" href="thyroid-cancer-subreddit.html">&lt;</a><a class="trueBaseThemeNextItem" href="thyroidectomy.html">&gt;</a>
+
+title Thyroid Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="https://en.wikipedia.org/wiki/Thyroid_cancer"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="/edit.html?id=thyroid" class="material-symbols-outlined">edit</a></div>
+
+dashboard
+ 2,000 U.S. deaths per year
+ 45,272 U.S. cases per year
+ 4% U.S. mortality rate
+
+* Thyroid Cancer on <a href="https://en.wikipedia.org/wiki/Thyroid_cancer">Wikipedia.org</a>
+
+* Subtypes of Thyroid Cancer include <a href="/concepts/anaplastic-thyroid-cancer.html">Anaplastic Thyroid Cancer</a>, <a href="/concepts/hurthle-cell-thyroid-cancer.html">Hurthle Cell Thyroid Cancer</a>, <a href="/concepts/hyalinizing-trabecular-adenoma-of-the-thyroid.html">Hyalinizing Trabecular Adenoma of the Thyroid</a>, <a href="/concepts/medullary-thyroid-cancer.html">Medullary Thyroid Cancer</a>, <a href="/concepts/oncocytic-adenoma-of-the-thyroid.html">Oncocytic Adenoma of the Thyroid</a>, <a href="/concepts/poorly-differentiated-thyroid-cancer.html">Poorly Differentiated Thyroid Cancer</a>, <a href="/concepts/well-differentiated-thyroid-cancer.html">Well-Differentiated Thyroid Cancer</a>
+
+code
+ title Thyroid Cancer
+ type cancerType
+ mainType Thyroid Cancer, NOS
+ uscsId Thyroid
+ tissue Thyroid
+ uscsDeathsPerYear 2000
+ uscsCasesPerYear 45272
+ uscsMortalityRate 4%
+ 
+ oncoTreeId THYROID
+ parentOncoTreeId TISSUE
+ umls C0040132
+ nciCode C12400
+ oncoTreeLevel 1
+ subTypes 9
+ 
+ wikipedia https://en.wikipedia.org/wiki/Thyroid_cancer
+ gco https://gco.iarc.fr/today/data/factsheets/cancers/32-Thyroid-fact-sheet.pdf
+ 
+ uscsTable 2019
+  sex|age|population|cases|deaths
+  F|0|1841226|~|~
+  F|1-4|7728847|~|~
+  F|5-9|9886447|+|~
+  F|10-14|10190891|152|~
+  F|15-19|10313575|613|~
+  F|20-24|10577124|1152|~
+  F|25-29|11518714|1917|~
+  F|30-34|11093732|2689|~
+  F|35-39|10861340|3142|~
+  F|40-44|10014341|3245|~
+  F|45-49|10307804|3381|16
+  F|50-54|10387588|3358|32
+  F|55-59|11232044|3418|60
+  F|60-64|10708826|3059|91
+  F|65-69|9252566|2682|134
+  F|70-74|7527818|2069|150
+  F|75-79|5333117|1168|161
+  F|80-84|3636357|554|159
+  F|85+|4225260|382|261
+  M|0|1921001|~|~
+  M|1-4|8080265|~|~
+  M|5-9|10335306|~|~
+  M|10-14|10629162|45|~
+  M|15-19|10752848|118|~
+  M|20-24|11066850|238|~
+  M|25-29|12020738|471|~
+  M|30-34|11370500|549|~
+  M|35-39|10892543|791|~
+  M|40-44|9906220|946|~
+  M|45-49|10082635|1068|27
+  M|50-54|10082296|1258|37
+  M|55-59|10639047|1345|69
+  M|60-64|9851308|1504|102
+  M|65-69|8191801|1447|128
+  M|70-74|6499159|1151|156
+  M|75-79|4317707|754|160
+  M|80-84|2678743|368|132
+  M|85+|2374207|238|125
+ 
+
+import ../footer.scroll

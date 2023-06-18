@@ -1,0 +1,26 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/gdc.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav gcr-ug.html gefitinib.html
+<a class="trueBaseThemePreviousItem" href="gcr-ug.html">&lt;</a><a class="trueBaseThemeNextItem" href="gefitinib.html">&gt;</a>
+
+title GDC
+
+<div class="trueBaseThemeQuickLinks"><a href="https://portal.gdc.cancer.gov/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=gdc" class="material-symbols-outlined">edit</a></div>
+
+The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.
+
+code
+ title GDC
+ type onlineDatabase
+ standsFor Genomic Data Commons
+ description The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.
+ 
+ website https://portal.gdc.cancer.gov/
+ 
+ domainName portal.gdc.cancer.gov
+ 
+
+import ../footer.scroll

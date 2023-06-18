@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/sellar-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav seer.html seminoma.html
+<a class="trueBaseThemePreviousItem" href="seer.html">&lt;</a><a class="trueBaseThemeNextItem" href="seminoma.html">&gt;</a>
+
+title Sellar Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sellar-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Sellar Tumor is a type of <a href="/concepts/brain.html">Brain Cancer</a>
+* Subtypes of Sellar Tumor include <a href="/concepts/atypical-pituitary-adenoma.html">Atypical Pituitary Adenoma</a>, <a href="/concepts/craniopharyngioma-adamantinomatous-type.html">Craniopharyngioma, Adamantinomatous Type</a>, <a href="/concepts/craniopharyngioma-papillary-type.html">Craniopharyngioma, Papillary Type</a>, <a href="/concepts/granular-cell-tumor.html">Granular Cell Tumor</a>, <a href="/concepts/pituicytoma.html">Pituicytoma</a>, <a href="/concepts/pituitary-adenoma.html">Pituitary Adenoma</a>, <a href="/concepts/pituitary-carcinoma.html">Pituitary Carcinoma</a>, <a href="/concepts/spindle-cell-oncocytoma-of-the-adenohypophysis.html">Spindle Cell Oncocytoma of the Adenohypophysis</a>
+
+code
+ title Sellar Tumor
+ type cancerType
+ mainType Sellar Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId SELT
+ parentOncoTreeId BRAIN
+ umls C0748616
+ nciCode C4944
+ oncoTreeLevel 2
+ subTypes 8
+ 
+
+import ../footer.scroll

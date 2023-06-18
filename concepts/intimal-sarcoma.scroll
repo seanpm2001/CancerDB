@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/intimal-sarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav intestinal-type-stomach-adenocarcinoma.html intraductal-papillary-mucinous-neoplasm.html
+<a class="trueBaseThemePreviousItem" href="intestinal-type-stomach-adenocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="intraductal-papillary-mucinous-neoplasm.html">&gt;</a>
+
+title Intimal Sarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=intimal-sarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Intimal Sarcoma is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Intimal Sarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId INTS
+ parentOncoTreeId SOFT_TISSUE
+ umls C1708550
+ nciCode C53677
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/desmoplastic-infantile-astrocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav desmoid-aggressive-fibromatosis.html desmoplastic-infantile-ganglioglioma.html
+<a class="trueBaseThemePreviousItem" href="desmoid-aggressive-fibromatosis.html">&lt;</a><a class="trueBaseThemeNextItem" href="desmoplastic-infantile-ganglioglioma.html">&gt;</a>
+
+title Desmoplastic Infantile Astrocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=desmoplastic-infantile-astrocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Desmoplastic Infantile Astrocytoma is a type of <a href="/concepts/miscellaneous-neuroepithelial-tumor.html">Miscellaneous Neuroepithelial Tumor</a>
+
+code
+ title Desmoplastic Infantile Astrocytoma
+ type cancerType
+ mainType Miscellaneous Neuroepithelial Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId DIA
+ parentOncoTreeId MNET
+ umls C0457179
+ nciCode C9476
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

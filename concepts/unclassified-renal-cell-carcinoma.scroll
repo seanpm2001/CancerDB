@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/unclassified-renal-cell-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav unc-lineberger-comprehensive-cancer-center.html undifferentiated-carcinoma-of-the-pancreas.html
+<a class="trueBaseThemePreviousItem" href="unc-lineberger-comprehensive-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="undifferentiated-carcinoma-of-the-pancreas.html">&gt;</a>
+
+title Unclassified Renal Cell Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=unclassified-renal-cell-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Unclassified Renal Cell Carcinoma is a type of <a href="/concepts/renal-non-clear-cell-carcinoma.html">Renal Non-Clear Cell Carcinoma</a>
+
+code
+ title Unclassified Renal Cell Carcinoma
+ type cancerType
+ mainType Renal Cell Carcinoma
+ tissue Kidney
+ 
+ oncoTreeId URCC
+ parentOncoTreeId NCCRCC
+ umls C1336853
+ nciCode C27892
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

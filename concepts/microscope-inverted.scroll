@@ -1,0 +1,21 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/microscope-inverted.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav microscope-flourescence.html microscope-optical.html
+<a class="trueBaseThemePreviousItem" href="microscope-flourescence.html">&lt;</a><a class="trueBaseThemeNextItem" href="microscope-optical.html">&gt;</a>
+
+title Inverted Microscope
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=microscope-inverted" class="material-symbols-outlined">edit</a></div>
+
+Allows observation of cells and tissues in culture, with the light source and objective lenses below the stage.
+
+code
+ title Inverted Microscope
+ type microscope
+ description Allows observation of cells and tissues in culture, with the light source and objective lenses below the stage.
+ 
+
+import ../footer.scroll

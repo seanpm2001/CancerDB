@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/myxoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myxoid-round-cell-liposarcoma.html myxopapillary-ependymoma.html
+<a class="trueBaseThemePreviousItem" href="myxoid-round-cell-liposarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="myxopapillary-ependymoma.html">&gt;</a>
+
+title Myxoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myxoma" class="material-symbols-outlined">edit</a></div>
+
+* Myxoma is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+* Subtypes of Myxoma include <a href="/concepts/ossifying-fibromyxoid-tumor.html">Ossifying Fibromyxoid Tumor</a>
+
+code
+ title Myxoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId MYXO
+ parentOncoTreeId SOFT_TISSUE
+ umls C0027149
+ nciCode C6577
+ oncoTreeLevel 2
+ subTypes 1
+ 
+
+import ../footer.scroll

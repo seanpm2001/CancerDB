@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/dermatofibroma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav dendritic-cell-sarcoma.html dermatofibrosarcoma-protuberans.html
+<a class="trueBaseThemePreviousItem" href="dendritic-cell-sarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="dermatofibrosarcoma-protuberans.html">&gt;</a>
+
+title Dermatofibroma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dermatofibroma" class="material-symbols-outlined">edit</a></div>
+
+* Dermatofibroma is a type of <a href="/concepts/skin.html">Skin Cancer</a>
+
+code
+ title Dermatofibroma
+ type cancerType
+ mainType Skin Cancer, Non-Melanoma
+ tissue Skin
+ 
+ oncoTreeId DF
+ parentOncoTreeId SKIN
+ umls C0002991
+ nciCode C6801
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chronic-eosinophilic-leukemia-nos.html chronic-lymphoproliferative-disorder-of-nk-cells.html
+<a class="trueBaseThemePreviousItem" href="chronic-eosinophilic-leukemia-nos.html">&lt;</a><a class="trueBaseThemeNextItem" href="chronic-lymphoproliferative-disorder-of-nk-cells.html">&gt;</a>
+
+title Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma is a type of <a href="/concepts/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId CLLSLL
+ parentOncoTreeId MBN
+ umls C0855095
+ nciCode C7540
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

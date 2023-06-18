@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/upper-tract-urothelial-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav upmc-hillman-cancer-center.html urachal-adenocarcinoma.html
+<a class="trueBaseThemePreviousItem" href="upmc-hillman-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="urachal-adenocarcinoma.html">&gt;</a>
+
+title Upper Tract Urothelial Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=upper-tract-urothelial-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Upper Tract Urothelial Carcinoma is a type of <a href="/concepts/bladder-cancer.html">Bladder Cancer</a>
+
+code
+ title Upper Tract Urothelial Carcinoma
+ type cancerType
+ mainType Bladder Cancer
+ tissue Bladder/Urinary Tract
+ 
+ oncoTreeId UTUC
+ parentOncoTreeId BLADDER
+ umls C0220648
+ nciCode C7716
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

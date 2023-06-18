@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/monoclonal-immunoglobulin-deposition-diseases-other.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav monoclonal-gammopathy-of-undetermined-significance.html monoclonal-immunoglobulin-deposition-diseases.html
+<a class="trueBaseThemePreviousItem" href="monoclonal-gammopathy-of-undetermined-significance.html">&lt;</a><a class="trueBaseThemeNextItem" href="monoclonal-immunoglobulin-deposition-diseases.html">&gt;</a>
+
+title Monoclonal Immunoglobulin Deposition Diseases, Other
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=monoclonal-immunoglobulin-deposition-diseases-other" class="material-symbols-outlined">edit</a></div>
+
+* Monoclonal Immunoglobulin Deposition Diseases, Other is a type of <a href="/concepts/monoclonal-immunoglobulin-deposition-diseases.html">Monoclonal Immunoglobulin Deposition Diseases</a>
+
+code
+ title Monoclonal Immunoglobulin Deposition Diseases, Other
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId MIDDO
+ parentOncoTreeId MIDD
+ oncoTreeLevel 6
+ subTypes 0
+ 
+
+import ../footer.scroll

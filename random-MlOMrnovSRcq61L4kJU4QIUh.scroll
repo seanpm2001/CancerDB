@@ -1,0 +1,84 @@
+import header.scroll
+
+canonicalLink 
+
+title What are the best hospitals for cancer according to U.S. News & World Report?
+ hidden
+
+description Source: https://health.usnews.com/best-hospitals/rankings/cancer
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">select usNewsRank type city website
+ notMissing usNewsRank
+ sortBy usNewsRank
+ title What are the best hospitals for cancer according to U.S. News &amp; World Report?
+ description Source: https://health.usnews.com/best-hospitals/rankings/cancer</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 1,453 files and found 46 matches in 0.03s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# What are the best hospitals for cancer according to U.S. News & World Report?
+* Source: https://health.usnews.com/best-hospitals/rankings/cancer
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM usNewsRank DeLiM type DeLiM city DeLiM website
+ The University of Texas MD Anderson Cancer Center DeLiM /concepts/mdanderson.html DeLiM 1 DeLiM nciCancerCenter DeLiM Houston, Texas DeLiM https://www.mdanderson.org/
+ Memorial Sloan-Kettering Cancer Center DeLiM /concepts/memorial-sloan-kettering-cancer-center.html DeLiM 2 DeLiM nciCancerCenter DeLiM New York, New York DeLiM https://www.mskcc.org/
+ Mayo Clinic Rochester DeLiM /concepts/mayo-clinic-rochester.html DeLiM 3 DeLiM nciCancerCenter DeLiM Rochester, Minnesota DeLiM https://www.mayoclinic.org/patient-visitor-guide/minnesota
+ Dana-Farber Cancer Institute DeLiM /concepts/dana-farber.html DeLiM 4 DeLiM hospital cancerNonProfit DeLiM Boston, MA DeLiM https://www.dana-farber.org/
+ Jonsson Comprehensive Cancer Center DeLiM /concepts/jonsson-comprehensive-cancer-center.html DeLiM 5 DeLiM nciCancerCenter DeLiM Los Angeles, California DeLiM https://cancer.ucla.edu/
+ Cleveland Clinic DeLiM /concepts/cleveland-clinic.html DeLiM 6 DeLiM hospital DeLiM Cleveland, Ohio DeLiM https://clevelandclinic.org/
+ City of Hope Comprehensive Cancer Center DeLiM /concepts/city-of-hope-comprehensive-cancer-center.html DeLiM 7 DeLiM nciCancerCenter DeLiM Duarte, California DeLiM https://www.cityofhope.org/research/comprehensive-cancer-center
+ Abramson Cancer Center DeLiM /concepts/abramson-cancer-center.html DeLiM 8 DeLiM nciCancerCenter DeLiM Philadelphia, Pennsylvania DeLiM https://www.pennmedicine.org/cancer
+ Robert H. Lurie Comprehensive Cancer Center DeLiM /concepts/robert-h-lurie-comprehensive-cancer-center.html DeLiM 9 DeLiM nciCancerCenter DeLiM Chicago, Illinois DeLiM https://www.cancer.northwestern.edu/
+ Alvin J. Siteman Cancer Center DeLiM /concepts/alvin-j-siteman-cancer-center.html DeLiM 10 DeLiM nciCancerCenter DeLiM St. Louis, Missouri DeLiM https://siteman.wustl.edu/
+ Cedars-Sinai Medical Center DeLiM /concepts/cedars-sinai.html DeLiM 11 DeLiM hospital DeLiM Los Angeles, CA DeLiM https://www.cedars-sinai.org
+ NewYork-Presbyterian Hospital DeLiM /concepts/newyork-presbyterian-hospital.html DeLiM 12 DeLiM hospital DeLiM New York, NY DeLiM https://www.nyp.org/
+ Sidney Kimmel Comprehensive Cancer Center DeLiM /concepts/sidney-kimmel-comprehensive-cancer-center.html DeLiM 13 DeLiM nciCancerCenter DeLiM Baltimore, Maryland DeLiM https://www.hopkinsmedicine.org/kimmel_cancer_center/
+ The University of Chicago Comprehensive Cancer Center DeLiM /concepts/the-university-of-chicago-comprehensive-cancer-center.html DeLiM 14 DeLiM nciCancerCenter DeLiM Chicago, Illinois DeLiM https://www.uchicagomedicine.org/cancer
+ Stanford Cancer Institute (SCI) DeLiM /concepts/stanford-cancer-institute-sci.html DeLiM 15 DeLiM nciCancerCenter DeLiM Stanford, California DeLiM https://med.stanford.edu/cancer.html
+ UCSF Helen Diller Family Comprehensive Cancer Center DeLiM /concepts/ucsf-helen-diller-family-comprehensive-cancer-center.html DeLiM 15 DeLiM nciCancerCenter DeLiM San Francisco, California DeLiM https://cancer.ucsf.edu/
+ UPMC Hillman Cancer Center DeLiM /concepts/upmc-hillman-cancer-center.html DeLiM 16 DeLiM nciCancerCenter DeLiM Pittsburgh, Pennsylvania DeLiM https://hillman.upmc.com/
+ USC Norris Comprehensive Cancer Center DeLiM /concepts/usc-norris-comprehensive-cancer-center.html DeLiM 18 DeLiM nciCancerCenter DeLiM Los Angeles, California DeLiM https://uscnorriscancer.usc.edu/
+ Laura and Isaac Perlmutter Cancer Center at NYU Langone Health DeLiM /concepts/laura-and-isaac-perlmutter-cancer-center-at-nyu-langone-health.html DeLiM 19 DeLiM nciCancerCenter DeLiM New York, New York DeLiM https://nyulangone.org/locations/perlmutter-cancer-center
+ Moores Comprehensive Cancer Center DeLiM /concepts/moores-comprehensive-cancer-center.html DeLiM 20 DeLiM nciCancerCenter DeLiM La Jolla, California DeLiM https://moorescancercenter.ucsd.edu/
+ Massachusetts General Hospital DeLiM /concepts/massgeneral.html DeLiM 21 DeLiM hospital DeLiM Boston, MA DeLiM https://www.massgeneral.org/
+ Duke Cancer Institute DeLiM /concepts/duke-cancer-institute.html DeLiM 22 DeLiM nciCancerCenter DeLiM Durham, North Carolina DeLiM http://www.dukecancerinstitute.org/
+ Mayo Clinic Phoenix DeLiM /concepts/mayo-clinic-phoenix.html DeLiM 23 DeLiM nciCancerCenter DeLiM Phoenix, Arizona DeLiM https://www.mayoclinic.org/patient-visitor-guide/arizona
+ The Ohio State University Comprehensive Cancer Center DeLiM /concepts/the-ohio-state-university-comprehensive-cancer-center.html DeLiM 24 DeLiM nciCancerCenter DeLiM Columbus, Ohio DeLiM https://cancer.osu.edu/
+ Harold C. Simmons Comprehensive Cancer Center DeLiM /concepts/harold-c-simmons-comprehensive-cancer-center.html DeLiM 25 DeLiM nciCancerCenter DeLiM Dallas, Texas DeLiM https://www.utsouthwestern.edu/departments/simmons/
+ Moffitt Cancer Center DeLiM /concepts/moffitt-cancer-center.html DeLiM 25 DeLiM nciCancerCenter DeLiM Tampa, Florida DeLiM https://moffitt.org/
+ Fred Hutchinson Cancer Center DeLiM /concepts/fred-hutch.html DeLiM 27 DeLiM hospital researchCenter DeLiM Seattle, WA DeLiM https://www.fredhutch.org/
+ Tisch Cancer Institute DeLiM /concepts/tisch-cancer-institute.html DeLiM 28 DeLiM nciCancerCenter DeLiM New York, New York DeLiM https://icahn.mssm.edu/research/tisch
+ Houston Methodist Hospital DeLiM /concepts/houston-methodist.html DeLiM 29 DeLiM hospital DeLiM Houston, TX DeLiM https://www.houstonmethodist.org/
+ AdventHealth Orlando DeLiM /concepts/advent-health-orlando.html DeLiM 30 DeLiM hospital DeLiM Orlando, FL DeLiM https://www.adventhealth.com/hospital/adventhealth-orlando
+ Beth Israel Deaconess Medical Center DeLiM /concepts/beth-israel.html DeLiM 31 DeLiM hospital DeLiM Boston, MA DeLiM https://www.bidmc.org/
+ Rush University Medical Center DeLiM /concepts/rush-university-medical-center.html DeLiM 31 DeLiM hospital DeLiM Chicago, IL DeLiM https://www.rush.edu/
+ Albert B. Chandler Hospital DeLiM /concepts/albert-b-chandler-hospital.html DeLiM 33 DeLiM hospital DeLiM Lexington, KT DeLiM https://ukhealthcare.uky.edu/hospitals-clinics/albert-b-chandler-hospital
+ Huntsman Cancer Institute DeLiM /concepts/huntsman-cancer-institute.html DeLiM 33 DeLiM nciCancerCenter DeLiM Salt Lake City, Utah DeLiM https://healthcare.utah.edu/huntsmancancerinstitute/
+ Dan L Duncan Comprehensive Cancer Center DeLiM /concepts/dan-l-duncan-comprehensive-cancer-center.html DeLiM 35 DeLiM nciCancerCenter DeLiM Houston, Texas DeLiM https://www.bcm.edu/academic-centers/dan-l-duncan-comprehensive-cancer-center
+ Montefiore Einstein Cancer Center DeLiM /concepts/montefiore-einstein-cancer-center.html DeLiM 35 DeLiM nciCancerCenter DeLiM Bronx, New York DeLiM https://cancer.montefioreeinstein.org/
+ Knight Cancer Institute DeLiM /concepts/knight-cancer-institute.html DeLiM 37 DeLiM nciCancerCenter DeLiM Portland, Oregon DeLiM https://www.ohsu.edu/knight-cancer-institute
+ Vanderbilt-Ingram Cancer Center DeLiM /concepts/vanderbilt-ingram-cancer-center.html DeLiM 38 DeLiM nciCancerCenter DeLiM Nashville, Tennessee DeLiM https://www.vicc.org/
+ UC Davis Comprehensive Cancer Center DeLiM /concepts/uc-davis-comprehensive-cancer-center.html DeLiM 39 DeLiM nciCancerCenter DeLiM Sacramento, California DeLiM https://health.ucdavis.edu/cancer/
+ University of Michigan Rogel Cancer Center DeLiM /concepts/university-of-michigan-rogel-cancer-center.html DeLiM 40 DeLiM nciCancerCenter DeLiM Ann Arbor, Michigan DeLiM https://www.rogelcancercenter.org/
+ Sidney Kimmel Cancer Center at Thomas Jefferson University DeLiM /concepts/sidney-kimmel-cancer-center-at-thomas-jefferson-university.html DeLiM 41 DeLiM nciCancerCenter DeLiM Philadelphia, Pennsylvania DeLiM https://www.jeffersonhealth.org/clinical-specialties/cancer
+ Winship Cancer Institute DeLiM /concepts/winship-cancer-institute.html DeLiM 43 DeLiM nciCancerCenter DeLiM Atlanta, Georgia DeLiM https://winshipcancer.emory.edu/
+ Georgetown Lombardi Comprehensive Cancer Center DeLiM /concepts/georgetown-lombardi-comprehensive-cancer-center.html DeLiM 44 DeLiM nciCancerCenter DeLiM Washington, District of Columbia DeLiM https://lombardi.georgetown.edu/
+ Chao Family Comprehensive Cancer Center DeLiM /concepts/chao-family-comprehensive-cancer-center.html DeLiM 46 DeLiM nciCancerCenter DeLiM Orange, California DeLiM http://cancer.uci.edu/
+ The University of Kansas Cancer Center DeLiM /concepts/the-university-of-kansas-cancer-center.html DeLiM 46 DeLiM nciCancerCenter DeLiM Kansas City, Kansas DeLiM https://www.kucancercenter.org/
+ Sylvester Comprehensive Cancer Center DeLiM /concepts/sylvester-comprehensive-cancer-center.html DeLiM 48 DeLiM nciCancerCenter DeLiM Miami, Florida DeLiM https://umiamihealth.org/en/sylvester-comprehensive-cancer-center
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=select%20usNewsRank%20type%20city%20website%0AnotMissing%20usNewsRank%0AsortBy%20usNewsRank%0Atitle%20What%20are%20the%20best%20hospitals%20for%20cancer%20according%20to%20U.S.%20News%20%26%20World%20Report%3F%0Adescription%20Source%3A%20https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer JSON
+ link /search.csv?q=select%20usNewsRank%20type%20city%20website%0AnotMissing%20usNewsRank%0AsortBy%20usNewsRank%0Atitle%20What%20are%20the%20best%20hospitals%20for%20cancer%20according%20to%20U.S.%20News%20%26%20World%20Report%3F%0Adescription%20Source%3A%20https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer CSV
+ link /search.tsv?q=select%20usNewsRank%20type%20city%20website%0AnotMissing%20usNewsRank%0AsortBy%20usNewsRank%0Atitle%20What%20are%20the%20best%20hospitals%20for%20cancer%20according%20to%20U.S.%20News%20%26%20World%20Report%3F%0Adescription%20Source%3A%20https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer TSV
+ link /search.tree?q=select%20usNewsRank%20type%20city%20website%0AnotMissing%20usNewsRank%0AsortBy%20usNewsRank%0Atitle%20What%20are%20the%20best%20hospitals%20for%20cancer%20according%20to%20U.S.%20News%20%26%20World%20Report%3F%0Adescription%20Source%3A%20https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cervical-clear-cell-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-cancer-subreddit.html cervical-endometrioid-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="cervical-cancer-subreddit.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-endometrioid-carcinoma.html">&gt;</a>
+
+title Cervical Clear Cell Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-clear-cell-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Clear Cell Carcinoma is a type of <a href="/concepts/cervical-adenocarcinoma.html">Cervical Adenocarcinoma</a>
+
+code
+ title Cervical Clear Cell Carcinoma
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CECC
+ parentOncoTreeId CEAD
+ umls C1332912
+ nciCode C6344
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

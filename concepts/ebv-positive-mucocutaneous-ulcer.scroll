@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/ebv-positive-mucocutaneous-ulcer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav ebv-positive-dlbcl-nos.html egypt-ncc.html
+<a class="trueBaseThemePreviousItem" href="ebv-positive-dlbcl-nos.html">&lt;</a><a class="trueBaseThemeNextItem" href="egypt-ncc.html">&gt;</a>
+
+title EBV Positive Mucocutaneous Ulcer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ebv-positive-mucocutaneous-ulcer" class="material-symbols-outlined">edit</a></div>
+
+* EBV Positive Mucocutaneous Ulcer is a type of <a href="/concepts/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title EBV Positive Mucocutaneous Ulcer
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId EBVMCU
+ parentOncoTreeId MBN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

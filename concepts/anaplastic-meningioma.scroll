@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/anaplastic-meningioma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav anaplastic-large-cell-lymphoma.html anaplastic-oligoastrocytoma.html
+<a class="trueBaseThemePreviousItem" href="anaplastic-large-cell-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="anaplastic-oligoastrocytoma.html">&gt;</a>
+
+title Anaplastic Meningioma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=anaplastic-meningioma" class="material-symbols-outlined">edit</a></div>
+
+* Anaplastic Meningioma is a type of <a href="/concepts/meningothelial-tumor.html">Meningothelial Tumor</a>
+
+code
+ title Anaplastic Meningioma
+ type cancerType
+ mainType CNS Cancer
+ tissue CNS/Brain
+ 
+ oncoTreeId ANM
+ parentOncoTreeId MNGT
+ umls C0259785
+ nciCode C4051
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

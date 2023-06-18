@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/renal-clear-cell-carcinoma-with-sarcomatoid-features.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav renal-cell-carcinoma.html renal-clear-cell-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="renal-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="renal-clear-cell-carcinoma.html">&gt;</a>
+
+title Renal Clear Cell Carcinoma with Sarcomatoid Features
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=renal-clear-cell-carcinoma-with-sarcomatoid-features" class="material-symbols-outlined">edit</a></div>
+
+* Renal Clear Cell Carcinoma with Sarcomatoid Features is a type of <a href="/concepts/renal-clear-cell-carcinoma.html">Renal Clear Cell Carcinoma</a>
+
+code
+ title Renal Clear Cell Carcinoma with Sarcomatoid Features
+ type cancerType
+ mainType Renal Cell Carcinoma
+ tissue Kidney
+ 
+ oncoTreeId SCCRCC
+ parentOncoTreeId CCRCC
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

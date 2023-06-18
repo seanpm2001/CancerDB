@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/choroid-plexus-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav choroid-plexus-papilloma.html chris-beat-cancer.html
+<a class="trueBaseThemePreviousItem" href="choroid-plexus-papilloma.html">&lt;</a><a class="trueBaseThemeNextItem" href="chris-beat-cancer.html">&gt;</a>
+
+title Choroid Plexus Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=choroid-plexus-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Choroid Plexus Tumor is a type of <a href="/concepts/brain.html">Brain Cancer</a>
+* Subtypes of Choroid Plexus Tumor include <a href="/concepts/atypical-choroid-plexus-papilloma.html">Atypical Choroid Plexus Papilloma</a>, <a href="/concepts/choroid-plexus-carcinoma.html">Choroid Plexus Carcinoma</a>, <a href="/concepts/choroid-plexus-papilloma.html">Choroid Plexus Papilloma</a>
+
+code
+ title Choroid Plexus Tumor
+ type cancerType
+ mainType Choroid Plexus Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId CPT
+ parentOncoTreeId BRAIN
+ umls C0085138
+ nciCode C3473
+ oncoTreeLevel 2
+ subTypes 3
+ 
+
+import ../footer.scroll

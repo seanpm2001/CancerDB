@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cancer-cured-victory-over-the-war-on-cancer-book.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cancer-crackdown.html cancer-discovery.html
+<a class="trueBaseThemePreviousItem" href="cancer-crackdown.html">&lt;</a><a class="trueBaseThemeNextItem" href="cancer-discovery.html">&gt;</a>
+
+title Cancer Cured: Victory Over The War On Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cancer-cured-victory-over-the-war-on-cancer-book" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Cancer Cured: Victory Over The War On Cancer
+ type book
+ appeared 2017
+ author Mark Sloan
+ 
+ amazon https://www.amazon.com/Cancer-Cured-Victory-Over-War/dp/0994741804
+ 
+
+import ../footer.scroll

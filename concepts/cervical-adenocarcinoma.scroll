@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cervical-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-adenocarcinoma-in-situ.html cervical-adenoid-basal-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="cervical-adenocarcinoma-in-situ.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-adenoid-basal-carcinoma.html">&gt;</a>
+
+title Cervical Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Adenocarcinoma is a type of <a href="/concepts/cervix.html">Cervical Cancer</a>
+* Subtypes of Cervical Adenocarcinoma include <a href="/concepts/cervical-clear-cell-carcinoma.html">Cervical Clear Cell Carcinoma</a>, <a href="/concepts/cervical-endometrioid-carcinoma.html">Cervical Endometrioid Carcinoma</a>, <a href="/concepts/cervical-serous-carcinoma.html">Cervical Serous Carcinoma</a>, <a href="/concepts/endocervical-adenocarcinoma.html">Endocervical Adenocarcinoma</a>, <a href="/concepts/mesonephric-carcinoma.html">Mesonephric Carcinoma</a>, <a href="/concepts/mucinous-carcinoma.html">Mucinous Carcinoma</a>, <a href="/concepts/villoglandular-carcinoma.html">Villoglandular Carcinoma</a>
+
+code
+ title Cervical Adenocarcinoma
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CEAD
+ parentOncoTreeId CERVIX
+ umls C0279672
+ nciCode C4029
+ oncoTreeLevel 2
+ subTypes 10
+ 
+
+import ../footer.scroll

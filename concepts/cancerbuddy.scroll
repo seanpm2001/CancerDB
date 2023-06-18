@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cancerbuddy.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cancer-ward.html cancercare.html
+<a class="trueBaseThemePreviousItem" href="cancer-ward.html">&lt;</a><a class="trueBaseThemeNextItem" href="cancercare.html">&gt;</a>
+
+title CancerBuddy
+
+<div class="trueBaseThemeQuickLinks"><a href="https://apps.apple.com/us/app/cancerbuddy/id1610149676" class="material-symbols-outlined">home</a> <a href="/edit.html?id=cancerbuddy" class="material-symbols-outlined">edit</a></div>
+
+The first social support network for people facing cancer.
+
+code
+ title CancerBuddy
+ type app
+ description The first social support network for people facing cancer.
+ 
+ website https://apps.apple.com/us/app/cancerbuddy/id1610149676
+ 
+
+import ../footer.scroll

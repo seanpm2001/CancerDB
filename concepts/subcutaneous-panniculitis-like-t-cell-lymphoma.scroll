@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/subcutaneous-panniculitis-like-t-cell-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav subcutaneous-administration.html subependymoma.html
+<a class="trueBaseThemePreviousItem" href="subcutaneous-administration.html">&lt;</a><a class="trueBaseThemeNextItem" href="subependymoma.html">&gt;</a>
+
+title Subcutaneous Panniculitis-Like T-Cell Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=subcutaneous-panniculitis-like-t-cell-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Subcutaneous Panniculitis-Like T-Cell Lymphoma is a type of <a href="/concepts/mature-t-and-nk-neoplasms.html">Mature T and NK Neoplasms</a>
+
+code
+ title Subcutaneous Panniculitis-Like T-Cell Lymphoma
+ type cancerType
+ mainType Mature T and NK Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId SPTCL
+ parentOncoTreeId MTNN
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

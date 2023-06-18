@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/conventional-type-chordoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav conjunctival-melanoma.html craniopharyngioma-adamantinomatous-type.html
+<a class="trueBaseThemePreviousItem" href="conjunctival-melanoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="craniopharyngioma-adamantinomatous-type.html">&gt;</a>
+
+title Conventional Type Chordoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=conventional-type-chordoma" class="material-symbols-outlined">edit</a></div>
+
+* Conventional Type Chordoma is a type of <a href="/concepts/chordoma.html">Chordoma</a>
+
+code
+ title Conventional Type Chordoma
+ type cancerType
+ mainType Bone Cancer
+ tissue Bone
+ 
+ oncoTreeId CCHDM
+ parentOncoTreeId CHDM
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

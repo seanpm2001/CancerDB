@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/clear-cell-carcinoma-of-the-lung.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav clear-cell-borderline-ovarian-tumor.html clear-cell-ependymoma.html
+<a class="trueBaseThemePreviousItem" href="clear-cell-borderline-ovarian-tumor.html">&lt;</a><a class="trueBaseThemeNextItem" href="clear-cell-ependymoma.html">&gt;</a>
+
+title Clear Cell Carcinoma of the Lung
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=clear-cell-carcinoma-of-the-lung" class="material-symbols-outlined">edit</a></div>
+
+* Clear Cell Carcinoma of the Lung is a type of <a href="/concepts/large-cell-lung-carcinoma.html">Large Cell Lung Carcinoma</a>
+
+code
+ title Clear Cell Carcinoma of the Lung
+ type cancerType
+ mainType Non-Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId CCLC
+ parentOncoTreeId LCLC
+ umls C1707407
+ nciCode C4451
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

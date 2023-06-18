@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/myxoid-chondrosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav myxofibrosarcoma.html myxoid-round-cell-liposarcoma.html
+<a class="trueBaseThemePreviousItem" href="myxofibrosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="myxoid-round-cell-liposarcoma.html">&gt;</a>
+
+title Myxoid Chondrosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=myxoid-chondrosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Myxoid Chondrosarcoma is a type of <a href="/concepts/chondrosarcoma.html">Chondrosarcoma</a>
+
+code
+ title Myxoid Chondrosarcoma
+ type cancerType
+ mainType Bone Cancer
+ tissue Bone
+ 
+ oncoTreeId MYCHS
+ parentOncoTreeId CHS
+ umls C0334551
+ nciCode C4303
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

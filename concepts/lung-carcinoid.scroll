@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/lung-carcinoid.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav lung-cancer-subreddit.html lung-neuroendocrine-tumor.html
+<a class="trueBaseThemePreviousItem" href="lung-cancer-subreddit.html">&lt;</a><a class="trueBaseThemeNextItem" href="lung-neuroendocrine-tumor.html">&gt;</a>
+
+title Lung Carcinoid
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lung-carcinoid" class="material-symbols-outlined">edit</a></div>
+
+* Lung Carcinoid is a type of <a href="/concepts/lung-neuroendocrine-tumor.html">Lung Neuroendocrine Tumor</a>
+
+code
+ title Lung Carcinoid
+ type cancerType
+ mainType Non-Small Cell Lung Cancer
+ tissue Lung
+ 
+ oncoTreeId LUCA
+ parentOncoTreeId LNET
+ umls C0280089
+ nciCode C4038
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

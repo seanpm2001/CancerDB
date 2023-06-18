@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/low-grade-glioma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav low-grade-fibromyxoid-sarcoma.html low-grade-neuroepithelial-tumor.html
+<a class="trueBaseThemePreviousItem" href="low-grade-fibromyxoid-sarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="low-grade-neuroepithelial-tumor.html">&gt;</a>
+
+title Low-Grade Glioma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=low-grade-glioma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Low-Grade Glioma, NOS is a type of <a href="/concepts/encapsulated-glioma.html">Encapsulated Glioma</a>
+
+code
+ title Low-Grade Glioma, NOS
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId LGGNOS
+ parentOncoTreeId ENCG
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

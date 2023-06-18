@@ -1,0 +1,63 @@
+import header.scroll
+
+canonicalLink 
+
+title Which cancer types have the highest mortality?
+ hidden
+
+description Annual cancer deaths divided by annual new cases. Not a perfect measure but gives a rough estimate of deadliness of cancer types. Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">notMissing uscsMortalityRate
+ select uscsMortalityRate uscsDeathsPerYear
+ sortBy uscsMortalityRate
+ reverse
+ title Which cancer types have the highest mortality?
+ description Annual cancer deaths divided by annual new cases. Not a perfect measure but gives a rough estimate of deadliness of cancer types. Data is from the 2019 United States Cancer Statistics dataset from the CDC.</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 1,453 files and found 24 matches in 0.02s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# Which cancer types have the highest mortality?
+* Annual cancer deaths divided by annual new cases. Not a perfect measure but gives a rough estimate of deadliness of cancer types. Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM uscsMortalityRate DeLiM uscsDeathsPerYear
+ Skin Cancer DeLiM /concepts/skin.html DeLiM 9% DeLiM 8059
+ Pancreatic Cancer DeLiM /concepts/pancreas.html DeLiM 85% DeLiM 45868
+ Mesothelioma DeLiM /concepts/mesothelioma.html DeLiM 85% DeLiM 2402
+ Esophagus/Stomach Cancer DeLiM /concepts/esophagus-stomach.html DeLiM 84% DeLiM 15918
+ Liver Cancer DeLiM /concepts/liver.html DeLiM 79% DeLiM 27882
+ Brain Cancer DeLiM /concepts/brain.html DeLiM 76% DeLiM 17215
+ Ovarian Cancer DeLiM /concepts/ovarian-cancer.html DeLiM 69% DeLiM 13426
+ Lung Cancer DeLiM /concepts/lung.html DeLiM 63% DeLiM 139558
+ Testicular Cancer DeLiM /concepts/testis.html DeLiM 5% DeLiM 421
+ Leukemia DeLiM /concepts/leukemia.html DeLiM 46% DeLiM 23324
+ Stomach Cancer DeLiM /concepts/stomach-cancer.html DeLiM 45% DeLiM 11071
+ Multiple Myeloma DeLiM /concepts/multiple-myeloma.html DeLiM 45% DeLiM 12425
+ Thyroid Cancer DeLiM /concepts/thyroid.html DeLiM 4% DeLiM 2000
+ Colon Cancer DeLiM /concepts/colon.html DeLiM 36% DeLiM 51874
+ Cervical Cancer DeLiM /concepts/cervix.html DeLiM 32% DeLiM 4144
+ Laryngeal cancer DeLiM /concepts/laryngeal-cancer.html DeLiM 31% DeLiM 3789
+ Non-Hodgkin Lymphoma DeLiM /concepts/non-hodgkin-lymphoma.html DeLiM 28% DeLiM 20247
+ Oral Cancer DeLiM /concepts/oral-cancer.html DeLiM 22% DeLiM 10447
+ Bladder Cancer DeLiM /concepts/bladder-cancer.html DeLiM 22% DeLiM 16757
+ Kidney Cancer DeLiM /concepts/kidney.html DeLiM 20% DeLiM 13940
+ Uterine Cancer DeLiM /concepts/uterus.html DeLiM 19% DeLiM 11539
+ Breast Cancer DeLiM /concepts/breast.html DeLiM 16% DeLiM 42269
+ Prostate Cancer DeLiM /concepts/prostate.html DeLiM 14% DeLiM 31628
+ Hodgkin Lymphoma DeLiM /concepts/hodgkin-lymphoma.html DeLiM 10% DeLiM 873
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=notMissing%20uscsMortalityRate%0Aselect%20uscsMortalityRate%20uscsDeathsPerYear%0AsortBy%20uscsMortalityRate%0Areverse%0Atitle%20Which%20cancer%20types%20have%20the%20highest%20mortality%3F%0Adescription%20Annual%20cancer%20deaths%20divided%20by%20annual%20new%20cases.%20Not%20a%20perfect%20measure%20but%20gives%20a%20rough%20estimate%20of%20deadliness%20of%20cancer%20types.%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. JSON
+ link /search.csv?q=notMissing%20uscsMortalityRate%0Aselect%20uscsMortalityRate%20uscsDeathsPerYear%0AsortBy%20uscsMortalityRate%0Areverse%0Atitle%20Which%20cancer%20types%20have%20the%20highest%20mortality%3F%0Adescription%20Annual%20cancer%20deaths%20divided%20by%20annual%20new%20cases.%20Not%20a%20perfect%20measure%20but%20gives%20a%20rough%20estimate%20of%20deadliness%20of%20cancer%20types.%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. CSV
+ link /search.tsv?q=notMissing%20uscsMortalityRate%0Aselect%20uscsMortalityRate%20uscsDeathsPerYear%0AsortBy%20uscsMortalityRate%0Areverse%0Atitle%20Which%20cancer%20types%20have%20the%20highest%20mortality%3F%0Adescription%20Annual%20cancer%20deaths%20divided%20by%20annual%20new%20cases.%20Not%20a%20perfect%20measure%20but%20gives%20a%20rough%20estimate%20of%20deadliness%20of%20cancer%20types.%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. TSV
+ link /search.tree?q=notMissing%20uscsMortalityRate%0Aselect%20uscsMortalityRate%20uscsDeathsPerYear%0AsortBy%20uscsMortalityRate%0Areverse%0Atitle%20Which%20cancer%20types%20have%20the%20highest%20mortality%3F%0Adescription%20Annual%20cancer%20deaths%20divided%20by%20annual%20new%20cases.%20Not%20a%20perfect%20measure%20but%20gives%20a%20rough%20estimate%20of%20deadliness%20of%20cancer%20types.%20Data%20is%20from%20the%202019%20United%20States%20Cancer%20Statistics%20dataset%20from%20the%20CDC. Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

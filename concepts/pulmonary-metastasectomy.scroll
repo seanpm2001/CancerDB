@@ -1,0 +1,23 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/pulmonary-metastasectomy.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pulmonary-lymphangiomyomatosis.html purdue-institute-for-cancer-research.html
+<a class="trueBaseThemePreviousItem" href="pulmonary-lymphangiomyomatosis.html">&lt;</a><a class="trueBaseThemeNextItem" href="purdue-institute-for-cancer-research.html">&gt;</a>
+
+title Pulmonary metastasectomy
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pulmonary-metastasectomy" class="material-symbols-outlined">edit</a></div>
+
+- Read more about Pulmonary metastasectomy on <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653506/">ncbi.nlm.nih.gov</a> · <a href="https://stanfordhealthcare.org/medical-treatments/p/pulmonary-metastasectomy.html">stanfordhealthcare.org</a>
+
+code
+ title Pulmonary metastasectomy
+ type surgery
+ 
+ reference https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653506/
+ reference https://stanfordhealthcare.org/medical-treatments/p/pulmonary-metastasectomy.html
+ 
+
+import ../footer.scroll

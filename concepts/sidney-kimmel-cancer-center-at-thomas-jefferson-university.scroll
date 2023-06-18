@@ -1,0 +1,33 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/sidney-kimmel-cancer-center-at-thomas-jefferson-university.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sialoblastoma.html sidney-kimmel-comprehensive-cancer-center.html
+<a class="trueBaseThemePreviousItem" href="sialoblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="sidney-kimmel-comprehensive-cancer-center.html">&gt;</a>
+
+title Sidney Kimmel Cancer Center at Thomas Jefferson University
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.jeffersonhealth.org/clinical-specialties/cancer" class="material-symbols-outlined">home</a> <a href="/edit.html?id=sidney-kimmel-cancer-center-at-thomas-jefferson-university" class="material-symbols-outlined">edit</a></div>
+
+image https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-10/Sidney%20Kimmel_%20blueme-life-sciences%20building.jpg
+ class nciImage
+
+code
+ title Sidney Kimmel Cancer Center at Thomas Jefferson University
+ type nciCancerCenter
+ 
+ website https://www.jeffersonhealth.org/clinical-specialties/cancer
+ 
+ phoneNumber 1-215-503-5692
+ 
+ country United States
+ city Philadelphia, Pennsylvania
+ 
+ nciDesignation Cancer Center
+ nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/jeffersonkimmel
+ nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-10/Sidney%20Kimmel_%20blueme-life-sciences%20building.jpg
+ usNewsRank 41
+ 
+
+import ../footer.scroll

@@ -1,0 +1,25 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/gideon-burrows-dot-com.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav giant-cell-tumor-of-bone.html gilead-sciences.html
+<a class="trueBaseThemePreviousItem" href="giant-cell-tumor-of-bone.html">&lt;</a><a class="trueBaseThemeNextItem" href="gilead-sciences.html">&gt;</a>
+
+title Gideon Burrows: Brain Tumours and Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.gideon-burrows.com/brain-tumours-and-cancer/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=gideon-burrows-dot-com" class="material-symbols-outlined">edit</a></div>
+
+Gideon Burrows was diagnosed with an incurable inoperable low grade glioma brain tumour aged 35. He is a writer, small business owner and involved father. He lives close to the sea in Essex, owns five bicycles and grows 13 varieties of chillies.
+
+code
+ title Gideon Burrows: Brain Tumours and Cancer
+ type website
+ appeared 2014
+ author Gideon Burrows
+ description Gideon Burrows was diagnosed with an incurable inoperable low grade glioma brain tumour aged 35. He is a writer, small business owner and involved father. He lives close to the sea in Essex, owns five bicycles and grows 13 varieties of chillies.
+ 
+ website https://www.gideon-burrows.com/brain-tumours-and-cancer/
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/non-seminomatous-germ-cell-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav non-hodgkin-lymphoma.html non-small-cell-lung-cancer.html
+<a class="trueBaseThemePreviousItem" href="non-hodgkin-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="non-small-cell-lung-cancer.html">&gt;</a>
+
+title Non-Seminomatous Germ Cell Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=non-seminomatous-germ-cell-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Non-Seminomatous Germ Cell Tumor is a type of <a href="/concepts/testis.html">Testicular Cancer</a>
+* Subtypes of Non-Seminomatous Germ Cell Tumor include <a href="/concepts/choriocarcinoma-testis.html">Choriocarcinoma Testis</a>, <a href="/concepts/embryonal-carcinoma-testis.html">Embryonal Carcinoma Testis</a>, <a href="/concepts/germ-cell-tumor-with-somatic-type-malignancy.html">Germ Cell Tumor with Somatic-Type Malignancy</a>, <a href="/concepts/mixed-germ-cell-tumor-testis.html">Mixed Germ Cell Tumor Testis</a>, <a href="/concepts/teratoma.html">Teratoma</a>, <a href="/concepts/yolk-sac-tumor-testis.html">Yolk Sac Tumor Testis</a>
+
+code
+ title Non-Seminomatous Germ Cell Tumor
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Testis
+ 
+ oncoTreeId NSGCT
+ parentOncoTreeId TESTIS
+ umls CL480935
+ oncoTreeLevel 2
+ subTypes 6
+ 
+
+import ../footer.scroll

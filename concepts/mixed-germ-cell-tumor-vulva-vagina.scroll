@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/mixed-germ-cell-tumor-vulva-vagina.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mixed-germ-cell-tumor-testis.html mixed-germ-cell-tumor.html
+<a class="trueBaseThemePreviousItem" href="mixed-germ-cell-tumor-testis.html">&lt;</a><a class="trueBaseThemeNextItem" href="mixed-germ-cell-tumor.html">&gt;</a>
+
+title Mixed Germ Cell Tumor Vulva/Vagina
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mixed-germ-cell-tumor-vulva-vagina" class="material-symbols-outlined">edit</a></div>
+
+* Mixed Germ Cell Tumor Vulva/Vagina is a type of <a href="/concepts/germ-cell-tumor-of-the-vulva.html">Germ Cell Tumor of the Vulva</a>
+
+code
+ title Mixed Germ Cell Tumor Vulva/Vagina
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Vulva/Vagina
+ 
+ oncoTreeId VMGCT
+ parentOncoTreeId VGCT
+ umls C0334524
+ nciCode C4290
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

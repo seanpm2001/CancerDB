@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/testicular-mesothelioma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav testicular-lymphoma.html testis.html
+<a class="trueBaseThemePreviousItem" href="testicular-lymphoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="testis.html">&gt;</a>
+
+title Testicular Mesothelioma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=testicular-mesothelioma" class="material-symbols-outlined">edit</a></div>
+
+* Testicular Mesothelioma is a type of <a href="/concepts/testis.html">Testicular Cancer</a>
+
+code
+ title Testicular Mesothelioma
+ type cancerType
+ mainType Mesothelioma
+ tissue Testis
+ 
+ oncoTreeId TMESO
+ parentOncoTreeId TESTIS
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

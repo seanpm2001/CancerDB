@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/renal-neuroendocrine-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav renal-mucinous-tubular-spindle-cell-carcinoma.html renal-non-clear-cell-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="renal-mucinous-tubular-spindle-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="renal-non-clear-cell-carcinoma.html">&gt;</a>
+
+title Renal Neuroendocrine Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=renal-neuroendocrine-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Renal Neuroendocrine Tumor is a type of <a href="/concepts/kidney.html">Kidney Cancer</a>
+
+code
+ title Renal Neuroendocrine Tumor
+ type cancerType
+ mainType Renal Neuroendocrine Tumor
+ tissue Kidney
+ 
+ oncoTreeId RNET
+ parentOncoTreeId KIDNEY
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

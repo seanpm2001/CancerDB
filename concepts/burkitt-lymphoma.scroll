@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/burkitt-lymphoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav burkitt-like-lymphoma-with-11q-aberration.html busulfan.html
+<a class="trueBaseThemePreviousItem" href="burkitt-like-lymphoma-with-11q-aberration.html">&lt;</a><a class="trueBaseThemeNextItem" href="busulfan.html">&gt;</a>
+
+title Burkitt Lymphoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=burkitt-lymphoma" class="material-symbols-outlined">edit</a></div>
+
+* Burkitt Lymphoma is a type of <a href="/concepts/mature-b-cell-neoplasms.html">Mature B-Cell Neoplasms</a>
+
+code
+ title Burkitt Lymphoma
+ type cancerType
+ mainType Mature B-Cell Neoplasms
+ tissue Lymphoid
+ 
+ oncoTreeId BL
+ parentOncoTreeId MBN
+ umls C0006413
+ nciCode C2912
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

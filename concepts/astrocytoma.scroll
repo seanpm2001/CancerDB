@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/astrocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav astroblastoma.html atezolizumab.html
+<a class="trueBaseThemePreviousItem" href="astroblastoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="atezolizumab.html">&gt;</a>
+
+title Astrocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=astrocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Astrocytoma is a type of <a href="/concepts/diffuse-glioma.html">Diffuse Glioma</a>
+
+code
+ title Astrocytoma
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId ASTR
+ parentOncoTreeId DIFG
+ umls C0004114
+ nciCode C60781
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

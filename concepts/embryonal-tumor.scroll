@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/embryonal-tumor.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav embryonal-tumor-with-abundant-neuropil-and-true-rosettes.html emerging-med.html
+<a class="trueBaseThemePreviousItem" href="embryonal-tumor-with-abundant-neuropil-and-true-rosettes.html">&lt;</a><a class="trueBaseThemeNextItem" href="emerging-med.html">&gt;</a>
+
+title Embryonal Tumor
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=embryonal-tumor" class="material-symbols-outlined">edit</a></div>
+
+* Embryonal Tumor is a type of <a href="/concepts/brain.html">Brain Cancer</a>
+* Subtypes of Embryonal Tumor include <a href="/concepts/atypical-teratoid-rhabdoid-tumor.html">Atypical Teratoid/Rhabdoid Tumor</a>, <a href="/concepts/desmoplastic-nodular-medulloblastoma.html">Desmoplastic/Nodular Medulloblastoma</a>, <a href="/concepts/embryonal-tumor-with-abundant-neuropil-and-true-rosettes.html">Embryonal Tumor with Abundant Neuropil and True Rosettes</a>, <a href="/concepts/large-cell-anaplastic-medulloblastoma.html">Large Cell/Anaplastic Medulloblastoma</a>, <a href="/concepts/medulloblastoma-with-extensive-nodularity.html">Medulloblastoma with Extensive Nodularity</a>, <a href="/concepts/medulloblastoma.html">Medulloblastoma</a>, <a href="/concepts/medulloepithelioma.html">Medulloepithelioma</a>, <a href="/concepts/medullomyoblastoma.html">Medullomyoblastoma</a>, <a href="/concepts/melanotic-medulloblastoma.html">Melanotic Medulloblastoma</a>, <a href="/concepts/olfactory-neuroblastoma.html">Olfactory Neuroblastoma</a>, <a href="/concepts/primitive-neuroectodermal-tumor.html">Primitive Neuroectodermal Tumor</a>
+
+code
+ title Embryonal Tumor
+ type cancerType
+ mainType Embryonal Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId EMBT
+ parentOncoTreeId BRAIN
+ umls C0027654
+ nciCode C3264
+ oncoTreeLevel 2
+ subTypes 11
+ 
+
+import ../footer.scroll

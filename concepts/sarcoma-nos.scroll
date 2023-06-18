@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/sarcoma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav sanofi.html sarcomatoid-carcinoma-of-the-lung.html
+<a class="trueBaseThemePreviousItem" href="sanofi.html">&lt;</a><a class="trueBaseThemeNextItem" href="sarcomatoid-carcinoma-of-the-lung.html">&gt;</a>
+
+title Sarcoma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sarcoma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Sarcoma, NOS is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Sarcoma, NOS
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId SARCNOS
+ parentOncoTreeId SOFT_TISSUE
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

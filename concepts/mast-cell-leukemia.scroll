@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/mast-cell-leukemia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav massgeneral.html mast-cell-sarcoma.html
+<a class="trueBaseThemePreviousItem" href="massgeneral.html">&lt;</a><a class="trueBaseThemeNextItem" href="mast-cell-sarcoma.html">&gt;</a>
+
+title Mast Cell Leukemia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mast-cell-leukemia" class="material-symbols-outlined">edit</a></div>
+
+* Mast Cell Leukemia is a type of <a href="/concepts/systemic-mastocytosis.html">Systemic Mastocytosis</a>
+
+code
+ title Mast Cell Leukemia
+ type cancerType
+ mainType Mastocytosis
+ tissue Myeloid
+ 
+ oncoTreeId SMMCL
+ parentOncoTreeId SM
+ oncoTreeLevel 5
+ subTypes 0
+ 
+
+import ../footer.scroll

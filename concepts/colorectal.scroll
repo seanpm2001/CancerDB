@@ -1,0 +1,26 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/colorectal.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav colorectal-adenocarcinoma.html combined-small-cell-lung-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="colorectal-adenocarcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="combined-small-cell-lung-carcinoma.html">&gt;</a>
+
+title Colorectal Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=colorectal" class="material-symbols-outlined">edit</a></div>
+
+* Colorectal Cancer on <a href="https://www.cancer.gov/types/colorectal">Cancer.gov</a>
+
+code
+ title Colorectal Cancer
+ type cancerType
+ tissue Colon
+ 
+ cancerDotGov https://www.cancer.gov/types/colorectal
+ 
+ annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+  2020 51869
+ 
+
+import ../footer.scroll

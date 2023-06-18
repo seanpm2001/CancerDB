@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/peritoneal-serous-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav peritoneal-mesothelioma.html peritoneum.html
+<a class="trueBaseThemePreviousItem" href="peritoneal-mesothelioma.html">&lt;</a><a class="trueBaseThemeNextItem" href="peritoneum.html">&gt;</a>
+
+title Peritoneal Serous Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=peritoneal-serous-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Peritoneal Serous Carcinoma is a type of <a href="/concepts/peritoneum.html">Peritoneal Cancer</a>
+
+code
+ title Peritoneal Serous Carcinoma
+ type cancerType
+ mainType Peritoneal Cancer, NOS
+ tissue Peritoneum
+ 
+ oncoTreeId PSEC
+ parentOncoTreeId PERITONEUM
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

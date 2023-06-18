@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/posttransplant-lymphoproliferative-disorders.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav porphyria-cutania-tarda.html prevent-cancer-foundation.html
+<a class="trueBaseThemePreviousItem" href="porphyria-cutania-tarda.html">&lt;</a><a class="trueBaseThemeNextItem" href="prevent-cancer-foundation.html">&gt;</a>
+
+title Posttransplant Lymphoproliferative Disorders
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=posttransplant-lymphoproliferative-disorders" class="material-symbols-outlined">edit</a></div>
+
+* Posttransplant Lymphoproliferative Disorders is a type of <a href="/concepts/lymphoid-neoplasm.html">Lymphoid Neoplasm</a>
+* Subtypes of Posttransplant Lymphoproliferative Disorders include <a href="/concepts/classical-hodgkin-lymphoma-ptld.html">Classical Hodgkin Lymphoma PTLD</a>, <a href="/concepts/florid-follicular-hyperplasia-ptld.html">Florid Follicular Hyperplasia PTLD</a>, <a href="/concepts/infectious-mononucleosis-ptld.html">Infectious Mononucleosis PTLD</a>, <a href="/concepts/monomorphic-ptld-b--and-t--nk-cell-types.html">Monomorphic PTLD (B- and T-/NK-cell types)</a>, <a href="/concepts/plasmacytic-hyperplasia-ptld.html">Plasmacytic Hyperplasia PTLD</a>, <a href="/concepts/polymorphic-ptld.html">Polymorphic PTLD</a>
+
+code
+ title Posttransplant Lymphoproliferative Disorders
+ type cancerType
+ mainType Posttransplant Lymphoproliferative Disorders
+ tissue Lymphoid
+ 
+ oncoTreeId PTLD
+ parentOncoTreeId LNM
+ oncoTreeLevel 3
+ subTypes 6
+ 
+
+import ../footer.scroll

@@ -1,0 +1,21 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/winning-the-war-on-cancer-the-epic-journey-towards-a-natural-cure-book.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav wim-hof-method.html winship-cancer-institute.html
+<a class="trueBaseThemePreviousItem" href="wim-hof-method.html">&lt;</a><a class="trueBaseThemeNextItem" href="winship-cancer-institute.html">&gt;</a>
+
+title Winning the War on Cancer: The Epic Journey Towards a Natural Cure
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=winning-the-war-on-cancer-the-epic-journey-towards-a-natural-cure-book" class="material-symbols-outlined">edit</a></div>
+
+code
+ title Winning the War on Cancer: The Epic Journey Towards a Natural Cure
+ type book
+ author Sylvie Beljanski
+ 
+ amazon https://www.amazon.com/Winning-War-Cancer-Journey-Towards-ebook/dp/B07BGTBVVH
+ 
+
+import ../footer.scroll

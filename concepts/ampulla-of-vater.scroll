@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/ampulla-of-vater.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav aml-without-maturation.html ampullary-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="aml-without-maturation.html">&lt;</a><a class="trueBaseThemeNextItem" href="ampullary-carcinoma.html">&gt;</a>
+
+title Ampulla of Vater
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ampulla-of-vater" class="material-symbols-outlined">edit</a></div>
+
+* Subtypes of Ampulla of Vater include <a href="/concepts/ampullary-carcinoma.html">Ampullary Carcinoma</a>
+
+code
+ title Ampulla of Vater
+ type cancerType
+ mainType Ampullary Carcinoma, NOS
+ tissue Ampulla of Vater
+ 
+ oncoTreeId AMPULLA_OF_VATER
+ parentOncoTreeId TISSUE
+ umls C0042425
+ nciCode C13011
+ oncoTreeLevel 1
+ subTypes 4
+ 
+
+import ../footer.scroll

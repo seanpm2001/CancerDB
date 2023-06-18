@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/pituicytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav pirarubicin.html pituitary-adenoma.html
+<a class="trueBaseThemePreviousItem" href="pirarubicin.html">&lt;</a><a class="trueBaseThemeNextItem" href="pituitary-adenoma.html">&gt;</a>
+
+title Pituicytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pituicytoma" class="material-symbols-outlined">edit</a></div>
+
+* Pituicytoma is a type of <a href="/concepts/sellar-tumor.html">Sellar Tumor</a>
+
+code
+ title Pituicytoma
+ type cancerType
+ mainType Sellar Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId PTCY
+ parentOncoTreeId SELT
+ umls C2986550
+ nciCode C94524
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

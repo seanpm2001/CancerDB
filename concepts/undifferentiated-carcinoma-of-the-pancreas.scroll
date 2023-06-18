@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/undifferentiated-carcinoma-of-the-pancreas.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav unclassified-renal-cell-carcinoma.html undifferentiated-embryonal-sarcoma-of-the-liver.html
+<a class="trueBaseThemePreviousItem" href="unclassified-renal-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="undifferentiated-embryonal-sarcoma-of-the-liver.html">&gt;</a>
+
+title Undifferentiated Carcinoma of the Pancreas
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=undifferentiated-carcinoma-of-the-pancreas" class="material-symbols-outlined">edit</a></div>
+
+* Undifferentiated Carcinoma of the Pancreas is a type of <a href="/concepts/pancreas.html">Pancreatic Cancer</a>
+* Subtypes of Undifferentiated Carcinoma of the Pancreas include <a href="/concepts/osteoclastic-giant-cell-tumor.html">Osteoclastic Giant Cell Tumor</a>
+
+code
+ title Undifferentiated Carcinoma of the Pancreas
+ type cancerType
+ mainType Pancreatic Cancer
+ tissue Pancreas
+ 
+ oncoTreeId UCP
+ parentOncoTreeId PANCREAS
+ umls C1336861
+ nciCode C5722
+ oncoTreeLevel 2
+ subTypes 1
+ 
+
+import ../footer.scroll

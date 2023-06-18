@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/mds-with-single-lineage-dysplasia.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mds-with-ring-sideroblasts.html mediastinoscopy.html
+<a class="trueBaseThemePreviousItem" href="mds-with-ring-sideroblasts.html">&lt;</a><a class="trueBaseThemeNextItem" href="mediastinoscopy.html">&gt;</a>
+
+title MDS with Single Lineage Dysplasia
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mds-with-single-lineage-dysplasia" class="material-symbols-outlined">edit</a></div>
+
+* MDS with Single Lineage Dysplasia is a type of <a href="/concepts/myelodysplastic-syndromes.html">Myelodysplastic Syndromes</a>
+
+code
+ title MDS with Single Lineage Dysplasia
+ type cancerType
+ mainType Myelodysplastic Syndromes
+ tissue Myeloid
+ 
+ oncoTreeId MDSSLD
+ parentOncoTreeId MDS
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

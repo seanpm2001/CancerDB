@@ -1,0 +1,24 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/ncbi-gene.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav navigational-bronchoscopy.html ncbi.html
+<a class="trueBaseThemePreviousItem" href="navigational-bronchoscopy.html">&lt;</a><a class="trueBaseThemeNextItem" href="ncbi.html">&gt;</a>
+
+title NCBI Gene
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.ncbi.nlm.nih.gov/gene" class="material-symbols-outlined">home</a> <a href="/edit.html?id=ncbi-gene" class="material-symbols-outlined">edit</a></div>
+
+The Gene database provides detailed information for known and predicted genes defined by nucleotide sequence or map position. Currently, Gene contains over 33 million entries and includes data from all major taxonomic groups. Each record in the database corresponds to a single gene and is derived from processing by the NCBI Reference Sequence and genome annotation groups. You can access data from the Gene database on the web through the Gene homepage, programmatically through the Entrez Programming Utilities, or by file transfer through its FTP site.
+
+code
+ title NCBI Gene
+ type onlineDatabase
+ parentOrganization ncbi
+ description The Gene database provides detailed information for known and predicted genes defined by nucleotide sequence or map position. Currently, Gene contains over 33 million entries and includes data from all major taxonomic groups. Each record in the database corresponds to a single gene and is derived from processing by the NCBI Reference Sequence and genome annotation groups. You can access data from the Gene database on the web through the Gene homepage, programmatically through the Entrez Programming Utilities, or by file transfer through its FTP site.
+ 
+ website https://www.ncbi.nlm.nih.gov/gene
+ 
+
+import ../footer.scroll

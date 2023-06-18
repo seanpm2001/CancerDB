@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/anaplastic-ganglioglioma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav anaplastic-ependymoma.html anaplastic-large-cell-lymphoma-alk-negative.html
+<a class="trueBaseThemePreviousItem" href="anaplastic-ependymoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="anaplastic-large-cell-lymphoma-alk-negative.html">&gt;</a>
+
+title Anaplastic Ganglioglioma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=anaplastic-ganglioglioma" class="material-symbols-outlined">edit</a></div>
+
+* Anaplastic Ganglioglioma is a type of <a href="/concepts/encapsulated-glioma.html">Encapsulated Glioma</a>
+
+code
+ title Anaplastic Ganglioglioma
+ type cancerType
+ mainType Glioma
+ tissue CNS/Brain
+ 
+ oncoTreeId AGNG
+ parentOncoTreeId ENCG
+ umls C0431112
+ nciCode C4717
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

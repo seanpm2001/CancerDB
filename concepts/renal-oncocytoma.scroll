@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/renal-oncocytoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav renal-non-clear-cell-carcinoma.html renal-small-cell-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="renal-non-clear-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="renal-small-cell-carcinoma.html">&gt;</a>
+
+title Renal Oncocytoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=renal-oncocytoma" class="material-symbols-outlined">edit</a></div>
+
+* Renal Oncocytoma is a type of <a href="/concepts/renal-non-clear-cell-carcinoma.html">Renal Non-Clear Cell Carcinoma</a>
+
+code
+ title Renal Oncocytoma
+ type cancerType
+ mainType Renal Cell Carcinoma
+ tissue Kidney
+ 
+ oncoTreeId ROCY
+ parentOncoTreeId NCCRCC
+ umls C0346255
+ nciCode C4526
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

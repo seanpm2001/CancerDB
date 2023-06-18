@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/breast-carcinoma-with-signet-ring.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav breast-cancer-subreddit.html breast-ductal-carcinoma-in-situ.html
+<a class="trueBaseThemePreviousItem" href="breast-cancer-subreddit.html">&lt;</a><a class="trueBaseThemeNextItem" href="breast-ductal-carcinoma-in-situ.html">&gt;</a>
+
+title Breast Carcinoma with Signet Ring
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=breast-carcinoma-with-signet-ring" class="material-symbols-outlined">edit</a></div>
+
+* Breast Carcinoma with Signet Ring is a type of <a href="/concepts/invasive-breast-carcinoma.html">Invasive Breast Carcinoma</a>
+
+code
+ title Breast Carcinoma with Signet Ring
+ type cancerType
+ mainType Breast Cancer
+ tissue Breast
+ 
+ oncoTreeId BRSRCC
+ parentOncoTreeId BRCA
+ umls C1335964
+ nciCode C5175
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

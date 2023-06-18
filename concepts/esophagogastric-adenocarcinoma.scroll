@@ -1,0 +1,30 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/esophagogastric-adenocarcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav esophagectomy.html esophagus-stomach.html
+<a class="trueBaseThemePreviousItem" href="esophagectomy.html">&lt;</a><a class="trueBaseThemeNextItem" href="esophagus-stomach.html">&gt;</a>
+
+title Esophagogastric Adenocarcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=esophagogastric-adenocarcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Esophagogastric Adenocarcinoma is a type of <a href="/concepts/esophagus-stomach.html">Esophagus/Stomach Cancer</a>
+* Subtypes of Esophagogastric Adenocarcinoma include <a href="/concepts/adenocarcinoma-of-the-gastroesophageal-junction.html">Adenocarcinoma of the Gastroesophageal Junction</a>, <a href="/concepts/adenosquamous-carcinoma-of-the-stomach.html">Adenosquamous Carcinoma of the Stomach</a>, <a href="/concepts/esophageal-adenocarcinoma.html">Esophageal Adenocarcinoma</a>, <a href="/concepts/gastric-remnant-adenocarcinoma.html">Gastric Remnant Adenocarcinoma</a>, <a href="/concepts/small-cell-carcinoma-of-the-stomach.html">Small Cell Carcinoma of the Stomach</a>, <a href="/concepts/stomach-adenocarcinoma.html">Stomach Adenocarcinoma</a>, <a href="/concepts/undifferentiated-stomach-adenocarcinoma.html">Undifferentiated Stomach Adenocarcinoma</a>
+
+code
+ title Esophagogastric Adenocarcinoma
+ type cancerType
+ mainType Esophagogastric Cancer
+ tissue Esophagus/Stomach
+ 
+ oncoTreeId EGC
+ parentOncoTreeId STOMACH
+ umls C1332166
+ nciCode C9296
+ oncoTreeLevel 2
+ subTypes 14
+ 
+
+import ../footer.scroll

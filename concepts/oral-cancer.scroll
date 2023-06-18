@@ -1,0 +1,76 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/oral-cancer.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav oral-cancer-foundation.html oral-cavity-squamous-cell-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="oral-cancer-foundation.html">&lt;</a><a class="trueBaseThemeNextItem" href="oral-cavity-squamous-cell-carcinoma.html">&gt;</a>
+
+title Oral Cancer
+
+<div class="trueBaseThemeQuickLinks"><a href="https://en.wikipedia.org/wiki/Oral_cancer"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="/edit.html?id=oral-cancer" class="material-symbols-outlined">edit</a></div>
+
+dashboard
+ 10,447 U.S. deaths per year
+ 47,783 U.S. cases per year
+ 22% U.S. mortality rate
+
+* Oral Cancer on <a href="https://en.wikipedia.org/wiki/Oral_cancer">Wikipedia.org</a>
+
+- Read more about Oral Cancer on <a href="https://www.nidcr.nih.gov/health-info/oral-cancer">nidcr.nih.gov</a>
+
+code
+ title Oral Cancer
+ type cancerType
+ uscsId Oral Cavity and Pharynx
+ uscsDeathsPerYear 10447
+ uscsCasesPerYear 47783
+ uscsMortalityRate 22%
+ aka Mouth Cancer
+ 
+ wikipedia https://en.wikipedia.org/wiki/Oral_cancer
+ reference https://www.nidcr.nih.gov/health-info/oral-cancer
+ 
+ uscsTable 2019
+  sex|age|population|cases|deaths
+  F|0|1841226|~|~
+  F|1-4|7728847|~|~
+  F|5-9|9886447|~|~
+  F|10-14|10190891|27|~
+  F|15-19|10313575|42|~
+  F|20-24|10577124|71|~
+  F|25-29|11518714|121|~
+  F|30-34|11093732|184|~
+  F|35-39|10861340|260|24
+  F|40-44|10014341|346|30
+  F|45-49|10307804|611|70
+  F|50-54|10387588|987|153
+  F|55-59|11232044|1592|277
+  F|60-64|10708826|1933|353
+  F|65-69|9252566|1958|370
+  F|70-74|7527818|1751|413
+  F|75-79|5333117|1425|393
+  F|80-84|3636357|1046|356
+  F|85+|4225260|1154|656
+  M|0|1921001|~|~
+  M|1-4|8080265|~|~
+  M|5-9|10335306|~|~
+  M|10-14|10629162|27|~
+  M|15-19|10752848|56|~
+  M|20-24|11066850|73|~
+  M|25-29|12020738|111|~
+  M|30-34|11370500|209|25
+  M|35-39|10892543|407|46
+  M|40-44|9906220|787|82
+  M|45-49|10082635|1687|199
+  M|50-54|10082296|3202|403
+  M|55-59|10639047|5270|841
+  M|60-64|9851308|6154|1237
+  M|65-69|8191801|5731|1247
+  M|70-74|6499159|4562|1108
+  M|75-79|4317707|2890|860
+  M|80-84|2678743|1749|608
+  M|85+|2374207|1360|696
+ 
+
+import ../footer.scroll

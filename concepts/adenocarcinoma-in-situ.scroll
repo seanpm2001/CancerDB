@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/adenocarcinoma-in-situ.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav adamantinoma.html adenocarcinoma-nos.html
+<a class="trueBaseThemePreviousItem" href="adamantinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="adenocarcinoma-nos.html">&gt;</a>
+
+title Adenocarcinoma In Situ
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=adenocarcinoma-in-situ" class="material-symbols-outlined">edit</a></div>
+
+* Adenocarcinoma In Situ is a type of <a href="/concepts/other.html">Other</a>
+
+code
+ title Adenocarcinoma In Situ
+ type cancerType
+ mainType Adenocarcinoma In Situ
+ tissue Other
+ 
+ oncoTreeId AIS
+ parentOncoTreeId OTHER
+ umls C0334276
+ nciCode C4123
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

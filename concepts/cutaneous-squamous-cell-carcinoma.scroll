@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cutaneous-squamous-cell-carcinoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cutaneous-melanoma.html cyclophosphamide.html
+<a class="trueBaseThemePreviousItem" href="cutaneous-melanoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="cyclophosphamide.html">&gt;</a>
+
+title Cutaneous Squamous Cell Carcinoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cutaneous-squamous-cell-carcinoma" class="material-symbols-outlined">edit</a></div>
+
+* Cutaneous Squamous Cell Carcinoma is a type of <a href="/concepts/skin.html">Skin Cancer</a>
+
+code
+ title Cutaneous Squamous Cell Carcinoma
+ type cancerType
+ mainType Skin Cancer, Non-Melanoma
+ tissue Skin
+ 
+ oncoTreeId CSCC
+ parentOncoTreeId SKIN
+ umls C0553723
+ nciCode C4819
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

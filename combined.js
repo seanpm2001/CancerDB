@@ -2,7267 +2,7267 @@ var autocompleteJs = [
   {
     "label": "3D-CRT",
     "id": "3d-crt",
-    "url": "/rows/3d-crt.html"
+    "url": "/concepts/3d-crt.html"
   },
   {
     "label": "A Lucky Man: A Memoir",
     "id": "a-lucky-man-a-memoir",
-    "url": "/rows/a-lucky-man-a-memoir.html"
+    "url": "/concepts/a-lucky-man-a-memoir.html"
   },
   {
     "label": "A New War on Cancer: The Unlikely Heroes Revolutionizing Prevention",
     "id": "a-new-war-on-cancer-book",
-    "url": "/rows/a-new-war-on-cancer-book.html"
+    "url": "/concepts/a-new-war-on-cancer-book.html"
   },
   {
     "label": "AACCR",
     "id": "aaccr-et",
-    "url": "/rows/aaccr-et.html"
+    "url": "/concepts/aaccr-et.html"
   },
   {
     "label": "Association of American Cancer Institutes",
     "id": "aaci",
-    "url": "/rows/aaci.html"
+    "url": "/concepts/aaci.html"
   },
   {
     "label": "AACR",
     "id": "aacr",
-    "url": "/rows/aacr.html"
+    "url": "/concepts/aacr.html"
   },
   {
     "label": "American Academy of Dermatology",
     "id": "aad",
-    "url": "/rows/aad.html"
+    "url": "/concepts/aad.html"
   },
   {
     "label": "Abbott Laboratories",
     "id": "abbott",
-    "url": "/rows/abbott.html"
+    "url": "/concepts/abbott.html"
   },
   {
     "label": "AbbVie",
     "id": "abbvie",
-    "url": "/rows/abbvie.html"
+    "url": "/concepts/abbvie.html"
   },
   {
     "label": "Abramson Cancer Center",
     "id": "abramson-cancer-center",
-    "url": "/rows/abramson-cancer-center.html"
+    "url": "/concepts/abramson-cancer-center.html"
   },
   {
     "label": "Abraxane",
     "id": "abraxane",
-    "url": "/rows/abraxane.html"
+    "url": "/concepts/abraxane.html"
   },
   {
     "label": "ACD",
     "id": "acd-au",
-    "url": "/rows/acd-au.html"
+    "url": "/concepts/acd-au.html"
   },
   {
     "label": "Acinar Cell Carcinoma, NOS",
     "id": "acinar-cell-carcinoma-nos",
-    "url": "/rows/acinar-cell-carcinoma-nos.html"
+    "url": "/concepts/acinar-cell-carcinoma-nos.html"
   },
   {
     "label": "Acinar Cell Carcinoma of the Pancreas",
     "id": "acinar-cell-carcinoma-of-the-pancreas",
-    "url": "/rows/acinar-cell-carcinoma-of-the-pancreas.html"
+    "url": "/concepts/acinar-cell-carcinoma-of-the-pancreas.html"
   },
   {
     "label": "Acinic Cell Carcinoma",
     "id": "acinic-cell-carcinoma",
-    "url": "/rows/acinic-cell-carcinoma.html"
+    "url": "/concepts/acinic-cell-carcinoma.html"
   },
   {
     "label": "Acral Melanoma",
     "id": "acral-melanoma",
-    "url": "/rows/acral-melanoma.html"
+    "url": "/concepts/acral-melanoma.html"
   },
   {
     "label": "American Cancer Society Cancer Action Network",
     "id": "acs-can",
-    "url": "/rows/acs-can.html"
+    "url": "/concepts/acs-can.html"
   },
   {
     "label": "ACS Cancer Programs",
     "id": "acs-cancer-programs",
-    "url": "/rows/acs-cancer-programs.html"
+    "url": "/concepts/acs-cancer-programs.html"
   },
   {
     "label": "American College of Surgeons",
     "id": "acs",
-    "url": "/rows/acs.html"
+    "url": "/concepts/acs.html"
   },
   {
     "label": "ACTCR",
     "id": "actcr-au",
-    "url": "/rows/actcr-au.html"
+    "url": "/concepts/actcr-au.html"
   },
   {
     "label": "Actinomycin",
     "id": "actinomycin",
-    "url": "/rows/actinomycin.html"
+    "url": "/concepts/actinomycin.html"
   },
   {
     "label": "Activated B-cell Type",
     "id": "activated-b-cell-type",
-    "url": "/rows/activated-b-cell-type.html"
+    "url": "/concepts/activated-b-cell-type.html"
   },
   {
     "label": "Acupressure",
     "id": "acupressure",
-    "url": "/rows/acupressure.html"
+    "url": "/concepts/acupressure.html"
   },
   {
     "label": "Acupuncture",
     "id": "acupuncture",
-    "url": "/rows/acupuncture.html"
+    "url": "/concepts/acupuncture.html"
   },
   {
     "label": "Acute Basophilic Leukemia",
     "id": "acute-basophilic-leukemia",
-    "url": "/rows/acute-basophilic-leukemia.html"
+    "url": "/concepts/acute-basophilic-leukemia.html"
   },
   {
     "label": "Acute Leukemias of Ambiguous Lineage",
     "id": "acute-leukemias-of-ambiguous-lineage",
-    "url": "/rows/acute-leukemias-of-ambiguous-lineage.html"
+    "url": "/concepts/acute-leukemias-of-ambiguous-lineage.html"
   },
   {
     "label": "Acute Megakaryoblastic Leukemia",
     "id": "acute-megakaryoblastic-leukemia",
-    "url": "/rows/acute-megakaryoblastic-leukemia.html"
+    "url": "/concepts/acute-megakaryoblastic-leukemia.html"
   },
   {
     "label": "Acute Monoblastic/Monocytic Leukemia",
     "id": "acute-monoblastic-monocytic-leukemia",
-    "url": "/rows/acute-monoblastic-monocytic-leukemia.html"
+    "url": "/concepts/acute-monoblastic-monocytic-leukemia.html"
   },
   {
     "label": "Acute Myeloid Leukemia",
     "id": "acute-myeloid-leukemia",
-    "url": "/rows/acute-myeloid-leukemia.html"
+    "url": "/concepts/acute-myeloid-leukemia.html"
   },
   {
     "label": "Acute Myelomonocytic Leukemia",
     "id": "acute-myelomonocytic-leukemia",
-    "url": "/rows/acute-myelomonocytic-leukemia.html"
+    "url": "/concepts/acute-myelomonocytic-leukemia.html"
   },
   {
     "label": "Acute Panmyelosis with Myelofibrosis",
     "id": "acute-panmyelosis-with-myelofibrosis",
-    "url": "/rows/acute-panmyelosis-with-myelofibrosis.html"
+    "url": "/concepts/acute-panmyelosis-with-myelofibrosis.html"
   },
   {
     "label": "Acute Undifferentiated Leukemia",
     "id": "acute-undifferentiated-leukemia",
-    "url": "/rows/acute-undifferentiated-leukemia.html"
+    "url": "/concepts/acute-undifferentiated-leukemia.html"
   },
   {
     "label": "Adamantinoma",
     "id": "adamantinoma",
-    "url": "/rows/adamantinoma.html"
+    "url": "/concepts/adamantinoma.html"
   },
   {
     "label": "Adenocarcinoma In Situ",
     "id": "adenocarcinoma-in-situ",
-    "url": "/rows/adenocarcinoma-in-situ.html"
+    "url": "/concepts/adenocarcinoma-in-situ.html"
   },
   {
     "label": "Adenocarcinoma, NOS",
     "id": "adenocarcinoma-nos",
-    "url": "/rows/adenocarcinoma-nos.html"
+    "url": "/concepts/adenocarcinoma-nos.html"
   },
   {
     "label": "Adenocarcinoma of the Gastroesophageal Junction",
     "id": "adenocarcinoma-of-the-gastroesophageal-junction",
-    "url": "/rows/adenocarcinoma-of-the-gastroesophageal-junction.html"
+    "url": "/concepts/adenocarcinoma-of-the-gastroesophageal-junction.html"
   },
   {
     "label": "Adenoid Cystic Breast Cancer",
     "id": "adenoid-cystic-breast-cancer",
-    "url": "/rows/adenoid-cystic-breast-cancer.html"
+    "url": "/concepts/adenoid-cystic-breast-cancer.html"
   },
   {
     "label": "Adenoid Cystic Carcinoma of the Lung",
     "id": "adenoid-cystic-carcinoma-of-the-lung",
-    "url": "/rows/adenoid-cystic-carcinoma-of-the-lung.html"
+    "url": "/concepts/adenoid-cystic-carcinoma-of-the-lung.html"
   },
   {
     "label": "Adenoid Cystic Carcinoma",
     "id": "adenoid-cystic-carcinoma",
-    "url": "/rows/adenoid-cystic-carcinoma.html"
+    "url": "/concepts/adenoid-cystic-carcinoma.html"
   },
   {
     "label": "Adenomyoepithelioma of the Breast",
     "id": "adenomyoepithelioma-of-the-breast",
-    "url": "/rows/adenomyoepithelioma-of-the-breast.html"
+    "url": "/concepts/adenomyoepithelioma-of-the-breast.html"
   },
   {
     "label": "Adenosquamous Carcinoma of the Gallbladder",
     "id": "adenosquamous-carcinoma-of-the-gallbladder",
-    "url": "/rows/adenosquamous-carcinoma-of-the-gallbladder.html"
+    "url": "/concepts/adenosquamous-carcinoma-of-the-gallbladder.html"
   },
   {
     "label": "Adenosquamous Carcinoma of the Pancreas",
     "id": "adenosquamous-carcinoma-of-the-pancreas",
-    "url": "/rows/adenosquamous-carcinoma-of-the-pancreas.html"
+    "url": "/concepts/adenosquamous-carcinoma-of-the-pancreas.html"
   },
   {
     "label": "Adenosquamous Carcinoma of the Stomach",
     "id": "adenosquamous-carcinoma-of-the-stomach",
-    "url": "/rows/adenosquamous-carcinoma-of-the-stomach.html"
+    "url": "/concepts/adenosquamous-carcinoma-of-the-stomach.html"
   },
   {
     "label": "Adenosquamous Carcinoma of the Tongue",
     "id": "adenosquamous-carcinoma-of-the-tongue",
-    "url": "/rows/adenosquamous-carcinoma-of-the-tongue.html"
+    "url": "/concepts/adenosquamous-carcinoma-of-the-tongue.html"
   },
   {
     "label": "Adrenal Cancer",
     "id": "adrenal-gland",
-    "url": "/rows/adrenal-gland.html"
+    "url": "/concepts/adrenal-gland.html"
   },
   {
     "label": "Adrenalectomy",
     "id": "adrenalectomy",
-    "url": "/rows/adrenalectomy.html"
+    "url": "/concepts/adrenalectomy.html"
   },
   {
     "label": "Adrenocortical Adenoma",
     "id": "adrenocortical-adenoma",
-    "url": "/rows/adrenocortical-adenoma.html"
+    "url": "/concepts/adrenocortical-adenoma.html"
   },
   {
     "label": "Adrenocortical Carcinoma",
     "id": "adrenocortical-carcinoma",
-    "url": "/rows/adrenocortical-carcinoma.html"
+    "url": "/concepts/adrenocortical-carcinoma.html"
   },
   {
     "label": "Adult T-Cell Leukemia/Lymphoma",
     "id": "adult-t-cell-leukemia-lymphoma",
-    "url": "/rows/adult-t-cell-leukemia-lymphoma.html"
+    "url": "/concepts/adult-t-cell-leukemia-lymphoma.html"
   },
   {
     "label": "AdventHealth Orlando",
     "id": "advent-health-orlando",
-    "url": "/rows/advent-health-orlando.html"
+    "url": "/concepts/advent-health-orlando.html"
   },
   {
     "label": "Asociación Española Contra el Cancer",
     "id": "aecc",
-    "url": "/rows/aecc.html"
+    "url": "/concepts/aecc.html"
   },
   {
     "label": "Aggressive Angiomyxoma",
     "id": "aggressive-angiomyxoma",
-    "url": "/rows/aggressive-angiomyxoma.html"
+    "url": "/concepts/aggressive-angiomyxoma.html"
   },
   {
     "label": "Aggressive Digital Papillary Adenocarcinoma",
     "id": "aggressive-digital-papillary-adenocarcinoma",
-    "url": "/rows/aggressive-digital-papillary-adenocarcinoma.html"
+    "url": "/concepts/aggressive-digital-papillary-adenocarcinoma.html"
   },
   {
     "label": "Aggressive NK-Cell Leukemia",
     "id": "aggressive-nk-cell-leukemia",
-    "url": "/rows/aggressive-nk-cell-leukemia.html"
+    "url": "/concepts/aggressive-nk-cell-leukemia.html"
   },
   {
     "label": "Aggressive Systemic Mastocytosis",
     "id": "aggressive-systemic-mastocytosis",
-    "url": "/rows/aggressive-systemic-mastocytosis.html"
+    "url": "/concepts/aggressive-systemic-mastocytosis.html"
   },
   {
     "label": "AICR",
     "id": "aicr",
-    "url": "/rows/aicr.html"
+    "url": "/concepts/aicr.html"
   },
   {
     "label": "Albert B. Chandler Hospital",
     "id": "albert-b-chandler-hospital",
-    "url": "/rows/albert-b-chandler-hospital.html"
+    "url": "/concepts/albert-b-chandler-hospital.html"
   },
   {
     "label": "Alitretinoin",
     "id": "alitretinoin",
-    "url": "/rows/alitretinoin.html"
+    "url": "/concepts/alitretinoin.html"
   },
   {
     "label": "ALK Positive Large B-Cell Lymphoma",
     "id": "alk-positive-large-b-cell-lymphoma",
-    "url": "/rows/alk-positive-large-b-cell-lymphoma.html"
+    "url": "/concepts/alk-positive-large-b-cell-lymphoma.html"
   },
   {
     "label": "Alkaline diet",
     "id": "alkaline-diet",
-    "url": "/rows/alkaline-diet.html"
+    "url": "/concepts/alkaline-diet.html"
   },
   {
     "label": "Acute lymphoblastic leukemia",
     "id": "all",
-    "url": "/rows/all.html"
+    "url": "/concepts/all.html"
   },
   {
     "label": "Alpha Heavy-Chain Disease",
     "id": "alpha-heavy-chain-disease",
-    "url": "/rows/alpha-heavy-chain-disease.html"
+    "url": "/concepts/alpha-heavy-chain-disease.html"
   },
   {
     "label": "Altretamine",
     "id": "altretamine",
-    "url": "/rows/altretamine.html"
+    "url": "/concepts/altretamine.html"
   },
   {
     "label": "Alveolar Rhabdomyosarcoma",
     "id": "alveolar-rhabdomyosarcoma",
-    "url": "/rows/alveolar-rhabdomyosarcoma.html"
+    "url": "/concepts/alveolar-rhabdomyosarcoma.html"
   },
   {
     "label": "Alveolar Soft Part Sarcoma",
     "id": "alveolar-soft-part-sarcoma",
-    "url": "/rows/alveolar-soft-part-sarcoma.html"
+    "url": "/concepts/alveolar-soft-part-sarcoma.html"
   },
   {
     "label": "Alvin J. Siteman Cancer Center",
     "id": "alvin-j-siteman-cancer-center",
-    "url": "/rows/alvin-j-siteman-cancer-center.html"
+    "url": "/concepts/alvin-j-siteman-cancer-center.html"
   },
   {
     "label": "American Cancer Society",
     "id": "american-cancer-society",
-    "url": "/rows/american-cancer-society.html"
+    "url": "/concepts/american-cancer-society.html"
   },
   {
     "label": "American Liver Foundation",
     "id": "american-liver-foundation",
-    "url": "/rows/american-liver-foundation.html"
+    "url": "/concepts/american-liver-foundation.html"
   },
   {
     "label": "American Lung Association",
     "id": "american-lung-association",
-    "url": "/rows/american-lung-association.html"
+    "url": "/concepts/american-lung-association.html"
   },
   {
     "label": "Amgen",
     "id": "amgen",
-    "url": "/rows/amgen.html"
+    "url": "/concepts/amgen.html"
   },
   {
     "label": "AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1",
     "id": "aml-megakaryoblastic-with-t122p13.3q13.3rbm15-mkl1",
-    "url": "/rows/aml-megakaryoblastic-with-t122p13.3q13.3rbm15-mkl1.html"
+    "url": "/concepts/aml-megakaryoblastic-with-t122p13.3q13.3rbm15-mkl1.html"
   },
   {
     "label": "AML, NOS",
     "id": "aml-nos",
-    "url": "/rows/aml-nos.html"
+    "url": "/concepts/aml-nos.html"
   },
   {
     "label": "AML with BCR-ABL1",
     "id": "aml-with-bcr-abl1",
-    "url": "/rows/aml-with-bcr-abl1.html"
+    "url": "/concepts/aml-with-bcr-abl1.html"
   },
   {
     "label": "AML with Biallelic Mutations of CEBPA",
     "id": "aml-with-biallelic-mutations-of-cebpa",
-    "url": "/rows/aml-with-biallelic-mutations-of-cebpa.html"
+    "url": "/concepts/aml-with-biallelic-mutations-of-cebpa.html"
   },
   {
     "label": "AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11",
     "id": "aml-with-inv16p13.1q22-or-t1616p13.1q22cbfb-myh11",
-    "url": "/rows/aml-with-inv16p13.1q22-or-t1616p13.1q22cbfb-myh11.html"
+    "url": "/concepts/aml-with-inv16p13.1q22-or-t1616p13.1q22cbfb-myh11.html"
   },
   {
     "label": "AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM",
     "id": "aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom",
-    "url": "/rows/aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom.html"
+    "url": "/concepts/aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom.html"
   },
   {
     "label": "AML with Maturation",
     "id": "aml-with-maturation",
-    "url": "/rows/aml-with-maturation.html"
+    "url": "/concepts/aml-with-maturation.html"
   },
   {
     "label": "AML with Minimal Differentiation",
     "id": "aml-with-minimal-differentiation",
-    "url": "/rows/aml-with-minimal-differentiation.html"
+    "url": "/concepts/aml-with-minimal-differentiation.html"
   },
   {
     "label": "AML with Mutated NPM1",
     "id": "aml-with-mutated-npm1",
-    "url": "/rows/aml-with-mutated-npm1.html"
+    "url": "/concepts/aml-with-mutated-npm1.html"
   },
   {
     "label": "AML with Mutated RUNX1",
     "id": "aml-with-mutated-runx1",
-    "url": "/rows/aml-with-mutated-runx1.html"
+    "url": "/concepts/aml-with-mutated-runx1.html"
   },
   {
     "label": "AML with Myelodysplasia-Related Changes",
     "id": "aml-with-myelodysplasia-related-changes",
-    "url": "/rows/aml-with-myelodysplasia-related-changes.html"
+    "url": "/concepts/aml-with-myelodysplasia-related-changes.html"
   },
   {
     "label": "AML with Recurrent Genetic Abnormalities",
     "id": "aml-with-recurrent-genetic-abnormalities",
-    "url": "/rows/aml-with-recurrent-genetic-abnormalities.html"
+    "url": "/concepts/aml-with-recurrent-genetic-abnormalities.html"
   },
   {
     "label": "AML with t(6;9)(p23;q34.1);DEK-NUP214",
     "id": "aml-with-t69p23q34.1dek-nup214",
-    "url": "/rows/aml-with-t69p23q34.1dek-nup214.html"
+    "url": "/concepts/aml-with-t69p23q34.1dek-nup214.html"
   },
   {
     "label": "AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1",
     "id": "aml-with-t821q22q22.1runx1-runx1t1",
-    "url": "/rows/aml-with-t821q22q22.1runx1-runx1t1.html"
+    "url": "/concepts/aml-with-t821q22q22.1runx1-runx1t1.html"
   },
   {
     "label": "AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A",
     "id": "aml-with-t911p21.3q23.3mllt3-kmt2a",
-    "url": "/rows/aml-with-t911p21.3q23.3mllt3-kmt2a.html"
+    "url": "/concepts/aml-with-t911p21.3q23.3mllt3-kmt2a.html"
   },
   {
     "label": "AML without Maturation",
     "id": "aml-without-maturation",
-    "url": "/rows/aml-without-maturation.html"
+    "url": "/concepts/aml-without-maturation.html"
   },
   {
     "label": "Ampulla of Vater",
     "id": "ampulla-of-vater",
-    "url": "/rows/ampulla-of-vater.html"
+    "url": "/concepts/ampulla-of-vater.html"
   },
   {
     "label": "Ampullary Carcinoma",
     "id": "ampullary-carcinoma",
-    "url": "/rows/ampullary-carcinoma.html"
+    "url": "/concepts/ampullary-carcinoma.html"
   },
   {
     "label": "Amyloidosis",
     "id": "amyloidosis",
-    "url": "/rows/amyloidosis.html"
+    "url": "/concepts/amyloidosis.html"
   },
   {
     "label": "Anal Gland Adenocarcinoma",
     "id": "anal-gland-adenocarcinoma",
-    "url": "/rows/anal-gland-adenocarcinoma.html"
+    "url": "/concepts/anal-gland-adenocarcinoma.html"
   },
   {
     "label": "Anal Squamous Cell Carcinoma",
     "id": "anal-squamous-cell-carcinoma",
-    "url": "/rows/anal-squamous-cell-carcinoma.html"
+    "url": "/concepts/anal-squamous-cell-carcinoma.html"
   },
   {
     "label": "Anaplastic Astrocytoma",
     "id": "anaplastic-astrocytoma",
-    "url": "/rows/anaplastic-astrocytoma.html"
+    "url": "/concepts/anaplastic-astrocytoma.html"
   },
   {
     "label": "Anaplastic Ependymoma",
     "id": "anaplastic-ependymoma",
-    "url": "/rows/anaplastic-ependymoma.html"
+    "url": "/concepts/anaplastic-ependymoma.html"
   },
   {
     "label": "Anaplastic Ganglioglioma",
     "id": "anaplastic-ganglioglioma",
-    "url": "/rows/anaplastic-ganglioglioma.html"
+    "url": "/concepts/anaplastic-ganglioglioma.html"
   },
   {
     "label": "Anaplastic Large-Cell Lymphoma ALK Negative",
     "id": "anaplastic-large-cell-lymphoma-alk-negative",
-    "url": "/rows/anaplastic-large-cell-lymphoma-alk-negative.html"
+    "url": "/concepts/anaplastic-large-cell-lymphoma-alk-negative.html"
   },
   {
     "label": "Anaplastic Large-Cell Lymphoma ALK Positive",
     "id": "anaplastic-large-cell-lymphoma-alk-positive",
-    "url": "/rows/anaplastic-large-cell-lymphoma-alk-positive.html"
+    "url": "/concepts/anaplastic-large-cell-lymphoma-alk-positive.html"
   },
   {
     "label": "Anaplastic Large Cell Lymphoma",
     "id": "anaplastic-large-cell-lymphoma",
-    "url": "/rows/anaplastic-large-cell-lymphoma.html"
+    "url": "/concepts/anaplastic-large-cell-lymphoma.html"
   },
   {
     "label": "Anaplastic Meningioma",
     "id": "anaplastic-meningioma",
-    "url": "/rows/anaplastic-meningioma.html"
+    "url": "/concepts/anaplastic-meningioma.html"
   },
   {
     "label": "Anaplastic Oligoastrocytoma",
     "id": "anaplastic-oligoastrocytoma",
-    "url": "/rows/anaplastic-oligoastrocytoma.html"
+    "url": "/concepts/anaplastic-oligoastrocytoma.html"
   },
   {
     "label": "Anaplastic Oligodendroglioma",
     "id": "anaplastic-oligodendroglioma",
-    "url": "/rows/anaplastic-oligodendroglioma.html"
+    "url": "/concepts/anaplastic-oligodendroglioma.html"
   },
   {
     "label": "Anaplastic Pleomorphic Xanthoastrocytoma",
     "id": "anaplastic-pleomorphic-xanthoastrocytoma",
-    "url": "/rows/anaplastic-pleomorphic-xanthoastrocytoma.html"
+    "url": "/concepts/anaplastic-pleomorphic-xanthoastrocytoma.html"
   },
   {
     "label": "Anaplastic Thyroid Cancer",
     "id": "anaplastic-thyroid-cancer",
-    "url": "/rows/anaplastic-thyroid-cancer.html"
+    "url": "/concepts/anaplastic-thyroid-cancer.html"
   },
   {
     "label": "Angiocentric Glioma",
     "id": "angiocentric-glioma",
-    "url": "/rows/angiocentric-glioma.html"
+    "url": "/concepts/angiocentric-glioma.html"
   },
   {
     "label": "Angioimmunoblastic T-Cell Lymphoma",
     "id": "angioimmunoblastic-t-cell-lymphoma",
-    "url": "/rows/angioimmunoblastic-t-cell-lymphoma.html"
+    "url": "/concepts/angioimmunoblastic-t-cell-lymphoma.html"
   },
   {
     "label": "Angiomatoid Fibrous Histiocytoma",
     "id": "angiomatoid-fibrous-histiocytoma",
-    "url": "/rows/angiomatoid-fibrous-histiocytoma.html"
+    "url": "/concepts/angiomatoid-fibrous-histiocytoma.html"
   },
   {
     "label": "Angiosarcoma",
     "id": "angiosarcoma",
-    "url": "/rows/angiosarcoma.html"
+    "url": "/concepts/angiosarcoma.html"
   },
   {
     "label": "Annals of Oncology",
     "id": "annals-of-oncology",
-    "url": "/rows/annals-of-oncology.html"
+    "url": "/concepts/annals-of-oncology.html"
   },
   {
     "label": "Anorectal Mucosal Melanoma",
     "id": "anorectal-mucosal-melanoma",
-    "url": "/rows/anorectal-mucosal-melanoma.html"
+    "url": "/concepts/anorectal-mucosal-melanoma.html"
   },
   {
     "label": "Anticancer: A New Way of Life",
     "id": "anticancer",
-    "url": "/rows/anticancer.html"
+    "url": "/concepts/anticancer.html"
   },
   {
     "label": "APL with PML-RARA",
     "id": "apl-with-pml-rara",
-    "url": "/rows/apl-with-pml-rara.html"
+    "url": "/concepts/apl-with-pml-rara.html"
   },
   {
     "label": "Appendiceal Adenocarcinoma",
     "id": "appendiceal-adenocarcinoma",
-    "url": "/rows/appendiceal-adenocarcinoma.html"
+    "url": "/concepts/appendiceal-adenocarcinoma.html"
   },
   {
     "label": "Instituto Nacional del Cáncer",
     "id": "argentina-ncc",
-    "url": "/rows/argentina-ncc.html"
+    "url": "/concepts/argentina-ncc.html"
   },
   {
     "label": "Arizona Cancer Center",
     "id": "arizona-cancer-center",
-    "url": "/rows/arizona-cancer-center.html"
+    "url": "/concepts/arizona-cancer-center.html"
   },
   {
     "label": "Aromatherapy",
     "id": "aromatherapy",
-    "url": "/rows/aromatherapy.html"
+    "url": "/concepts/aromatherapy.html"
   },
   {
     "label": "ARPA-H",
     "id": "arpha-h",
-    "url": "/rows/arpha-h.html"
+    "url": "/concepts/arpha-h.html"
   },
   {
     "label": "ASCO",
     "id": "asco",
-    "url": "/rows/asco.html"
+    "url": "/concepts/asco.html"
   },
   {
     "label": "AstraZeneca",
     "id": "astrazeneca",
-    "url": "/rows/astrazeneca.html"
+    "url": "/concepts/astrazeneca.html"
   },
   {
     "label": "Astroblastoma",
     "id": "astroblastoma",
-    "url": "/rows/astroblastoma.html"
+    "url": "/concepts/astroblastoma.html"
   },
   {
     "label": "Astrocytoma",
     "id": "astrocytoma",
-    "url": "/rows/astrocytoma.html"
+    "url": "/concepts/astrocytoma.html"
   },
   {
     "label": "Atezolizumab",
     "id": "atezolizumab",
-    "url": "/rows/atezolizumab.html"
+    "url": "/concepts/atezolizumab.html"
   },
   {
     "label": "Atypical Choroid Plexus Papilloma",
     "id": "atypical-choroid-plexus-papilloma",
-    "url": "/rows/atypical-choroid-plexus-papilloma.html"
+    "url": "/concepts/atypical-choroid-plexus-papilloma.html"
   },
   {
     "label": "Atypical Chronic Myeloid Leukemia, BCR-ABL1-",
     "id": "atypical-chronic-myeloid-leukemia-bcr-abl1-",
-    "url": "/rows/atypical-chronic-myeloid-leukemia-bcr-abl1-.html"
+    "url": "/concepts/atypical-chronic-myeloid-leukemia-bcr-abl1-.html"
   },
   {
     "label": "Atypical Fibroxanthoma",
     "id": "atypical-fibroxanthoma",
-    "url": "/rows/atypical-fibroxanthoma.html"
+    "url": "/concepts/atypical-fibroxanthoma.html"
   },
   {
     "label": "Atypical Lung Carcinoid",
     "id": "atypical-lung-carcinoid",
-    "url": "/rows/atypical-lung-carcinoid.html"
+    "url": "/concepts/atypical-lung-carcinoid.html"
   },
   {
     "label": "Atypical Meningioma",
     "id": "atypical-meningioma",
-    "url": "/rows/atypical-meningioma.html"
+    "url": "/concepts/atypical-meningioma.html"
   },
   {
     "label": "Atypical Nevus",
     "id": "atypical-nevus",
-    "url": "/rows/atypical-nevus.html"
+    "url": "/concepts/atypical-nevus.html"
   },
   {
     "label": "Atypical Pituitary Adenoma",
     "id": "atypical-pituitary-adenoma",
-    "url": "/rows/atypical-pituitary-adenoma.html"
+    "url": "/concepts/atypical-pituitary-adenoma.html"
   },
   {
     "label": "Atypical Teratoid/Rhabdoid Tumor",
     "id": "atypical-teratoid-rhabdoid-tumor",
-    "url": "/rows/atypical-teratoid-rhabdoid-tumor.html"
+    "url": "/concepts/atypical-teratoid-rhabdoid-tumor.html"
   },
   {
     "label": "Azacitidine",
     "id": "azacitidine",
-    "url": "/rows/azacitidine.html"
+    "url": "/concepts/azacitidine.html"
   },
   {
     "label": "Azathioprine",
     "id": "azathioprine",
-    "url": "/rows/azathioprine.html"
+    "url": "/concepts/azathioprine.html"
   },
   {
     "label": "B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma",
     "id": "b-cell-lymphoma-unclassifiable-with-features-intermediate-between-dlbcl-and-classical-hodgkin-lymphoma",
-    "url": "/rows/b-cell-lymphoma-unclassifiable-with-features-intermediate-between-dlbcl-and-classical-hodgkin-lymphoma.html"
+    "url": "/concepts/b-cell-lymphoma-unclassifiable-with-features-intermediate-between-dlbcl-and-classical-hodgkin-lymphoma.html"
   },
   {
     "label": "B-Cell Prolymphocytic Leukemia",
     "id": "b-cell-prolymphocytic-leukemia",
-    "url": "/rows/b-cell-prolymphocytic-leukemia.html"
+    "url": "/concepts/b-cell-prolymphocytic-leukemia.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like",
     "id": "b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma, NOS",
     "id": "b-lymphoblastic-leukemia-lymphoma-nos",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-nos.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-nos.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-hyperdiploidy",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-hyperdiploidy.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-hyperdiploidy.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-hypodiploidy",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-hypodiploidy.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-hypodiploidy.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with iAMP21",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-iamp21",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-iamp21.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-iamp21.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-t119q23p13.3tcf3-pbx1",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-t119q23p13.3tcf3-pbx1.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-t119q23p13.3tcf3-pbx1.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-t922q34.1q11.2bcr-abl1",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-t922q34.1q11.2bcr-abl1.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-t922q34.1q11.2bcr-abl1.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged",
     "id": "b-lymphoblastic-leukemia-lymphoma-with-tv11q23.3kmt2a-rearranged",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma-with-tv11q23.3kmt2a-rearranged.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma-with-tv11q23.3kmt2a-rearranged.html"
   },
   {
     "label": "B-Lymphoblastic Leukemia/Lymphoma",
     "id": "b-lymphoblastic-leukemia-lymphoma",
-    "url": "/rows/b-lymphoblastic-leukemia-lymphoma.html"
+    "url": "/concepts/b-lymphoblastic-leukemia-lymphoma.html"
   },
   {
     "label": "Basal Cell Carcinoma",
     "id": "basal-cell-carcinoma",
-    "url": "/rows/basal-cell-carcinoma.html"
+    "url": "/concepts/basal-cell-carcinoma.html"
   },
   {
     "label": "Basaloid Large Cell Carcinoma of the Lung",
     "id": "basaloid-large-cell-carcinoma-of-the-lung",
-    "url": "/rows/basaloid-large-cell-carcinoma-of-the-lung.html"
+    "url": "/concepts/basaloid-large-cell-carcinoma-of-the-lung.html"
   },
   {
     "label": "Basaloid Penile Squamous Cell Carcinoma",
     "id": "basaloid-penile-squamous-cell-carcinoma",
-    "url": "/rows/basaloid-penile-squamous-cell-carcinoma.html"
+    "url": "/concepts/basaloid-penile-squamous-cell-carcinoma.html"
   },
   {
     "label": "Baxter International",
     "id": "baxter",
-    "url": "/rows/baxter.html"
+    "url": "/concepts/baxter.html"
   },
   {
     "label": "Bayer",
     "id": "bayer",
-    "url": "/rows/bayer.html"
+    "url": "/concepts/bayer.html"
   },
   {
     "label": "BBCR",
     "id": "bbcr-ar",
-    "url": "/rows/bbcr-ar.html"
+    "url": "/concepts/bbcr-ar.html"
   },
   {
     "label": "BCCR",
     "id": "bccr-bn",
-    "url": "/rows/bccr-bn.html"
+    "url": "/concepts/bccr-bn.html"
   },
   {
     "label": "Breast Cancer Risk Assessment Tool",
     "id": "bcrisktool",
-    "url": "/rows/bcrisktool.html"
+    "url": "/concepts/bcrisktool.html"
   },
   {
     "label": "Becton, Dickinson and Company",
     "id": "becton-dickinson-and-company",
-    "url": "/rows/becton-dickinson-and-company.html"
+    "url": "/concepts/becton-dickinson-and-company.html"
   },
   {
     "label": "BeiGene",
     "id": "beigene",
-    "url": "/rows/beigene.html"
+    "url": "/concepts/beigene.html"
   },
   {
     "label": "Being Mortal: Medicine and What Matters in the End",
     "id": "being-mortal-medicine-and-what-matters-in-the-end",
-    "url": "/rows/being-mortal-medicine-and-what-matters-in-the-end.html"
+    "url": "/concepts/being-mortal-medicine-and-what-matters-in-the-end.html"
   },
   {
     "label": "Belotecan",
     "id": "belotecan",
-    "url": "/rows/belotecan.html"
+    "url": "/concepts/belotecan.html"
   },
   {
     "label": "Bendamustine",
     "id": "bendamustine",
-    "url": "/rows/bendamustine.html"
+    "url": "/concepts/bendamustine.html"
   },
   {
     "label": "Benign Phyllodes Tumor of the Breast",
     "id": "benign-phyllodes-tumor-of-the-breast",
-    "url": "/rows/benign-phyllodes-tumor-of-the-breast.html"
+    "url": "/concepts/benign-phyllodes-tumor-of-the-breast.html"
   },
   {
     "label": "Beth Israel Deaconess Medical Center",
     "id": "beth-israel",
-    "url": "/rows/beth-israel.html"
+    "url": "/concepts/beth-israel.html"
   },
   {
     "label": "Betrayed by Nature: The War on Cancer",
     "id": "betrayed-by-nature-the-war-on-cancer",
-    "url": "/rows/betrayed-by-nature-the-war-on-cancer.html"
+    "url": "/concepts/betrayed-by-nature-the-war-on-cancer.html"
   },
   {
     "label": "Bevacizumab",
     "id": "bevacizumab",
-    "url": "/rows/bevacizumab.html"
+    "url": "/concepts/bevacizumab.html"
   },
   {
     "label": "Bexarotene",
     "id": "bexarotene",
-    "url": "/rows/bexarotene.html"
+    "url": "/concepts/bexarotene.html"
   },
   {
     "label": "Biliary Tract",
     "id": "biliary-tract",
-    "url": "/rows/biliary-tract.html"
+    "url": "/concepts/biliary-tract.html"
   },
   {
     "label": "Biogen",
     "id": "biogen",
-    "url": "/rows/biogen.html"
+    "url": "/concepts/biogen.html"
   },
   {
     "label": "BioNTech",
     "id": "biontech",
-    "url": "/rows/biontech.html"
+    "url": "/concepts/biontech.html"
   },
   {
     "label": "Bladder Adenocarcinoma",
     "id": "bladder-adenocarcinoma",
-    "url": "/rows/bladder-adenocarcinoma.html"
+    "url": "/concepts/bladder-adenocarcinoma.html"
   },
   {
     "label": "Bladder Cancer Subreddit",
     "id": "bladder-cancer-subreddit",
-    "url": "/rows/bladder-cancer-subreddit.html"
+    "url": "/concepts/bladder-cancer-subreddit.html"
   },
   {
     "label": "Bladder Cancer",
     "id": "bladder-cancer",
-    "url": "/rows/bladder-cancer.html"
+    "url": "/concepts/bladder-cancer.html"
   },
   {
     "label": "Bladder Squamous Cell Carcinoma",
     "id": "bladder-squamous-cell-carcinoma",
-    "url": "/rows/bladder-squamous-cell-carcinoma.html"
+    "url": "/concepts/bladder-squamous-cell-carcinoma.html"
   },
   {
     "label": "Bladder Urothelial Carcinoma",
     "id": "bladder-urothelial-carcinoma",
-    "url": "/rows/bladder-urothelial-carcinoma.html"
+    "url": "/concepts/bladder-urothelial-carcinoma.html"
   },
   {
     "label": "Blastic Plasmacytoid Dendritic Cell Neoplasm",
     "id": "blastic-plasmacytoid-dendritic-cell-neoplasm",
-    "url": "/rows/blastic-plasmacytoid-dendritic-cell-neoplasm.html"
+    "url": "/concepts/blastic-plasmacytoid-dendritic-cell-neoplasm.html"
   },
   {
     "label": "Bleomycin",
     "id": "bleomycin",
-    "url": "/rows/bleomycin.html"
+    "url": "/concepts/bleomycin.html"
   },
   {
     "label": "BNCR",
     "id": "bncr-bt",
-    "url": "/rows/bncr-bt.html"
+    "url": "/concepts/bncr-bt.html"
   },
   {
     "label": "Boehringer Ingelheim",
     "id": "boehringer-ingelheim",
-    "url": "/rows/boehringer-ingelheim.html"
+    "url": "/concepts/boehringer-ingelheim.html"
   },
   {
     "label": "Bone Marrow & Cancer Foundation",
     "id": "bone-marrow-and-cancer-foundation",
-    "url": "/rows/bone-marrow-and-cancer-foundation.html"
+    "url": "/concepts/bone-marrow-and-cancer-foundation.html"
   },
   {
     "label": "Bone Cancer",
     "id": "bone",
-    "url": "/rows/bone.html"
+    "url": "/concepts/bone.html"
   },
   {
     "label": "Borderline Phyllodes Tumor of the Breast",
     "id": "borderline-phyllodes-tumor-of-the-breast",
-    "url": "/rows/borderline-phyllodes-tumor-of-the-breast.html"
+    "url": "/concepts/borderline-phyllodes-tumor-of-the-breast.html"
   },
   {
     "label": "Bortezomib",
     "id": "bortezomib",
-    "url": "/rows/bortezomib.html"
+    "url": "/concepts/bortezomib.html"
   },
   {
     "label": "Brachytherapy",
     "id": "brachytherapy",
-    "url": "/rows/brachytherapy.html"
+    "url": "/concepts/brachytherapy.html"
   },
   {
     "label": "Brain Cancer",
     "id": "brain",
-    "url": "/rows/brain.html"
+    "url": "/concepts/brain.html"
   },
   {
     "label": "Breast Angiosarcoma",
     "id": "breast-angiosarcoma",
-    "url": "/rows/breast-angiosarcoma.html"
+    "url": "/concepts/breast-angiosarcoma.html"
   },
   {
     "label": "Dr. Susan Love’s Breast Book",
     "id": "breast-book",
-    "url": "/rows/breast-book.html"
+    "url": "/concepts/breast-book.html"
   },
   {
     "label": "Breast Cancer Awareness Month",
     "id": "breast-cancer-awareness-month",
-    "url": "/rows/breast-cancer-awareness-month.html"
+    "url": "/concepts/breast-cancer-awareness-month.html"
   },
   {
     "label": "Breast Cancer Subreddit",
     "id": "breast-cancer-subreddit",
-    "url": "/rows/breast-cancer-subreddit.html"
+    "url": "/concepts/breast-cancer-subreddit.html"
   },
   {
     "label": "Breast Carcinoma with Signet Ring",
     "id": "breast-carcinoma-with-signet-ring",
-    "url": "/rows/breast-carcinoma-with-signet-ring.html"
+    "url": "/concepts/breast-carcinoma-with-signet-ring.html"
   },
   {
     "label": "Breast Ductal Carcinoma In Situ",
     "id": "breast-ductal-carcinoma-in-situ",
-    "url": "/rows/breast-ductal-carcinoma-in-situ.html"
+    "url": "/concepts/breast-ductal-carcinoma-in-situ.html"
   },
   {
     "label": "Breast Fibroepithelial Neoplasms",
     "id": "breast-fibroepithelial-neoplasms",
-    "url": "/rows/breast-fibroepithelial-neoplasms.html"
+    "url": "/concepts/breast-fibroepithelial-neoplasms.html"
   },
   {
     "label": "Breast Implant-Associated Anaplastic Large-Cell Lymphoma",
     "id": "breast-implant-associated-anaplastic-large-cell-lymphoma",
-    "url": "/rows/breast-implant-associated-anaplastic-large-cell-lymphoma.html"
+    "url": "/concepts/breast-implant-associated-anaplastic-large-cell-lymphoma.html"
   },
   {
     "label": "Breast Invasive Cancer, NOS",
     "id": "breast-invasive-cancer-nos",
-    "url": "/rows/breast-invasive-cancer-nos.html"
+    "url": "/concepts/breast-invasive-cancer-nos.html"
   },
   {
     "label": "Breast Invasive Carcinoma, NOS",
     "id": "breast-invasive-carcinoma-nos",
-    "url": "/rows/breast-invasive-carcinoma-nos.html"
+    "url": "/concepts/breast-invasive-carcinoma-nos.html"
   },
   {
     "label": "Breast Invasive Carcinosarcoma, NOS",
     "id": "breast-invasive-carcinosarcoma-nos",
-    "url": "/rows/breast-invasive-carcinosarcoma-nos.html"
+    "url": "/concepts/breast-invasive-carcinosarcoma-nos.html"
   },
   {
     "label": "Breast Invasive Ductal Carcinoma",
     "id": "breast-invasive-ductal-carcinoma",
-    "url": "/rows/breast-invasive-ductal-carcinoma.html"
+    "url": "/concepts/breast-invasive-ductal-carcinoma.html"
   },
   {
     "label": "Breast Invasive Lobular Carcinoma",
     "id": "breast-invasive-lobular-carcinoma",
-    "url": "/rows/breast-invasive-lobular-carcinoma.html"
+    "url": "/concepts/breast-invasive-lobular-carcinoma.html"
   },
   {
     "label": "Breast Invasive Mixed Mucinous Carcinoma",
     "id": "breast-invasive-mixed-mucinous-carcinoma",
-    "url": "/rows/breast-invasive-mixed-mucinous-carcinoma.html"
+    "url": "/concepts/breast-invasive-mixed-mucinous-carcinoma.html"
   },
   {
     "label": "Breast Lobular Carcinoma In Situ",
     "id": "breast-lobular-carcinoma-in-situ",
-    "url": "/rows/breast-lobular-carcinoma-in-situ.html"
+    "url": "/concepts/breast-lobular-carcinoma-in-situ.html"
   },
   {
     "label": "Breast Mixed Ductal and Lobular Carcinoma",
     "id": "breast-mixed-ductal-and-lobular-carcinoma",
-    "url": "/rows/breast-mixed-ductal-and-lobular-carcinoma.html"
+    "url": "/concepts/breast-mixed-ductal-and-lobular-carcinoma.html"
   },
   {
     "label": "Breast Neoplasm, NOS",
     "id": "breast-neoplasm-nos",
-    "url": "/rows/breast-neoplasm-nos.html"
+    "url": "/concepts/breast-neoplasm-nos.html"
   },
   {
     "label": "Breast Prosthesis",
     "id": "breast-prostheses",
-    "url": "/rows/breast-prostheses.html"
+    "url": "/concepts/breast-prostheses.html"
   },
   {
     "label": "Breast Sarcoma",
     "id": "breast-sarcoma",
-    "url": "/rows/breast-sarcoma.html"
+    "url": "/concepts/breast-sarcoma.html"
   },
   {
     "label": "Breast Cancer",
     "id": "breast",
-    "url": "/rows/breast.html"
+    "url": "/concepts/breast.html"
   },
   {
     "label": "Breastcancer.org",
     "id": "breastcancer-dot-org",
-    "url": "/rows/breastcancer-dot-org.html"
+    "url": "/concepts/breastcancer-dot-org.html"
   },
   {
     "label": "Brenner Tumor, Benign",
     "id": "brenner-tumor-benign",
-    "url": "/rows/brenner-tumor-benign.html"
+    "url": "/concepts/brenner-tumor-benign.html"
   },
   {
     "label": "Brenner Tumor, Borderline",
     "id": "brenner-tumor-borderline",
-    "url": "/rows/brenner-tumor-borderline.html"
+    "url": "/concepts/brenner-tumor-borderline.html"
   },
   {
     "label": "Brenner Tumor, Malignant",
     "id": "brenner-tumor-malignant",
-    "url": "/rows/brenner-tumor-malignant.html"
+    "url": "/concepts/brenner-tumor-malignant.html"
   },
   {
     "label": "Brenner Tumor",
     "id": "brenner-tumor",
-    "url": "/rows/brenner-tumor.html"
+    "url": "/concepts/brenner-tumor.html"
   },
   {
     "label": "Bristol Myers Squibb",
     "id": "bristol-myers-squibb",
-    "url": "/rows/bristol-myers-squibb.html"
+    "url": "/concepts/bristol-myers-squibb.html"
   },
   {
     "label": "Burkitt-Like Lymphoma with 11q Aberration",
     "id": "burkitt-like-lymphoma-with-11q-aberration",
-    "url": "/rows/burkitt-like-lymphoma-with-11q-aberration.html"
+    "url": "/concepts/burkitt-like-lymphoma-with-11q-aberration.html"
   },
   {
     "label": "Burkitt Lymphoma",
     "id": "burkitt-lymphoma",
-    "url": "/rows/burkitt-lymphoma.html"
+    "url": "/concepts/burkitt-lymphoma.html"
   },
   {
     "label": "Busulfan",
     "id": "busulfan",
-    "url": "/rows/busulfan.html"
+    "url": "/concepts/busulfan.html"
   },
   {
     "label": "Cabazitaxel",
     "id": "cabazitaxel",
-    "url": "/rows/cabazitaxel.html"
+    "url": "/concepts/cabazitaxel.html"
   },
   {
     "label": "Cabozantinib",
     "id": "cabozantinib",
-    "url": "/rows/cabozantinib.html"
+    "url": "/concepts/cabozantinib.html"
   },
   {
     "label": "Camptothecin",
     "id": "camptothecin",
-    "url": "/rows/camptothecin.html"
+    "url": "/concepts/camptothecin.html"
   },
   {
     "label": "CancerCare Manitoba",
     "id": "canada-ccm",
-    "url": "/rows/canada-ccm.html"
+    "url": "/concepts/canada-ccm.html"
   },
   {
     "label": "The Ottawa Hospital Cancer Centre",
     "id": "canada-ohcc",
-    "url": "/rows/canada-ohcc.html"
+    "url": "/concepts/canada-ohcc.html"
   },
   {
     "label": "Canadian Cancer Society",
     "id": "canadian-cancer-society",
-    "url": "/rows/canadian-cancer-society.html"
+    "url": "/concepts/canadian-cancer-society.html"
   },
   {
     "label": "Canadian Partnership Against Cancer",
     "id": "canadian-partnership-against-cancer",
-    "url": "/rows/canadian-partnership-against-cancer.html"
+    "url": "/concepts/canadian-partnership-against-cancer.html"
   },
   {
     "label": "Cancer Australia",
     "id": "cancer-australia",
-    "url": "/rows/cancer-australia.html"
+    "url": "/concepts/cancer-australia.html"
   },
   {
     "label": "Cancer Cell",
     "id": "cancer-cell-journal",
-    "url": "/rows/cancer-cell-journal.html"
+    "url": "/concepts/cancer-cell-journal.html"
   },
   {
     "label": "Cancer Council Australia",
     "id": "cancer-council-australia",
-    "url": "/rows/cancer-council-australia.html"
+    "url": "/concepts/cancer-council-australia.html"
   },
   {
     "label": "Cancer Crackdown",
     "id": "cancer-crackdown",
-    "url": "/rows/cancer-crackdown.html"
+    "url": "/concepts/cancer-crackdown.html"
   },
   {
     "label": "Cancer Cured: Victory Over The War On Cancer",
     "id": "cancer-cured-victory-over-the-war-on-cancer-book",
-    "url": "/rows/cancer-cured-victory-over-the-war-on-cancer-book.html"
+    "url": "/concepts/cancer-cured-victory-over-the-war-on-cancer-book.html"
   },
   {
     "label": "Cancer Discovery",
     "id": "cancer-discovery",
-    "url": "/rows/cancer-discovery.html"
+    "url": "/concepts/cancer-discovery.html"
   },
   {
     "label": "Cancer.net",
     "id": "cancer-dot-net",
-    "url": "/rows/cancer-dot-net.html"
+    "url": "/concepts/cancer-dot-net.html"
   },
   {
     "label": "Cancer Is Not a Disease - It's a Healing Mechanism",
     "id": "cancer-is-not-a-disease-book",
-    "url": "/rows/cancer-is-not-a-disease-book.html"
+    "url": "/concepts/cancer-is-not-a-disease-book.html"
   },
   {
     "label": "Cancer",
     "id": "cancer-journal",
-    "url": "/rows/cancer-journal.html"
+    "url": "/concepts/cancer-journal.html"
   },
   {
     "label": "Cancer of Unknown Primary, NOS",
     "id": "cancer-of-unknown-primary-nos",
-    "url": "/rows/cancer-of-unknown-primary-nos.html"
+    "url": "/concepts/cancer-of-unknown-primary-nos.html"
   },
   {
     "label": "Cancer of Unknown Primary",
     "id": "cancer-of-unknown-primary",
-    "url": "/rows/cancer-of-unknown-primary.html"
+    "url": "/concepts/cancer-of-unknown-primary.html"
   },
   {
     "label": "Cancer Research Journal",
     "id": "cancer-research-journal",
-    "url": "/rows/cancer-research-journal.html"
+    "url": "/concepts/cancer-research-journal.html"
   },
   {
     "label": "Cancer Research UK",
     "id": "cancer-research-uk",
-    "url": "/rows/cancer-research-uk.html"
+    "url": "/concepts/cancer-research-uk.html"
   },
   {
     "label": "Cancer Risk Calculator",
     "id": "cancer-risk-calculator",
-    "url": "/rows/cancer-risk-calculator.html"
+    "url": "/concepts/cancer-risk-calculator.html"
   },
   {
     "label": "Cancer Society of Finland",
     "id": "cancer-society-of-finland",
-    "url": "/rows/cancer-society-of-finland.html"
+    "url": "/concepts/cancer-society-of-finland.html"
   },
   {
     "label": "Cancer Statistics Center",
     "id": "cancer-statistics-center",
-    "url": "/rows/cancer-statistics-center.html"
+    "url": "/concepts/cancer-statistics-center.html"
   },
   {
     "label": "Cancer Subreddit",
     "id": "cancer-subreddit",
-    "url": "/rows/cancer-subreddit.html"
+    "url": "/concepts/cancer-subreddit.html"
   },
   {
     "label": "Cancer Support Community",
     "id": "cancer-support-community",
-    "url": "/rows/cancer-support-community.html"
+    "url": "/concepts/cancer-support-community.html"
   },
   {
     "label": "Cancer: The Emperor of All Maladies",
     "id": "cancer-the-emperor-of-all-maladies",
-    "url": "/rows/cancer-the-emperor-of-all-maladies.html"
+    "url": "/concepts/cancer-the-emperor-of-all-maladies.html"
   },
   {
     "label": "Cancer Today",
     "id": "cancer-today",
-    "url": "/rows/cancer-today.html"
+    "url": "/concepts/cancer-today.html"
   },
   {
     "label": "Cancer Ward",
     "id": "cancer-ward",
-    "url": "/rows/cancer-ward.html"
+    "url": "/concepts/cancer-ward.html"
   },
   {
     "label": "CancerBuddy",
     "id": "cancerbuddy",
-    "url": "/rows/cancerbuddy.html"
+    "url": "/concepts/cancerbuddy.html"
   },
   {
     "label": "CancerCare",
     "id": "cancercare",
-    "url": "/rows/cancercare.html"
+    "url": "/concepts/cancercare.html"
   },
   {
     "label": "CancerDB",
     "id": "cancerdb",
-    "url": "/rows/cancerdb.html"
+    "url": "/concepts/cancerdb.html"
   },
   {
     "label": "Cancerfonden",
     "id": "cancerfonden",
-    "url": "/rows/cancerfonden.html"
+    "url": "/concepts/cancerfonden.html"
   },
   {
     "label": "CAnswer",
     "id": "canswer",
-    "url": "/rows/canswer.html"
+    "url": "/concepts/canswer.html"
   },
   {
     "label": "Capecitabine",
     "id": "capecitabine",
-    "url": "/rows/capecitabine.html"
+    "url": "/concepts/capecitabine.html"
   },
   {
     "label": "Carboplatin",
     "id": "carboplatin",
-    "url": "/rows/carboplatin.html"
+    "url": "/concepts/carboplatin.html"
   },
   {
     "label": "Carboquone",
     "id": "carboquone",
-    "url": "/rows/carboquone.html"
+    "url": "/concepts/carboquone.html"
   },
   {
     "label": "Carcinoma with Chondroid Metaplasia",
     "id": "carcinoma-with-chondroid-metaplasia",
-    "url": "/rows/carcinoma-with-chondroid-metaplasia.html"
+    "url": "/concepts/carcinoma-with-chondroid-metaplasia.html"
   },
   {
     "label": "Carcinoma with Osseous Metaplasia",
     "id": "carcinoma-with-osseous-metaplasia",
-    "url": "/rows/carcinoma-with-osseous-metaplasia.html"
+    "url": "/concepts/carcinoma-with-osseous-metaplasia.html"
   },
   {
     "label": "Carmustine",
     "id": "carmustine",
-    "url": "/rows/carmustine.html"
+    "url": "/concepts/carmustine.html"
   },
   {
     "label": "Case Comprehensive Cancer Center",
     "id": "case-comprehensive-cancer-center",
-    "url": "/rows/case-comprehensive-cancer-center.html"
+    "url": "/concepts/case-comprehensive-cancer-center.html"
   },
   {
     "label": "cBioPortal",
     "id": "cbioportal",
-    "url": "/rows/cbioportal.html"
+    "url": "/concepts/cbioportal.html"
   },
   {
     "label": "C/Can",
     "id": "ccan",
-    "url": "/rows/ccan.html"
+    "url": "/concepts/ccan.html"
   },
   {
     "label": "CCDI Annual Symposium",
     "id": "ccdi-annual-symposium",
-    "url": "/rows/ccdi-annual-symposium.html"
+    "url": "/concepts/ccdi-annual-symposium.html"
   },
   {
     "label": "CCDI",
     "id": "ccdi",
-    "url": "/rows/ccdi.html"
+    "url": "/concepts/ccdi.html"
   },
   {
     "label": "CCRAR",
     "id": "ccr-ar",
-    "url": "/rows/ccr-ar.html"
+    "url": "/concepts/ccr-ar.html"
   },
   {
     "label": "California Cancer Registry",
     "id": "ccrcal",
-    "url": "/rows/ccrcal.html"
+    "url": "/concepts/ccrcal.html"
   },
   {
     "label": "The Colorectal Cancer Risk Assessment Tool",
     "id": "ccrisktool",
-    "url": "/rows/ccrisktool.html"
+    "url": "/concepts/ccrisktool.html"
   },
   {
     "label": "CCRN",
     "id": "ccrn-ng",
-    "url": "/rows/ccrn-ng.html"
+    "url": "/concepts/ccrn-ng.html"
   },
   {
     "label": "CDC Division of Cancer Prevention and Control",
     "id": "cdc-division-of-cancer-prevention-and-control",
-    "url": "/rows/cdc-division-of-cancer-prevention-and-control.html"
+    "url": "/concepts/cdc-division-of-cancer-prevention-and-control.html"
   },
   {
     "label": "CDC",
     "id": "cdc",
-    "url": "/rows/cdc.html"
+    "url": "/concepts/cdc.html"
   },
   {
     "label": "Cedars-Sinai Medical Center",
     "id": "cedars-sinai",
-    "url": "/rows/cedars-sinai.html"
+    "url": "/concepts/cedars-sinai.html"
   },
   {
     "label": "Cellular Schwannoma",
     "id": "cellular-schwannoma",
-    "url": "/rows/cellular-schwannoma.html"
+    "url": "/concepts/cellular-schwannoma.html"
   },
   {
     "label": "Marie-Josée and Henry R. Kravis Center for Molecular Oncology",
     "id": "center-for-molecular-oncology",
-    "url": "/rows/center-for-molecular-oncology.html"
+    "url": "/concepts/center-for-molecular-oncology.html"
   },
   {
     "label": "Central Neurocytoma",
     "id": "central-neurocytoma",
-    "url": "/rows/central-neurocytoma.html"
+    "url": "/concepts/central-neurocytoma.html"
   },
   {
     "label": "Cerebellar Liponeurocytoma",
     "id": "cerebellar-liponeurocytoma",
-    "url": "/rows/cerebellar-liponeurocytoma.html"
+    "url": "/concepts/cerebellar-liponeurocytoma.html"
   },
   {
     "label": "Cervical Adenocarcinoma In Situ",
     "id": "cervical-adenocarcinoma-in-situ",
-    "url": "/rows/cervical-adenocarcinoma-in-situ.html"
+    "url": "/concepts/cervical-adenocarcinoma-in-situ.html"
   },
   {
     "label": "Cervical Adenocarcinoma",
     "id": "cervical-adenocarcinoma",
-    "url": "/rows/cervical-adenocarcinoma.html"
+    "url": "/concepts/cervical-adenocarcinoma.html"
   },
   {
     "label": "Cervical Adenoid Basal Carcinoma",
     "id": "cervical-adenoid-basal-carcinoma",
-    "url": "/rows/cervical-adenoid-basal-carcinoma.html"
+    "url": "/concepts/cervical-adenoid-basal-carcinoma.html"
   },
   {
     "label": "Cervical Adenoid Cystic Carcinoma",
     "id": "cervical-adenoid-cystic-carcinoma",
-    "url": "/rows/cervical-adenoid-cystic-carcinoma.html"
+    "url": "/concepts/cervical-adenoid-cystic-carcinoma.html"
   },
   {
     "label": "Cervical Adenosquamous Carcinoma",
     "id": "cervical-adenosquamous-carcinoma",
-    "url": "/rows/cervical-adenosquamous-carcinoma.html"
+    "url": "/concepts/cervical-adenosquamous-carcinoma.html"
   },
   {
     "label": "Cervical Cancer Subreddit",
     "id": "cervical-cancer-subreddit",
-    "url": "/rows/cervical-cancer-subreddit.html"
+    "url": "/concepts/cervical-cancer-subreddit.html"
   },
   {
     "label": "Cervical Clear Cell Carcinoma",
     "id": "cervical-clear-cell-carcinoma",
-    "url": "/rows/cervical-clear-cell-carcinoma.html"
+    "url": "/concepts/cervical-clear-cell-carcinoma.html"
   },
   {
     "label": "Cervical Endometrioid Carcinoma",
     "id": "cervical-endometrioid-carcinoma",
-    "url": "/rows/cervical-endometrioid-carcinoma.html"
+    "url": "/concepts/cervical-endometrioid-carcinoma.html"
   },
   {
     "label": "Cervical Leiomyosarcoma",
     "id": "cervical-leiomyosarcoma",
-    "url": "/rows/cervical-leiomyosarcoma.html"
+    "url": "/concepts/cervical-leiomyosarcoma.html"
   },
   {
     "label": "Cervical Neuroendocrine Tumor",
     "id": "cervical-neuroendocrine-tumor",
-    "url": "/rows/cervical-neuroendocrine-tumor.html"
+    "url": "/concepts/cervical-neuroendocrine-tumor.html"
   },
   {
     "label": "Cervical Rhabdomyosarcoma",
     "id": "cervical-rhabdomyosarcoma",
-    "url": "/rows/cervical-rhabdomyosarcoma.html"
+    "url": "/concepts/cervical-rhabdomyosarcoma.html"
   },
   {
     "label": "Cervical Serous Carcinoma",
     "id": "cervical-serous-carcinoma",
-    "url": "/rows/cervical-serous-carcinoma.html"
+    "url": "/concepts/cervical-serous-carcinoma.html"
   },
   {
     "label": "Cervical Squamous Cell Carcinoma",
     "id": "cervical-squamous-cell-carcinoma",
-    "url": "/rows/cervical-squamous-cell-carcinoma.html"
+    "url": "/concepts/cervical-squamous-cell-carcinoma.html"
   },
   {
     "label": "Cervical Cancer",
     "id": "cervix",
-    "url": "/rows/cervix.html"
+    "url": "/concepts/cervix.html"
   },
   {
     "label": "Chao Family Comprehensive Cancer Center",
     "id": "chao-family-comprehensive-cancer-center",
-    "url": "/rows/chao-family-comprehensive-cancer-center.html"
+    "url": "/concepts/chao-family-comprehensive-cancer-center.html"
   },
   {
     "label": "Chaos and cancers. Theories concerning carcinogenesis",
     "id": "chaos-and-cancers-theories-concerning-carcinogene",
-    "url": "/rows/chaos-and-cancers-theories-concerning-carcinogene.html"
+    "url": "/concepts/chaos-and-cancers-theories-concerning-carcinogene.html"
   },
   {
     "label": "Chlorambucil",
     "id": "chlorambucil",
-    "url": "/rows/chlorambucil.html"
+    "url": "/concepts/chlorambucil.html"
   },
   {
     "label": "Chlormethine",
     "id": "chlormethine",
-    "url": "/rows/chlormethine.html"
+    "url": "/concepts/chlormethine.html"
   },
   {
     "label": "Chlorozotocin",
     "id": "chlorozotocin",
-    "url": "/rows/chlorozotocin.html"
+    "url": "/concepts/chlorozotocin.html"
   },
   {
     "label": "Cholangiocarcinoma",
     "id": "cholangiocarcinoma",
-    "url": "/rows/cholangiocarcinoma.html"
+    "url": "/concepts/cholangiocarcinoma.html"
   },
   {
     "label": "Chondroblastic Osteosarcoma",
     "id": "chondroblastic-osteosarcoma",
-    "url": "/rows/chondroblastic-osteosarcoma.html"
+    "url": "/concepts/chondroblastic-osteosarcoma.html"
   },
   {
     "label": "Chondroblastoma",
     "id": "chondroblastoma",
-    "url": "/rows/chondroblastoma.html"
+    "url": "/concepts/chondroblastoma.html"
   },
   {
     "label": "Chondrosarcoma",
     "id": "chondrosarcoma",
-    "url": "/rows/chondrosarcoma.html"
+    "url": "/concepts/chondrosarcoma.html"
   },
   {
     "label": "Chordoid Glioma of the Third Ventricle",
     "id": "chordoid-glioma-of-the-third-ventricle",
-    "url": "/rows/chordoid-glioma-of-the-third-ventricle.html"
+    "url": "/concepts/chordoid-glioma-of-the-third-ventricle.html"
   },
   {
     "label": "Chordoid Meningioma",
     "id": "chordoid-meningioma",
-    "url": "/rows/chordoid-meningioma.html"
+    "url": "/concepts/chordoid-meningioma.html"
   },
   {
     "label": "Chordoma",
     "id": "chordoma",
-    "url": "/rows/chordoma.html"
+    "url": "/concepts/chordoma.html"
   },
   {
     "label": "Choriocarcinoma Testis",
     "id": "choriocarcinoma-testis",
-    "url": "/rows/choriocarcinoma-testis.html"
+    "url": "/concepts/choriocarcinoma-testis.html"
   },
   {
     "label": "Choriocarcinoma Uterus",
     "id": "choriocarcinoma-uterus",
-    "url": "/rows/choriocarcinoma-uterus.html"
+    "url": "/concepts/choriocarcinoma-uterus.html"
   },
   {
     "label": "Choriocarcinoma",
     "id": "choriocarcinoma",
-    "url": "/rows/choriocarcinoma.html"
+    "url": "/concepts/choriocarcinoma.html"
   },
   {
     "label": "Choroid Plexus Carcinoma",
     "id": "choroid-plexus-carcinoma",
-    "url": "/rows/choroid-plexus-carcinoma.html"
+    "url": "/concepts/choroid-plexus-carcinoma.html"
   },
   {
     "label": "Choroid Plexus Papilloma",
     "id": "choroid-plexus-papilloma",
-    "url": "/rows/choroid-plexus-papilloma.html"
+    "url": "/concepts/choroid-plexus-papilloma.html"
   },
   {
     "label": "Choroid Plexus Tumor",
     "id": "choroid-plexus-tumor",
-    "url": "/rows/choroid-plexus-tumor.html"
+    "url": "/concepts/choroid-plexus-tumor.html"
   },
   {
     "label": "Chris Beat Cancer",
     "id": "chris-beat-cancer",
-    "url": "/rows/chris-beat-cancer.html"
+    "url": "/concepts/chris-beat-cancer.html"
   },
   {
     "label": "Chromophobe Renal Cell Carcinoma",
     "id": "chromophobe-renal-cell-carcinoma",
-    "url": "/rows/chromophobe-renal-cell-carcinoma.html"
+    "url": "/concepts/chromophobe-renal-cell-carcinoma.html"
   },
   {
     "label": "Chronic Eosinophilic Leukemia, NOS",
     "id": "chronic-eosinophilic-leukemia-nos",
-    "url": "/rows/chronic-eosinophilic-leukemia-nos.html"
+    "url": "/concepts/chronic-eosinophilic-leukemia-nos.html"
   },
   {
     "label": "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
     "id": "chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma",
-    "url": "/rows/chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma.html"
+    "url": "/concepts/chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma.html"
   },
   {
     "label": "Chronic Lymphoproliferative Disorder of NK Cells",
     "id": "chronic-lymphoproliferative-disorder-of-nk-cells",
-    "url": "/rows/chronic-lymphoproliferative-disorder-of-nk-cells.html"
+    "url": "/concepts/chronic-lymphoproliferative-disorder-of-nk-cells.html"
   },
   {
     "label": "Chronic Myelogenous Leukemia",
     "id": "chronic-myelogenous-leukemia",
-    "url": "/rows/chronic-myelogenous-leukemia.html"
+    "url": "/concepts/chronic-myelogenous-leukemia.html"
   },
   {
     "label": "Chronic Myeloid Leukemia, BCR-ABL1+",
     "id": "chronic-myeloid-leukemia-bcr-abl1p",
-    "url": "/rows/chronic-myeloid-leukemia-bcr-abl1p.html"
+    "url": "/concepts/chronic-myeloid-leukemia-bcr-abl1p.html"
   },
   {
     "label": "Chronic Myelomonocytic Leukemia-0",
     "id": "chronic-myelomonocytic-leukemia-0",
-    "url": "/rows/chronic-myelomonocytic-leukemia-0.html"
+    "url": "/concepts/chronic-myelomonocytic-leukemia-0.html"
   },
   {
     "label": "Chronic Myelomonocytic Leukemia-1",
     "id": "chronic-myelomonocytic-leukemia-1",
-    "url": "/rows/chronic-myelomonocytic-leukemia-1.html"
+    "url": "/concepts/chronic-myelomonocytic-leukemia-1.html"
   },
   {
     "label": "Chronic Myelomonocytic Leukemia-2",
     "id": "chronic-myelomonocytic-leukemia-2",
-    "url": "/rows/chronic-myelomonocytic-leukemia-2.html"
+    "url": "/concepts/chronic-myelomonocytic-leukemia-2.html"
   },
   {
     "label": "Chronic Myelomonocytic Leukemia",
     "id": "chronic-myelomonocytic-leukemia",
-    "url": "/rows/chronic-myelomonocytic-leukemia.html"
+    "url": "/concepts/chronic-myelomonocytic-leukemia.html"
   },
   {
     "label": "Chronic Neutrophilic Leukemia",
     "id": "chronic-neutrophilic-leukemia",
-    "url": "/rows/chronic-neutrophilic-leukemia.html"
+    "url": "/concepts/chronic-neutrophilic-leukemia.html"
   },
   {
     "label": "Ciliated Muconodular Papillary Tumor of the Lung",
     "id": "ciliated-muconodular-papillary-tumor-of-the-lung",
-    "url": "/rows/ciliated-muconodular-papillary-tumor-of-the-lung.html"
+    "url": "/concepts/ciliated-muconodular-papillary-tumor-of-the-lung.html"
   },
   {
     "label": "CIRM",
     "id": "cirm",
-    "url": "/rows/cirm.html"
+    "url": "/concepts/cirm.html"
   },
   {
     "label": "Cisplatin",
     "id": "cisplatin",
-    "url": "/rows/cisplatin.html"
+    "url": "/concepts/cisplatin.html"
   },
   {
     "label": "City of Hope Comprehensive Cancer Center",
     "id": "city-of-hope-comprehensive-cancer-center",
-    "url": "/rows/city-of-hope-comprehensive-cancer-center.html"
+    "url": "/concepts/city-of-hope-comprehensive-cancer-center.html"
   },
   {
     "label": "City of Hope Patient and Family Education Library",
     "id": "city-of-hope-patient-and-family-education-library",
-    "url": "/rows/city-of-hope-patient-and-family-education-library.html"
+    "url": "/concepts/city-of-hope-patient-and-family-education-library.html"
   },
   {
     "label": "Classical Hodgkin Lymphoma PTLD",
     "id": "classical-hodgkin-lymphoma-ptld",
-    "url": "/rows/classical-hodgkin-lymphoma-ptld.html"
+    "url": "/concepts/classical-hodgkin-lymphoma-ptld.html"
   },
   {
     "label": "Classical Hodgkin Lymphoma",
     "id": "classical-hodgkin-lymphoma",
-    "url": "/rows/classical-hodgkin-lymphoma.html"
+    "url": "/concepts/classical-hodgkin-lymphoma.html"
   },
   {
     "label": "Clear Cell Borderline Ovarian Tumor",
     "id": "clear-cell-borderline-ovarian-tumor",
-    "url": "/rows/clear-cell-borderline-ovarian-tumor.html"
+    "url": "/concepts/clear-cell-borderline-ovarian-tumor.html"
   },
   {
     "label": "Clear Cell Carcinoma of the Lung",
     "id": "clear-cell-carcinoma-of-the-lung",
-    "url": "/rows/clear-cell-carcinoma-of-the-lung.html"
+    "url": "/concepts/clear-cell-carcinoma-of-the-lung.html"
   },
   {
     "label": "Clear Cell Ependymoma",
     "id": "clear-cell-ependymoma",
-    "url": "/rows/clear-cell-ependymoma.html"
+    "url": "/concepts/clear-cell-ependymoma.html"
   },
   {
     "label": "Clear cell Meningioma",
     "id": "clear-cell-meningioma",
-    "url": "/rows/clear-cell-meningioma.html"
+    "url": "/concepts/clear-cell-meningioma.html"
   },
   {
     "label": "Clear Cell Odontogenic Carcinoma",
     "id": "clear-cell-odontogenic-carcinoma",
-    "url": "/rows/clear-cell-odontogenic-carcinoma.html"
+    "url": "/concepts/clear-cell-odontogenic-carcinoma.html"
   },
   {
     "label": "Clear Cell Ovarian Cancer",
     "id": "clear-cell-ovarian-cancer",
-    "url": "/rows/clear-cell-ovarian-cancer.html"
+    "url": "/concepts/clear-cell-ovarian-cancer.html"
   },
   {
     "label": "Clear Cell Papillary Renal Cell Carcinoma",
     "id": "clear-cell-papillary-renal-cell-carcinoma",
-    "url": "/rows/clear-cell-papillary-renal-cell-carcinoma.html"
+    "url": "/concepts/clear-cell-papillary-renal-cell-carcinoma.html"
   },
   {
     "label": "Clear Cell Sarcoma of Kidney",
     "id": "clear-cell-sarcoma-of-kidney",
-    "url": "/rows/clear-cell-sarcoma-of-kidney.html"
+    "url": "/concepts/clear-cell-sarcoma-of-kidney.html"
   },
   {
     "label": "Clear Cell Sarcoma",
     "id": "clear-cell-sarcoma",
-    "url": "/rows/clear-cell-sarcoma.html"
+    "url": "/concepts/clear-cell-sarcoma.html"
   },
   {
     "label": "Cleveland Clinic",
     "id": "cleveland-clinic",
-    "url": "/rows/cleveland-clinic.html"
+    "url": "/concepts/cleveland-clinic.html"
   },
   {
     "label": "Clinical Cancer Research",
     "id": "clinical-cancer-research",
-    "url": "/rows/clinical-cancer-research.html"
+    "url": "/concepts/clinical-cancer-research.html"
   },
   {
     "label": "ClinicalTrials.gov",
     "id": "clinical-trials-dot-gov",
-    "url": "/rows/clinical-trials-dot-gov.html"
+    "url": "/concepts/clinical-trials-dot-gov.html"
   },
   {
     "label": "The Centers for Medicare and Medicaid Services",
     "id": "cms",
-    "url": "/rows/cms.html"
+    "url": "/concepts/cms.html"
   },
   {
     "label": "Spanish National Cancer Research Center",
     "id": "cnio",
-    "url": "/rows/cnio.html"
+    "url": "/concepts/cnio.html"
   },
   {
     "label": "CoC",
     "id": "coc",
-    "url": "/rows/coc.html"
+    "url": "/concepts/coc.html"
   },
   {
     "label": "COCR ",
     "id": "cocr-ar",
-    "url": "/rows/cocr-ar.html"
+    "url": "/concepts/cocr-ar.html"
   },
   {
     "label": "Cognitive behavioral therapy",
     "id": "cognitive-behavioral-therapy",
-    "url": "/rows/cognitive-behavioral-therapy.html"
+    "url": "/concepts/cognitive-behavioral-therapy.html"
   },
   {
     "label": "Cold Spring Harbor Laboratory Cancer Center",
     "id": "cold-spring-harbor-laboratory-cancer-center",
-    "url": "/rows/cold-spring-harbor-laboratory-cancer-center.html"
+    "url": "/concepts/cold-spring-harbor-laboratory-cancer-center.html"
   },
   {
     "label": "Colectomy",
     "id": "colectomy",
-    "url": "/rows/colectomy.html"
+    "url": "/concepts/colectomy.html"
   },
   {
     "label": "Collecting Duct Renal Cell Carcinoma",
     "id": "collecting-duct-renal-cell-carcinoma",
-    "url": "/rows/collecting-duct-renal-cell-carcinoma.html"
+    "url": "/concepts/collecting-duct-renal-cell-carcinoma.html"
   },
   {
     "label": "College of American Pathologists",
     "id": "college-of-american-pathologists",
-    "url": "/rows/college-of-american-pathologists.html"
+    "url": "/concepts/college-of-american-pathologists.html"
   },
   {
     "label": "Colon Adenocarcinoma In Situ",
     "id": "colon-adenocarcinoma-in-situ",
-    "url": "/rows/colon-adenocarcinoma-in-situ.html"
+    "url": "/concepts/colon-adenocarcinoma-in-situ.html"
   },
   {
     "label": "Colon Adenocarcinoma",
     "id": "colon-adenocarcinoma",
-    "url": "/rows/colon-adenocarcinoma.html"
+    "url": "/concepts/colon-adenocarcinoma.html"
   },
   {
     "label": "Colon Cancer Subreddit",
     "id": "colon-cancer-subreddit",
-    "url": "/rows/colon-cancer-subreddit.html"
+    "url": "/concepts/colon-cancer-subreddit.html"
   },
   {
     "label": "Colon Cancer",
     "id": "colon",
-    "url": "/rows/colon.html"
+    "url": "/concepts/colon.html"
   },
   {
     "label": "Colonic Type Adenocarcinoma of the Appendix",
     "id": "colonic-type-adenocarcinoma-of-the-appendix",
-    "url": "/rows/colonic-type-adenocarcinoma-of-the-appendix.html"
+    "url": "/concepts/colonic-type-adenocarcinoma-of-the-appendix.html"
   },
   {
     "label": "Colonoscopy",
     "id": "colonoscopy",
-    "url": "/rows/colonoscopy.html"
+    "url": "/concepts/colonoscopy.html"
   },
   {
     "label": "Colorectal Adenocarcinoma",
     "id": "colorectal-adenocarcinoma",
-    "url": "/rows/colorectal-adenocarcinoma.html"
+    "url": "/concepts/colorectal-adenocarcinoma.html"
   },
   {
     "label": "Colorectal Cancer",
     "id": "colorectal",
-    "url": "/rows/colorectal.html"
+    "url": "/concepts/colorectal.html"
   },
   {
     "label": "Combined Small Cell Lung Carcinoma",
     "id": "combined-small-cell-lung-carcinoma",
-    "url": "/rows/combined-small-cell-lung-carcinoma.html"
+    "url": "/concepts/combined-small-cell-lung-carcinoma.html"
   },
   {
     "label": "Complete Hydatidiform Mole",
     "id": "complete-hydatidiform-mole",
-    "url": "/rows/complete-hydatidiform-mole.html"
+    "url": "/concepts/complete-hydatidiform-mole.html"
   },
   {
     "label": "Congenital Nevus",
     "id": "congenital-nevus",
-    "url": "/rows/congenital-nevus.html"
+    "url": "/concepts/congenital-nevus.html"
   },
   {
     "label": "Conjunctival Melanoma",
     "id": "conjunctival-melanoma",
-    "url": "/rows/conjunctival-melanoma.html"
+    "url": "/concepts/conjunctival-melanoma.html"
   },
   {
     "label": "Conventional Type Chordoma",
     "id": "conventional-type-chordoma",
-    "url": "/rows/conventional-type-chordoma.html"
+    "url": "/concepts/conventional-type-chordoma.html"
   },
   {
     "label": "Craniopharyngioma, Adamantinomatous Type",
     "id": "craniopharyngioma-adamantinomatous-type",
-    "url": "/rows/craniopharyngioma-adamantinomatous-type.html"
+    "url": "/concepts/craniopharyngioma-adamantinomatous-type.html"
   },
   {
     "label": "Craniopharyngioma, Papillary Type",
     "id": "craniopharyngioma-papillary-type",
-    "url": "/rows/craniopharyngioma-papillary-type.html"
+    "url": "/concepts/craniopharyngioma-papillary-type.html"
   },
   {
     "label": "CRPTDF ",
     "id": "crptdf-ar",
-    "url": "/rows/crptdf-ar.html"
+    "url": "/concepts/crptdf-ar.html"
   },
   {
     "label": "CRSBA ",
     "id": "crsba-dz",
-    "url": "/rows/crsba-dz.html"
+    "url": "/concepts/crsba-dz.html"
   },
   {
     "label": "CRWB",
     "id": "crwb-dz",
-    "url": "/rows/crwb-dz.html"
+    "url": "/concepts/crwb-dz.html"
   },
   {
     "label": "Cryoablation",
     "id": "cryoablation",
-    "url": "/rows/cryoablation.html"
+    "url": "/concepts/cryoablation.html"
   },
   {
     "label": "CT Colonoscopy",
     "id": "ct-colonoscopy",
-    "url": "/rows/ct-colonoscopy.html"
+    "url": "/concepts/ct-colonoscopy.html"
   },
   {
     "label": "Cancer Treatment Centers of America",
     "id": "ctca",
-    "url": "/rows/ctca.html"
+    "url": "/concepts/ctca.html"
   },
   {
     "label": "Curium Pharma",
     "id": "curium-pharma",
-    "url": "/rows/curium-pharma.html"
+    "url": "/concepts/curium-pharma.html"
   },
   {
     "label": "Cutaneous Mastocytosis",
     "id": "cutaneous-mastocytosis",
-    "url": "/rows/cutaneous-mastocytosis.html"
+    "url": "/concepts/cutaneous-mastocytosis.html"
   },
   {
     "label": "Cutaneous Melanoma",
     "id": "cutaneous-melanoma",
-    "url": "/rows/cutaneous-melanoma.html"
+    "url": "/concepts/cutaneous-melanoma.html"
   },
   {
     "label": "Cutaneous Squamous Cell Carcinoma",
     "id": "cutaneous-squamous-cell-carcinoma",
-    "url": "/rows/cutaneous-squamous-cell-carcinoma.html"
+    "url": "/concepts/cutaneous-squamous-cell-carcinoma.html"
   },
   {
     "label": "Cyclophosphamide",
     "id": "cyclophosphamide",
-    "url": "/rows/cyclophosphamide.html"
+    "url": "/concepts/cyclophosphamide.html"
   },
   {
     "label": "Cystectomy",
     "id": "cystectomy",
-    "url": "/rows/cystectomy.html"
+    "url": "/concepts/cystectomy.html"
   },
   {
     "label": "Cystic Tumor of the Pancreas",
     "id": "cystic-tumor-of-the-pancreas",
-    "url": "/rows/cystic-tumor-of-the-pancreas.html"
+    "url": "/concepts/cystic-tumor-of-the-pancreas.html"
   },
   {
     "label": "Cytarabine",
     "id": "cytarabine",
-    "url": "/rows/cytarabine.html"
+    "url": "/concepts/cytarabine.html"
   },
   {
     "label": "National Cancer Institute",
     "id": "czechrepublic-ncc",
-    "url": "/rows/czechrepublic-ncc.html"
+    "url": "/concepts/czechrepublic-ncc.html"
   },
   {
     "label": "Dacarbazine",
     "id": "dacarbazine",
-    "url": "/rows/dacarbazine.html"
+    "url": "/concepts/dacarbazine.html"
   },
   {
     "label": "Daiichi Sankyo",
     "id": "daiichi-sankyo",
-    "url": "/rows/daiichi-sankyo.html"
+    "url": "/concepts/daiichi-sankyo.html"
   },
   {
     "label": "Damon Runyon Cancer Research Foundation",
     "id": "damon-runyon-cancer-research-foundation",
-    "url": "/rows/damon-runyon-cancer-research-foundation.html"
+    "url": "/concepts/damon-runyon-cancer-research-foundation.html"
   },
   {
     "label": "Dan L Duncan Comprehensive Cancer Center",
     "id": "dan-l-duncan-comprehensive-cancer-center",
-    "url": "/rows/dan-l-duncan-comprehensive-cancer-center.html"
+    "url": "/concepts/dan-l-duncan-comprehensive-cancer-center.html"
   },
   {
     "label": "Dana-Farber/Harvard Cancer Center",
     "id": "dana-farber-harvard-cancer-center",
-    "url": "/rows/dana-farber-harvard-cancer-center.html"
+    "url": "/concepts/dana-farber-harvard-cancer-center.html"
   },
   {
     "label": "Dana-Farber Cancer Institute",
     "id": "dana-farber",
-    "url": "/rows/dana-farber.html"
+    "url": "/concepts/dana-farber.html"
   },
   {
     "label": "Dartmouth Cancer Center",
     "id": "dartmouth-cancer-center",
-    "url": "/rows/dartmouth-cancer-center.html"
+    "url": "/concepts/dartmouth-cancer-center.html"
   },
   {
     "label": "Daunorubicin",
     "id": "daunorubicin",
-    "url": "/rows/daunorubicin.html"
+    "url": "/concepts/daunorubicin.html"
   },
   {
     "label": "David H. Koch Institute for Integrative Cancer Research at MIT",
     "id": "david-h-koch-institute-for-integrative-cancer-research-at-mit",
-    "url": "/rows/david-h-koch-institute-for-integrative-cancer-research-at-mit.html"
+    "url": "/concepts/david-h-koch-institute-for-integrative-cancer-research-at-mit.html"
   },
   {
     "label": "Dedifferentiated Chondrosarcoma",
     "id": "dedifferentiated-chondrosarcoma",
-    "url": "/rows/dedifferentiated-chondrosarcoma.html"
+    "url": "/concepts/dedifferentiated-chondrosarcoma.html"
   },
   {
     "label": "Dedifferentiated Chordoma",
     "id": "dedifferentiated-chordoma",
-    "url": "/rows/dedifferentiated-chordoma.html"
+    "url": "/concepts/dedifferentiated-chordoma.html"
   },
   {
     "label": "Dedifferentiated Liposarcoma",
     "id": "dedifferentiated-liposarcoma",
-    "url": "/rows/dedifferentiated-liposarcoma.html"
+    "url": "/concepts/dedifferentiated-liposarcoma.html"
   },
   {
     "label": "Dendritic Cell Sarcoma",
     "id": "dendritic-cell-sarcoma",
-    "url": "/rows/dendritic-cell-sarcoma.html"
+    "url": "/concepts/dendritic-cell-sarcoma.html"
   },
   {
     "label": "Dermatofibroma",
     "id": "dermatofibroma",
-    "url": "/rows/dermatofibroma.html"
+    "url": "/concepts/dermatofibroma.html"
   },
   {
     "label": "Dermatofibrosarcoma Protuberans",
     "id": "dermatofibrosarcoma-protuberans",
-    "url": "/rows/dermatofibrosarcoma-protuberans.html"
+    "url": "/concepts/dermatofibrosarcoma-protuberans.html"
   },
   {
     "label": "Desmoid/Aggressive Fibromatosis",
     "id": "desmoid-aggressive-fibromatosis",
-    "url": "/rows/desmoid-aggressive-fibromatosis.html"
+    "url": "/concepts/desmoid-aggressive-fibromatosis.html"
   },
   {
     "label": "Desmoplastic Infantile Astrocytoma",
     "id": "desmoplastic-infantile-astrocytoma",
-    "url": "/rows/desmoplastic-infantile-astrocytoma.html"
+    "url": "/concepts/desmoplastic-infantile-astrocytoma.html"
   },
   {
     "label": "Desmoplastic Infantile Ganglioglioma",
     "id": "desmoplastic-infantile-ganglioglioma",
-    "url": "/rows/desmoplastic-infantile-ganglioglioma.html"
+    "url": "/concepts/desmoplastic-infantile-ganglioglioma.html"
   },
   {
     "label": "Desmoplastic Melanoma",
     "id": "desmoplastic-melanoma",
-    "url": "/rows/desmoplastic-melanoma.html"
+    "url": "/concepts/desmoplastic-melanoma.html"
   },
   {
     "label": "Desmoplastic/Nodular Medulloblastoma",
     "id": "desmoplastic-nodular-medulloblastoma",
-    "url": "/rows/desmoplastic-nodular-medulloblastoma.html"
+    "url": "/concepts/desmoplastic-nodular-medulloblastoma.html"
   },
   {
     "label": "Desmoplastic Small-Round-Cell Tumor",
     "id": "desmoplastic-small-round-cell-tumor",
-    "url": "/rows/desmoplastic-small-round-cell-tumor.html"
+    "url": "/concepts/desmoplastic-small-round-cell-tumor.html"
   },
   {
     "label": "Desmoplastic Trichoepithelioma",
     "id": "desmoplastic-trichoepithelioma",
-    "url": "/rows/desmoplastic-trichoepithelioma.html"
+    "url": "/concepts/desmoplastic-trichoepithelioma.html"
   },
   {
     "label": "Dicycloplatin",
     "id": "dicycloplatin",
-    "url": "/rows/dicycloplatin.html"
+    "url": "/concepts/dicycloplatin.html"
   },
   {
     "label": "Diffuse Astrocytoma",
     "id": "diffuse-astrocytoma",
-    "url": "/rows/diffuse-astrocytoma.html"
+    "url": "/concepts/diffuse-astrocytoma.html"
   },
   {
     "label": "Diffuse Glioma",
     "id": "diffuse-glioma",
-    "url": "/rows/diffuse-glioma.html"
+    "url": "/concepts/diffuse-glioma.html"
   },
   {
     "label": "Diffuse Intrinsic Pontine Glioma",
     "id": "diffuse-intrinsic-pontine-glioma",
-    "url": "/rows/diffuse-intrinsic-pontine-glioma.html"
+    "url": "/concepts/diffuse-intrinsic-pontine-glioma.html"
   },
   {
     "label": "Diffuse Large B-Cell Lymphoma, NOS",
     "id": "diffuse-large-b-cell-lymphoma-nos",
-    "url": "/rows/diffuse-large-b-cell-lymphoma-nos.html"
+    "url": "/concepts/diffuse-large-b-cell-lymphoma-nos.html"
   },
   {
     "label": "Diffuse Type Stomach Adenocarcinoma",
     "id": "diffuse-type-stomach-adenocarcinoma",
-    "url": "/rows/diffuse-type-stomach-adenocarcinoma.html"
+    "url": "/concepts/diffuse-type-stomach-adenocarcinoma.html"
   },
   {
     "label": "Disseminated Juvenile Xanthogranuloma",
     "id": "disseminated-juvenile-xanthogranuloma",
-    "url": "/rows/disseminated-juvenile-xanthogranuloma.html"
+    "url": "/concepts/disseminated-juvenile-xanthogranuloma.html"
   },
   {
     "label": "DLBCL Associated with Chronic Inflammation",
     "id": "dlbcl-associated-with-chronic-inflammation",
-    "url": "/rows/dlbcl-associated-with-chronic-inflammation.html"
+    "url": "/concepts/dlbcl-associated-with-chronic-inflammation.html"
   },
   {
     "label": "Docetaxel",
     "id": "docetaxel",
-    "url": "/rows/docetaxel.html"
+    "url": "/concepts/docetaxel.html"
   },
   {
     "label": "National Cancer Institute of the Dominican Republic",
     "id": "dominicanrepublic-ncc",
-    "url": "/rows/dominicanrepublic-ncc.html"
+    "url": "/concepts/dominicanrepublic-ncc.html"
   },
   {
     "label": "Doxifluridine",
     "id": "doxifluridine",
-    "url": "/rows/doxifluridine.html"
+    "url": "/concepts/doxifluridine.html"
   },
   {
     "label": "Doxorubicin",
     "id": "doxorubicin",
-    "url": "/rows/doxorubicin.html"
+    "url": "/concepts/doxorubicin.html"
   },
   {
     "label": "Dr Sebi Cure For Cancer",
     "id": "dr-sebi-cure-for-cancer",
-    "url": "/rows/dr-sebi-cure-for-cancer.html"
+    "url": "/concepts/dr-sebi-cure-for-cancer.html"
   },
   {
     "label": "DTA",
     "id": "dta-dz",
-    "url": "/rows/dta-dz.html"
+    "url": "/concepts/dta-dz.html"
   },
   {
     "label": "Duke Cancer Institute",
     "id": "duke-cancer-institute",
-    "url": "/rows/duke-cancer-institute.html"
+    "url": "/concepts/duke-cancer-institute.html"
   },
   {
     "label": "Duodenal Adenocarcinoma",
     "id": "duodenal-adenocarcinoma",
-    "url": "/rows/duodenal-adenocarcinoma.html"
+    "url": "/concepts/duodenal-adenocarcinoma.html"
   },
   {
     "label": "Duodenal-Type Follicular Lymphoma",
     "id": "duodenal-type-follicular-lymphoma",
-    "url": "/rows/duodenal-type-follicular-lymphoma.html"
+    "url": "/concepts/duodenal-type-follicular-lymphoma.html"
   },
   {
     "label": "Dutch Cancer Society",
     "id": "dutch-cancer-society",
-    "url": "/rows/dutch-cancer-society.html"
+    "url": "/concepts/dutch-cancer-society.html"
   },
   {
     "label": "Dysembryoplastic Neuroepithelial Tumor",
     "id": "dysembryoplastic-neuroepithelial-tumor",
-    "url": "/rows/dysembryoplastic-neuroepithelial-tumor.html"
+    "url": "/concepts/dysembryoplastic-neuroepithelial-tumor.html"
   },
   {
     "label": "Dysgerminoma Vulva/Vagina",
     "id": "dysgerminoma-vulva-vagina",
-    "url": "/rows/dysgerminoma-vulva-vagina.html"
+    "url": "/concepts/dysgerminoma-vulva-vagina.html"
   },
   {
     "label": "Dysgerminoma",
     "id": "dysgerminoma",
-    "url": "/rows/dysgerminoma.html"
+    "url": "/concepts/dysgerminoma.html"
   },
   {
     "label": "Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease",
     "id": "dysplastic-gangliocytoma-of-the-cerebellum-lhermitte-duclos-disease",
-    "url": "/rows/dysplastic-gangliocytoma-of-the-cerebellum-lhermitte-duclos-disease.html"
+    "url": "/concepts/dysplastic-gangliocytoma-of-the-cerebellum-lhermitte-duclos-disease.html"
   },
   {
     "label": "Early Detection: How America Can Win the War on Cancer",
     "id": "early-detection-book",
-    "url": "/rows/early-detection-book.html"
+    "url": "/concepts/early-detection-book.html"
   },
   {
     "label": "Early T-Cell Precursor Lymphoblastic Leukemia",
     "id": "early-t-cell-precursor-lymphoblastic-leukemia",
-    "url": "/rows/early-t-cell-precursor-lymphoblastic-leukemia.html"
+    "url": "/concepts/early-t-cell-precursor-lymphoblastic-leukemia.html"
   },
   {
     "label": "EBUS",
     "id": "ebus",
-    "url": "/rows/ebus.html"
+    "url": "/concepts/ebus.html"
   },
   {
     "label": "EBV Positive DLBCL, NOS",
     "id": "ebv-positive-dlbcl-nos",
-    "url": "/rows/ebv-positive-dlbcl-nos.html"
+    "url": "/concepts/ebv-positive-dlbcl-nos.html"
   },
   {
     "label": "EBV Positive Mucocutaneous Ulcer",
     "id": "ebv-positive-mucocutaneous-ulcer",
-    "url": "/rows/ebv-positive-mucocutaneous-ulcer.html"
+    "url": "/concepts/ebv-positive-mucocutaneous-ulcer.html"
   },
   {
     "label": "National Cancer Institute Cairo University",
     "id": "egypt-ncc",
-    "url": "/rows/egypt-ncc.html"
+    "url": "/concepts/egypt-ncc.html"
   },
   {
     "label": "Electroacupuncture",
     "id": "electroacupuncture",
-    "url": "/rows/electroacupuncture.html"
+    "url": "/concepts/electroacupuncture.html"
   },
   {
     "label": "Eli Lilly and Company",
     "id": "eli-lilly-and-company",
-    "url": "/rows/eli-lilly-and-company.html"
+    "url": "/concepts/eli-lilly-and-company.html"
   },
   {
     "label": "Elsevier",
     "id": "elsevier",
-    "url": "/rows/elsevier.html"
+    "url": "/concepts/elsevier.html"
   },
   {
     "label": "Embase",
     "id": "embase",
-    "url": "/rows/embase.html"
+    "url": "/concepts/embase.html"
   },
   {
     "label": "Embryonal Carcinoma CNS/Brain",
     "id": "embryonal-carcinoma-cns-brain",
-    "url": "/rows/embryonal-carcinoma-cns-brain.html"
+    "url": "/concepts/embryonal-carcinoma-cns-brain.html"
   },
   {
     "label": "Embryonal Carcinoma Testis",
     "id": "embryonal-carcinoma-testis",
-    "url": "/rows/embryonal-carcinoma-testis.html"
+    "url": "/concepts/embryonal-carcinoma-testis.html"
   },
   {
     "label": "Embryonal Carcinoma Vulva/Vagina",
     "id": "embryonal-carcinoma-vulva-vagina",
-    "url": "/rows/embryonal-carcinoma-vulva-vagina.html"
+    "url": "/concepts/embryonal-carcinoma-vulva-vagina.html"
   },
   {
     "label": "Embryonal Carcinoma",
     "id": "embryonal-carcinoma",
-    "url": "/rows/embryonal-carcinoma.html"
+    "url": "/concepts/embryonal-carcinoma.html"
   },
   {
     "label": "Embryonal Rhabdomyosarcoma",
     "id": "embryonal-rhabdomyosarcoma",
-    "url": "/rows/embryonal-rhabdomyosarcoma.html"
+    "url": "/concepts/embryonal-rhabdomyosarcoma.html"
   },
   {
     "label": "Embryonal Tumor with Abundant Neuropil and True Rosettes",
     "id": "embryonal-tumor-with-abundant-neuropil-and-true-rosettes",
-    "url": "/rows/embryonal-tumor-with-abundant-neuropil-and-true-rosettes.html"
+    "url": "/concepts/embryonal-tumor-with-abundant-neuropil-and-true-rosettes.html"
   },
   {
     "label": "Embryonal Tumor",
     "id": "embryonal-tumor",
-    "url": "/rows/embryonal-tumor.html"
+    "url": "/concepts/embryonal-tumor.html"
   },
   {
     "label": "EmergingMed.com",
     "id": "emerging-med",
-    "url": "/rows/emerging-med.html"
+    "url": "/concepts/emerging-med.html"
   },
   {
     "label": "The Emperor of All Maladies: A Biography of Cancer",
     "id": "emperor-of-all-maladies",
-    "url": "/rows/emperor-of-all-maladies.html"
+    "url": "/concepts/emperor-of-all-maladies.html"
   },
   {
     "label": "Encapsulated Glioma",
     "id": "encapsulated-glioma",
-    "url": "/rows/encapsulated-glioma.html"
+    "url": "/concepts/encapsulated-glioma.html"
   },
   {
     "label": "ENCR",
     "id": "encr-sw",
-    "url": "/rows/encr-sw.html"
+    "url": "/concepts/encr-sw.html"
   },
   {
     "label": "Endocervical Adenocarcinoma",
     "id": "endocervical-adenocarcinoma",
-    "url": "/rows/endocervical-adenocarcinoma.html"
+    "url": "/concepts/endocervical-adenocarcinoma.html"
   },
   {
     "label": "Endocrine Mucin Producing Sweat Gland Carcinoma",
     "id": "endocrine-mucin-producing-sweat-gland-carcinoma",
-    "url": "/rows/endocrine-mucin-producing-sweat-gland-carcinoma.html"
+    "url": "/concepts/endocrine-mucin-producing-sweat-gland-carcinoma.html"
   },
   {
     "label": "Endometrial Carcinoma",
     "id": "endometrial-carcinoma",
-    "url": "/rows/endometrial-carcinoma.html"
+    "url": "/concepts/endometrial-carcinoma.html"
   },
   {
     "label": "Endometrial Stromal Sarcoma",
     "id": "endometrial-stromal-sarcoma",
-    "url": "/rows/endometrial-stromal-sarcoma.html"
+    "url": "/concepts/endometrial-stromal-sarcoma.html"
   },
   {
     "label": "Endometrioid Borderlin Ovarian Tumor",
     "id": "endometrioid-borderlin-ovarian-tumor",
-    "url": "/rows/endometrioid-borderlin-ovarian-tumor.html"
+    "url": "/concepts/endometrioid-borderlin-ovarian-tumor.html"
   },
   {
     "label": "Endometrioid Ovarian Cancer",
     "id": "endometrioid-ovarian-cancer",
-    "url": "/rows/endometrioid-ovarian-cancer.html"
+    "url": "/concepts/endometrioid-ovarian-cancer.html"
   },
   {
     "label": "Enteropathy-Associated T-Cell Lymphoma",
     "id": "enteropathy-associated-t-cell-lymphoma",
-    "url": "/rows/enteropathy-associated-t-cell-lymphoma.html"
+    "url": "/concepts/enteropathy-associated-t-cell-lymphoma.html"
   },
   {
     "label": "Ependymoma",
     "id": "ependymoma",
-    "url": "/rows/ependymoma.html"
+    "url": "/concepts/ependymoma.html"
   },
   {
     "label": "Ependymomal Tumor",
     "id": "ependymomal-tumor",
-    "url": "/rows/ependymomal-tumor.html"
+    "url": "/concepts/ependymomal-tumor.html"
   },
   {
     "label": "Epirubicin",
     "id": "epirubicin",
-    "url": "/rows/epirubicin.html"
+    "url": "/concepts/epirubicin.html"
   },
   {
     "label": "Epithelial-Myoepithelial Carcinoma",
     "id": "epithelial-myoepithelial-carcinoma",
-    "url": "/rows/epithelial-myoepithelial-carcinoma.html"
+    "url": "/concepts/epithelial-myoepithelial-carcinoma.html"
   },
   {
     "label": "Epithelial Type Metaplastic Breast Cancer",
     "id": "epithelial-type-metaplastic-breast-cancer",
-    "url": "/rows/epithelial-type-metaplastic-breast-cancer.html"
+    "url": "/concepts/epithelial-type-metaplastic-breast-cancer.html"
   },
   {
     "label": "Epithelioid Hemangioendothelioma",
     "id": "epithelioid-hemangioendothelioma",
-    "url": "/rows/epithelioid-hemangioendothelioma.html"
+    "url": "/concepts/epithelioid-hemangioendothelioma.html"
   },
   {
     "label": "Epithelioid Sarcoma",
     "id": "epithelioid-sarcoma",
-    "url": "/rows/epithelioid-sarcoma.html"
+    "url": "/concepts/epithelioid-sarcoma.html"
   },
   {
     "label": "Epithelioid Trophoblastic Tumor",
     "id": "epithelioid-trophoblastic-tumor",
-    "url": "/rows/epithelioid-trophoblastic-tumor.html"
+    "url": "/concepts/epithelioid-trophoblastic-tumor.html"
   },
   {
     "label": "ERCR",
     "id": "ercr-ar",
-    "url": "/rows/ercr-ar.html"
+    "url": "/concepts/ercr-ar.html"
   },
   {
     "label": "Erdheim-Chester Disease",
     "id": "erdheim-chester-disease",
-    "url": "/rows/erdheim-chester-disease.html"
+    "url": "/concepts/erdheim-chester-disease.html"
   },
   {
     "label": "Erlotinib",
     "id": "erlotinib",
-    "url": "/rows/erlotinib.html"
+    "url": "/concepts/erlotinib.html"
   },
   {
     "label": "Esophageal Adenocarcinoma",
     "id": "esophageal-adenocarcinoma",
-    "url": "/rows/esophageal-adenocarcinoma.html"
+    "url": "/concepts/esophageal-adenocarcinoma.html"
   },
   {
     "label": "Esophageal Poorly Differentiated Carcinoma",
     "id": "esophageal-poorly-differentiated-carcinoma",
-    "url": "/rows/esophageal-poorly-differentiated-carcinoma.html"
+    "url": "/concepts/esophageal-poorly-differentiated-carcinoma.html"
   },
   {
     "label": "Esophageal Squamous Cell Carcinoma",
     "id": "esophageal-squamous-cell-carcinoma",
-    "url": "/rows/esophageal-squamous-cell-carcinoma.html"
+    "url": "/concepts/esophageal-squamous-cell-carcinoma.html"
   },
   {
     "label": "Esophagectomy",
     "id": "esophagectomy",
-    "url": "/rows/esophagectomy.html"
+    "url": "/concepts/esophagectomy.html"
   },
   {
     "label": "Esophagogastric Adenocarcinoma",
     "id": "esophagogastric-adenocarcinoma",
-    "url": "/rows/esophagogastric-adenocarcinoma.html"
+    "url": "/concepts/esophagogastric-adenocarcinoma.html"
   },
   {
     "label": "Esophagus/Stomach Cancer",
     "id": "esophagus-stomach",
-    "url": "/rows/esophagus-stomach.html"
+    "url": "/concepts/esophagus-stomach.html"
   },
   {
     "label": "Essential Thrombocythemia Myelofibrosis",
     "id": "essential-thrombocythemia-myelofibrosis",
-    "url": "/rows/essential-thrombocythemia-myelofibrosis.html"
+    "url": "/concepts/essential-thrombocythemia-myelofibrosis.html"
   },
   {
     "label": "Essential Thrombocythemia",
     "id": "essential-thrombocythemia",
-    "url": "/rows/essential-thrombocythemia.html"
+    "url": "/concepts/essential-thrombocythemia.html"
   },
   {
     "label": "Etoposide",
     "id": "etoposide",
-    "url": "/rows/etoposide.html"
+    "url": "/concepts/etoposide.html"
   },
   {
     "label": "Europa Donna Armenia",
     "id": "europa-donna-armenia",
-    "url": "/rows/europa-donna-armenia.html"
+    "url": "/concepts/europa-donna-armenia.html"
   },
   {
     "label": "Ewing Sarcoma of Soft Tissue",
     "id": "ewing-sarcoma-of-soft-tissue",
-    "url": "/rows/ewing-sarcoma-of-soft-tissue.html"
+    "url": "/concepts/ewing-sarcoma-of-soft-tissue.html"
   },
   {
     "label": "Ewing Sarcoma",
     "id": "ewing-sarcoma",
-    "url": "/rows/ewing-sarcoma.html"
+    "url": "/concepts/ewing-sarcoma.html"
   },
   {
     "label": "Exatecan",
     "id": "exatecan",
-    "url": "/rows/exatecan.html"
+    "url": "/concepts/exatecan.html"
   },
   {
     "label": "Exercise",
     "id": "exercise",
-    "url": "/rows/exercise.html"
+    "url": "/concepts/exercise.html"
   },
   {
     "label": "Extra Gonadal Germ Cell Tumor",
     "id": "extra-gonadal-germ-cell-tumor",
-    "url": "/rows/extra-gonadal-germ-cell-tumor.html"
+    "url": "/concepts/extra-gonadal-germ-cell-tumor.html"
   },
   {
     "label": "Extrahepatic Cholangiocarcinoma",
     "id": "extrahepatic-cholangiocarcinoma",
-    "url": "/rows/extrahepatic-cholangiocarcinoma.html"
+    "url": "/concepts/extrahepatic-cholangiocarcinoma.html"
   },
   {
     "label": "Extramammary Paget Disease",
     "id": "extramammary-paget-disease",
-    "url": "/rows/extramammary-paget-disease.html"
+    "url": "/concepts/extramammary-paget-disease.html"
   },
   {
     "label": "Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)",
     "id": "extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma",
-    "url": "/rows/extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma.html"
+    "url": "/concepts/extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma.html"
   },
   {
     "label": "Extranodal NK-/T-Cell Lymphoma, Nasal Type",
     "id": "extranodal-nk--t-cell-lymphoma-nasal-type",
-    "url": "/rows/extranodal-nk--t-cell-lymphoma-nasal-type.html"
+    "url": "/concepts/extranodal-nk--t-cell-lymphoma-nasal-type.html"
   },
   {
     "label": "Extraosseous Plasmacytoma",
     "id": "extraosseous-plasmacytoma",
-    "url": "/rows/extraosseous-plasmacytoma.html"
+    "url": "/concepts/extraosseous-plasmacytoma.html"
   },
   {
     "label": "Extraskeletal Myxoid Chondrosarcoma",
     "id": "extraskeletal-myxoid-chondrosarcoma",
-    "url": "/rows/extraskeletal-myxoid-chondrosarcoma.html"
+    "url": "/concepts/extraskeletal-myxoid-chondrosarcoma.html"
   },
   {
     "label": "Extraventricular Neurocytoma",
     "id": "extraventricular-neurocytoma",
-    "url": "/rows/extraventricular-neurocytoma.html"
+    "url": "/concepts/extraventricular-neurocytoma.html"
   },
   {
     "label": "Eye Cancer",
     "id": "eye",
-    "url": "/rows/eye.html"
+    "url": "/concepts/eye.html"
   },
   {
     "label": "FDA",
     "id": "fda",
-    "url": "/rows/fda.html"
+    "url": "/concepts/fda.html"
   },
   {
     "label": "Fecal immunochemical test",
     "id": "fecal-immunochemical-test",
-    "url": "/rows/fecal-immunochemical-test.html"
+    "url": "/concepts/fecal-immunochemical-test.html"
   },
   {
     "label": "FH-Deficient Renal Cell Carcinoma",
     "id": "fh-deficient-renal-cell-carcinoma",
-    "url": "/rows/fh-deficient-renal-cell-carcinoma.html"
+    "url": "/concepts/fh-deficient-renal-cell-carcinoma.html"
   },
   {
     "label": "Fibroadenoma",
     "id": "fibroadenoma",
-    "url": "/rows/fibroadenoma.html"
+    "url": "/concepts/fibroadenoma.html"
   },
   {
     "label": "Fibroblastic Osteosarcoma",
     "id": "fibroblastic-osteosarcoma",
-    "url": "/rows/fibroblastic-osteosarcoma.html"
+    "url": "/concepts/fibroblastic-osteosarcoma.html"
   },
   {
     "label": "Fibroblastic Reticular Cell Tumor",
     "id": "fibroblastic-reticular-cell-tumor",
-    "url": "/rows/fibroblastic-reticular-cell-tumor.html"
+    "url": "/concepts/fibroblastic-reticular-cell-tumor.html"
   },
   {
     "label": "Fibrolamellar Carcinoma",
     "id": "fibrolamellar-carcinoma",
-    "url": "/rows/fibrolamellar-carcinoma.html"
+    "url": "/concepts/fibrolamellar-carcinoma.html"
   },
   {
     "label": "Fibrosarcoma",
     "id": "fibrosarcoma",
-    "url": "/rows/fibrosarcoma.html"
+    "url": "/concepts/fibrosarcoma.html"
   },
   {
     "label": "Fibrothecoma",
     "id": "fibrothecoma",
-    "url": "/rows/fibrothecoma.html"
+    "url": "/concepts/fibrothecoma.html"
   },
   {
     "label": "Florid Follicular Hyperplasia PTLD",
     "id": "florid-follicular-hyperplasia-ptld",
-    "url": "/rows/florid-follicular-hyperplasia-ptld.html"
+    "url": "/concepts/florid-follicular-hyperplasia-ptld.html"
   },
   {
     "label": "Fluorouracil",
     "id": "fluorouracil",
-    "url": "/rows/fluorouracil.html"
+    "url": "/concepts/fluorouracil.html"
   },
   {
     "label": "Follicular Dendritic Cell Sarcoma",
     "id": "follicular-dendritic-cell-sarcoma",
-    "url": "/rows/follicular-dendritic-cell-sarcoma.html"
+    "url": "/concepts/follicular-dendritic-cell-sarcoma.html"
   },
   {
     "label": "Follicular Lymphoma",
     "id": "follicular-lymphoma",
-    "url": "/rows/follicular-lymphoma.html"
+    "url": "/concepts/follicular-lymphoma.html"
   },
   {
     "label": "Follicular T-Cell Lymphoma",
     "id": "follicular-t-cell-lymphoma",
-    "url": "/rows/follicular-t-cell-lymphoma.html"
+    "url": "/concepts/follicular-t-cell-lymphoma.html"
   },
   {
     "label": "Follicular Thyroid Cancer",
     "id": "follicular-thyroid-cancer",
-    "url": "/rows/follicular-thyroid-cancer.html"
+    "url": "/concepts/follicular-thyroid-cancer.html"
   },
   {
     "label": "Fotemustine",
     "id": "fotemustine",
-    "url": "/rows/fotemustine.html"
+    "url": "/concepts/fotemustine.html"
   },
   {
     "label": "Fox Chase Cancer Center",
     "id": "fox-chase-cancer-center",
-    "url": "/rows/fox-chase-cancer-center.html"
+    "url": "/concepts/fox-chase-cancer-center.html"
   },
   {
     "label": "Fred and Pamela Buffett Cancer Center",
     "id": "fred-and-pamela-buffett-cancer-center",
-    "url": "/rows/fred-and-pamela-buffett-cancer-center.html"
+    "url": "/concepts/fred-and-pamela-buffett-cancer-center.html"
   },
   {
     "label": "Fred Hutchinson Cancer Center",
     "id": "fred-hutch",
-    "url": "/rows/fred-hutch.html"
+    "url": "/concepts/fred-hutch.html"
   },
   {
     "label": "Fred Hutchinson/University of Washington Cancer Consortium",
     "id": "fred-hutchinson-university-of-washington-cancer-consortium",
-    "url": "/rows/fred-hutchinson-university-of-washington-cancer-consortium.html"
+    "url": "/concepts/fred-hutchinson-university-of-washington-cancer-consortium.html"
   },
   {
     "label": "Free Diving",
     "id": "free-diving",
-    "url": "/rows/free-diving.html"
+    "url": "/concepts/free-diving.html"
   },
   {
     "label": "French National Cancer Institute",
     "id": "french-national-cancer-institute",
-    "url": "/rows/french-national-cancer-institute.html"
+    "url": "/concepts/french-national-cancer-institute.html"
   },
   {
     "label": "Gallbladder Adenocarcinoma, NOS",
     "id": "gallbladder-adenocarcinoma-nos",
-    "url": "/rows/gallbladder-adenocarcinoma-nos.html"
+    "url": "/concepts/gallbladder-adenocarcinoma-nos.html"
   },
   {
     "label": "Gallbladder Cancer",
     "id": "gallbladder-cancer",
-    "url": "/rows/gallbladder-cancer.html"
+    "url": "/concepts/gallbladder-cancer.html"
   },
   {
     "label": "Gamma Heavy-Chain Disease",
     "id": "gamma-heavy-chain-disease",
-    "url": "/rows/gamma-heavy-chain-disease.html"
+    "url": "/concepts/gamma-heavy-chain-disease.html"
   },
   {
     "label": "Gangliocytoma",
     "id": "gangliocytoma",
-    "url": "/rows/gangliocytoma.html"
+    "url": "/concepts/gangliocytoma.html"
   },
   {
     "label": "Ganglioglioma",
     "id": "ganglioglioma",
-    "url": "/rows/ganglioglioma.html"
+    "url": "/concepts/ganglioglioma.html"
   },
   {
     "label": "Ganglioneuroblastoma",
     "id": "ganglioneuroblastoma",
-    "url": "/rows/ganglioneuroblastoma.html"
+    "url": "/concepts/ganglioneuroblastoma.html"
   },
   {
     "label": "Ganglioneuroma",
     "id": "ganglioneuroma",
-    "url": "/rows/ganglioneuroma.html"
+    "url": "/concepts/ganglioneuroma.html"
   },
   {
     "label": "Gastrectomy",
     "id": "gastrectomy",
-    "url": "/rows/gastrectomy.html"
+    "url": "/concepts/gastrectomy.html"
   },
   {
     "label": "Gastric Remnant Adenocarcinoma",
     "id": "gastric-remnant-adenocarcinoma",
-    "url": "/rows/gastric-remnant-adenocarcinoma.html"
+    "url": "/concepts/gastric-remnant-adenocarcinoma.html"
   },
   {
     "label": "Gastric Type Mucinous Carcinoma",
     "id": "gastric-type-mucinous-carcinoma",
-    "url": "/rows/gastric-type-mucinous-carcinoma.html"
+    "url": "/concepts/gastric-type-mucinous-carcinoma.html"
   },
   {
     "label": "Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach",
     "id": "gastrointestinal-neuroendocrine-tumors-of-the-esophagus-stomach",
-    "url": "/rows/gastrointestinal-neuroendocrine-tumors-of-the-esophagus-stomach.html"
+    "url": "/concepts/gastrointestinal-neuroendocrine-tumors-of-the-esophagus-stomach.html"
   },
   {
     "label": "Gastrointestinal Neuroendocrine Tumors",
     "id": "gastrointestinal-neuroendocrine-tumors",
-    "url": "/rows/gastrointestinal-neuroendocrine-tumors.html"
+    "url": "/concepts/gastrointestinal-neuroendocrine-tumors.html"
   },
   {
     "label": "Gastrointestinal Stromal Tumor",
     "id": "gastrointestinal-stromal-tumor",
-    "url": "/rows/gastrointestinal-stromal-tumor.html"
+    "url": "/concepts/gastrointestinal-stromal-tumor.html"
   },
   {
     "label": "GCO",
     "id": "gco",
-    "url": "/rows/gco.html"
+    "url": "/concepts/gco.html"
   },
   {
     "label": "gcr",
     "id": "gcr-ug",
-    "url": "/rows/gcr-ug.html"
+    "url": "/concepts/gcr-ug.html"
   },
   {
     "label": "GDC",
     "id": "gdc",
-    "url": "/rows/gdc.html"
+    "url": "/concepts/gdc.html"
   },
   {
     "label": "Gefitinib",
     "id": "gefitinib",
-    "url": "/rows/gefitinib.html"
+    "url": "/concepts/gefitinib.html"
   },
   {
     "label": "Gemcitabine",
     "id": "gemcitabine",
-    "url": "/rows/gemcitabine.html"
+    "url": "/concepts/gemcitabine.html"
   },
   {
     "label": "Genentech",
     "id": "genentech",
-    "url": "/rows/genentech.html"
+    "url": "/concepts/genentech.html"
   },
   {
     "label": "Georgetown Lombardi Comprehensive Cancer Center",
     "id": "georgetown-lombardi-comprehensive-cancer-center",
-    "url": "/rows/georgetown-lombardi-comprehensive-cancer-center.html"
+    "url": "/concepts/georgetown-lombardi-comprehensive-cancer-center.html"
   },
   {
     "label": "National Cancer Center",
     "id": "georgia-ncc",
-    "url": "/rows/georgia-ncc.html"
+    "url": "/concepts/georgia-ncc.html"
   },
   {
     "label": "Germ Cell Tumor, Brain",
     "id": "germ-cell-tumor-brain",
-    "url": "/rows/germ-cell-tumor-brain.html"
+    "url": "/concepts/germ-cell-tumor-brain.html"
   },
   {
     "label": "Germ Cell Tumor of the Vulva",
     "id": "germ-cell-tumor-of-the-vulva",
-    "url": "/rows/germ-cell-tumor-of-the-vulva.html"
+    "url": "/concepts/germ-cell-tumor-of-the-vulva.html"
   },
   {
     "label": "Germ Cell Tumor with Somatic-Type Malignancy",
     "id": "germ-cell-tumor-with-somatic-type-malignancy",
-    "url": "/rows/germ-cell-tumor-with-somatic-type-malignancy.html"
+    "url": "/concepts/germ-cell-tumor-with-somatic-type-malignancy.html"
   },
   {
     "label": "German Cancer Research Center",
     "id": "germany-ncc",
-    "url": "/rows/germany-ncc.html"
+    "url": "/concepts/germany-ncc.html"
   },
   {
     "label": "Germinal Center B-Cell Type",
     "id": "germinal-center-b-cell-type",
-    "url": "/rows/germinal-center-b-cell-type.html"
+    "url": "/concepts/germinal-center-b-cell-type.html"
   },
   {
     "label": "Germinoma",
     "id": "germinoma",
-    "url": "/rows/germinoma.html"
+    "url": "/concepts/germinoma.html"
   },
   {
     "label": "Gestational Trophoblastic Disease",
     "id": "gestational-trophoblastic-disease",
-    "url": "/rows/gestational-trophoblastic-disease.html"
+    "url": "/concepts/gestational-trophoblastic-disease.html"
   },
   {
     "label": "gFOBT",
     "id": "gfobt",
-    "url": "/rows/gfobt.html"
+    "url": "/concepts/gfobt.html"
   },
   {
     "label": "Giant Cell Carcinoma of the Lung",
     "id": "giant-cell-carcinoma-of-the-lung",
-    "url": "/rows/giant-cell-carcinoma-of-the-lung.html"
+    "url": "/concepts/giant-cell-carcinoma-of-the-lung.html"
   },
   {
     "label": "Giant Cell Tumor of Bone",
     "id": "giant-cell-tumor-of-bone",
-    "url": "/rows/giant-cell-tumor-of-bone.html"
+    "url": "/concepts/giant-cell-tumor-of-bone.html"
   },
   {
     "label": "Gideon Burrows: Brain Tumours and Cancer",
     "id": "gideon-burrows-dot-com",
-    "url": "/rows/gideon-burrows-dot-com.html"
+    "url": "/concepts/gideon-burrows-dot-com.html"
   },
   {
     "label": "Gilead Sciences",
     "id": "gilead-sciences",
-    "url": "/rows/gilead-sciences.html"
+    "url": "/concepts/gilead-sciences.html"
   },
   {
     "label": "Glassy Cell Carcinoma of the Cervix",
     "id": "glassy-cell-carcinoma-of-the-cervix",
-    "url": "/rows/glassy-cell-carcinoma-of-the-cervix.html"
+    "url": "/concepts/glassy-cell-carcinoma-of-the-cervix.html"
   },
   {
     "label": "Glioblastoma Multiforme",
     "id": "glioblastoma-multiforme",
-    "url": "/rows/glioblastoma-multiforme.html"
+    "url": "/concepts/glioblastoma-multiforme.html"
   },
   {
     "label": "Glioblastoma",
     "id": "glioblastoma",
-    "url": "/rows/glioblastoma.html"
+    "url": "/concepts/glioblastoma.html"
   },
   {
     "label": "Glioma, NOS",
     "id": "glioma-nos",
-    "url": "/rows/glioma-nos.html"
+    "url": "/concepts/glioma-nos.html"
   },
   {
     "label": "Gliosarcoma",
     "id": "gliosarcoma",
-    "url": "/rows/gliosarcoma.html"
+    "url": "/concepts/gliosarcoma.html"
   },
   {
     "label": "Glomangiosarcoma",
     "id": "glomangiosarcoma",
-    "url": "/rows/glomangiosarcoma.html"
+    "url": "/concepts/glomangiosarcoma.html"
   },
   {
     "label": "Goblet Cell Carcinoid of the Appendix",
     "id": "goblet-cell-carcinoid-of-the-appendix",
-    "url": "/rows/goblet-cell-carcinoid-of-the-appendix.html"
+    "url": "/concepts/goblet-cell-carcinoid-of-the-appendix.html"
   },
   {
     "label": "Gonadoblastoma",
     "id": "gonadoblastoma",
-    "url": "/rows/gonadoblastoma.html"
+    "url": "/concepts/gonadoblastoma.html"
   },
   {
     "label": "Granular Cell Tumor",
     "id": "granular-cell-tumor",
-    "url": "/rows/granular-cell-tumor.html"
+    "url": "/concepts/granular-cell-tumor.html"
   },
   {
     "label": "Granulosa Cell Tumor",
     "id": "granulosa-cell-tumor",
-    "url": "/rows/granulosa-cell-tumor.html"
+    "url": "/concepts/granulosa-cell-tumor.html"
   },
   {
     "label": "GSK plc",
     "id": "gsk",
-    "url": "/rows/gsk.html"
+    "url": "/concepts/gsk.html"
   },
   {
     "label": "Hairy Cell Leukemia-Variant",
     "id": "hairy-cell-leukemia-variant",
-    "url": "/rows/hairy-cell-leukemia-variant.html"
+    "url": "/concepts/hairy-cell-leukemia-variant.html"
   },
   {
     "label": "Hairy Cell Leukemia",
     "id": "hairy-cell-leukemia",
-    "url": "/rows/hairy-cell-leukemia.html"
+    "url": "/concepts/hairy-cell-leukemia.html"
   },
   {
     "label": "Harold C. Simmons Comprehensive Cancer Center",
     "id": "harold-c-simmons-comprehensive-cancer-center",
-    "url": "/rows/harold-c-simmons-comprehensive-cancer-center.html"
+    "url": "/concepts/harold-c-simmons-comprehensive-cancer-center.html"
   },
   {
     "label": "Hawaiʻi Tumor Registry",
     "id": "hawaii-tumor-registry",
-    "url": "/rows/hawaii-tumor-registry.html"
+    "url": "/concepts/hawaii-tumor-registry.html"
   },
   {
     "label": "Head and Neck Carcinoma, Other",
     "id": "head-and-neck-carcinoma-other",
-    "url": "/rows/head-and-neck-carcinoma-other.html"
+    "url": "/concepts/head-and-neck-carcinoma-other.html"
   },
   {
     "label": "Head and Neck Mucosal Melanoma",
     "id": "head-and-neck-mucosal-melanoma",
-    "url": "/rows/head-and-neck-mucosal-melanoma.html"
+    "url": "/concepts/head-and-neck-mucosal-melanoma.html"
   },
   {
     "label": "Head and Neck Neuroendocrine Carcinoma",
     "id": "head-and-neck-neuroendocrine-carcinoma",
-    "url": "/rows/head-and-neck-neuroendocrine-carcinoma.html"
+    "url": "/concepts/head-and-neck-neuroendocrine-carcinoma.html"
   },
   {
     "label": "Head and Neck Squamous Cell Carcinoma of Unknown Primary",
     "id": "head-and-neck-squamous-cell-carcinoma-of-unknown-primary",
-    "url": "/rows/head-and-neck-squamous-cell-carcinoma-of-unknown-primary.html"
+    "url": "/concepts/head-and-neck-squamous-cell-carcinoma-of-unknown-primary.html"
   },
   {
     "label": "Head and Neck Squamous Cell Carcinoma",
     "id": "head-and-neck-squamous-cell-carcinoma",
-    "url": "/rows/head-and-neck-squamous-cell-carcinoma.html"
+    "url": "/concepts/head-and-neck-squamous-cell-carcinoma.html"
   },
   {
     "label": "Head and Neck Cancer",
     "id": "head-and-neck",
-    "url": "/rows/head-and-neck.html"
+    "url": "/concepts/head-and-neck.html"
   },
   {
     "label": "HealingStrong",
     "id": "healing-strong",
-    "url": "/rows/healing-strong.html"
+    "url": "/concepts/healing-strong.html"
   },
   {
     "label": "Hemangioblastoma",
     "id": "hemangioblastoma",
-    "url": "/rows/hemangioblastoma.html"
+    "url": "/concepts/hemangioblastoma.html"
   },
   {
     "label": "Hemangioma",
     "id": "hemangioma",
-    "url": "/rows/hemangioma.html"
+    "url": "/concepts/hemangioma.html"
   },
   {
     "label": "Hemangiopericytoma of the Central Nervous System",
     "id": "hemangiopericytoma-of-the-central-nervous-system",
-    "url": "/rows/hemangiopericytoma-of-the-central-nervous-system.html"
+    "url": "/concepts/hemangiopericytoma-of-the-central-nervous-system.html"
   },
   {
     "label": "Hepatectomy",
     "id": "hepatectomy",
-    "url": "/rows/hepatectomy.html"
+    "url": "/concepts/hepatectomy.html"
   },
   {
     "label": "Hepatic Arterial Infusion",
     "id": "hepatic-arterial-infusion",
-    "url": "/rows/hepatic-arterial-infusion.html"
+    "url": "/concepts/hepatic-arterial-infusion.html"
   },
   {
     "label": "Hepatoblastoma",
     "id": "hepatoblastoma",
-    "url": "/rows/hepatoblastoma.html"
+    "url": "/concepts/hepatoblastoma.html"
   },
   {
     "label": "Hepatocellular Adenoma",
     "id": "hepatocellular-adenoma",
-    "url": "/rows/hepatocellular-adenoma.html"
+    "url": "/concepts/hepatocellular-adenoma.html"
   },
   {
     "label": "Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma",
     "id": "hepatocellular-carcinoma-plus-intrahepatic-cholangiocarcinoma",
-    "url": "/rows/hepatocellular-carcinoma-plus-intrahepatic-cholangiocarcinoma.html"
+    "url": "/concepts/hepatocellular-carcinoma-plus-intrahepatic-cholangiocarcinoma.html"
   },
   {
     "label": "Hepatocellular Carcinoma",
     "id": "hepatocellular-carcinoma",
-    "url": "/rows/hepatocellular-carcinoma.html"
+    "url": "/concepts/hepatocellular-carcinoma.html"
   },
   {
     "label": "Hepatosplenic T-cell Lymphoma",
     "id": "hepatosplenic-t-cell-lymphoma",
-    "url": "/rows/hepatosplenic-t-cell-lymphoma.html"
+    "url": "/concepts/hepatosplenic-t-cell-lymphoma.html"
   },
   {
     "label": "Herbert Irving Comprehensive Cancer Center",
     "id": "herbert-irving-comprehensive-cancer-center",
-    "url": "/rows/herbert-irving-comprehensive-cancer-center.html"
+    "url": "/concepts/herbert-irving-comprehensive-cancer-center.html"
   },
   {
     "label": "United States Department of Health and Human Services",
     "id": "hhs",
-    "url": "/rows/hhs.html"
+    "url": "/concepts/hhs.html"
   },
   {
     "label": "HHV8 Positive DLBCL, NOS",
     "id": "hhv8-positive-dlbcl-nos",
-    "url": "/rows/hhv8-positive-dlbcl-nos.html"
+    "url": "/concepts/hhv8-positive-dlbcl-nos.html"
   },
   {
     "label": "High-Grade B-Cell Lymphoma, NOS",
     "id": "high-grade-b-cell-lymphoma-nos",
-    "url": "/rows/high-grade-b-cell-lymphoma-nos.html"
+    "url": "/concepts/high-grade-b-cell-lymphoma-nos.html"
   },
   {
     "label": "High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements",
     "id": "high-grade-b-cell-lymphoma-with-myc-and-bcl2-and-or-bcl6-rearrangements",
-    "url": "/rows/high-grade-b-cell-lymphoma-with-myc-and-bcl2-and-or-bcl6-rearrangements.html"
+    "url": "/concepts/high-grade-b-cell-lymphoma-with-myc-and-bcl2-and-or-bcl6-rearrangements.html"
   },
   {
     "label": "High-Grade Endometrial Stromal Sarcoma",
     "id": "high-grade-endometrial-stromal-sarcoma",
-    "url": "/rows/high-grade-endometrial-stromal-sarcoma.html"
+    "url": "/concepts/high-grade-endometrial-stromal-sarcoma.html"
   },
   {
     "label": "High-Grade Glioma, NOS",
     "id": "high-grade-glioma-nos",
-    "url": "/rows/high-grade-glioma-nos.html"
+    "url": "/concepts/high-grade-glioma-nos.html"
   },
   {
     "label": "High-Grade Neuroendocrine Carcinoma of the Colon and Rectum",
     "id": "high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum",
-    "url": "/rows/high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum.html"
+    "url": "/concepts/high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum.html"
   },
   {
     "label": "High-Grade Neuroendocrine Carcinoma of the Esophagus",
     "id": "high-grade-neuroendocrine-carcinoma-of-the-esophagus",
-    "url": "/rows/high-grade-neuroendocrine-carcinoma-of-the-esophagus.html"
+    "url": "/concepts/high-grade-neuroendocrine-carcinoma-of-the-esophagus.html"
   },
   {
     "label": "High-Grade Neuroendocrine Carcinoma of the Ovary",
     "id": "high-grade-neuroendocrine-carcinoma-of-the-ovary",
-    "url": "/rows/high-grade-neuroendocrine-carcinoma-of-the-ovary.html"
+    "url": "/concepts/high-grade-neuroendocrine-carcinoma-of-the-ovary.html"
   },
   {
     "label": "High-Grade Neuroendocrine Carcinoma of the Stomach",
     "id": "high-grade-neuroendocrine-carcinoma-of-the-stomach",
-    "url": "/rows/high-grade-neuroendocrine-carcinoma-of-the-stomach.html"
+    "url": "/concepts/high-grade-neuroendocrine-carcinoma-of-the-stomach.html"
   },
   {
     "label": "High-Grade Neuroepithelial Tumor",
     "id": "high-grade-neuroepithelial-tumor",
-    "url": "/rows/high-grade-neuroepithelial-tumor.html"
+    "url": "/concepts/high-grade-neuroepithelial-tumor.html"
   },
   {
     "label": "High-Grade Serous Fallopian Tube Cancer",
     "id": "high-grade-serous-fallopian-tube-cancer",
-    "url": "/rows/high-grade-serous-fallopian-tube-cancer.html"
+    "url": "/concepts/high-grade-serous-fallopian-tube-cancer.html"
   },
   {
     "label": "High-Grade Serous Ovarian Cancer",
     "id": "high-grade-serous-ovarian-cancer",
-    "url": "/rows/high-grade-serous-ovarian-cancer.html"
+    "url": "/concepts/high-grade-serous-ovarian-cancer.html"
   },
   {
     "label": "High-Grade Surface Osteosarcoma",
     "id": "high-grade-surface-osteosarcoma",
-    "url": "/rows/high-grade-surface-osteosarcoma.html"
+    "url": "/concepts/high-grade-surface-osteosarcoma.html"
   },
   {
     "label": "Histiocytic and Dendritic Cell Neoplasms",
     "id": "histiocytic-and-dendritic-cell-neoplasms",
-    "url": "/rows/histiocytic-and-dendritic-cell-neoplasms.html"
+    "url": "/concepts/histiocytic-and-dendritic-cell-neoplasms.html"
   },
   {
     "label": "Histiocytic Dendritic Cell Sarcoma",
     "id": "histiocytic-dendritic-cell-sarcoma",
-    "url": "/rows/histiocytic-dendritic-cell-sarcoma.html"
+    "url": "/concepts/histiocytic-dendritic-cell-sarcoma.html"
   },
   {
     "label": "Histiocytic Sarcoma",
     "id": "histiocytic-sarcoma",
-    "url": "/rows/histiocytic-sarcoma.html"
+    "url": "/concepts/histiocytic-sarcoma.html"
   },
   {
     "label": "Hodgkin Lymphoma",
     "id": "hodgkin-lymphoma",
-    "url": "/rows/hodgkin-lymphoma.html"
+    "url": "/concepts/hodgkin-lymphoma.html"
   },
   {
     "label": "Holden Comprehensive Cancer Center",
     "id": "holden-comprehensive-cancer-center",
-    "url": "/rows/holden-comprehensive-cancer-center.html"
+    "url": "/concepts/holden-comprehensive-cancer-center.html"
   },
   {
     "label": "Hollings Cancer Center",
     "id": "hollings-cancer-center",
-    "url": "/rows/hollings-cancer-center.html"
+    "url": "/concepts/hollings-cancer-center.html"
   },
   {
     "label": "HOPA",
     "id": "hopa",
-    "url": "/rows/hopa.html"
+    "url": "/concepts/hopa.html"
   },
   {
     "label": "Hope4Cancer",
     "id": "hope4cancer",
-    "url": "/rows/hope4cancer.html"
+    "url": "/concepts/hope4cancer.html"
   },
   {
     "label": "Houston Methodist Hospital",
     "id": "houston-methodist",
-    "url": "/rows/houston-methodist.html"
+    "url": "/concepts/houston-methodist.html"
   },
   {
     "label": "How to Starve Cancer: ...and Then Kill It With Ferroptosis",
     "id": "how-to-starve-cancer-book",
-    "url": "/rows/how-to-starve-cancer-book.html"
+    "url": "/concepts/how-to-starve-cancer-book.html"
   },
   {
     "label": "National Institute of Oncology",
     "id": "hungary-ncc",
-    "url": "/rows/hungary-ncc.html"
+    "url": "/concepts/hungary-ncc.html"
   },
   {
     "label": "Huntsman Cancer Institute",
     "id": "huntsman-cancer-institute",
-    "url": "/rows/huntsman-cancer-institute.html"
+    "url": "/concepts/huntsman-cancer-institute.html"
   },
   {
     "label": "Hurthle Cell Thyroid Cancer",
     "id": "hurthle-cell-thyroid-cancer",
-    "url": "/rows/hurthle-cell-thyroid-cancer.html"
+    "url": "/concepts/hurthle-cell-thyroid-cancer.html"
   },
   {
     "label": "Hyalinizing Trabecular Adenoma of the Thyroid",
     "id": "hyalinizing-trabecular-adenoma-of-the-thyroid",
-    "url": "/rows/hyalinizing-trabecular-adenoma-of-the-thyroid.html"
+    "url": "/concepts/hyalinizing-trabecular-adenoma-of-the-thyroid.html"
   },
   {
     "label": "Hydroa Vacciniforme Like Lymphoproliferative Disorder",
     "id": "hydroa-vacciniforme-like-lymphoproliferative-disorder",
-    "url": "/rows/hydroa-vacciniforme-like-lymphoproliferative-disorder.html"
+    "url": "/concepts/hydroa-vacciniforme-like-lymphoproliferative-disorder.html"
   },
   {
     "label": "Hydroxyurea",
     "id": "hydroxyurea",
-    "url": "/rows/hydroxyurea.html"
+    "url": "/concepts/hydroxyurea.html"
   },
   {
     "label": "Hypnosis",
     "id": "hypnosis",
-    "url": "/rows/hypnosis.html"
+    "url": "/concepts/hypnosis.html"
   },
   {
     "label": "Hypopharynx Squamous Cell Carcinoma",
     "id": "hypopharynx-squamous-cell-carcinoma",
-    "url": "/rows/hypopharynx-squamous-cell-carcinoma.html"
+    "url": "/concepts/hypopharynx-squamous-cell-carcinoma.html"
   },
   {
     "label": "Hysterectomy",
     "id": "hysterectomy",
-    "url": "/rows/hysterectomy.html"
+    "url": "/concepts/hysterectomy.html"
   },
   {
     "label": "IACC",
     "id": "iacc-ao",
-    "url": "/rows/iacc-ao.html"
+    "url": "/concepts/iacc-ao.html"
   },
   {
     "label": "International Atomic Energy Agency",
     "id": "iaea",
-    "url": "/rows/iaea.html"
+    "url": "/concepts/iaea.html"
   },
   {
     "label": "IARC",
     "id": "iarc",
-    "url": "/rows/iarc.html"
+    "url": "/concepts/iarc.html"
   },
   {
     "label": "IBCR",
     "id": "ibcr-ng",
-    "url": "/rows/ibcr-ng.html"
+    "url": "/concepts/ibcr-ng.html"
   },
   {
     "label": "ICAN",
     "id": "ican",
-    "url": "/rows/ican.html"
+    "url": "/concepts/ican.html"
   },
   {
     "label": "ICD-10-PCS",
     "id": "icd-10-pcs",
-    "url": "/rows/icd-10-pcs.html"
+    "url": "/concepts/icd-10-pcs.html"
   },
   {
     "label": "Icelandic Cancer Society",
     "id": "icelandic-cancer-society",
-    "url": "/rows/icelandic-cancer-society.html"
+    "url": "/concepts/icelandic-cancer-society.html"
   },
   {
     "label": "Idarubicin",
     "id": "idarubicin",
-    "url": "/rows/idarubicin.html"
+    "url": "/concepts/idarubicin.html"
   },
   {
     "label": "Ifosfamide",
     "id": "ifosfamide",
-    "url": "/rows/ifosfamide.html"
+    "url": "/concepts/ifosfamide.html"
   },
   {
     "label": "IgA",
     "id": "iga",
-    "url": "/rows/iga.html"
+    "url": "/concepts/iga.html"
   },
   {
     "label": "IgG",
     "id": "igg",
-    "url": "/rows/igg.html"
+    "url": "/concepts/igg.html"
   },
   {
     "label": "IgM",
     "id": "igm",
-    "url": "/rows/igm.html"
+    "url": "/concepts/igm.html"
   },
   {
     "label": "Imatinib",
     "id": "imatinib",
-    "url": "/rows/imatinib.html"
+    "url": "/concepts/imatinib.html"
   },
   {
     "label": "Imerman Angels",
     "id": "imerman-angels",
-    "url": "/rows/imerman-angels.html"
+    "url": "/concepts/imerman-angels.html"
   },
   {
     "label": "Immature Teratoma CNS/Brain",
     "id": "immature-teratoma-cns-brain",
-    "url": "/rows/immature-teratoma-cns-brain.html"
+    "url": "/concepts/immature-teratoma-cns-brain.html"
   },
   {
     "label": "Immature Teratoma Vulva/Vagina",
     "id": "immature-teratoma-vulva-vagina",
-    "url": "/rows/immature-teratoma-vulva-vagina.html"
+    "url": "/concepts/immature-teratoma-vulva-vagina.html"
   },
   {
     "label": "Immature Teratoma",
     "id": "immature-teratoma",
-    "url": "/rows/immature-teratoma.html"
+    "url": "/concepts/immature-teratoma.html"
   },
   {
     "label": "Immunotherapy",
     "id": "immunotherapy",
-    "url": "/rows/immunotherapy.html"
+    "url": "/concepts/immunotherapy.html"
   },
   {
     "label": "Intensity-Modulated Radiation Therapy",
     "id": "imrt",
-    "url": "/rows/imrt.html"
+    "url": "/concepts/imrt.html"
   },
   {
     "label": "In Situ Follicular Neoplasia",
     "id": "in-situ-follicular-neoplasia",
-    "url": "/rows/in-situ-follicular-neoplasia.html"
+    "url": "/concepts/in-situ-follicular-neoplasia.html"
   },
   {
     "label": "In Situ Mantle Cell Neoplasia",
     "id": "in-situ-mantle-cell-neoplasia",
-    "url": "/rows/in-situ-mantle-cell-neoplasia.html"
+    "url": "/concepts/in-situ-mantle-cell-neoplasia.html"
   },
   {
     "label": "Instituto Nacional de Cancerología (Mexico)",
     "id": "incan",
-    "url": "/rows/incan.html"
+    "url": "/concepts/incan.html"
   },
   {
     "label": "Indeterminate Dendritic Cell Tumor",
     "id": "indeterminate-dendritic-cell-tumor",
-    "url": "/rows/indeterminate-dendritic-cell-tumor.html"
+    "url": "/concepts/indeterminate-dendritic-cell-tumor.html"
   },
   {
     "label": "Index Medicus",
     "id": "index-medicus",
-    "url": "/rows/index-medicus.html"
+    "url": "/concepts/index-medicus.html"
   },
   {
     "label": "Rajiv Gandhi Cancer Institute and Research Centre",
     "id": "india-nci",
-    "url": "/rows/india-nci.html"
+    "url": "/concepts/india-nci.html"
   },
   {
     "label": "Indiana University Melvin and Bren Simon Comprehensive Cancer Center",
     "id": "indiana-university-melvin-and-bren-simon-comprehensive-cancer-center",
-    "url": "/rows/indiana-university-melvin-and-bren-simon-comprehensive-cancer-center.html"
+    "url": "/concepts/indiana-university-melvin-and-bren-simon-comprehensive-cancer-center.html"
   },
   {
     "label": "Indolent Systemic Mastocytosis",
     "id": "indolent-systemic-mastocytosis",
-    "url": "/rows/indolent-systemic-mastocytosis.html"
+    "url": "/concepts/indolent-systemic-mastocytosis.html"
   },
   {
     "label": "Indolent T-Cell Lymphoproliferative Disorder of the GI Tract",
     "id": "indolent-t-cell-lymphoproliferative-disorder-of-the-gi-tract",
-    "url": "/rows/indolent-t-cell-lymphoproliferative-disorder-of-the-gi-tract.html"
+    "url": "/concepts/indolent-t-cell-lymphoproliferative-disorder-of-the-gi-tract.html"
   },
   {
     "label": "Infantile Fibrosarcoma",
     "id": "infantile-fibrosarcoma",
-    "url": "/rows/infantile-fibrosarcoma.html"
+    "url": "/concepts/infantile-fibrosarcoma.html"
   },
   {
     "label": "Infectious Mononucleosis PTLD",
     "id": "infectious-mononucleosis-ptld",
-    "url": "/rows/infectious-mononucleosis-ptld.html"
+    "url": "/concepts/infectious-mononucleosis-ptld.html"
   },
   {
     "label": "Inflammatory Breast Cancer",
     "id": "inflammatory-breast-cancer",
-    "url": "/rows/inflammatory-breast-cancer.html"
+    "url": "/concepts/inflammatory-breast-cancer.html"
   },
   {
     "label": "Inflammatory Myofibroblastic Bladder Tumor",
     "id": "inflammatory-myofibroblastic-bladder-tumor",
-    "url": "/rows/inflammatory-myofibroblastic-bladder-tumor.html"
+    "url": "/concepts/inflammatory-myofibroblastic-bladder-tumor.html"
   },
   {
     "label": "Inflammatory Myofibroblastic Lung Tumor",
     "id": "inflammatory-myofibroblastic-lung-tumor",
-    "url": "/rows/inflammatory-myofibroblastic-lung-tumor.html"
+    "url": "/concepts/inflammatory-myofibroblastic-lung-tumor.html"
   },
   {
     "label": "Inflammatory Myofibroblastic Tumor",
     "id": "inflammatory-myofibroblastic-tumor",
-    "url": "/rows/inflammatory-myofibroblastic-tumor.html"
+    "url": "/concepts/inflammatory-myofibroblastic-tumor.html"
   },
   {
     "label": "Interdigitating Dendritic Cell Sarcoma",
     "id": "interdigitating-dendritic-cell-sarcoma",
-    "url": "/rows/interdigitating-dendritic-cell-sarcoma.html"
+    "url": "/concepts/interdigitating-dendritic-cell-sarcoma.html"
   },
   {
     "label": "Intestinal Ampullary Carcinoma",
     "id": "intestinal-ampullary-carcinoma",
-    "url": "/rows/intestinal-ampullary-carcinoma.html"
+    "url": "/concepts/intestinal-ampullary-carcinoma.html"
   },
   {
     "label": "Intestinal Type Mucinous Carcinoma",
     "id": "intestinal-type-mucinous-carcinoma",
-    "url": "/rows/intestinal-type-mucinous-carcinoma.html"
+    "url": "/concepts/intestinal-type-mucinous-carcinoma.html"
   },
   {
     "label": "Intestinal Type Stomach Adenocarcinoma",
     "id": "intestinal-type-stomach-adenocarcinoma",
-    "url": "/rows/intestinal-type-stomach-adenocarcinoma.html"
+    "url": "/concepts/intestinal-type-stomach-adenocarcinoma.html"
   },
   {
     "label": "Intimal Sarcoma",
     "id": "intimal-sarcoma",
-    "url": "/rows/intimal-sarcoma.html"
+    "url": "/concepts/intimal-sarcoma.html"
   },
   {
     "label": "Intraductal Papillary Mucinous Neoplasm",
     "id": "intraductal-papillary-mucinous-neoplasm",
-    "url": "/rows/intraductal-papillary-mucinous-neoplasm.html"
+    "url": "/concepts/intraductal-papillary-mucinous-neoplasm.html"
   },
   {
     "label": "Intrahepatic Cholangiocarcinoma",
     "id": "intrahepatic-cholangiocarcinoma",
-    "url": "/rows/intrahepatic-cholangiocarcinoma.html"
+    "url": "/concepts/intrahepatic-cholangiocarcinoma.html"
   },
   {
     "label": "Intramuscular injection",
     "id": "intramuscular-injection",
-    "url": "/rows/intramuscular-injection.html"
+    "url": "/concepts/intramuscular-injection.html"
   },
   {
     "label": "Intravascular Large B-Cell Lymphoma",
     "id": "intravascular-large-b-cell-lymphoma",
-    "url": "/rows/intravascular-large-b-cell-lymphoma.html"
+    "url": "/concepts/intravascular-large-b-cell-lymphoma.html"
   },
   {
     "label": "Intravenous therapy",
     "id": "intravenous-therapy",
-    "url": "/rows/intravenous-therapy.html"
+    "url": "/concepts/intravenous-therapy.html"
   },
   {
     "label": "Intravesical Therapy",
     "id": "intravesical-therapy",
-    "url": "/rows/intravesical-therapy.html"
+    "url": "/concepts/intravesical-therapy.html"
   },
   {
     "label": "Invasive Breast Carcinoma",
     "id": "invasive-breast-carcinoma",
-    "url": "/rows/invasive-breast-carcinoma.html"
+    "url": "/concepts/invasive-breast-carcinoma.html"
   },
   {
     "label": "Invasive Hydatidiform Mole",
     "id": "invasive-hydatidiform-mole",
-    "url": "/rows/invasive-hydatidiform-mole.html"
+    "url": "/concepts/invasive-hydatidiform-mole.html"
   },
   {
     "label": "Inverted Urothelial Papilloma",
     "id": "inverted-urothelial-papilloma",
-    "url": "/rows/inverted-urothelial-papilloma.html"
+    "url": "/concepts/inverted-urothelial-papilloma.html"
   },
   {
     "label": "Iranian National Cancer Institute",
     "id": "iran-ncc",
-    "url": "/rows/iran-ncc.html"
+    "url": "/concepts/iran-ncc.html"
   },
   {
     "label": "National Cancer Control Programme",
     "id": "ireland-nrg",
-    "url": "/rows/ireland-nrg.html"
+    "url": "/concepts/ireland-nrg.html"
   },
   {
     "label": "Irinotecan",
     "id": "irinotecan",
-    "url": "/rows/irinotecan.html"
+    "url": "/concepts/irinotecan.html"
   },
   {
     "label": "Ixabepilone",
     "id": "ixabepilone",
-    "url": "/rows/ixabepilone.html"
+    "url": "/concepts/ixabepilone.html"
   },
   {
     "label": "Johnson & Johnson",
     "id": "johnson-and-johnson",
-    "url": "/rows/johnson-and-johnson.html"
+    "url": "/concepts/johnson-and-johnson.html"
   },
   {
     "label": "Jonsson Comprehensive Cancer Center",
     "id": "jonsson-comprehensive-cancer-center",
-    "url": "/rows/jonsson-comprehensive-cancer-center.html"
+    "url": "/concepts/jonsson-comprehensive-cancer-center.html"
   },
   {
     "label": "King Hussein Cancer Center",
     "id": "jordan-ncc",
-    "url": "/rows/jordan-ncc.html"
+    "url": "/concepts/jordan-ncc.html"
   },
   {
     "label": "Journal of Clinical Oncology",
     "id": "journal-of-clinical-oncology",
-    "url": "/rows/journal-of-clinical-oncology.html"
+    "url": "/concepts/journal-of-clinical-oncology.html"
   },
   {
     "label": "Journal of the National Cancer Institute",
     "id": "journal-of-the-national-cancer-institute",
-    "url": "/rows/journal-of-the-national-cancer-institute.html"
+    "url": "/concepts/journal-of-the-national-cancer-institute.html"
   },
   {
     "label": "Juvenile Myelomonocytic Leukemia",
     "id": "juvenile-myelomonocytic-leukemia",
-    "url": "/rows/juvenile-myelomonocytic-leukemia.html"
+    "url": "/concepts/juvenile-myelomonocytic-leukemia.html"
   },
   {
     "label": "Juvenile Secretory Carcinoma of the Breast",
     "id": "juvenile-secretory-carcinoma-of-the-breast",
-    "url": "/rows/juvenile-secretory-carcinoma-of-the-breast.html"
+    "url": "/concepts/juvenile-secretory-carcinoma-of-the-breast.html"
   },
   {
     "label": "Karposi's Sarcoma",
     "id": "kaposi-sarcoma",
-    "url": "/rows/kaposi-sarcoma.html"
+    "url": "/concepts/kaposi-sarcoma.html"
   },
   {
     "label": "Institute of Oncology and Radiology of Kazakhstan",
     "id": "kazakhstan-ncc",
-    "url": "/rows/kazakhstan-ncc.html"
+    "url": "/concepts/kazakhstan-ncc.html"
   },
   {
     "label": "kcr",
     "id": "kcr-ug",
-    "url": "/rows/kcr-ug.html"
+    "url": "/concepts/kcr-ug.html"
   },
   {
     "label": "KECR",
     "id": "kecr-kn",
-    "url": "/rows/kecr-kn.html"
+    "url": "/concepts/kecr-kn.html"
   },
   {
     "label": "KEGG",
     "id": "kegg",
-    "url": "/rows/kegg.html"
+    "url": "/concepts/kegg.html"
   },
   {
     "label": "Kidney Cancer Subreddit",
     "id": "kidney-cancer-subreddit",
-    "url": "/rows/kidney-cancer-subreddit.html"
+    "url": "/concepts/kidney-cancer-subreddit.html"
   },
   {
     "label": "Kidney Cancer",
     "id": "kidney",
-    "url": "/rows/kidney.html"
+    "url": "/concepts/kidney.html"
   },
   {
     "label": "KNCR",
     "id": "kncr-kn",
-    "url": "/rows/kncr-kn.html"
+    "url": "/concepts/kncr-kn.html"
   },
   {
     "label": "Knight Cancer Institute",
     "id": "knight-cancer-institute",
-    "url": "/rows/knight-cancer-institute.html"
+    "url": "/concepts/knight-cancer-institute.html"
   },
   {
     "label": "Kom op tegen Kanker",
     "id": "kom-op-tegen-kanker",
-    "url": "/rows/kom-op-tegen-kanker.html"
+    "url": "/concepts/kom-op-tegen-kanker.html"
   },
   {
     "label": "KsCR",
     "id": "kscr-gh",
-    "url": "/rows/kscr-gh.html"
+    "url": "/concepts/kscr-gh.html"
   },
   {
     "label": "Langerhans Cell Histiocytosis",
     "id": "langerhans-cell-histiocytosis",
-    "url": "/rows/langerhans-cell-histiocytosis.html"
+    "url": "/concepts/langerhans-cell-histiocytosis.html"
   },
   {
     "label": "Langerhans Cell Sarcoma",
     "id": "langerhans-cell-sarcoma",
-    "url": "/rows/langerhans-cell-sarcoma.html"
+    "url": "/concepts/langerhans-cell-sarcoma.html"
   },
   {
     "label": "Large B-Cell Lymphoma with IRF4 Rearrangement",
     "id": "large-b-cell-lymphoma-with-irf4-rearrangement",
-    "url": "/rows/large-b-cell-lymphoma-with-irf4-rearrangement.html"
+    "url": "/concepts/large-b-cell-lymphoma-with-irf4-rearrangement.html"
   },
   {
     "label": "Large Cell/Anaplastic Medulloblastoma",
     "id": "large-cell-anaplastic-medulloblastoma",
-    "url": "/rows/large-cell-anaplastic-medulloblastoma.html"
+    "url": "/concepts/large-cell-anaplastic-medulloblastoma.html"
   },
   {
     "label": "Large Cell Lung Carcinoma With Rhabdoid Phenotype",
     "id": "large-cell-lung-carcinoma-with-rhabdoid-phenotype",
-    "url": "/rows/large-cell-lung-carcinoma-with-rhabdoid-phenotype.html"
+    "url": "/concepts/large-cell-lung-carcinoma-with-rhabdoid-phenotype.html"
   },
   {
     "label": "Large Cell Lung Carcinoma",
     "id": "large-cell-lung-carcinoma",
-    "url": "/rows/large-cell-lung-carcinoma.html"
+    "url": "/concepts/large-cell-lung-carcinoma.html"
   },
   {
     "label": "Large Cell Neuroendocrine Carcinoma",
     "id": "large-cell-neuroendocrine-carcinoma",
-    "url": "/rows/large-cell-neuroendocrine-carcinoma.html"
+    "url": "/concepts/large-cell-neuroendocrine-carcinoma.html"
   },
   {
     "label": "Larotaxel",
     "id": "larotaxel",
-    "url": "/rows/larotaxel.html"
+    "url": "/concepts/larotaxel.html"
   },
   {
     "label": "Laryngeal cancer",
     "id": "laryngeal-cancer",
-    "url": "/rows/laryngeal-cancer.html"
+    "url": "/concepts/laryngeal-cancer.html"
   },
   {
     "label": "Laryngectomy",
     "id": "laryngectomy",
-    "url": "/rows/laryngectomy.html"
+    "url": "/concepts/laryngectomy.html"
   },
   {
     "label": "Larynx Squamous Cell Carcinoma",
     "id": "larynx-squamous-cell-carcinoma",
-    "url": "/rows/larynx-squamous-cell-carcinoma.html"
+    "url": "/concepts/larynx-squamous-cell-carcinoma.html"
   },
   {
     "label": "Laura and Isaac Perlmutter Cancer Center at NYU Langone Health",
     "id": "laura-and-isaac-perlmutter-cancer-center-at-nyu-langone-health",
-    "url": "/rows/laura-and-isaac-perlmutter-cancer-center-at-nyu-langone-health.html"
+    "url": "/concepts/laura-and-isaac-perlmutter-cancer-center-at-nyu-langone-health.html"
   },
   {
     "label": "Leiomyoma",
     "id": "leiomyoma",
-    "url": "/rows/leiomyoma.html"
+    "url": "/concepts/leiomyoma.html"
   },
   {
     "label": "Leiomyosarcoma",
     "id": "leiomyosarcoma",
-    "url": "/rows/leiomyosarcoma.html"
+    "url": "/concepts/leiomyosarcoma.html"
   },
   {
     "label": "Lentigo Maligna Melanoma",
     "id": "lentigo-maligna-melanoma",
-    "url": "/rows/lentigo-maligna-melanoma.html"
+    "url": "/concepts/lentigo-maligna-melanoma.html"
   },
   {
     "label": "Lenvatinib",
     "id": "lenvatinib",
-    "url": "/rows/lenvatinib.html"
+    "url": "/concepts/lenvatinib.html"
   },
   {
     "label": "Leukapheresis",
     "id": "leukapheresis",
-    "url": "/rows/leukapheresis.html"
+    "url": "/concepts/leukapheresis.html"
   },
   {
     "label": "Leukemia & Lymphoma Society",
     "id": "leukemia-and-lymphoma-society",
-    "url": "/rows/leukemia-and-lymphoma-society.html"
+    "url": "/concepts/leukemia-and-lymphoma-society.html"
   },
   {
     "label": "Leukemia",
     "id": "leukemia",
-    "url": "/rows/leukemia.html"
+    "url": "/concepts/leukemia.html"
   },
   {
     "label": "Liposarcoma",
     "id": "liposarcoma",
-    "url": "/rows/liposarcoma.html"
+    "url": "/concepts/liposarcoma.html"
   },
   {
     "label": "National Cancer Institute",
     "id": "lithuania-ncc",
-    "url": "/rows/lithuania-ncc.html"
+    "url": "/concepts/lithuania-ncc.html"
   },
   {
     "label": "Liver Angiosarcoma",
     "id": "liver-angiosarcoma",
-    "url": "/rows/liver-angiosarcoma.html"
+    "url": "/concepts/liver-angiosarcoma.html"
   },
   {
     "label": "Liver transplant",
     "id": "liver-transplant",
-    "url": "/rows/liver-transplant.html"
+    "url": "/concepts/liver-transplant.html"
   },
   {
     "label": "Liver Cancer",
     "id": "liver",
-    "url": "/rows/liver.html"
+    "url": "/concepts/liver.html"
   },
   {
     "label": "Lomustine",
     "id": "lomustine",
-    "url": "/rows/lomustine.html"
+    "url": "/concepts/lomustine.html"
   },
   {
     "label": "LDCT",
     "id": "low-dose-spiral-computed-tomography",
-    "url": "/rows/low-dose-spiral-computed-tomography.html"
+    "url": "/concepts/low-dose-spiral-computed-tomography.html"
   },
   {
     "label": "Low-Grade Central Osteosarcoma",
     "id": "low-grade-central-osteosarcoma",
-    "url": "/rows/low-grade-central-osteosarcoma.html"
+    "url": "/concepts/low-grade-central-osteosarcoma.html"
   },
   {
     "label": "Low-Grade Endometrial Stromal Sarcoma",
     "id": "low-grade-endometrial-stromal-sarcoma",
-    "url": "/rows/low-grade-endometrial-stromal-sarcoma.html"
+    "url": "/concepts/low-grade-endometrial-stromal-sarcoma.html"
   },
   {
     "label": "Low-Grade Fibromyxoid Sarcoma",
     "id": "low-grade-fibromyxoid-sarcoma",
-    "url": "/rows/low-grade-fibromyxoid-sarcoma.html"
+    "url": "/concepts/low-grade-fibromyxoid-sarcoma.html"
   },
   {
     "label": "Low-Grade Glioma, NOS",
     "id": "low-grade-glioma-nos",
-    "url": "/rows/low-grade-glioma-nos.html"
+    "url": "/concepts/low-grade-glioma-nos.html"
   },
   {
     "label": "Low-Grade Neuroepithelial Tumor",
     "id": "low-grade-neuroepithelial-tumor",
-    "url": "/rows/low-grade-neuroepithelial-tumor.html"
+    "url": "/concepts/low-grade-neuroepithelial-tumor.html"
   },
   {
     "label": "Low-Grade Serous Ovarian Cancer",
     "id": "low-grade-serous-ovarian-cancer",
-    "url": "/rows/low-grade-serous-ovarian-cancer.html"
+    "url": "/concepts/low-grade-serous-ovarian-cancer.html"
   },
   {
     "label": "Lumpectomy",
     "id": "lumpectomy",
-    "url": "/rows/lumpectomy.html"
+    "url": "/concepts/lumpectomy.html"
   },
   {
     "label": "Lung Adenocarcinoma In Situ",
     "id": "lung-adenocarcinoma-in-situ",
-    "url": "/rows/lung-adenocarcinoma-in-situ.html"
+    "url": "/concepts/lung-adenocarcinoma-in-situ.html"
   },
   {
     "label": "Lung Adenocarcinoma",
     "id": "lung-adenocarcinoma",
-    "url": "/rows/lung-adenocarcinoma.html"
+    "url": "/concepts/lung-adenocarcinoma.html"
   },
   {
     "label": "Lung Adenosquamous Carcinoma",
     "id": "lung-adenosquamous-carcinoma",
-    "url": "/rows/lung-adenosquamous-carcinoma.html"
+    "url": "/concepts/lung-adenosquamous-carcinoma.html"
   },
   {
     "label": "Lung Cancer Subreddit",
     "id": "lung-cancer-subreddit",
-    "url": "/rows/lung-cancer-subreddit.html"
+    "url": "/concepts/lung-cancer-subreddit.html"
   },
   {
     "label": "Lung Carcinoid",
     "id": "lung-carcinoid",
-    "url": "/rows/lung-carcinoid.html"
+    "url": "/concepts/lung-carcinoid.html"
   },
   {
     "label": "Lung Neuroendocrine Tumor",
     "id": "lung-neuroendocrine-tumor",
-    "url": "/rows/lung-neuroendocrine-tumor.html"
+    "url": "/concepts/lung-neuroendocrine-tumor.html"
   },
   {
     "label": "Lung Squamous Cell Carcinoma",
     "id": "lung-squamous-cell-carcinoma",
-    "url": "/rows/lung-squamous-cell-carcinoma.html"
+    "url": "/concepts/lung-squamous-cell-carcinoma.html"
   },
   {
     "label": "Lung Cancer",
     "id": "lung",
-    "url": "/rows/lung.html"
+    "url": "/concepts/lung.html"
   },
   {
     "label": "Lymphedema Sleeve",
     "id": "lymphedema-sleeve",
-    "url": "/rows/lymphedema-sleeve.html"
+    "url": "/concepts/lymphedema-sleeve.html"
   },
   {
     "label": "Lymphocyte-Depleted Classical Hodgkin Lymphoma",
     "id": "lymphocyte-depleted-classical-hodgkin-lymphoma",
-    "url": "/rows/lymphocyte-depleted-classical-hodgkin-lymphoma.html"
+    "url": "/concepts/lymphocyte-depleted-classical-hodgkin-lymphoma.html"
   },
   {
     "label": "Lymphocyte-Rich Classical Hodgkin Lymphoma",
     "id": "lymphocyte-rich-classical-hodgkin-lymphoma",
-    "url": "/rows/lymphocyte-rich-classical-hodgkin-lymphoma.html"
+    "url": "/concepts/lymphocyte-rich-classical-hodgkin-lymphoma.html"
   },
   {
     "label": "Lymphoepithelioma-like Carcinoma of the Lung",
     "id": "lymphoepithelioma-like-carcinoma-of-the-lung",
-    "url": "/rows/lymphoepithelioma-like-carcinoma-of-the-lung.html"
+    "url": "/concepts/lymphoepithelioma-like-carcinoma-of-the-lung.html"
   },
   {
     "label": "Lymphoid Atypical",
     "id": "lymphoid-atypical",
-    "url": "/rows/lymphoid-atypical.html"
+    "url": "/concepts/lymphoid-atypical.html"
   },
   {
     "label": "Lymphoid Benign",
     "id": "lymphoid-benign",
-    "url": "/rows/lymphoid-benign.html"
+    "url": "/concepts/lymphoid-benign.html"
   },
   {
     "label": "Lymphoid Neoplasm",
     "id": "lymphoid-neoplasm",
-    "url": "/rows/lymphoid-neoplasm.html"
+    "url": "/concepts/lymphoid-neoplasm.html"
   },
   {
     "label": "Lymphoma Subreddit",
     "id": "lymphoma-subreddit",
-    "url": "/rows/lymphoma-subreddit.html"
+    "url": "/concepts/lymphoma-subreddit.html"
   },
   {
     "label": "Lymphoma",
     "id": "lymphoma",
-    "url": "/rows/lymphoma.html"
+    "url": "/concepts/lymphoma.html"
   },
   {
     "label": "Lymphomatoid Granulomatosis",
     "id": "lymphomatoid-granulomatosis",
-    "url": "/rows/lymphomatoid-granulomatosis.html"
+    "url": "/concepts/lymphomatoid-granulomatosis.html"
   },
   {
     "label": "Lymphomatoid Papulosis",
     "id": "lymphomatoid-papulosis",
-    "url": "/rows/lymphomatoid-papulosis.html"
+    "url": "/concepts/lymphomatoid-papulosis.html"
   },
   {
     "label": "Lymphoplasmacytic Lymphoma",
     "id": "lymphoplasmacytic-lymphoma",
-    "url": "/rows/lymphoplasmacytic-lymphoma.html"
+    "url": "/concepts/lymphoplasmacytic-lymphoma.html"
   },
   {
     "label": "Male Breast Cancer",
     "id": "male-breast-cancer",
-    "url": "/rows/male-breast-cancer.html"
+    "url": "/concepts/male-breast-cancer.html"
   },
   {
     "label": "Malignant Glomus Tumor",
     "id": "malignant-glomus-tumor",
-    "url": "/rows/malignant-glomus-tumor.html"
+    "url": "/concepts/malignant-glomus-tumor.html"
   },
   {
     "label": "Malignant Lymphoma",
     "id": "malignant-lymphoma",
-    "url": "/rows/malignant-lymphoma.html"
+    "url": "/concepts/malignant-lymphoma.html"
   },
   {
     "label": "Malignant Nonepithelial Tumor of the Liver",
     "id": "malignant-nonepithelial-tumor-of-the-liver",
-    "url": "/rows/malignant-nonepithelial-tumor-of-the-liver.html"
+    "url": "/concepts/malignant-nonepithelial-tumor-of-the-liver.html"
   },
   {
     "label": "Malignant Peripheral Nerve Sheath Tumor",
     "id": "malignant-peripheral-nerve-sheath-tumor",
-    "url": "/rows/malignant-peripheral-nerve-sheath-tumor.html"
+    "url": "/concepts/malignant-peripheral-nerve-sheath-tumor.html"
   },
   {
     "label": "Malignant Phyllodes Tumor of the Breast",
     "id": "malignant-phyllodes-tumor-of-the-breast",
-    "url": "/rows/malignant-phyllodes-tumor-of-the-breast.html"
+    "url": "/concepts/malignant-phyllodes-tumor-of-the-breast.html"
   },
   {
     "label": "Malignant Rhabdoid Tumor of the Liver",
     "id": "malignant-rhabdoid-tumor-of-the-liver",
-    "url": "/rows/malignant-rhabdoid-tumor-of-the-liver.html"
+    "url": "/concepts/malignant-rhabdoid-tumor-of-the-liver.html"
   },
   {
     "label": "Malignant Teratoma",
     "id": "malignant-teratoma",
-    "url": "/rows/malignant-teratoma.html"
+    "url": "/concepts/malignant-teratoma.html"
   },
   {
     "label": "Malignant Tumor",
     "id": "malignant-tumor",
-    "url": "/rows/malignant-tumor.html"
+    "url": "/concepts/malignant-tumor.html"
   },
   {
     "label": "Mammary Analogue Secretory Carcinoma of Salivary Gland Origin",
     "id": "mammary-analogue-secretory-carcinoma-of-salivary-gland-origin",
-    "url": "/rows/mammary-analogue-secretory-carcinoma-of-salivary-gland-origin.html"
+    "url": "/concepts/mammary-analogue-secretory-carcinoma-of-salivary-gland-origin.html"
   },
   {
     "label": "Mammogram",
     "id": "mammogram",
-    "url": "/rows/mammogram.html"
+    "url": "/concepts/mammogram.html"
   },
   {
     "label": "Mantle Cell Lymphoma",
     "id": "mantle-cell-lymphoma",
-    "url": "/rows/mantle-cell-lymphoma.html"
+    "url": "/concepts/mantle-cell-lymphoma.html"
   },
   {
     "label": "MarginProbe",
     "id": "margin-probe",
-    "url": "/rows/margin-probe.html"
+    "url": "/concepts/margin-probe.html"
   },
   {
     "label": "Marginal Zone Lymphoma",
     "id": "marginal-zone-lymphoma",
-    "url": "/rows/marginal-zone-lymphoma.html"
+    "url": "/concepts/marginal-zone-lymphoma.html"
   },
   {
     "label": "Marijuana",
     "id": "marijuana",
-    "url": "/rows/marijuana.html"
+    "url": "/concepts/marijuana.html"
   },
   {
     "label": "Markey Cancer Center",
     "id": "markey-cancer-center",
-    "url": "/rows/markey-cancer-center.html"
+    "url": "/concepts/markey-cancer-center.html"
   },
   {
     "label": "Masonic Cancer Center",
     "id": "masonic-cancer-center",
-    "url": "/rows/masonic-cancer-center.html"
+    "url": "/concepts/masonic-cancer-center.html"
   },
   {
     "label": "Massage",
     "id": "massage",
-    "url": "/rows/massage.html"
+    "url": "/concepts/massage.html"
   },
   {
     "label": "Massey Cancer Center",
     "id": "massey-cancer-center",
-    "url": "/rows/massey-cancer-center.html"
+    "url": "/concepts/massey-cancer-center.html"
   },
   {
     "label": "Massachusetts General Hospital",
     "id": "massgeneral",
-    "url": "/rows/massgeneral.html"
+    "url": "/concepts/massgeneral.html"
   },
   {
     "label": "Mast Cell Leukemia",
     "id": "mast-cell-leukemia",
-    "url": "/rows/mast-cell-leukemia.html"
+    "url": "/concepts/mast-cell-leukemia.html"
   },
   {
     "label": "Mast Cell Sarcoma",
     "id": "mast-cell-sarcoma",
-    "url": "/rows/mast-cell-sarcoma.html"
+    "url": "/concepts/mast-cell-sarcoma.html"
   },
   {
     "label": "Mastectomy",
     "id": "mastectomy",
-    "url": "/rows/mastectomy.html"
+    "url": "/concepts/mastectomy.html"
   },
   {
     "label": "Mastocytosis",
     "id": "mastocytosis",
-    "url": "/rows/mastocytosis.html"
+    "url": "/concepts/mastocytosis.html"
   },
   {
     "label": "Mature B-Cell Neoplasms",
     "id": "mature-b-cell-neoplasms",
-    "url": "/rows/mature-b-cell-neoplasms.html"
+    "url": "/concepts/mature-b-cell-neoplasms.html"
   },
   {
     "label": "Mature T and NK Neoplasms",
     "id": "mature-t-and-nk-neoplasms",
-    "url": "/rows/mature-t-and-nk-neoplasms.html"
+    "url": "/concepts/mature-t-and-nk-neoplasms.html"
   },
   {
     "label": "Mature Teratoma CNS/Brain",
     "id": "mature-teratoma-cns-brain",
-    "url": "/rows/mature-teratoma-cns-brain.html"
+    "url": "/concepts/mature-teratoma-cns-brain.html"
   },
   {
     "label": "Mature Teratoma Vulva/Vagina",
     "id": "mature-teratoma-vulva-vagina",
-    "url": "/rows/mature-teratoma-vulva-vagina.html"
+    "url": "/concepts/mature-teratoma-vulva-vagina.html"
   },
   {
     "label": "Mature Teratoma",
     "id": "mature-teratoma",
-    "url": "/rows/mature-teratoma.html"
+    "url": "/concepts/mature-teratoma.html"
   },
   {
     "label": "Mayo Clinic Jacksonville",
     "id": "mayo-clinic-jacksonville",
-    "url": "/rows/mayo-clinic-jacksonville.html"
+    "url": "/concepts/mayo-clinic-jacksonville.html"
   },
   {
     "label": "Mayo Clinic Phoenix",
     "id": "mayo-clinic-phoenix",
-    "url": "/rows/mayo-clinic-phoenix.html"
+    "url": "/concepts/mayo-clinic-phoenix.html"
   },
   {
     "label": "Mayo Clinic Rochester",
     "id": "mayo-clinic-rochester",
-    "url": "/rows/mayo-clinic-rochester.html"
+    "url": "/concepts/mayo-clinic-rochester.html"
   },
   {
     "label": "Mays Cancer Center at UT Health San Antonio",
     "id": "mays-cancer-center-at-ut-health-san-antonio",
-    "url": "/rows/mays-cancer-center-at-ut-health-san-antonio.html"
+    "url": "/concepts/mays-cancer-center-at-ut-health-san-antonio.html"
   },
   {
     "label": "mcr",
     "id": "mcr-tz",
-    "url": "/rows/mcr-tz.html"
+    "url": "/concepts/mcr-tz.html"
   },
   {
     "label": "The University of Texas MD Anderson Cancer Center",
     "id": "mdanderson",
-    "url": "/rows/mdanderson.html"
+    "url": "/concepts/mdanderson.html"
   },
   {
     "label": "MDS/MPN, Unclassifiable",
     "id": "mds-mpn-unclassifiable",
-    "url": "/rows/mds-mpn-unclassifiable.html"
+    "url": "/concepts/mds-mpn-unclassifiable.html"
   },
   {
     "label": "MDS/MPN with Ring Sideroblasts and Thrombocytosis",
     "id": "mds-mpn-with-ring-sideroblasts-and-thrombocytosis",
-    "url": "/rows/mds-mpn-with-ring-sideroblasts-and-thrombocytosis.html"
+    "url": "/concepts/mds-mpn-with-ring-sideroblasts-and-thrombocytosis.html"
   },
   {
     "label": "MDS, Unclassifiable",
     "id": "mds-unclassifiable",
-    "url": "/rows/mds-unclassifiable.html"
+    "url": "/concepts/mds-unclassifiable.html"
   },
   {
     "label": "MDS with excess blasts-1",
     "id": "mds-with-excess-blasts-1",
-    "url": "/rows/mds-with-excess-blasts-1.html"
+    "url": "/concepts/mds-with-excess-blasts-1.html"
   },
   {
     "label": "MDS with excess blasts-2",
     "id": "mds-with-excess-blasts-2",
-    "url": "/rows/mds-with-excess-blasts-2.html"
+    "url": "/concepts/mds-with-excess-blasts-2.html"
   },
   {
     "label": "MDS with Excess Blasts",
     "id": "mds-with-excess-blasts",
-    "url": "/rows/mds-with-excess-blasts.html"
+    "url": "/concepts/mds-with-excess-blasts.html"
   },
   {
     "label": "MDS with Isolated Del(5q)",
     "id": "mds-with-isolated-del5q",
-    "url": "/rows/mds-with-isolated-del5q.html"
+    "url": "/concepts/mds-with-isolated-del5q.html"
   },
   {
     "label": "MDS with Multilineage Dysplasia",
     "id": "mds-with-multilineage-dysplasia",
-    "url": "/rows/mds-with-multilineage-dysplasia.html"
+    "url": "/concepts/mds-with-multilineage-dysplasia.html"
   },
   {
     "label": "MDS with Ring Sideroblasts and Multilineage Dysplasia",
     "id": "mds-with-ring-sideroblasts-and-multilineage-dysplasia",
-    "url": "/rows/mds-with-ring-sideroblasts-and-multilineage-dysplasia.html"
+    "url": "/concepts/mds-with-ring-sideroblasts-and-multilineage-dysplasia.html"
   },
   {
     "label": "MDS with Ring Sideroblasts and Single Lineage Dysplasia",
     "id": "mds-with-ring-sideroblasts-and-single-lineage-dysplasia",
-    "url": "/rows/mds-with-ring-sideroblasts-and-single-lineage-dysplasia.html"
+    "url": "/concepts/mds-with-ring-sideroblasts-and-single-lineage-dysplasia.html"
   },
   {
     "label": "MDS with Ring Sideroblasts",
     "id": "mds-with-ring-sideroblasts",
-    "url": "/rows/mds-with-ring-sideroblasts.html"
+    "url": "/concepts/mds-with-ring-sideroblasts.html"
   },
   {
     "label": "MDS with Single Lineage Dysplasia",
     "id": "mds-with-single-lineage-dysplasia",
-    "url": "/rows/mds-with-single-lineage-dysplasia.html"
+    "url": "/concepts/mds-with-single-lineage-dysplasia.html"
   },
   {
     "label": "Mediastinoscopy",
     "id": "mediastinoscopy",
-    "url": "/rows/mediastinoscopy.html"
+    "url": "/concepts/mediastinoscopy.html"
   },
   {
     "label": "Meditation",
     "id": "meditation",
-    "url": "/rows/meditation.html"
+    "url": "/concepts/meditation.html"
   },
   {
     "label": "MEDLARS",
     "id": "medlars",
-    "url": "/rows/medlars.html"
+    "url": "/concepts/medlars.html"
   },
   {
     "label": "MEDLINE",
     "id": "medline",
-    "url": "/rows/medline.html"
+    "url": "/concepts/medline.html"
   },
   {
     "label": "MedlinePlus",
     "id": "medlineplus",
-    "url": "/rows/medlineplus.html"
+    "url": "/concepts/medlineplus.html"
   },
   {
     "label": "Medullary Carcinoma of the Colon",
     "id": "medullary-carcinoma-of-the-colon",
-    "url": "/rows/medullary-carcinoma-of-the-colon.html"
+    "url": "/concepts/medullary-carcinoma-of-the-colon.html"
   },
   {
     "label": "Medullary Thyroid Cancer",
     "id": "medullary-thyroid-cancer",
-    "url": "/rows/medullary-thyroid-cancer.html"
+    "url": "/concepts/medullary-thyroid-cancer.html"
   },
   {
     "label": "Medulloblastoma with Extensive Nodularity",
     "id": "medulloblastoma-with-extensive-nodularity",
-    "url": "/rows/medulloblastoma-with-extensive-nodularity.html"
+    "url": "/concepts/medulloblastoma-with-extensive-nodularity.html"
   },
   {
     "label": "Medulloblastoma",
     "id": "medulloblastoma",
-    "url": "/rows/medulloblastoma.html"
+    "url": "/concepts/medulloblastoma.html"
   },
   {
     "label": "Medulloepithelioma",
     "id": "medulloepithelioma",
-    "url": "/rows/medulloepithelioma.html"
+    "url": "/concepts/medulloepithelioma.html"
   },
   {
     "label": "Medullomyoblastoma",
     "id": "medullomyoblastoma",
-    "url": "/rows/medullomyoblastoma.html"
+    "url": "/concepts/medullomyoblastoma.html"
   },
   {
     "label": "Melanocytoma",
     "id": "melanocytoma",
-    "url": "/rows/melanocytoma.html"
+    "url": "/concepts/melanocytoma.html"
   },
   {
     "label": "Melanoma of Unknown Primary",
     "id": "melanoma-of-unknown-primary",
-    "url": "/rows/melanoma-of-unknown-primary.html"
+    "url": "/concepts/melanoma-of-unknown-primary.html"
   },
   {
     "label": "Melanoma",
     "id": "melanoma",
-    "url": "/rows/melanoma.html"
+    "url": "/concepts/melanoma.html"
   },
   {
     "label": "Melanotic Medulloblastoma",
     "id": "melanotic-medulloblastoma",
-    "url": "/rows/melanotic-medulloblastoma.html"
+    "url": "/concepts/melanotic-medulloblastoma.html"
   },
   {
     "label": "Melanotic Schwannoma",
     "id": "melanotic-schwannoma",
-    "url": "/rows/melanotic-schwannoma.html"
+    "url": "/concepts/melanotic-schwannoma.html"
   },
   {
     "label": "Melphalan flufenamide",
     "id": "melphalan-flufenamide",
-    "url": "/rows/melphalan-flufenamide.html"
+    "url": "/concepts/melphalan-flufenamide.html"
   },
   {
     "label": "Melphalan",
     "id": "melphalan",
-    "url": "/rows/melphalan.html"
+    "url": "/concepts/melphalan.html"
   },
   {
     "label": "Memorial Sloan-Kettering Cancer Center",
     "id": "memorial-sloan-kettering-cancer-center",
-    "url": "/rows/memorial-sloan-kettering-cancer-center.html"
+    "url": "/concepts/memorial-sloan-kettering-cancer-center.html"
   },
   {
     "label": "Meningioma",
     "id": "meningioma",
-    "url": "/rows/meningioma.html"
+    "url": "/concepts/meningioma.html"
   },
   {
     "label": "Meningothelial Tumor",
     "id": "meningothelial-tumor",
-    "url": "/rows/meningothelial-tumor.html"
+    "url": "/concepts/meningothelial-tumor.html"
   },
   {
     "label": "Mercaptopurine",
     "id": "mercaptopurine",
-    "url": "/rows/mercaptopurine.html"
+    "url": "/concepts/mercaptopurine.html"
   },
   {
     "label": "Merck & Co.",
     "id": "merck-and-co",
-    "url": "/rows/merck-and-co.html"
+    "url": "/concepts/merck-and-co.html"
   },
   {
     "label": "Merck Group",
     "id": "merck-group",
-    "url": "/rows/merck-group.html"
+    "url": "/concepts/merck-group.html"
   },
   {
     "label": "Merkel Cell Carcinoma",
     "id": "merkel-cell-carcinoma",
-    "url": "/rows/merkel-cell-carcinoma.html"
+    "url": "/concepts/merkel-cell-carcinoma.html"
   },
   {
     "label": "Mesenchymal Chondrosarcoma of the CNS",
     "id": "mesenchymal-chondrosarcoma-of-the-cns",
-    "url": "/rows/mesenchymal-chondrosarcoma-of-the-cns.html"
+    "url": "/concepts/mesenchymal-chondrosarcoma-of-the-cns.html"
   },
   {
     "label": "Mesenchymal Chondrosarcoma",
     "id": "mesenchymal-chondrosarcoma",
-    "url": "/rows/mesenchymal-chondrosarcoma.html"
+    "url": "/concepts/mesenchymal-chondrosarcoma.html"
   },
   {
     "label": "Mesonephric Carcinoma",
     "id": "mesonephric-carcinoma",
-    "url": "/rows/mesonephric-carcinoma.html"
+    "url": "/concepts/mesonephric-carcinoma.html"
   },
   {
     "label": "Mesothelioma",
     "id": "mesothelioma",
-    "url": "/rows/mesothelioma.html"
+    "url": "/concepts/mesothelioma.html"
   },
   {
     "label": "Metaplastic Adenocarcinoma with Spindle Cell Differentiation",
     "id": "metaplastic-adenocarcinoma-with-spindle-cell-differentiation",
-    "url": "/rows/metaplastic-adenocarcinoma-with-spindle-cell-differentiation.html"
+    "url": "/concepts/metaplastic-adenocarcinoma-with-spindle-cell-differentiation.html"
   },
   {
     "label": "Metaplastic Adenosquamous Carcinoma",
     "id": "metaplastic-adenosquamous-carcinoma",
-    "url": "/rows/metaplastic-adenosquamous-carcinoma.html"
+    "url": "/concepts/metaplastic-adenosquamous-carcinoma.html"
   },
   {
     "label": "Metaplastic Breast Cancer",
     "id": "metaplastic-breast-cancer",
-    "url": "/rows/metaplastic-breast-cancer.html"
+    "url": "/concepts/metaplastic-breast-cancer.html"
   },
   {
     "label": "Metaplastic Carcinosarcoma",
     "id": "metaplastic-carcinosarcoma",
-    "url": "/rows/metaplastic-carcinosarcoma.html"
+    "url": "/concepts/metaplastic-carcinosarcoma.html"
   },
   {
     "label": "Metaplastic Squamous Cell Carcinoma",
     "id": "metaplastic-squamous-cell-carcinoma",
-    "url": "/rows/metaplastic-squamous-cell-carcinoma.html"
+    "url": "/concepts/metaplastic-squamous-cell-carcinoma.html"
   },
   {
     "label": "Methotrexate",
     "id": "methotrexate",
-    "url": "/rows/methotrexate.html"
+    "url": "/concepts/methotrexate.html"
   },
   {
     "label": "Miaderm Creme",
     "id": "miaderm-cream",
-    "url": "/rows/miaderm-cream.html"
+    "url": "/concepts/miaderm-cream.html"
   },
   {
     "label": "Microcystic Adnexal Carcinoma",
     "id": "microcystic-adnexal-carcinoma",
-    "url": "/rows/microcystic-adnexal-carcinoma.html"
+    "url": "/concepts/microcystic-adnexal-carcinoma.html"
   },
   {
     "label": "Confocal Microscope",
     "id": "microscope-confocal",
-    "url": "/rows/microscope-confocal.html"
+    "url": "/concepts/microscope-confocal.html"
   },
   {
     "label": "Darkfield Microscope",
     "id": "microscope-darkfield",
-    "url": "/rows/microscope-darkfield.html"
+    "url": "/concepts/microscope-darkfield.html"
   },
   {
     "label": "Electron Microscope",
     "id": "microscope-electron",
-    "url": "/rows/microscope-electron.html"
+    "url": "/concepts/microscope-electron.html"
   },
   {
     "label": "Flourescence Microscope",
     "id": "microscope-flourescence",
-    "url": "/rows/microscope-flourescence.html"
+    "url": "/concepts/microscope-flourescence.html"
   },
   {
     "label": "Inverted Microscope",
     "id": "microscope-inverted",
-    "url": "/rows/microscope-inverted.html"
+    "url": "/concepts/microscope-inverted.html"
   },
   {
     "label": "Optical Microscope",
     "id": "microscope-optical",
-    "url": "/rows/microscope-optical.html"
+    "url": "/concepts/microscope-optical.html"
   },
   {
     "label": "Phase Contrast Microscope",
     "id": "microscope-phasecontrast",
-    "url": "/rows/microscope-phasecontrast.html"
+    "url": "/concepts/microscope-phasecontrast.html"
   },
   {
     "label": "Polarizing Microscope",
     "id": "microscope-polarizing",
-    "url": "/rows/microscope-polarizing.html"
+    "url": "/concepts/microscope-polarizing.html"
   },
   {
     "label": "Scanning Probe Microscope",
     "id": "microscope-scanningprobe",
-    "url": "/rows/microscope-scanningprobe.html"
+    "url": "/concepts/microscope-scanningprobe.html"
   },
   {
     "label": "Stereo Microscope",
     "id": "microscope-stereo",
-    "url": "/rows/microscope-stereo.html"
+    "url": "/concepts/microscope-stereo.html"
   },
   {
     "label": "Ultraviolet Microscope",
     "id": "microscope-ultraviolet",
-    "url": "/rows/microscope-ultraviolet.html"
+    "url": "/concepts/microscope-ultraviolet.html"
   },
   {
     "label": "Microwave ablation",
     "id": "microwave-ablation",
-    "url": "/rows/microwave-ablation.html"
+    "url": "/concepts/microwave-ablation.html"
   },
   {
     "label": "Miscellaneous Brain Tumor",
     "id": "miscellaneous-brain-tumor",
-    "url": "/rows/miscellaneous-brain-tumor.html"
+    "url": "/concepts/miscellaneous-brain-tumor.html"
   },
   {
     "label": "Miscellaneous Neuroepithelial Tumor",
     "id": "miscellaneous-neuroepithelial-tumor",
-    "url": "/rows/miscellaneous-neuroepithelial-tumor.html"
+    "url": "/concepts/miscellaneous-neuroepithelial-tumor.html"
   },
   {
     "label": "Mitobronitol",
     "id": "mitobronitol",
-    "url": "/rows/mitobronitol.html"
+    "url": "/concepts/mitobronitol.html"
   },
   {
     "label": "Mitomycin",
     "id": "mitomycin",
-    "url": "/rows/mitomycin.html"
+    "url": "/concepts/mitomycin.html"
   },
   {
     "label": "Mitoxantrone",
     "id": "mitoxantrone",
-    "url": "/rows/mitoxantrone.html"
+    "url": "/concepts/mitoxantrone.html"
   },
   {
     "label": "Mixed Ampullary Carcinoma",
     "id": "mixed-ampullary-carcinoma",
-    "url": "/rows/mixed-ampullary-carcinoma.html"
+    "url": "/concepts/mixed-ampullary-carcinoma.html"
   },
   {
     "label": "Mixed Cancer Types",
     "id": "mixed-cancer-types",
-    "url": "/rows/mixed-cancer-types.html"
+    "url": "/concepts/mixed-cancer-types.html"
   },
   {
     "label": "Mixed Cellularity Classical Hodgkin Lymphoma",
     "id": "mixed-cellularity-classical-hodgkin-lymphoma",
-    "url": "/rows/mixed-cellularity-classical-hodgkin-lymphoma.html"
+    "url": "/concepts/mixed-cellularity-classical-hodgkin-lymphoma.html"
   },
   {
     "label": "Mixed Cervical Carcinoma",
     "id": "mixed-cervical-carcinoma",
-    "url": "/rows/mixed-cervical-carcinoma.html"
+    "url": "/concepts/mixed-cervical-carcinoma.html"
   },
   {
     "label": "Mixed Germ Cell Tumor CNS/Brain",
     "id": "mixed-germ-cell-tumor-cns-brain",
-    "url": "/rows/mixed-germ-cell-tumor-cns-brain.html"
+    "url": "/concepts/mixed-germ-cell-tumor-cns-brain.html"
   },
   {
     "label": "Mixed Germ Cell Tumor Testis",
     "id": "mixed-germ-cell-tumor-testis",
-    "url": "/rows/mixed-germ-cell-tumor-testis.html"
+    "url": "/concepts/mixed-germ-cell-tumor-testis.html"
   },
   {
     "label": "Mixed Germ Cell Tumor Vulva/Vagina",
     "id": "mixed-germ-cell-tumor-vulva-vagina",
-    "url": "/rows/mixed-germ-cell-tumor-vulva-vagina.html"
+    "url": "/concepts/mixed-germ-cell-tumor-vulva-vagina.html"
   },
   {
     "label": "Mixed Germ Cell Tumor",
     "id": "mixed-germ-cell-tumor",
-    "url": "/rows/mixed-germ-cell-tumor.html"
+    "url": "/concepts/mixed-germ-cell-tumor.html"
   },
   {
     "label": "Mixed Ovarian Carcinoma",
     "id": "mixed-ovarian-carcinoma",
-    "url": "/rows/mixed-ovarian-carcinoma.html"
+    "url": "/concepts/mixed-ovarian-carcinoma.html"
   },
   {
     "label": "Mixed Phenotype Acute Leukemia, B/Myeloid, NOS",
     "id": "mixed-phenotype-acute-leukemia-b-myeloid-nos",
-    "url": "/rows/mixed-phenotype-acute-leukemia-b-myeloid-nos.html"
+    "url": "/concepts/mixed-phenotype-acute-leukemia-b-myeloid-nos.html"
   },
   {
     "label": "Mixed Phenotype Acute Leukemia, T/Myeloid, NOS",
     "id": "mixed-phenotype-acute-leukemia-t-myeloid-nos",
-    "url": "/rows/mixed-phenotype-acute-leukemia-t-myeloid-nos.html"
+    "url": "/concepts/mixed-phenotype-acute-leukemia-t-myeloid-nos.html"
   },
   {
     "label": "Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1",
     "id": "mixed-phenotype-acute-leukemia-with-t922q34.1q11.2-bcr-abl1",
-    "url": "/rows/mixed-phenotype-acute-leukemia-with-t922q34.1q11.2-bcr-abl1.html"
+    "url": "/concepts/mixed-phenotype-acute-leukemia-with-t922q34.1q11.2-bcr-abl1.html"
   },
   {
     "label": "Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged",
     "id": "mixed-phenotype-acute-leukemia-with-tv11q23.3-kmt2a-rearranged",
-    "url": "/rows/mixed-phenotype-acute-leukemia-with-tv11q23.3-kmt2a-rearranged.html"
+    "url": "/concepts/mixed-phenotype-acute-leukemia-with-tv11q23.3-kmt2a-rearranged.html"
   },
   {
     "label": "Mixed Type Metaplastic Breast Cancer",
     "id": "mixed-type-metaplastic-breast-cancer",
-    "url": "/rows/mixed-type-metaplastic-breast-cancer.html"
+    "url": "/concepts/mixed-type-metaplastic-breast-cancer.html"
   },
   {
     "label": "MMCR",
     "id": "mmcr-mo",
-    "url": "/rows/mmcr-mo.html"
+    "url": "/concepts/mmcr-mo.html"
   },
   {
     "label": "MNCR",
     "id": "mncr-ma",
-    "url": "/rows/mncr-ma.html"
+    "url": "/concepts/mncr-ma.html"
   },
   {
     "label": "Moderna",
     "id": "moderna",
-    "url": "/rows/moderna.html"
+    "url": "/concepts/moderna.html"
   },
   {
     "label": "Moffitt Cancer Center",
     "id": "moffitt-cancer-center",
-    "url": "/rows/moffitt-cancer-center.html"
+    "url": "/concepts/moffitt-cancer-center.html"
   },
   {
     "label": "Molar Pregnancy",
     "id": "molar-pregnancy",
-    "url": "/rows/molar-pregnancy.html"
+    "url": "/concepts/molar-pregnancy.html"
   },
   {
     "label": "Monoclonal B-Cell Lymphocytosis",
     "id": "monoclonal-b-cell-lymphocytosis",
-    "url": "/rows/monoclonal-b-cell-lymphocytosis.html"
+    "url": "/concepts/monoclonal-b-cell-lymphocytosis.html"
   },
   {
     "label": "Monoclonal Gammopathy of Undetermined Significance",
     "id": "monoclonal-gammopathy-of-undetermined-significance",
-    "url": "/rows/monoclonal-gammopathy-of-undetermined-significance.html"
+    "url": "/concepts/monoclonal-gammopathy-of-undetermined-significance.html"
   },
   {
     "label": "Monoclonal Immunoglobulin Deposition Diseases, Other",
     "id": "monoclonal-immunoglobulin-deposition-diseases-other",
-    "url": "/rows/monoclonal-immunoglobulin-deposition-diseases-other.html"
+    "url": "/concepts/monoclonal-immunoglobulin-deposition-diseases-other.html"
   },
   {
     "label": "Monoclonal Immunoglobulin Deposition Diseases",
     "id": "monoclonal-immunoglobulin-deposition-diseases",
-    "url": "/rows/monoclonal-immunoglobulin-deposition-diseases.html"
+    "url": "/concepts/monoclonal-immunoglobulin-deposition-diseases.html"
   },
   {
     "label": "Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma",
     "id": "monomorphic-epitheliotropic-intestinal-t-cell-lymphoma",
-    "url": "/rows/monomorphic-epitheliotropic-intestinal-t-cell-lymphoma.html"
+    "url": "/concepts/monomorphic-epitheliotropic-intestinal-t-cell-lymphoma.html"
   },
   {
     "label": "Monomorphic PTLD (B- and T-/NK-cell types)",
     "id": "monomorphic-ptld-b--and-t--nk-cell-types",
-    "url": "/rows/monomorphic-ptld-b--and-t--nk-cell-types.html"
+    "url": "/concepts/monomorphic-ptld-b--and-t--nk-cell-types.html"
   },
   {
     "label": "Montefiore Einstein Cancer Center",
     "id": "montefiore-einstein-cancer-center",
-    "url": "/rows/montefiore-einstein-cancer-center.html"
+    "url": "/concepts/montefiore-einstein-cancer-center.html"
   },
   {
     "label": "Moores Comprehensive Cancer Center",
     "id": "moores-comprehensive-cancer-center",
-    "url": "/rows/moores-comprehensive-cancer-center.html"
+    "url": "/concepts/moores-comprehensive-cancer-center.html"
   },
   {
     "label": "The Melanoma Risk Assessment Tool",
     "id": "mrisktool",
-    "url": "/rows/mrisktool.html"
+    "url": "/concepts/mrisktool.html"
   },
   {
     "label": "MT-sDNA",
     "id": "mt-sdna",
-    "url": "/rows/mt-sdna.html"
+    "url": "/concepts/mt-sdna.html"
   },
   {
     "label": "Mu Heavy-Chain Disease",
     "id": "mu-heavy-chain-disease",
-    "url": "/rows/mu-heavy-chain-disease.html"
+    "url": "/concepts/mu-heavy-chain-disease.html"
   },
   {
     "label": "Mucinous Adenocarcinoma of the Appendix",
     "id": "mucinous-adenocarcinoma-of-the-appendix",
-    "url": "/rows/mucinous-adenocarcinoma-of-the-appendix.html"
+    "url": "/concepts/mucinous-adenocarcinoma-of-the-appendix.html"
   },
   {
     "label": "Mucinous Adenocarcinoma of the Colon and Rectum",
     "id": "mucinous-adenocarcinoma-of-the-colon-and-rectum",
-    "url": "/rows/mucinous-adenocarcinoma-of-the-colon-and-rectum.html"
+    "url": "/concepts/mucinous-adenocarcinoma-of-the-colon-and-rectum.html"
   },
   {
     "label": "Mucinous Adenocarcinoma of the Vulva/Vagina",
     "id": "mucinous-adenocarcinoma-of-the-vulva-vagina",
-    "url": "/rows/mucinous-adenocarcinoma-of-the-vulva-vagina.html"
+    "url": "/concepts/mucinous-adenocarcinoma-of-the-vulva-vagina.html"
   },
   {
     "label": "Mucinous Borderline Ovarian Tumor",
     "id": "mucinous-borderline-ovarian-tumor",
-    "url": "/rows/mucinous-borderline-ovarian-tumor.html"
+    "url": "/concepts/mucinous-borderline-ovarian-tumor.html"
   },
   {
     "label": "Mucinous Carcinoma",
     "id": "mucinous-carcinoma",
-    "url": "/rows/mucinous-carcinoma.html"
+    "url": "/concepts/mucinous-carcinoma.html"
   },
   {
     "label": "Mucinous Cystic Neoplasm",
     "id": "mucinous-cystic-neoplasm",
-    "url": "/rows/mucinous-cystic-neoplasm.html"
+    "url": "/concepts/mucinous-cystic-neoplasm.html"
   },
   {
     "label": "Mucinous Ovarian Cancer",
     "id": "mucinous-ovarian-cancer",
-    "url": "/rows/mucinous-ovarian-cancer.html"
+    "url": "/concepts/mucinous-ovarian-cancer.html"
   },
   {
     "label": "Mucinous Stomach Adenocarcinoma",
     "id": "mucinous-stomach-adenocarcinoma",
-    "url": "/rows/mucinous-stomach-adenocarcinoma.html"
+    "url": "/concepts/mucinous-stomach-adenocarcinoma.html"
   },
   {
     "label": "Mucoepidermoid Carcinoma of the Lung",
     "id": "mucoepidermoid-carcinoma-of-the-lung",
-    "url": "/rows/mucoepidermoid-carcinoma-of-the-lung.html"
+    "url": "/concepts/mucoepidermoid-carcinoma-of-the-lung.html"
   },
   {
     "label": "Mucoepidermoid Carcinoma",
     "id": "mucoepidermoid-carcinoma",
-    "url": "/rows/mucoepidermoid-carcinoma.html"
+    "url": "/concepts/mucoepidermoid-carcinoma.html"
   },
   {
     "label": "Mucosal Melanoma of the Esophagus",
     "id": "mucosal-melanoma-of-the-esophagus",
-    "url": "/rows/mucosal-melanoma-of-the-esophagus.html"
+    "url": "/concepts/mucosal-melanoma-of-the-esophagus.html"
   },
   {
     "label": "Mucosal Melanoma of the Urethra",
     "id": "mucosal-melanoma-of-the-urethra",
-    "url": "/rows/mucosal-melanoma-of-the-urethra.html"
+    "url": "/concepts/mucosal-melanoma-of-the-urethra.html"
   },
   {
     "label": "Mucosal Melanoma of the Vulva/Vagina",
     "id": "mucosal-melanoma-of-the-vulva-vagina",
-    "url": "/rows/mucosal-melanoma-of-the-vulva-vagina.html"
+    "url": "/concepts/mucosal-melanoma-of-the-vulva-vagina.html"
   },
   {
     "label": "Multiple Myeloma",
     "id": "multiple-myeloma",
-    "url": "/rows/multiple-myeloma.html"
+    "url": "/concepts/multiple-myeloma.html"
   },
   {
     "label": "Multiplemyeloma Subreddit",
     "id": "multiplemyeloma-subreddit",
-    "url": "/rows/multiplemyeloma-subreddit.html"
+    "url": "/concepts/multiplemyeloma-subreddit.html"
   },
   {
     "label": "Music therapy",
     "id": "music-therapy",
-    "url": "/rows/music-therapy.html"
+    "url": "/concepts/music-therapy.html"
   },
   {
     "label": "My CancerIQ: Cancer Risk Assessment",
     "id": "mycanceriq",
-    "url": "/rows/mycanceriq.html"
+    "url": "/concepts/mycanceriq.html"
   },
   {
     "label": "MyChart",
     "id": "mychart",
-    "url": "/rows/mychart.html"
+    "url": "/concepts/mychart.html"
   },
   {
     "label": "Mycosis Fungoides",
     "id": "mycosis-fungoides",
-    "url": "/rows/mycosis-fungoides.html"
+    "url": "/concepts/mycosis-fungoides.html"
   },
   {
     "label": "Myelodysplastic/Myeloproliferative Neoplasms",
     "id": "myelodysplastic-myeloproliferative-neoplasms",
-    "url": "/rows/myelodysplastic-myeloproliferative-neoplasms.html"
+    "url": "/concepts/myelodysplastic-myeloproliferative-neoplasms.html"
   },
   {
     "label": "Myelodysplastic Syndromes",
     "id": "myelodysplastic-syndromes",
-    "url": "/rows/myelodysplastic-syndromes.html"
+    "url": "/concepts/myelodysplastic-syndromes.html"
   },
   {
     "label": "Myeloid Atypical",
     "id": "myeloid-atypical",
-    "url": "/rows/myeloid-atypical.html"
+    "url": "/concepts/myeloid-atypical.html"
   },
   {
     "label": "Myeloid Benign",
     "id": "myeloid-benign",
-    "url": "/rows/myeloid-benign.html"
+    "url": "/concepts/myeloid-benign.html"
   },
   {
     "label": "Myeloid Leukemia Associated with Down Syndrome",
     "id": "myeloid-leukemia-associated-with-down-syndrome",
-    "url": "/rows/myeloid-leukemia-associated-with-down-syndrome.html"
+    "url": "/concepts/myeloid-leukemia-associated-with-down-syndrome.html"
   },
   {
     "label": "Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2",
     "id": "myeloid-lymphoid-neoplasms-with-eosinophilia-and-rearrangement-of-pdgfra-pdgfrb-or-fgfr1-or-with-pcm1-jak2",
-    "url": "/rows/myeloid-lymphoid-neoplasms-with-eosinophilia-and-rearrangement-of-pdgfra-pdgfrb-or-fgfr1-or-with-pcm1-jak2.html"
+    "url": "/concepts/myeloid-lymphoid-neoplasms-with-eosinophilia-and-rearrangement-of-pdgfra-pdgfrb-or-fgfr1-or-with-pcm1-jak2.html"
   },
   {
     "label": "Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement",
     "id": "myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement",
-    "url": "/rows/myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement.html"
+    "url": "/concepts/myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement.html"
   },
   {
     "label": "Myeloid/Lymphoid Neoplasms with PCM1-JAK2",
     "id": "myeloid-lymphoid-neoplasms-with-pcm1-jak2",
-    "url": "/rows/myeloid-lymphoid-neoplasms-with-pcm1-jak2.html"
+    "url": "/concepts/myeloid-lymphoid-neoplasms-with-pcm1-jak2.html"
   },
   {
     "label": "Myeloid/Lymphoid Neoplasms with PDGFRA Rearrangement",
     "id": "myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement",
-    "url": "/rows/myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement.html"
+    "url": "/concepts/myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement.html"
   },
   {
     "label": "Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement",
     "id": "myeloid-lymphoid-neoplasms-with-pdgfrb-rearrangement",
-    "url": "/rows/myeloid-lymphoid-neoplasms-with-pdgfrb-rearrangement.html"
+    "url": "/concepts/myeloid-lymphoid-neoplasms-with-pdgfrb-rearrangement.html"
   },
   {
     "label": "Myeloid Neoplasm",
     "id": "myeloid-neoplasm",
-    "url": "/rows/myeloid-neoplasm.html"
+    "url": "/concepts/myeloid-neoplasm.html"
   },
   {
     "label": "Myeloid Neoplasms with Germ Line Predisposition",
     "id": "myeloid-neoplasms-with-germ-line-predisposition",
-    "url": "/rows/myeloid-neoplasms-with-germ-line-predisposition.html"
+    "url": "/concepts/myeloid-neoplasms-with-germ-line-predisposition.html"
   },
   {
     "label": "Myeloid Proliferations Related to Down Syndrome",
     "id": "myeloid-proliferations-related-to-down-syndrome",
-    "url": "/rows/myeloid-proliferations-related-to-down-syndrome.html"
+    "url": "/concepts/myeloid-proliferations-related-to-down-syndrome.html"
   },
   {
     "label": "Myeloid Sarcoma",
     "id": "myeloid-sarcoma",
-    "url": "/rows/myeloid-sarcoma.html"
+    "url": "/concepts/myeloid-sarcoma.html"
   },
   {
     "label": "Myeloid",
     "id": "myeloid",
-    "url": "/rows/myeloid.html"
+    "url": "/concepts/myeloid.html"
   },
   {
     "label": "Myeloproliferative Neoplasms, Unclassifiable",
     "id": "myeloproliferative-neoplasms-unclassifiable",
-    "url": "/rows/myeloproliferative-neoplasms-unclassifiable.html"
+    "url": "/concepts/myeloproliferative-neoplasms-unclassifiable.html"
   },
   {
     "label": "Myeloproliferative Neoplasms",
     "id": "myeloproliferative-neoplasms",
-    "url": "/rows/myeloproliferative-neoplasms.html"
+    "url": "/concepts/myeloproliferative-neoplasms.html"
   },
   {
     "label": "Myoepithelial Carcinoma",
     "id": "myoepithelial-carcinoma",
-    "url": "/rows/myoepithelial-carcinoma.html"
+    "url": "/concepts/myoepithelial-carcinoma.html"
   },
   {
     "label": "Myofibroma",
     "id": "myofibroma",
-    "url": "/rows/myofibroma.html"
+    "url": "/concepts/myofibroma.html"
   },
   {
     "label": "Myofibromatosis",
     "id": "myofibromatosis",
-    "url": "/rows/myofibromatosis.html"
+    "url": "/concepts/myofibromatosis.html"
   },
   {
     "label": "Myopericytoma",
     "id": "myopericytoma",
-    "url": "/rows/myopericytoma.html"
+    "url": "/concepts/myopericytoma.html"
   },
   {
     "label": "Myxofibrosarcoma",
     "id": "myxofibrosarcoma",
-    "url": "/rows/myxofibrosarcoma.html"
+    "url": "/concepts/myxofibrosarcoma.html"
   },
   {
     "label": "Myxoid Chondrosarcoma",
     "id": "myxoid-chondrosarcoma",
-    "url": "/rows/myxoid-chondrosarcoma.html"
+    "url": "/concepts/myxoid-chondrosarcoma.html"
   },
   {
     "label": "Myxoid/Round-Cell Liposarcoma",
     "id": "myxoid-round-cell-liposarcoma",
-    "url": "/rows/myxoid-round-cell-liposarcoma.html"
+    "url": "/concepts/myxoid-round-cell-liposarcoma.html"
   },
   {
     "label": "Myxoma",
     "id": "myxoma",
-    "url": "/rows/myxoma.html"
+    "url": "/concepts/myxoma.html"
   },
   {
     "label": "Myxopapillary Ependymoma",
     "id": "myxopapillary-ependymoma",
-    "url": "/rows/myxopapillary-ependymoma.html"
+    "url": "/concepts/myxopapillary-ependymoma.html"
   },
   {
     "label": "NAACCR",
     "id": "naaccr",
-    "url": "/rows/naaccr.html"
+    "url": "/concepts/naaccr.html"
   },
   {
     "label": "NACR",
     "id": "nacr-ng",
-    "url": "/rows/nacr-ng.html"
+    "url": "/concepts/nacr-ng.html"
   },
   {
     "label": "Nasopharyngeal Carcinoma",
     "id": "nasopharyngeal-carcinoma",
-    "url": "/rows/nasopharyngeal-carcinoma.html"
+    "url": "/concepts/nasopharyngeal-carcinoma.html"
   },
   {
     "label": "National Breast Cancer Foundation",
     "id": "national-breast-cancer-foundation",
-    "url": "/rows/national-breast-cancer-foundation.html"
+    "url": "/concepts/national-breast-cancer-foundation.html"
   },
   {
     "label": "National Cancer Center Japan",
     "id": "national-cancer-center-japan",
-    "url": "/rows/national-cancer-center-japan.html"
+    "url": "/concepts/national-cancer-center-japan.html"
   },
   {
     "label": "National Cancer Center Korea",
     "id": "national-cancer-center-korea",
-    "url": "/rows/national-cancer-center-korea.html"
+    "url": "/concepts/national-cancer-center-korea.html"
   },
   {
     "label": "National Cancer Grid India",
     "id": "national-cancer-grid-india",
-    "url": "/rows/national-cancer-grid-india.html"
+    "url": "/concepts/national-cancer-grid-india.html"
   },
   {
     "label": "National Cancer Institute Brazil",
     "id": "national-cancer-institute-brazil",
-    "url": "/rows/national-cancer-institute-brazil.html"
+    "url": "/concepts/national-cancer-institute-brazil.html"
   },
   {
     "label": "National Cancer Research Institute UK",
     "id": "national-cancer-research-institute-uk",
-    "url": "/rows/national-cancer-research-institute-uk.html"
+    "url": "/concepts/national-cancer-research-institute-uk.html"
   },
   {
     "label": "National Prostate Cancer Awareness Month",
     "id": "national-prostate-cancer-awareness-month",
-    "url": "/rows/national-prostate-cancer-awareness-month.html"
+    "url": "/concepts/national-prostate-cancer-awareness-month.html"
   },
   {
     "label": "Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma",
     "id": "natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma",
-    "url": "/rows/natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma.html"
+    "url": "/concepts/natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma.html"
   },
   {
     "label": "Natural Strategies for Cancer Patients",
     "id": "natural-strategies-for-cancer-patients",
-    "url": "/rows/natural-strategies-for-cancer-patients.html"
+    "url": "/concepts/natural-strategies-for-cancer-patients.html"
   },
   {
     "label": "Nature Reviews Cancer",
     "id": "nature-reviews-cancer",
-    "url": "/rows/nature-reviews-cancer.html"
+    "url": "/concepts/nature-reviews-cancer.html"
   },
   {
     "label": "Navigational Bronchoscopy",
     "id": "navigational-bronchoscopy",
-    "url": "/rows/navigational-bronchoscopy.html"
+    "url": "/concepts/navigational-bronchoscopy.html"
   },
   {
     "label": "NCBI Gene",
     "id": "ncbi-gene",
-    "url": "/rows/ncbi-gene.html"
+    "url": "/concepts/ncbi-gene.html"
   },
   {
     "label": "National Center for Biotechnology Information",
     "id": "ncbi",
-    "url": "/rows/ncbi.html"
+    "url": "/concepts/ncbi.html"
   },
   {
     "label": "NCC",
     "id": "ncc",
-    "url": "/rows/ncc.html"
+    "url": "/concepts/ncc.html"
   },
   {
     "label": "National Comprehensive Cancer Network",
     "id": "nccn",
-    "url": "/rows/nccn.html"
+    "url": "/concepts/nccn.html"
   },
   {
     "label": "NCCPA",
     "id": "nccp-af",
-    "url": "/rows/nccp-af.html"
+    "url": "/concepts/nccp-af.html"
   },
   {
     "label": "NCCP-AL",
     "id": "nccp-al",
-    "url": "/rows/nccp-al.html"
+    "url": "/concepts/nccp-al.html"
   },
   {
     "label": "NCCR",
     "id": "nccr",
-    "url": "/rows/nccr.html"
+    "url": "/concepts/nccr.html"
   },
   {
     "label": "NCCS",
     "id": "nccs",
-    "url": "/rows/nccs.html"
+    "url": "/concepts/nccs.html"
   },
   {
     "label": "NCDB",
     "id": "ncdb",
-    "url": "/rows/ncdb.html"
+    "url": "/concepts/ncdb.html"
   },
   {
     "label": "NCI",
     "id": "nci",
-    "url": "/rows/nci.html"
+    "url": "/concepts/nci.html"
   },
   {
     "label": "NCR-AR",
     "id": "ncr-ar",
-    "url": "/rows/ncr-ar.html"
+    "url": "/concepts/ncr-ar.html"
   },
   {
     "label": "National Cancer Registrars Association",
     "id": "ncra",
-    "url": "/rows/ncra.html"
+    "url": "/concepts/ncra.html"
   },
   {
     "label": "ncr-sa",
     "id": "ncrsa-za",
-    "url": "/rows/ncrsa-za.html"
+    "url": "/concepts/ncrsa-za.html"
   },
   {
     "label": "Nedaplatin",
     "id": "nedaplatin",
-    "url": "/rows/nedaplatin.html"
+    "url": "/concepts/nedaplatin.html"
   },
   {
     "label": "Nephrectomy",
     "id": "nephrectomy",
-    "url": "/rows/nephrectomy.html"
+    "url": "/concepts/nephrectomy.html"
   },
   {
     "label": "Nerve Sheath Tumor",
     "id": "nerve-sheath-tumor",
-    "url": "/rows/nerve-sheath-tumor.html"
+    "url": "/concepts/nerve-sheath-tumor.html"
   },
   {
     "label": "Netherlands Cancer Institute",
     "id": "netherlands-ncc",
-    "url": "/rows/netherlands-ncc.html"
+    "url": "/concepts/netherlands-ncc.html"
   },
   {
     "label": "Neuroblastoma",
     "id": "neuroblastoma",
-    "url": "/rows/neuroblastoma.html"
+    "url": "/concepts/neuroblastoma.html"
   },
   {
     "label": "Neuroendocrine Carcinoma, NOS",
     "id": "neuroendocrine-carcinoma-nos",
-    "url": "/rows/neuroendocrine-carcinoma-nos.html"
+    "url": "/concepts/neuroendocrine-carcinoma-nos.html"
   },
   {
     "label": "Neuroendocrine Tumor, NOS",
     "id": "neuroendocrine-tumor-nos",
-    "url": "/rows/neuroendocrine-tumor-nos.html"
+    "url": "/concepts/neuroendocrine-tumor-nos.html"
   },
   {
     "label": "Neurofibroma",
     "id": "neurofibroma",
-    "url": "/rows/neurofibroma.html"
+    "url": "/concepts/neurofibroma.html"
   },
   {
     "label": "NewYork-Presbyterian Hospital",
     "id": "newyork-presbyterian-hospital",
-    "url": "/rows/newyork-presbyterian-hospital.html"
+    "url": "/concepts/newyork-presbyterian-hospital.html"
   },
   {
     "label": "NFR",
     "id": "nfr",
-    "url": "/rows/nfr.html"
+    "url": "/concepts/nfr.html"
   },
   {
     "label": "NHGRI",
     "id": "nhgri",
-    "url": "/rows/nhgri.html"
+    "url": "/concepts/nhgri.html"
   },
   {
     "label": "Northern Ireland Cancer Registry",
     "id": "nicr",
-    "url": "/rows/nicr.html"
+    "url": "/concepts/nicr.html"
   },
   {
     "label": "NIH",
     "id": "nih",
-    "url": "/rows/nih.html"
+    "url": "/concepts/nih.html"
   },
   {
     "label": "Nimustine",
     "id": "nimustine",
-    "url": "/rows/nimustine.html"
+    "url": "/concepts/nimustine.html"
   },
   {
     "label": "Nitrosoureas",
     "id": "nitrosoureas",
-    "url": "/rows/nitrosoureas.html"
+    "url": "/concepts/nitrosoureas.html"
   },
   {
     "label": "Nivolumab",
     "id": "nivolumab",
-    "url": "/rows/nivolumab.html"
+    "url": "/concepts/nivolumab.html"
   },
   {
     "label": "United States National Library of Medicine",
     "id": "nlm",
-    "url": "/rows/nlm.html"
+    "url": "/concepts/nlm.html"
   },
   {
     "label": "NNCR",
     "id": "nncr-na",
-    "url": "/rows/nncr-na.html"
+    "url": "/concepts/nncr-na.html"
   },
   {
     "label": "Nodal Marginal Zone Lymphoma",
     "id": "nodal-marginal-zone-lymphoma",
-    "url": "/rows/nodal-marginal-zone-lymphoma.html"
+    "url": "/concepts/nodal-marginal-zone-lymphoma.html"
   },
   {
     "label": "Nodal Peripheral T-Cell Lymphoma with TFH Phenotype",
     "id": "nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype",
-    "url": "/rows/nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html"
+    "url": "/concepts/nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype.html"
   },
   {
     "label": "Nodular Lymphocyte-Predominant Hodgkin Lymphoma",
     "id": "nodular-lymphocyte-predominant-hodgkin-lymphoma",
-    "url": "/rows/nodular-lymphocyte-predominant-hodgkin-lymphoma.html"
+    "url": "/concepts/nodular-lymphocyte-predominant-hodgkin-lymphoma.html"
   },
   {
     "label": "Nodular Sclerosis Classical Hodgkin Lymphoma",
     "id": "nodular-sclerosis-classical-hodgkin-lymphoma",
-    "url": "/rows/nodular-sclerosis-classical-hodgkin-lymphoma.html"
+    "url": "/concepts/nodular-sclerosis-classical-hodgkin-lymphoma.html"
   },
   {
     "label": "Non-Hodgkin Lymphoma",
     "id": "non-hodgkin-lymphoma",
-    "url": "/rows/non-hodgkin-lymphoma.html"
+    "url": "/concepts/non-hodgkin-lymphoma.html"
   },
   {
     "label": "Non-Seminomatous Germ Cell Tumor",
     "id": "non-seminomatous-germ-cell-tumor",
-    "url": "/rows/non-seminomatous-germ-cell-tumor.html"
+    "url": "/concepts/non-seminomatous-germ-cell-tumor.html"
   },
   {
     "label": "Non-Small Cell Lung Cancer",
     "id": "non-small-cell-lung-cancer",
-    "url": "/rows/non-small-cell-lung-cancer.html"
+    "url": "/concepts/non-small-cell-lung-cancer.html"
   },
   {
     "label": "Norwegian Cancer Society",
     "id": "norwegian-cancer-society",
-    "url": "/rows/norwegian-cancer-society.html"
+    "url": "/concepts/norwegian-cancer-society.html"
   },
   {
     "label": "Novartis",
     "id": "novartis",
-    "url": "/rows/novartis.html"
+    "url": "/concepts/novartis.html"
   },
   {
     "label": "Novo Nordisk",
     "id": "novo-nordisk",
-    "url": "/rows/novo-nordisk.html"
+    "url": "/concepts/novo-nordisk.html"
   },
   {
     "label": "NSCR",
     "id": "nscr-ng",
-    "url": "/rows/nscr-ng.html"
+    "url": "/concepts/nscr-ng.html"
   },
   {
     "label": "NSWCR",
     "id": "nswcr-au",
-    "url": "/rows/nswcr-au.html"
+    "url": "/concepts/nswcr-au.html"
   },
   {
     "label": "NTCR",
     "id": "ntcr-au",
-    "url": "/rows/ntcr-au.html"
+    "url": "/concepts/ntcr-au.html"
   },
   {
     "label": "NUT Carcinoma of the Lung",
     "id": "nut-carcinoma-of-the-lung",
-    "url": "/rows/nut-carcinoma-of-the-lung.html"
+    "url": "/concepts/nut-carcinoma-of-the-lung.html"
   },
   {
     "label": "NUT Midline Carcinoma of the Head and Neck",
     "id": "nut-midline-carcinoma-of-the-head-and-neck",
-    "url": "/rows/nut-midline-carcinoma-of-the-head-and-neck.html"
+    "url": "/concepts/nut-midline-carcinoma-of-the-head-and-neck.html"
   },
   {
     "label": "Nutrition",
     "id": "nutrition",
-    "url": "/rows/nutrition.html"
+    "url": "/concepts/nutrition.html"
   },
   {
     "label": "Ocular Melanoma",
     "id": "ocular-melanoma",
-    "url": "/rows/ocular-melanoma.html"
+    "url": "/concepts/ocular-melanoma.html"
   },
   {
     "label": "Odontogenic Carcinoma",
     "id": "odontogenic-carcinoma",
-    "url": "/rows/odontogenic-carcinoma.html"
+    "url": "/concepts/odontogenic-carcinoma.html"
   },
   {
     "label": "Olfactory Neuroblastoma",
     "id": "olfactory-neuroblastoma",
-    "url": "/rows/olfactory-neuroblastoma.html"
+    "url": "/concepts/olfactory-neuroblastoma.html"
   },
   {
     "label": "Oligoastrocytoma",
     "id": "oligoastrocytoma",
-    "url": "/rows/oligoastrocytoma.html"
+    "url": "/concepts/oligoastrocytoma.html"
   },
   {
     "label": "Oligodendroglioma",
     "id": "oligodendroglioma",
-    "url": "/rows/oligodendroglioma.html"
+    "url": "/concepts/oligodendroglioma.html"
   },
   {
     "label": "OncLive",
     "id": "onclive",
-    "url": "/rows/onclive.html"
+    "url": "/concepts/onclive.html"
   },
   {
     "label": "Oncocytic Adenoma of the Thyroid",
     "id": "oncocytic-adenoma-of-the-thyroid",
-    "url": "/rows/oncocytic-adenoma-of-the-thyroid.html"
+    "url": "/concepts/oncocytic-adenoma-of-the-thyroid.html"
   },
   {
     "label": "OncoKB",
     "id": "oncokb",
-    "url": "/rows/oncokb.html"
+    "url": "/concepts/oncokb.html"
   },
   {
     "label": "OncoTree",
     "id": "oncotree",
-    "url": "/rows/oncotree.html"
+    "url": "/concepts/oncotree.html"
   },
   {
     "label": "1+1 Cares",
     "id": "one-plus-one-cars",
-    "url": "/rows/one-plus-one-cars.html"
+    "url": "/concepts/one-plus-one-cars.html"
   },
   {
     "label": "O’Neal Comprehensive Cancer Center",
     "id": "oneal-comprehensive-cancer-center",
-    "url": "/rows/oneal-comprehensive-cancer-center.html"
+    "url": "/concepts/oneal-comprehensive-cancer-center.html"
   },
   {
     "label": "Oophorectomy",
     "id": "oophorectomy",
-    "url": "/rows/oophorectomy.html"
+    "url": "/concepts/oophorectomy.html"
   },
   {
     "label": "Oral administration",
     "id": "oral-administration",
-    "url": "/rows/oral-administration.html"
+    "url": "/concepts/oral-administration.html"
   },
   {
     "label": "Oral Cancer Foundation",
     "id": "oral-cancer-foundation",
-    "url": "/rows/oral-cancer-foundation.html"
+    "url": "/concepts/oral-cancer-foundation.html"
   },
   {
     "label": "Oral Cancer",
     "id": "oral-cancer",
-    "url": "/rows/oral-cancer.html"
+    "url": "/concepts/oral-cancer.html"
   },
   {
     "label": "Oral Cavity Squamous Cell Carcinoma",
     "id": "oral-cavity-squamous-cell-carcinoma",
-    "url": "/rows/oral-cavity-squamous-cell-carcinoma.html"
+    "url": "/concepts/oral-cavity-squamous-cell-carcinoma.html"
   },
   {
     "label": "Orchiectomy",
     "id": "orchiectomy",
-    "url": "/rows/orchiectomy.html"
+    "url": "/concepts/orchiectomy.html"
   },
   {
     "label": "Oropharyngeal cancer",
     "id": "oropharyngeal-cancer",
-    "url": "/rows/oropharyngeal-cancer.html"
+    "url": "/concepts/oropharyngeal-cancer.html"
   },
   {
     "label": "Oropharynx Squamous Cell Carcinoma",
     "id": "oropharynx-squamous-cell-carcinoma",
-    "url": "/rows/oropharynx-squamous-cell-carcinoma.html"
+    "url": "/concepts/oropharynx-squamous-cell-carcinoma.html"
   },
   {
     "label": "Ossifying Fibromyxoid Tumor",
     "id": "ossifying-fibromyxoid-tumor",
-    "url": "/rows/ossifying-fibromyxoid-tumor.html"
+    "url": "/concepts/ossifying-fibromyxoid-tumor.html"
   },
   {
     "label": "Osteoblastic Osteosarcoma",
     "id": "osteoblastic-osteosarcoma",
-    "url": "/rows/osteoblastic-osteosarcoma.html"
+    "url": "/concepts/osteoblastic-osteosarcoma.html"
   },
   {
     "label": "Osteoclastic Giant Cell Tumor",
     "id": "osteoclastic-giant-cell-tumor",
-    "url": "/rows/osteoclastic-giant-cell-tumor.html"
+    "url": "/concepts/osteoclastic-giant-cell-tumor.html"
   },
   {
     "label": "Osteosarcoma",
     "id": "osteosarcoma",
-    "url": "/rows/osteosarcoma.html"
+    "url": "/concepts/osteosarcoma.html"
   },
   {
     "label": "Other Uterine Tumor",
     "id": "other-uterine-tumor",
-    "url": "/rows/other-uterine-tumor.html"
+    "url": "/concepts/other-uterine-tumor.html"
   },
   {
     "label": "Other",
     "id": "other",
-    "url": "/rows/other.html"
+    "url": "/concepts/other.html"
   },
   {
     "label": "Our World in Data Cancer Page",
     "id": "our-world-in-data-cancer",
-    "url": "/rows/our-world-in-data-cancer.html"
+    "url": "/concepts/our-world-in-data-cancer.html"
   },
   {
     "label": "Ovarian Cancer, Other",
     "id": "ovarian-cancer-other",
-    "url": "/rows/ovarian-cancer-other.html"
+    "url": "/concepts/ovarian-cancer-other.html"
   },
   {
     "label": "Ovarian Cancer Subreddit",
     "id": "ovarian-cancer-subreddit",
-    "url": "/rows/ovarian-cancer-subreddit.html"
+    "url": "/concepts/ovarian-cancer-subreddit.html"
   },
   {
     "label": "Ovarian Cancer",
     "id": "ovarian-cancer",
-    "url": "/rows/ovarian-cancer.html"
+    "url": "/concepts/ovarian-cancer.html"
   },
   {
     "label": "Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor",
     "id": "ovarian-carcinosarcoma-malignant-mixed-mesodermal-tumor",
-    "url": "/rows/ovarian-carcinosarcoma-malignant-mixed-mesodermal-tumor.html"
+    "url": "/concepts/ovarian-carcinosarcoma-malignant-mixed-mesodermal-tumor.html"
   },
   {
     "label": "Ovarian Choriocarcinoma, NOS",
     "id": "ovarian-choriocarcinoma-nos",
-    "url": "/rows/ovarian-choriocarcinoma-nos.html"
+    "url": "/concepts/ovarian-choriocarcinoma-nos.html"
   },
   {
     "label": "Ovarian Epithelial Tumor",
     "id": "ovarian-epithelial-tumor",
-    "url": "/rows/ovarian-epithelial-tumor.html"
+    "url": "/concepts/ovarian-epithelial-tumor.html"
   },
   {
     "label": "Ovarian Germ Cell Tumor",
     "id": "ovarian-germ-cell-tumor",
-    "url": "/rows/ovarian-germ-cell-tumor.html"
+    "url": "/concepts/ovarian-germ-cell-tumor.html"
   },
   {
     "label": "Ovarian Seromucinous Adenoma",
     "id": "ovarian-seromucinous-adenoma",
-    "url": "/rows/ovarian-seromucinous-adenoma.html"
+    "url": "/concepts/ovarian-seromucinous-adenoma.html"
   },
   {
     "label": "Ovarian Seromucinous Borderline Tumor",
     "id": "ovarian-seromucinous-borderline-tumor",
-    "url": "/rows/ovarian-seromucinous-borderline-tumor.html"
+    "url": "/concepts/ovarian-seromucinous-borderline-tumor.html"
   },
   {
     "label": "Ovarian Seromucinous Carcinoma",
     "id": "ovarian-seromucinous-carcinoma",
-    "url": "/rows/ovarian-seromucinous-carcinoma.html"
+    "url": "/concepts/ovarian-seromucinous-carcinoma.html"
   },
   {
     "label": "Oxaliplatin",
     "id": "oxaliplatin",
-    "url": "/rows/oxaliplatin.html"
+    "url": "/concepts/oxaliplatin.html"
   },
   {
     "label": "Paclitaxel",
     "id": "paclitaxel",
-    "url": "/rows/paclitaxel.html"
+    "url": "/concepts/paclitaxel.html"
   },
   {
     "label": "PACT",
     "id": "pact",
-    "url": "/rows/pact.html"
+    "url": "/concepts/pact.html"
   },
   {
     "label": "Paget Disease of the Nipple",
     "id": "paget-disease-of-the-nipple",
-    "url": "/rows/paget-disease-of-the-nipple.html"
+    "url": "/concepts/paget-disease-of-the-nipple.html"
   },
   {
     "label": "Paleo Diet",
     "id": "paleo-diet",
-    "url": "/rows/paleo-diet.html"
+    "url": "/concepts/paleo-diet.html"
   },
   {
     "label": "National Institute of Cancer",
     "id": "panama-ncc",
-    "url": "/rows/panama-ncc.html"
+    "url": "/concepts/panama-ncc.html"
   },
   {
     "label": "Pancreatic Cancer",
     "id": "pancreas",
-    "url": "/rows/pancreas.html"
+    "url": "/concepts/pancreas.html"
   },
   {
     "label": "Pancreatectomy",
     "id": "pancreatectomy",
-    "url": "/rows/pancreatectomy.html"
+    "url": "/concepts/pancreatectomy.html"
   },
   {
     "label": "Pancreatic Adenocarcinoma",
     "id": "pancreatic-adenocarcinoma",
-    "url": "/rows/pancreatic-adenocarcinoma.html"
+    "url": "/concepts/pancreatic-adenocarcinoma.html"
   },
   {
     "label": "Pancreatic Neuroendocrine Tumor",
     "id": "pancreatic-neuroendocrine-tumor",
-    "url": "/rows/pancreatic-neuroendocrine-tumor.html"
+    "url": "/concepts/pancreatic-neuroendocrine-tumor.html"
   },
   {
     "label": "Pancreatobiliary Ampullary Carcinoma",
     "id": "pancreatobiliary-ampullary-carcinoma",
-    "url": "/rows/pancreatobiliary-ampullary-carcinoma.html"
+    "url": "/concepts/pancreatobiliary-ampullary-carcinoma.html"
   },
   {
     "label": "Pancreatoblastoma",
     "id": "pancreatoblastoma",
-    "url": "/rows/pancreatoblastoma.html"
+    "url": "/concepts/pancreatoblastoma.html"
   },
   {
     "label": "Papillary Glioneuronal Tumor",
     "id": "papillary-glioneuronal-tumor",
-    "url": "/rows/papillary-glioneuronal-tumor.html"
+    "url": "/concepts/papillary-glioneuronal-tumor.html"
   },
   {
     "label": "Papillary Meningioma",
     "id": "papillary-meningioma",
-    "url": "/rows/papillary-meningioma.html"
+    "url": "/concepts/papillary-meningioma.html"
   },
   {
     "label": "Papillary Renal Cell Carcinoma",
     "id": "papillary-renal-cell-carcinoma",
-    "url": "/rows/papillary-renal-cell-carcinoma.html"
+    "url": "/concepts/papillary-renal-cell-carcinoma.html"
   },
   {
     "label": "Papillary Stomach Adenocarcinoma",
     "id": "papillary-stomach-adenocarcinoma",
-    "url": "/rows/papillary-stomach-adenocarcinoma.html"
+    "url": "/concepts/papillary-stomach-adenocarcinoma.html"
   },
   {
     "label": "Papillary Thyroid Cancer",
     "id": "papillary-thyroid-cancer",
-    "url": "/rows/papillary-thyroid-cancer.html"
+    "url": "/concepts/papillary-thyroid-cancer.html"
   },
   {
     "label": "Papillary Tumor of the Pineal Region",
     "id": "papillary-tumor-of-the-pineal-region",
-    "url": "/rows/papillary-tumor-of-the-pineal-region.html"
+    "url": "/concepts/papillary-tumor-of-the-pineal-region.html"
   },
   {
     "label": "Paraganglioma",
     "id": "paraganglioma",
-    "url": "/rows/paraganglioma.html"
+    "url": "/concepts/paraganglioma.html"
   },
   {
     "label": "Parathyroid Cancer",
     "id": "parathyroid-cancer",
-    "url": "/rows/parathyroid-cancer.html"
+    "url": "/concepts/parathyroid-cancer.html"
   },
   {
     "label": "Parathyroid Carcinoma",
     "id": "parathyroid-carcinoma",
-    "url": "/rows/parathyroid-carcinoma.html"
+    "url": "/concepts/parathyroid-carcinoma.html"
   },
   {
     "label": "Parosteal Osteosarcoma",
     "id": "parosteal-osteosarcoma",
-    "url": "/rows/parosteal-osteosarcoma.html"
+    "url": "/concepts/parosteal-osteosarcoma.html"
   },
   {
     "label": "Partial Hydatidiform Mole",
     "id": "partial-hydatidiform-mole",
-    "url": "/rows/partial-hydatidiform-mole.html"
+    "url": "/concepts/partial-hydatidiform-mole.html"
   },
   {
     "label": "Pediatric-Type Follicular Lymphoma",
     "id": "pediatric-type-follicular-lymphoma",
-    "url": "/rows/pediatric-type-follicular-lymphoma.html"
+    "url": "/concepts/pediatric-type-follicular-lymphoma.html"
   },
   {
     "label": "Pembrolizumab",
     "id": "pembrolizumab",
-    "url": "/rows/pembrolizumab.html"
+    "url": "/concepts/pembrolizumab.html"
   },
   {
     "label": "Penile Squamous Cell Carcinoma",
     "id": "penile-squamous-cell-carcinoma",
-    "url": "/rows/penile-squamous-cell-carcinoma.html"
+    "url": "/concepts/penile-squamous-cell-carcinoma.html"
   },
   {
     "label": "Penile Cancer",
     "id": "penis",
-    "url": "/rows/penis.html"
+    "url": "/concepts/penis.html"
   },
   {
     "label": "Perihilar Cholangiocarcinoma",
     "id": "perihilar-cholangiocarcinoma",
-    "url": "/rows/perihilar-cholangiocarcinoma.html"
+    "url": "/concepts/perihilar-cholangiocarcinoma.html"
   },
   {
     "label": "Periosteal Osteosarcoma",
     "id": "periosteal-osteosarcoma",
-    "url": "/rows/periosteal-osteosarcoma.html"
+    "url": "/concepts/periosteal-osteosarcoma.html"
   },
   {
     "label": "Peripheral Nervous System",
     "id": "peripheral-nervous-system",
-    "url": "/rows/peripheral-nervous-system.html"
+    "url": "/concepts/peripheral-nervous-system.html"
   },
   {
     "label": "Peripheral T-Cell lymphoma, NOS",
     "id": "peripheral-t-cell-lymphoma-nos",
-    "url": "/rows/peripheral-t-cell-lymphoma-nos.html"
+    "url": "/concepts/peripheral-t-cell-lymphoma-nos.html"
   },
   {
     "label": "Peritoneal Mesothelioma",
     "id": "peritoneal-mesothelioma",
-    "url": "/rows/peritoneal-mesothelioma.html"
+    "url": "/concepts/peritoneal-mesothelioma.html"
   },
   {
     "label": "Peritoneal Serous Carcinoma",
     "id": "peritoneal-serous-carcinoma",
-    "url": "/rows/peritoneal-serous-carcinoma.html"
+    "url": "/concepts/peritoneal-serous-carcinoma.html"
   },
   {
     "label": "Peritoneal Cancer",
     "id": "peritoneum",
-    "url": "/rows/peritoneum.html"
+    "url": "/concepts/peritoneum.html"
   },
   {
     "label": "Perivascular Epithelioid Cell Tumor",
     "id": "perivascular-epithelioid-cell-tumor",
-    "url": "/rows/perivascular-epithelioid-cell-tumor.html"
+    "url": "/concepts/perivascular-epithelioid-cell-tumor.html"
   },
   {
     "label": "Pfizer",
     "id": "pfizer",
-    "url": "/rows/pfizer.html"
+    "url": "/concepts/pfizer.html"
   },
   {
     "label": "Public Health Agency of Canada",
     "id": "phac",
-    "url": "/rows/phac.html"
+    "url": "/concepts/phac.html"
   },
   {
     "label": "Pheochromocytoma",
     "id": "pheochromocytoma",
-    "url": "/rows/pheochromocytoma.html"
+    "url": "/concepts/pheochromocytoma.html"
   },
   {
     "label": "Phyllodes Tumor of the Breast",
     "id": "phyllodes-tumor-of-the-breast",
-    "url": "/rows/phyllodes-tumor-of-the-breast.html"
+    "url": "/concepts/phyllodes-tumor-of-the-breast.html"
   },
   {
     "label": "Pilocytic Astrocytoma",
     "id": "pilocytic-astrocytoma",
-    "url": "/rows/pilocytic-astrocytoma.html"
+    "url": "/concepts/pilocytic-astrocytoma.html"
   },
   {
     "label": "Pilomyxoid Astrocytoma",
     "id": "pilomyxoid-astrocytoma",
-    "url": "/rows/pilomyxoid-astrocytoma.html"
+    "url": "/concepts/pilomyxoid-astrocytoma.html"
   },
   {
     "label": "Pineal Parenchymal Tumor of Intermediate Differentiation",
     "id": "pineal-parenchymal-tumor-of-intermediate-differentiation",
-    "url": "/rows/pineal-parenchymal-tumor-of-intermediate-differentiation.html"
+    "url": "/concepts/pineal-parenchymal-tumor-of-intermediate-differentiation.html"
   },
   {
     "label": "Pineal Tumor",
     "id": "pineal-tumor",
-    "url": "/rows/pineal-tumor.html"
+    "url": "/concepts/pineal-tumor.html"
   },
   {
     "label": "Pineoblastoma",
     "id": "pineoblastoma",
-    "url": "/rows/pineoblastoma.html"
+    "url": "/concepts/pineoblastoma.html"
   },
   {
     "label": "Pineocytoma",
     "id": "pineocytoma",
-    "url": "/rows/pineocytoma.html"
+    "url": "/concepts/pineocytoma.html"
   },
   {
     "label": "Pipobroman",
     "id": "pipobroman",
-    "url": "/rows/pipobroman.html"
+    "url": "/concepts/pipobroman.html"
   },
   {
     "label": "Pirarubicin",
     "id": "pirarubicin",
-    "url": "/rows/pirarubicin.html"
+    "url": "/concepts/pirarubicin.html"
   },
   {
     "label": "Pituicytoma",
     "id": "pituicytoma",
-    "url": "/rows/pituicytoma.html"
+    "url": "/concepts/pituicytoma.html"
   },
   {
     "label": "Pituitary Adenoma",
     "id": "pituitary-adenoma",
-    "url": "/rows/pituitary-adenoma.html"
+    "url": "/concepts/pituitary-adenoma.html"
   },
   {
     "label": "Pituitary Carcinoma",
     "id": "pituitary-carcinoma",
-    "url": "/rows/pituitary-carcinoma.html"
+    "url": "/concepts/pituitary-carcinoma.html"
   },
   {
     "label": "Placental Site Trophoblastic Tumor",
     "id": "placental-site-trophoblastic-tumor",
-    "url": "/rows/placental-site-trophoblastic-tumor.html"
+    "url": "/concepts/placental-site-trophoblastic-tumor.html"
   },
   {
     "label": "Plasma Cell Myeloma",
     "id": "plasma-cell-myeloma",
-    "url": "/rows/plasma-cell-myeloma.html"
+    "url": "/concepts/plasma-cell-myeloma.html"
   },
   {
     "label": "Plasmablastic Lymphoma",
     "id": "plasmablastic-lymphoma",
-    "url": "/rows/plasmablastic-lymphoma.html"
+    "url": "/concepts/plasmablastic-lymphoma.html"
   },
   {
     "label": "Plasmacytic Hyperplasia PTLD",
     "id": "plasmacytic-hyperplasia-ptld",
-    "url": "/rows/plasmacytic-hyperplasia-ptld.html"
+    "url": "/concepts/plasmacytic-hyperplasia-ptld.html"
   },
   {
     "label": "Plasmacytoid/Signet Ring Cell Bladder Carcinoma",
     "id": "plasmacytoid-signet-ring-cell-bladder-carcinoma",
-    "url": "/rows/plasmacytoid-signet-ring-cell-bladder-carcinoma.html"
+    "url": "/concepts/plasmacytoid-signet-ring-cell-bladder-carcinoma.html"
   },
   {
     "label": "Pleomorphic Carcinoma of the Lung",
     "id": "pleomorphic-carcinoma-of-the-lung",
-    "url": "/rows/pleomorphic-carcinoma-of-the-lung.html"
+    "url": "/concepts/pleomorphic-carcinoma-of-the-lung.html"
   },
   {
     "label": "Pleomorphic Liposarcoma",
     "id": "pleomorphic-liposarcoma",
-    "url": "/rows/pleomorphic-liposarcoma.html"
+    "url": "/concepts/pleomorphic-liposarcoma.html"
   },
   {
     "label": "Pleomorphic Rhabdomyosarcoma",
     "id": "pleomorphic-rhabdomyosarcoma",
-    "url": "/rows/pleomorphic-rhabdomyosarcoma.html"
+    "url": "/concepts/pleomorphic-rhabdomyosarcoma.html"
   },
   {
     "label": "Pleomorphic Xanthoastrocytoma",
     "id": "pleomorphic-xanthoastrocytoma",
-    "url": "/rows/pleomorphic-xanthoastrocytoma.html"
+    "url": "/concepts/pleomorphic-xanthoastrocytoma.html"
   },
   {
     "label": "Pleura",
     "id": "pleura",
-    "url": "/rows/pleura.html"
+    "url": "/concepts/pleura.html"
   },
   {
     "label": "Pleural Mesothelioma, Biphasic Type",
     "id": "pleural-mesothelioma-biphasic-type",
-    "url": "/rows/pleural-mesothelioma-biphasic-type.html"
+    "url": "/concepts/pleural-mesothelioma-biphasic-type.html"
   },
   {
     "label": "Pleural Mesothelioma, Epithelioid Type",
     "id": "pleural-mesothelioma-epithelioid-type",
-    "url": "/rows/pleural-mesothelioma-epithelioid-type.html"
+    "url": "/concepts/pleural-mesothelioma-epithelioid-type.html"
   },
   {
     "label": "Pleural Mesothelioma, Sarcomatoid Type",
     "id": "pleural-mesothelioma-sarcomatoid-type",
-    "url": "/rows/pleural-mesothelioma-sarcomatoid-type.html"
+    "url": "/concepts/pleural-mesothelioma-sarcomatoid-type.html"
   },
   {
     "label": "Pleural Mesothelioma",
     "id": "pleural-mesothelioma",
-    "url": "/rows/pleural-mesothelioma.html"
+    "url": "/concepts/pleural-mesothelioma.html"
   },
   {
     "label": "Pleuropulmonary Blastoma",
     "id": "pleuropulmonary-blastoma",
-    "url": "/rows/pleuropulmonary-blastoma.html"
+    "url": "/concepts/pleuropulmonary-blastoma.html"
   },
   {
     "label": "Polycythaemia Vera Myelofibrosis",
     "id": "polycythaemia-vera-myelofibrosis",
-    "url": "/rows/polycythaemia-vera-myelofibrosis.html"
+    "url": "/concepts/polycythaemia-vera-myelofibrosis.html"
   },
   {
     "label": "Polycythemia Vera",
     "id": "polycythemia-vera",
-    "url": "/rows/polycythemia-vera.html"
+    "url": "/concepts/polycythemia-vera.html"
   },
   {
     "label": "Polyembryoma Vulva/Vagina",
     "id": "polyembryoma-vulva-vagina",
-    "url": "/rows/polyembryoma-vulva-vagina.html"
+    "url": "/concepts/polyembryoma-vulva-vagina.html"
   },
   {
     "label": "Polyembryoma",
     "id": "polyembryoma",
-    "url": "/rows/polyembryoma.html"
+    "url": "/concepts/polyembryoma.html"
   },
   {
     "label": "Polymorphic PTLD",
     "id": "polymorphic-ptld",
-    "url": "/rows/polymorphic-ptld.html"
+    "url": "/concepts/polymorphic-ptld.html"
   },
   {
     "label": "Poorly Differentiated Carcinoma, NOS",
     "id": "poorly-differentiated-carcinoma-nos",
-    "url": "/rows/poorly-differentiated-carcinoma-nos.html"
+    "url": "/concepts/poorly-differentiated-carcinoma-nos.html"
   },
   {
     "label": "Poorly Differentiated Carcinoma of the Stomach",
     "id": "poorly-differentiated-carcinoma-of-the-stomach",
-    "url": "/rows/poorly-differentiated-carcinoma-of-the-stomach.html"
+    "url": "/concepts/poorly-differentiated-carcinoma-of-the-stomach.html"
   },
   {
     "label": "Poorly Differentiated Carcinoma of the Uterus",
     "id": "poorly-differentiated-carcinoma-of-the-uterus",
-    "url": "/rows/poorly-differentiated-carcinoma-of-the-uterus.html"
+    "url": "/concepts/poorly-differentiated-carcinoma-of-the-uterus.html"
   },
   {
     "label": "Poorly Differentiated Non-Small Cell Lung Cancer",
     "id": "poorly-differentiated-non-small-cell-lung-cancer",
-    "url": "/rows/poorly-differentiated-non-small-cell-lung-cancer.html"
+    "url": "/concepts/poorly-differentiated-non-small-cell-lung-cancer.html"
   },
   {
     "label": "Poorly Differentiated Thyroid Cancer",
     "id": "poorly-differentiated-thyroid-cancer",
-    "url": "/rows/poorly-differentiated-thyroid-cancer.html"
+    "url": "/concepts/poorly-differentiated-thyroid-cancer.html"
   },
   {
     "label": "Poorly Differentiated Vaginal Carcinoma",
     "id": "poorly-differentiated-vaginal-carcinoma",
-    "url": "/rows/poorly-differentiated-vaginal-carcinoma.html"
+    "url": "/concepts/poorly-differentiated-vaginal-carcinoma.html"
   },
   {
     "label": "Porocarcinoma/Spiroadenocarcinoma",
     "id": "porocarcinoma-spiroadenocarcinoma",
-    "url": "/rows/porocarcinoma-spiroadenocarcinoma.html"
+    "url": "/concepts/porocarcinoma-spiroadenocarcinoma.html"
   },
   {
     "label": "Poroma/Acrospiroma",
     "id": "poroma-acrospiroma",
-    "url": "/rows/poroma-acrospiroma.html"
+    "url": "/concepts/poroma-acrospiroma.html"
   },
   {
     "label": "Porphyria Cutania Tarda",
     "id": "porphyria-cutania-tarda",
-    "url": "/rows/porphyria-cutania-tarda.html"
+    "url": "/concepts/porphyria-cutania-tarda.html"
   },
   {
     "label": "Posttransplant Lymphoproliferative Disorders",
     "id": "posttransplant-lymphoproliferative-disorders",
-    "url": "/rows/posttransplant-lymphoproliferative-disorders.html"
+    "url": "/concepts/posttransplant-lymphoproliferative-disorders.html"
   },
   {
     "label": "Prevent Cancer Foundation",
     "id": "prevent-cancer-foundation",
-    "url": "/rows/prevent-cancer-foundation.html"
+    "url": "/concepts/prevent-cancer-foundation.html"
   },
   {
     "label": "Primary Brain Tumor",
     "id": "primary-brain-tumor",
-    "url": "/rows/primary-brain-tumor.html"
+    "url": "/concepts/primary-brain-tumor.html"
   },
   {
     "label": "Primary CNS Melanocytic Tumors",
     "id": "primary-cns-melanocytic-tumors",
-    "url": "/rows/primary-cns-melanocytic-tumors.html"
+    "url": "/concepts/primary-cns-melanocytic-tumors.html"
   },
   {
     "label": "Primary CNS Melanoma",
     "id": "primary-cns-melanoma",
-    "url": "/rows/primary-cns-melanoma.html"
+    "url": "/concepts/primary-cns-melanoma.html"
   },
   {
     "label": "Primary Cutaneous Acral CD8 Positive T-Cell Lymphoma",
     "id": "primary-cutaneous-acral-cd8-positive-t-cell-lymphoma",
-    "url": "/rows/primary-cutaneous-acral-cd8-positive-t-cell-lymphoma.html"
+    "url": "/concepts/primary-cutaneous-acral-cd8-positive-t-cell-lymphoma.html"
   },
   {
     "label": "Primary Cutaneous Anaplastic Large Cell Lymphoma",
     "id": "primary-cutaneous-anaplastic-large-cell-lymphoma",
-    "url": "/rows/primary-cutaneous-anaplastic-large-cell-lymphoma.html"
+    "url": "/concepts/primary-cutaneous-anaplastic-large-cell-lymphoma.html"
   },
   {
     "label": "Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders",
     "id": "primary-cutaneous-cd30-positive-t-cell-lymphoproliferative-disorders",
-    "url": "/rows/primary-cutaneous-cd30-positive-t-cell-lymphoproliferative-disorders.html"
+    "url": "/concepts/primary-cutaneous-cd30-positive-t-cell-lymphoproliferative-disorders.html"
   },
   {
     "label": "Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder",
     "id": "primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder",
-    "url": "/rows/primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder.html"
+    "url": "/concepts/primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder.html"
   },
   {
     "label": "Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma",
     "id": "primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma",
-    "url": "/rows/primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma.html"
+    "url": "/concepts/primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma.html"
   },
   {
     "label": "Primary Cutaneous DLBCL, Leg Type",
     "id": "primary-cutaneous-dlbcl-leg-type",
-    "url": "/rows/primary-cutaneous-dlbcl-leg-type.html"
+    "url": "/concepts/primary-cutaneous-dlbcl-leg-type.html"
   },
   {
     "label": "Primary Cutaneous Follicle Center Lymphoma",
     "id": "primary-cutaneous-follicle-center-lymphoma",
-    "url": "/rows/primary-cutaneous-follicle-center-lymphoma.html"
+    "url": "/concepts/primary-cutaneous-follicle-center-lymphoma.html"
   },
   {
     "label": "Primary Cutaneous Gamma Delta T-Cell Lymphoma",
     "id": "primary-cutaneous-gamma-delta-t-cell-lymphoma",
-    "url": "/rows/primary-cutaneous-gamma-delta-t-cell-lymphoma.html"
+    "url": "/concepts/primary-cutaneous-gamma-delta-t-cell-lymphoma.html"
   },
   {
     "label": "Primary DLBCL of the central nervous system",
     "id": "primary-dlbcl-of-the-central-nervous-system",
-    "url": "/rows/primary-dlbcl-of-the-central-nervous-system.html"
+    "url": "/concepts/primary-dlbcl-of-the-central-nervous-system.html"
   },
   {
     "label": "Primary Effusion Lymphoma",
     "id": "primary-effusion-lymphoma",
-    "url": "/rows/primary-effusion-lymphoma.html"
+    "url": "/concepts/primary-effusion-lymphoma.html"
   },
   {
     "label": "Primary Mediastinal (Thymic) Large B-Cell Lymphoma",
     "id": "primary-mediastinal-thymic-large-b-cell-lymphoma",
-    "url": "/rows/primary-mediastinal-thymic-large-b-cell-lymphoma.html"
+    "url": "/concepts/primary-mediastinal-thymic-large-b-cell-lymphoma.html"
   },
   {
     "label": "Primary Myelofibrosis, Prefibrotic/Early Stage",
     "id": "primary-myelofibrosis-prefibrotic-early-stage",
-    "url": "/rows/primary-myelofibrosis-prefibrotic-early-stage.html"
+    "url": "/concepts/primary-myelofibrosis-prefibrotic-early-stage.html"
   },
   {
     "label": "Primary Myelofibrosis",
     "id": "primary-myelofibrosis",
-    "url": "/rows/primary-myelofibrosis.html"
+    "url": "/concepts/primary-myelofibrosis.html"
   },
   {
     "label": "Primary Myelofibrosis,Overt Fibrotic Stage",
     "id": "primary-myelofibrosisovert-fibrotic-stage",
-    "url": "/rows/primary-myelofibrosisovert-fibrotic-stage.html"
+    "url": "/concepts/primary-myelofibrosisovert-fibrotic-stage.html"
   },
   {
     "label": "Primary Neuroepithelial Tumor",
     "id": "primary-neuroepithelial-tumor",
-    "url": "/rows/primary-neuroepithelial-tumor.html"
+    "url": "/concepts/primary-neuroepithelial-tumor.html"
   },
   {
     "label": "Primitive Neuroectodermal Tumor",
     "id": "primitive-neuroectodermal-tumor",
-    "url": "/rows/primitive-neuroectodermal-tumor.html"
+    "url": "/concepts/primitive-neuroectodermal-tumor.html"
   },
   {
     "label": "Princess Margaret Cancer Centre",
     "id": "princess-margaret-cancer-centre",
-    "url": "/rows/princess-margaret-cancer-centre.html"
+    "url": "/concepts/princess-margaret-cancer-centre.html"
   },
   {
     "label": "Proliferating Pilar Cystic Tumor",
     "id": "proliferating-pilar-cystic-tumor",
-    "url": "/rows/proliferating-pilar-cystic-tumor.html"
+    "url": "/concepts/proliferating-pilar-cystic-tumor.html"
   },
   {
     "label": "Prostate Adenocarcinoma",
     "id": "prostate-adenocarcinoma",
-    "url": "/rows/prostate-adenocarcinoma.html"
+    "url": "/concepts/prostate-adenocarcinoma.html"
   },
   {
     "label": "Prostate Cancer Subreddit",
     "id": "prostate-cancer-subreddit",
-    "url": "/rows/prostate-cancer-subreddit.html"
+    "url": "/concepts/prostate-cancer-subreddit.html"
   },
   {
     "label": "Prostate Neuroendocrine Carcinoma",
     "id": "prostate-neuroendocrine-carcinoma",
-    "url": "/rows/prostate-neuroendocrine-carcinoma.html"
+    "url": "/concepts/prostate-neuroendocrine-carcinoma.html"
   },
   {
     "label": "Prostate Small Cell Carcinoma",
     "id": "prostate-small-cell-carcinoma",
-    "url": "/rows/prostate-small-cell-carcinoma.html"
+    "url": "/concepts/prostate-small-cell-carcinoma.html"
   },
   {
     "label": "Prostate Squamous Cell Carcinoma",
     "id": "prostate-squamous-cell-carcinoma",
-    "url": "/rows/prostate-squamous-cell-carcinoma.html"
+    "url": "/concepts/prostate-squamous-cell-carcinoma.html"
   },
   {
     "label": "Prostate Cancer",
     "id": "prostate",
-    "url": "/rows/prostate.html"
+    "url": "/concepts/prostate.html"
   },
   {
     "label": "Prostatectomy",
     "id": "prostatectomy",
-    "url": "/rows/prostatectomy.html"
+    "url": "/concepts/prostatectomy.html"
   },
   {
     "label": "Proximal-Type Epithelioid Sarcoma",
     "id": "proximal-type-epithelioid-sarcoma",
-    "url": "/rows/proximal-type-epithelioid-sarcoma.html"
+    "url": "/concepts/proximal-type-epithelioid-sarcoma.html"
   },
   {
     "label": "Pseudomyogenic Hemangioendothelioma",
     "id": "pseudomyogenic-hemangioendothelioma",
-    "url": "/rows/pseudomyogenic-hemangioendothelioma.html"
+    "url": "/concepts/pseudomyogenic-hemangioendothelioma.html"
   },
   {
     "label": "PubMed Central",
     "id": "pubmed-central",
-    "url": "/rows/pubmed-central.html"
+    "url": "/concepts/pubmed-central.html"
   },
   {
     "label": "PubMed",
     "id": "pubmed",
-    "url": "/rows/pubmed.html"
+    "url": "/concepts/pubmed.html"
   },
   {
     "label": "Pulmonary Lymphangiomyomatosis",
     "id": "pulmonary-lymphangiomyomatosis",
-    "url": "/rows/pulmonary-lymphangiomyomatosis.html"
+    "url": "/concepts/pulmonary-lymphangiomyomatosis.html"
   },
   {
     "label": "Pulmonary metastasectomy",
     "id": "pulmonary-metastasectomy",
-    "url": "/rows/pulmonary-metastasectomy.html"
+    "url": "/concepts/pulmonary-metastasectomy.html"
   },
   {
     "label": "Purdue Institute for Cancer Research",
     "id": "purdue-institute-for-cancer-research",
-    "url": "/rows/purdue-institute-for-cancer-research.html"
+    "url": "/concepts/purdue-institute-for-cancer-research.html"
   },
   {
     "label": "Pure Erythroid Leukemia",
     "id": "pure-erythroid-leukemia",
-    "url": "/rows/pure-erythroid-leukemia.html"
+    "url": "/concepts/pure-erythroid-leukemia.html"
   },
   {
     "label": "National Center for Cancer Care and Research",
     "id": "qatar-ncc",
-    "url": "/rows/qatar-ncc.html"
+    "url": "/concepts/qatar-ncc.html"
   },
   {
     "label": "QCancer",
     "id": "qcancer",
-    "url": "/rows/qcancer.html"
+    "url": "/concepts/qcancer.html"
   },
   {
     "label": "QCR",
     "id": "qcr-au",
-    "url": "/rows/qcr-au.html"
+    "url": "/concepts/qcr-au.html"
   },
   {
     "label": "Radiation-Associated Sarcoma",
     "id": "radiation-associated-sarcoma",
-    "url": "/rows/radiation-associated-sarcoma.html"
+    "url": "/concepts/radiation-associated-sarcoma.html"
   },
   {
     "label": "Radical Remission: Surviving Cancer Against All Odds",
     "id": "radical-remission-surviving-cancer-against-all-odds",
-    "url": "/rows/radical-remission-surviving-cancer-against-all-odds.html"
+    "url": "/concepts/radical-remission-surviving-cancer-against-all-odds.html"
   },
   {
     "label": "Radioembolization",
     "id": "radioembolization",
-    "url": "/rows/radioembolization.html"
+    "url": "/concepts/radioembolization.html"
   },
   {
     "label": "Radiofrequency ablation",
     "id": "radiofrequency-ablation",
-    "url": "/rows/radiofrequency-ablation.html"
+    "url": "/concepts/radiofrequency-ablation.html"
   },
   {
     "label": "Ranimustine",
     "id": "ranimustine",
-    "url": "/rows/ranimustine.html"
+    "url": "/concepts/ranimustine.html"
   },
   {
     "label": "RDCA",
     "id": "rdca-ci",
-    "url": "/rows/rdca-ci.html"
+    "url": "/concepts/rdca-ci.html"
   },
   {
     "label": "RDCA-DZ",
     "id": "rdca-dz",
-    "url": "/rows/rdca-dz.html"
+    "url": "/concepts/rdca-dz.html"
   },
   {
     "label": "RDCB",
     "id": "rdcb-mo",
-    "url": "/rows/rdcb-mo.html"
+    "url": "/concepts/rdcb-mo.html"
   },
   {
     "label": "RDCDB",
     "id": "rdcdb-cg",
-    "url": "/rows/rdcdb-cg.html"
+    "url": "/concepts/rdcdb-cg.html"
   },
   {
     "label": "RDCG",
     "id": "rdcg-gu",
-    "url": "/rows/rdcg-gu.html"
+    "url": "/concepts/rdcg-gu.html"
   },
   {
     "label": "rdclr",
     "id": "rdclr",
-    "url": "/rows/rdclr.html"
+    "url": "/concepts/rdclr.html"
   },
   {
     "label": "RDCM",
     "id": "rdcm-ma",
-    "url": "/rows/rdcm-ma.html"
+    "url": "/concepts/rdcm-ma.html"
   },
   {
     "label": "Rectal Adenocarcinoma",
     "id": "rectal-adenocarcinoma",
-    "url": "/rows/rectal-adenocarcinoma.html"
+    "url": "/concepts/rectal-adenocarcinoma.html"
   },
   {
     "label": "Refractory Cytopenia of Childhood",
     "id": "refractory-cytopenia-of-childhood",
-    "url": "/rows/refractory-cytopenia-of-childhood.html"
+    "url": "/concepts/refractory-cytopenia-of-childhood.html"
   },
   {
     "label": "Regeneron",
     "id": "regeneron",
-    "url": "/rows/regeneron.html"
+    "url": "/concepts/regeneron.html"
   },
   {
     "label": "Regorafenib",
     "id": "regorafenib",
-    "url": "/rows/regorafenib.html"
+    "url": "/concepts/regorafenib.html"
   },
   {
     "label": "Renal Angiomyolipoma",
     "id": "renal-angiomyolipoma",
-    "url": "/rows/renal-angiomyolipoma.html"
+    "url": "/concepts/renal-angiomyolipoma.html"
   },
   {
     "label": "Renal Cell Carcinoma",
     "id": "renal-cell-carcinoma",
-    "url": "/rows/renal-cell-carcinoma.html"
+    "url": "/concepts/renal-cell-carcinoma.html"
   },
   {
     "label": "Renal Clear Cell Carcinoma with Sarcomatoid Features",
     "id": "renal-clear-cell-carcinoma-with-sarcomatoid-features",
-    "url": "/rows/renal-clear-cell-carcinoma-with-sarcomatoid-features.html"
+    "url": "/concepts/renal-clear-cell-carcinoma-with-sarcomatoid-features.html"
   },
   {
     "label": "Renal Clear Cell Carcinoma",
     "id": "renal-clear-cell-carcinoma",
-    "url": "/rows/renal-clear-cell-carcinoma.html"
+    "url": "/concepts/renal-clear-cell-carcinoma.html"
   },
   {
     "label": "Renal Medullary Carcinoma",
     "id": "renal-medullary-carcinoma",
-    "url": "/rows/renal-medullary-carcinoma.html"
+    "url": "/concepts/renal-medullary-carcinoma.html"
   },
   {
     "label": "Renal Mucinous Tubular Spindle Cell Carcinoma",
     "id": "renal-mucinous-tubular-spindle-cell-carcinoma",
-    "url": "/rows/renal-mucinous-tubular-spindle-cell-carcinoma.html"
+    "url": "/concepts/renal-mucinous-tubular-spindle-cell-carcinoma.html"
   },
   {
     "label": "Renal Neuroendocrine Tumor",
     "id": "renal-neuroendocrine-tumor",
-    "url": "/rows/renal-neuroendocrine-tumor.html"
+    "url": "/concepts/renal-neuroendocrine-tumor.html"
   },
   {
     "label": "Renal Non-Clear Cell Carcinoma",
     "id": "renal-non-clear-cell-carcinoma",
-    "url": "/rows/renal-non-clear-cell-carcinoma.html"
+    "url": "/concepts/renal-non-clear-cell-carcinoma.html"
   },
   {
     "label": "Renal Oncocytoma",
     "id": "renal-oncocytoma",
-    "url": "/rows/renal-oncocytoma.html"
+    "url": "/concepts/renal-oncocytoma.html"
   },
   {
     "label": "Renal Small Cell Carcinoma",
     "id": "renal-small-cell-carcinoma",
-    "url": "/rows/renal-small-cell-carcinoma.html"
+    "url": "/concepts/renal-small-cell-carcinoma.html"
   },
   {
     "label": "Retinoblastoma",
     "id": "retinoblastoma",
-    "url": "/rows/retinoblastoma.html"
+    "url": "/concepts/retinoblastoma.html"
   },
   {
     "label": "Rhabdoid Cancer",
     "id": "rhabdoid-cancer",
-    "url": "/rows/rhabdoid-cancer.html"
+    "url": "/concepts/rhabdoid-cancer.html"
   },
   {
     "label": "Rhabdoid Meningioma",
     "id": "rhabdoid-meningioma",
-    "url": "/rows/rhabdoid-meningioma.html"
+    "url": "/concepts/rhabdoid-meningioma.html"
   },
   {
     "label": "Rhabdomyosarcoma",
     "id": "rhabdomyosarcoma",
-    "url": "/rows/rhabdomyosarcoma.html"
+    "url": "/concepts/rhabdomyosarcoma.html"
   },
   {
     "label": "Rivkin Center Risk Assessment Tool",
     "id": "rivkin-center-risk-assessment-tool",
-    "url": "/rows/rivkin-center-risk-assessment-tool.html"
+    "url": "/concepts/rivkin-center-risk-assessment-tool.html"
   },
   {
     "label": "Robert H. Lurie Comprehensive Cancer Center",
     "id": "robert-h-lurie-comprehensive-cancer-center",
-    "url": "/rows/robert-h-lurie-comprehensive-cancer-center.html"
+    "url": "/concepts/robert-h-lurie-comprehensive-cancer-center.html"
   },
   {
     "label": "Robotic-Assisted Bronchoscopy",
     "id": "robotic-assisted-bronchoscopy",
-    "url": "/rows/robotic-assisted-bronchoscopy.html"
+    "url": "/concepts/robotic-assisted-bronchoscopy.html"
   },
   {
     "label": "Roche",
     "id": "roche",
-    "url": "/rows/roche.html"
+    "url": "/concepts/roche.html"
   },
   {
     "label": "Romidepsin",
     "id": "romidepsin",
-    "url": "/rows/romidepsin.html"
+    "url": "/concepts/romidepsin.html"
   },
   {
     "label": "Rosai-Dorfman Disease",
     "id": "rosai-dorfman-disease",
-    "url": "/rows/rosai-dorfman-disease.html"
+    "url": "/concepts/rosai-dorfman-disease.html"
   },
   {
     "label": "Rosette-forming Glioneuronal Tumor of the Fourth Ventricle",
     "id": "rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle",
-    "url": "/rows/rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle.html"
+    "url": "/concepts/rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle.html"
   },
   {
     "label": "Roswell Park Comprehensive Cancer Center",
     "id": "roswell-park-comprehensive-cancer-center",
-    "url": "/rows/roswell-park-comprehensive-cancer-center.html"
+    "url": "/concepts/roswell-park-comprehensive-cancer-center.html"
   },
   {
     "label": "Round Cell Sarcoma, NOS",
     "id": "round-cell-sarcoma-nos",
-    "url": "/rows/round-cell-sarcoma-nos.html"
+    "url": "/concepts/round-cell-sarcoma-nos.html"
   },
   {
     "label": "RPCC",
     "id": "rpcc",
-    "url": "/rows/rpcc.html"
+    "url": "/concepts/rpcc.html"
   },
   {
     "label": "RPT",
     "id": "rpt-ar",
-    "url": "/rows/rpt-ar.html"
+    "url": "/concepts/rpt-ar.html"
   },
   {
     "label": "Rush University Medical Center",
     "id": "rush-university-medical-center",
-    "url": "/rows/rush-university-medical-center.html"
+    "url": "/concepts/rush-university-medical-center.html"
   },
   {
     "label": "Rutgers Cancer Institute of New Jersey",
     "id": "rutgers-cancer-institute-of-new-jersey",
-    "url": "/rows/rutgers-cancer-institute-of-new-jersey.html"
+    "url": "/concepts/rutgers-cancer-institute-of-new-jersey.html"
   },
   {
     "label": "SACR",
     "id": "sacr-au",
-    "url": "/rows/sacr-au.html"
+    "url": "/concepts/sacr-au.html"
   },
   {
     "label": "saecpcr",
     "id": "saecpcr-za",
-    "url": "/rows/saecpcr-za.html"
+    "url": "/concepts/saecpcr-za.html"
   },
   {
     "label": "Salivary Adenocarcinoma",
     "id": "salivary-adenocarcinoma",
-    "url": "/rows/salivary-adenocarcinoma.html"
+    "url": "/concepts/salivary-adenocarcinoma.html"
   },
   {
     "label": "Salivary Carcinoma, Other",
     "id": "salivary-carcinoma-other",
-    "url": "/rows/salivary-carcinoma-other.html"
+    "url": "/concepts/salivary-carcinoma-other.html"
   },
   {
     "label": "Salivary Carcinoma",
     "id": "salivary-carcinoma",
-    "url": "/rows/salivary-carcinoma.html"
+    "url": "/concepts/salivary-carcinoma.html"
   },
   {
     "label": "Salivary Duct Carcinoma",
     "id": "salivary-duct-carcinoma",
-    "url": "/rows/salivary-duct-carcinoma.html"
+    "url": "/concepts/salivary-duct-carcinoma.html"
   },
   {
     "label": "Salivary Gland Oncocytoma",
     "id": "salivary-gland-oncocytoma",
-    "url": "/rows/salivary-gland-oncocytoma.html"
+    "url": "/concepts/salivary-gland-oncocytoma.html"
   },
   {
     "label": "Salivary Gland-Type Tumor of the Lung",
     "id": "salivary-gland-type-tumor-of-the-lung",
-    "url": "/rows/salivary-gland-type-tumor-of-the-lung.html"
+    "url": "/concepts/salivary-gland-type-tumor-of-the-lung.html"
   },
   {
     "label": "Salk Institute Cancer Center",
     "id": "salk-institute-cancer-center",
-    "url": "/rows/salk-institute-cancer-center.html"
+    "url": "/concepts/salk-institute-cancer-center.html"
   },
   {
     "label": "Sanford Burnham Prebys Medical Discovery Institute",
     "id": "sanford-burnham-prebys-medical-discovery-institute",
-    "url": "/rows/sanford-burnham-prebys-medical-discovery-institute.html"
+    "url": "/concepts/sanford-burnham-prebys-medical-discovery-institute.html"
   },
   {
     "label": "Sanofi",
     "id": "sanofi",
-    "url": "/rows/sanofi.html"
+    "url": "/concepts/sanofi.html"
   },
   {
     "label": "Sarcoma, NOS",
     "id": "sarcoma-nos",
-    "url": "/rows/sarcoma-nos.html"
+    "url": "/concepts/sarcoma-nos.html"
   },
   {
     "label": "Sarcomatoid Carcinoma of the Lung",
     "id": "sarcomatoid-carcinoma-of-the-lung",
-    "url": "/rows/sarcomatoid-carcinoma-of-the-lung.html"
+    "url": "/concepts/sarcomatoid-carcinoma-of-the-lung.html"
   },
   {
     "label": "Sarcomatoid Carcinoma of the Urinary Bladder",
     "id": "sarcomatoid-carcinoma-of-the-urinary-bladder",
-    "url": "/rows/sarcomatoid-carcinoma-of-the-urinary-bladder.html"
+    "url": "/concepts/sarcomatoid-carcinoma-of-the-urinary-bladder.html"
   },
   {
     "label": "Sarcomatoid Renal Cell Carcinoma",
     "id": "sarcomatoid-renal-cell-carcinoma",
-    "url": "/rows/sarcomatoid-renal-cell-carcinoma.html"
+    "url": "/concepts/sarcomatoid-renal-cell-carcinoma.html"
   },
   {
     "label": "Satraplatin",
     "id": "satraplatin",
-    "url": "/rows/satraplatin.html"
+    "url": "/concepts/satraplatin.html"
   },
   {
     "label": "Sauna",
     "id": "sauna",
-    "url": "/rows/sauna.html"
+    "url": "/concepts/sauna.html"
   },
   {
     "label": "Stereotactic Body Radiation Therapy",
     "id": "sbrt",
-    "url": "/rows/sbrt.html"
+    "url": "/concepts/sbrt.html"
   },
   {
     "label": "Schwannoma",
     "id": "schwannoma",
-    "url": "/rows/schwannoma.html"
+    "url": "/concepts/schwannoma.html"
   },
   {
     "label": "Sclerosing Epithelioid Fibrosarcoma",
     "id": "sclerosing-epithelioid-fibrosarcoma",
-    "url": "/rows/sclerosing-epithelioid-fibrosarcoma.html"
+    "url": "/concepts/sclerosing-epithelioid-fibrosarcoma.html"
   },
   {
     "label": "SCR",
     "id": "scr-dz",
-    "url": "/rows/scr-dz.html"
+    "url": "/concepts/scr-dz.html"
   },
   {
     "label": "Seattle Children's Hospital",
     "id": "seattle-childrens-hospital",
-    "url": "/rows/seattle-childrens-hospital.html"
+    "url": "/concepts/seattle-childrens-hospital.html"
   },
   {
     "label": "Sebaceous Carcinoma",
     "id": "sebaceous-carcinoma",
-    "url": "/rows/sebaceous-carcinoma.html"
+    "url": "/concepts/sebaceous-carcinoma.html"
   },
   {
     "label": "Secondary Osteosarcoma",
     "id": "secondary-osteosarcoma",
-    "url": "/rows/secondary-osteosarcoma.html"
+    "url": "/concepts/secondary-osteosarcoma.html"
   },
   {
     "label": "SEER",
     "id": "seer",
-    "url": "/rows/seer.html"
+    "url": "/concepts/seer.html"
   },
   {
     "label": "Sellar Tumor",
     "id": "sellar-tumor",
-    "url": "/rows/sellar-tumor.html"
+    "url": "/concepts/sellar-tumor.html"
   },
   {
     "label": "Seminoma",
     "id": "seminoma",
-    "url": "/rows/seminoma.html"
+    "url": "/concepts/seminoma.html"
   },
   {
     "label": "Semustine",
     "id": "semustine",
-    "url": "/rows/semustine.html"
+    "url": "/concepts/semustine.html"
   },
   {
     "label": "Serene Hospice Care",
     "id": "serene-hospice-care",
-    "url": "/rows/serene-hospice-care.html"
+    "url": "/concepts/serene-hospice-care.html"
   },
   {
     "label": "Serous Borderline Ovarian Tumor, Micropapillary",
     "id": "serous-borderline-ovarian-tumor-micropapillary",
-    "url": "/rows/serous-borderline-ovarian-tumor-micropapillary.html"
+    "url": "/concepts/serous-borderline-ovarian-tumor-micropapillary.html"
   },
   {
     "label": "Serous Borderline Ovarian Tumor",
     "id": "serous-borderline-ovarian-tumor",
-    "url": "/rows/serous-borderline-ovarian-tumor.html"
+    "url": "/concepts/serous-borderline-ovarian-tumor.html"
   },
   {
     "label": "Serous Cystadenoma of the Pancreas",
     "id": "serous-cystadenoma-of-the-pancreas",
-    "url": "/rows/serous-cystadenoma-of-the-pancreas.html"
+    "url": "/concepts/serous-cystadenoma-of-the-pancreas.html"
   },
   {
     "label": "Serous Ovarian Cancer",
     "id": "serous-ovarian-cancer",
-    "url": "/rows/serous-ovarian-cancer.html"
+    "url": "/concepts/serous-ovarian-cancer.html"
   },
   {
     "label": "Sertoli-Leydig Cell Tumor",
     "id": "sertoli-leydig-cell-tumor",
-    "url": "/rows/sertoli-leydig-cell-tumor.html"
+    "url": "/concepts/sertoli-leydig-cell-tumor.html"
   },
   {
     "label": "Sex Cord Stromal Tumor Testis",
     "id": "sex-cord-stromal-tumor-testis",
-    "url": "/rows/sex-cord-stromal-tumor-testis.html"
+    "url": "/concepts/sex-cord-stromal-tumor-testis.html"
   },
   {
     "label": "Sex Cord Stromal Tumor",
     "id": "sex-cord-stromal-tumor",
-    "url": "/rows/sex-cord-stromal-tumor.html"
+    "url": "/concepts/sex-cord-stromal-tumor.html"
   },
   {
     "label": "Sezary Syndrome",
     "id": "sezary-syndrome",
-    "url": "/rows/sezary-syndrome.html"
+    "url": "/concepts/sezary-syndrome.html"
   },
   {
     "label": "Sialoblastoma",
     "id": "sialoblastoma",
-    "url": "/rows/sialoblastoma.html"
+    "url": "/concepts/sialoblastoma.html"
   },
   {
     "label": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
     "id": "sidney-kimmel-cancer-center-at-thomas-jefferson-university",
-    "url": "/rows/sidney-kimmel-cancer-center-at-thomas-jefferson-university.html"
+    "url": "/concepts/sidney-kimmel-cancer-center-at-thomas-jefferson-university.html"
   },
   {
     "label": "Sidney Kimmel Comprehensive Cancer Center",
     "id": "sidney-kimmel-comprehensive-cancer-center",
-    "url": "/rows/sidney-kimmel-comprehensive-cancer-center.html"
+    "url": "/concepts/sidney-kimmel-comprehensive-cancer-center.html"
   },
   {
     "label": "Sigmoidoscopy",
     "id": "sigmoidoscopy",
-    "url": "/rows/sigmoidoscopy.html"
+    "url": "/concepts/sigmoidoscopy.html"
   },
   {
     "label": "Signet Ring Cell Adenocarcinoma of the Colon and Rectum",
     "id": "signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum",
-    "url": "/rows/signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum.html"
+    "url": "/concepts/signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum.html"
   },
   {
     "label": "Signet Ring Cell Carcinoma of the Stomach",
     "id": "signet-ring-cell-carcinoma-of-the-stomach",
-    "url": "/rows/signet-ring-cell-carcinoma-of-the-stomach.html"
+    "url": "/concepts/signet-ring-cell-carcinoma-of-the-stomach.html"
   },
   {
     "label": "Signet Ring Cell Type of the Appendix",
     "id": "signet-ring-cell-type-of-the-appendix",
-    "url": "/rows/signet-ring-cell-type-of-the-appendix.html"
+    "url": "/concepts/signet-ring-cell-type-of-the-appendix.html"
   },
   {
     "label": "Signet Ring Mucinous Carcinoma",
     "id": "signet-ring-mucinous-carcinoma",
-    "url": "/rows/signet-ring-mucinous-carcinoma.html"
+    "url": "/concepts/signet-ring-mucinous-carcinoma.html"
   },
   {
     "label": "Sinonasal Adenocarcinoma",
     "id": "sinonasal-adenocarcinoma",
-    "url": "/rows/sinonasal-adenocarcinoma.html"
+    "url": "/concepts/sinonasal-adenocarcinoma.html"
   },
   {
     "label": "Sinonasal Squamous Cell Carcinoma",
     "id": "sinonasal-squamous-cell-carcinoma",
-    "url": "/rows/sinonasal-squamous-cell-carcinoma.html"
+    "url": "/concepts/sinonasal-squamous-cell-carcinoma.html"
   },
   {
     "label": "Sinonasal Undifferentiated Carcinoma",
     "id": "sinonasal-undifferentiated-carcinoma",
-    "url": "/rows/sinonasal-undifferentiated-carcinoma.html"
+    "url": "/concepts/sinonasal-undifferentiated-carcinoma.html"
   },
   {
     "label": "Sinopharm",
     "id": "sinopharm",
-    "url": "/rows/sinopharm.html"
+    "url": "/concepts/sinopharm.html"
   },
   {
     "label": "SITC",
     "id": "sitc",
-    "url": "/rows/sitc.html"
+    "url": "/concepts/sitc.html"
   },
   {
     "label": "Skin Adnexal Carcinoma",
     "id": "skin-adnexal-carcinoma",
-    "url": "/rows/skin-adnexal-carcinoma.html"
+    "url": "/concepts/skin-adnexal-carcinoma.html"
   },
   {
     "label": "Skin Cancer Subreddit",
     "id": "skin-cancer-subreddit",
-    "url": "/rows/skin-cancer-subreddit.html"
+    "url": "/concepts/skin-cancer-subreddit.html"
   },
   {
     "label": "Skin Cancer",
     "id": "skin",
-    "url": "/rows/skin.html"
+    "url": "/concepts/skin.html"
   },
   {
     "label": "Sleep",
     "id": "sleep",
-    "url": "/rows/sleep.html"
+    "url": "/concepts/sleep.html"
   },
   {
     "label": "Small Bowel Cancer",
     "id": "small-bowel-cancer",
-    "url": "/rows/small-bowel-cancer.html"
+    "url": "/concepts/small-bowel-cancer.html"
   },
   {
     "label": "Small Bowel Well-Differentiated Neuroendocrine Tumor",
     "id": "small-bowel-well-differentiated-neuroendocrine-tumor",
-    "url": "/rows/small-bowel-well-differentiated-neuroendocrine-tumor.html"
+    "url": "/concepts/small-bowel-well-differentiated-neuroendocrine-tumor.html"
   },
   {
     "label": "Small Cell Bladder Cancer",
     "id": "small-cell-bladder-cancer",
-    "url": "/rows/small-cell-bladder-cancer.html"
+    "url": "/concepts/small-cell-bladder-cancer.html"
   },
   {
     "label": "Small Cell Carcinoma of the Cervix",
     "id": "small-cell-carcinoma-of-the-cervix",
-    "url": "/rows/small-cell-carcinoma-of-the-cervix.html"
+    "url": "/concepts/small-cell-carcinoma-of-the-cervix.html"
   },
   {
     "label": "Small Cell Carcinoma of the Ovary",
     "id": "small-cell-carcinoma-of-the-ovary",
-    "url": "/rows/small-cell-carcinoma-of-the-ovary.html"
+    "url": "/concepts/small-cell-carcinoma-of-the-ovary.html"
   },
   {
     "label": "Small Cell Carcinoma of the Stomach",
     "id": "small-cell-carcinoma-of-the-stomach",
-    "url": "/rows/small-cell-carcinoma-of-the-stomach.html"
+    "url": "/concepts/small-cell-carcinoma-of-the-stomach.html"
   },
   {
     "label": "Small Cell Carcinoma of Unknown Primary",
     "id": "small-cell-carcinoma-of-unknown-primary",
-    "url": "/rows/small-cell-carcinoma-of-unknown-primary.html"
+    "url": "/concepts/small-cell-carcinoma-of-unknown-primary.html"
   },
   {
     "label": "Small Cell Gallbladder Carcinoma",
     "id": "small-cell-gallbladder-carcinoma",
-    "url": "/rows/small-cell-gallbladder-carcinoma.html"
+    "url": "/concepts/small-cell-gallbladder-carcinoma.html"
   },
   {
     "label": "Small Cell Glioblastoma",
     "id": "small-cell-glioblastoma",
-    "url": "/rows/small-cell-glioblastoma.html"
+    "url": "/concepts/small-cell-glioblastoma.html"
   },
   {
     "label": "Small Cell Lung Cancer",
     "id": "small-cell-lung-cancer",
-    "url": "/rows/small-cell-lung-cancer.html"
+    "url": "/concepts/small-cell-lung-cancer.html"
   },
   {
     "label": "Small Cell Osteosarcoma",
     "id": "small-cell-osteosarcoma",
-    "url": "/rows/small-cell-osteosarcoma.html"
+    "url": "/concepts/small-cell-osteosarcoma.html"
   },
   {
     "label": "Small Intestinal Carcinoma",
     "id": "small-intestinal-carcinoma",
-    "url": "/rows/small-intestinal-carcinoma.html"
+    "url": "/concepts/small-intestinal-carcinoma.html"
   },
   {
     "label": "Smoking Cessation",
     "id": "smoking-cessation",
-    "url": "/rows/smoking-cessation.html"
+    "url": "/concepts/smoking-cessation.html"
   },
   {
     "label": "Smoldering Systemic Mastocytosis",
     "id": "smoldering-systemic-mastocytosis",
-    "url": "/rows/smoldering-systemic-mastocytosis.html"
+    "url": "/concepts/smoldering-systemic-mastocytosis.html"
   },
   {
     "label": "Smooth Muscle Neoplasm, NOS",
     "id": "smooth-muscle-neoplasm-nos",
-    "url": "/rows/smooth-muscle-neoplasm-nos.html"
+    "url": "/concepts/smooth-muscle-neoplasm-nos.html"
   },
   {
     "label": "sncr",
     "id": "sncr-sy",
-    "url": "/rows/sncr-sy.html"
+    "url": "/concepts/sncr-sy.html"
   },
   {
     "label": "Soft Tissue Myoepithelial Carcinoma",
     "id": "soft-tissue-myoepithelial-carcinoma",
-    "url": "/rows/soft-tissue-myoepithelial-carcinoma.html"
+    "url": "/concepts/soft-tissue-myoepithelial-carcinoma.html"
   },
   {
     "label": "Soft Tissue",
     "id": "soft-tissue",
-    "url": "/rows/soft-tissue.html"
+    "url": "/concepts/soft-tissue.html"
   },
   {
     "label": "Solid Papillary Carcinoma of the Breast",
     "id": "solid-papillary-carcinoma-of-the-breast",
-    "url": "/rows/solid-papillary-carcinoma-of-the-breast.html"
+    "url": "/concepts/solid-papillary-carcinoma-of-the-breast.html"
   },
   {
     "label": "Solid Pseudopapillary Neoplasm of the Pancreas",
     "id": "solid-pseudopapillary-neoplasm-of-the-pancreas",
-    "url": "/rows/solid-pseudopapillary-neoplasm-of-the-pancreas.html"
+    "url": "/concepts/solid-pseudopapillary-neoplasm-of-the-pancreas.html"
   },
   {
     "label": "Solitary Fibrous Tumor/Hemangiopericytoma",
     "id": "solitary-fibrous-tumor-hemangiopericytoma",
-    "url": "/rows/solitary-fibrous-tumor-hemangiopericytoma.html"
+    "url": "/concepts/solitary-fibrous-tumor-hemangiopericytoma.html"
   },
   {
     "label": "Solitary Fibrous Tumor of the Central Nervous System",
     "id": "solitary-fibrous-tumor-of-the-central-nervous-system",
-    "url": "/rows/solitary-fibrous-tumor-of-the-central-nervous-system.html"
+    "url": "/concepts/solitary-fibrous-tumor-of-the-central-nervous-system.html"
   },
   {
     "label": "Solitary Plasmacytoma of Bone",
     "id": "solitary-plasmacytoma-of-bone",
-    "url": "/rows/solitary-plasmacytoma-of-bone.html"
+    "url": "/concepts/solitary-plasmacytoma-of-bone.html"
   },
   {
     "label": "Sorafenib",
     "id": "sorafenib",
-    "url": "/rows/sorafenib.html"
+    "url": "/concepts/sorafenib.html"
   },
   {
     "label": "Spindle Cell Carcinoma of the Lung",
     "id": "spindle-cell-carcinoma-of-the-lung",
-    "url": "/rows/spindle-cell-carcinoma-of-the-lung.html"
+    "url": "/concepts/spindle-cell-carcinoma-of-the-lung.html"
   },
   {
     "label": "Spindle Cell Oncocytoma of the Adenohypophysis",
     "id": "spindle-cell-oncocytoma-of-the-adenohypophysis",
-    "url": "/rows/spindle-cell-oncocytoma-of-the-adenohypophysis.html"
+    "url": "/concepts/spindle-cell-oncocytoma-of-the-adenohypophysis.html"
   },
   {
     "label": "Spindle Cell Rhabdomyosarcoma",
     "id": "spindle-cell-rhabdomyosarcoma",
-    "url": "/rows/spindle-cell-rhabdomyosarcoma.html"
+    "url": "/concepts/spindle-cell-rhabdomyosarcoma.html"
   },
   {
     "label": "Spindle Cell/Sclerosing Rhabdomyosarcoma",
     "id": "spindle-cell-sclerosing-rhabdomyosarcoma",
-    "url": "/rows/spindle-cell-sclerosing-rhabdomyosarcoma.html"
+    "url": "/concepts/spindle-cell-sclerosing-rhabdomyosarcoma.html"
   },
   {
     "label": "Spiroma/Spiradenoma",
     "id": "spiroma-spiradenoma",
-    "url": "/rows/spiroma-spiradenoma.html"
+    "url": "/concepts/spiroma-spiradenoma.html"
   },
   {
     "label": "Spitzoid Melanoma",
     "id": "spitzoid-melanoma",
-    "url": "/rows/spitzoid-melanoma.html"
+    "url": "/concepts/spitzoid-melanoma.html"
   },
   {
     "label": "Splenectomy",
     "id": "splenectomy",
-    "url": "/rows/splenectomy.html"
+    "url": "/concepts/splenectomy.html"
   },
   {
     "label": "Splenic B-Cell Lymphoma/Leukemia, Unclassifiable",
     "id": "splenic-b-cell-lymphoma-leukemia-unclassifiable",
-    "url": "/rows/splenic-b-cell-lymphoma-leukemia-unclassifiable.html"
+    "url": "/concepts/splenic-b-cell-lymphoma-leukemia-unclassifiable.html"
   },
   {
     "label": "Splenic Diffuse Red Pulp Small B-Cell Lymphoma",
     "id": "splenic-diffuse-red-pulp-small-b-cell-lymphoma",
-    "url": "/rows/splenic-diffuse-red-pulp-small-b-cell-lymphoma.html"
+    "url": "/concepts/splenic-diffuse-red-pulp-small-b-cell-lymphoma.html"
   },
   {
     "label": "Splenic Marginal Zone Lymphoma",
     "id": "splenic-marginal-zone-lymphoma",
-    "url": "/rows/splenic-marginal-zone-lymphoma.html"
+    "url": "/concepts/splenic-marginal-zone-lymphoma.html"
   },
   {
     "label": "Squamous Cell Carcinoma of the Vulva/Vagina",
     "id": "squamous-cell-carcinoma-of-the-vulva-vagina",
-    "url": "/rows/squamous-cell-carcinoma-of-the-vulva-vagina.html"
+    "url": "/concepts/squamous-cell-carcinoma-of-the-vulva-vagina.html"
   },
   {
     "label": "Squamous Cell Carcinoma",
     "id": "squamous-cell-carcinoma",
-    "url": "/rows/squamous-cell-carcinoma.html"
+    "url": "/concepts/squamous-cell-carcinoma.html"
   },
   {
     "label": "St. Jude Children's Research Hospital",
     "id": "st-jude-childrens-research-hospital",
-    "url": "/rows/st-jude-childrens-research-hospital.html"
+    "url": "/concepts/st-jude-childrens-research-hospital.html"
   },
   {
     "label": "Stanford Cancer Institute (SCI)",
     "id": "stanford-cancer-institute-sci",
-    "url": "/rows/stanford-cancer-institute-sci.html"
+    "url": "/concepts/stanford-cancer-institute-sci.html"
   },
   {
     "label": "Steam Bath",
     "id": "steam-bath",
-    "url": "/rows/steam-bath.html"
+    "url": "/concepts/steam-bath.html"
   },
   {
     "label": "Stephenson Cancer Center",
     "id": "stephenson-cancer-center",
-    "url": "/rows/stephenson-cancer-center.html"
+    "url": "/concepts/stephenson-cancer-center.html"
   },
   {
     "label": "Steroid Cell Tumor, NOS",
     "id": "steroid-cell-tumor-nos",
-    "url": "/rows/steroid-cell-tumor-nos.html"
+    "url": "/concepts/steroid-cell-tumor-nos.html"
   },
   {
     "label": "Stomach Adenocarcinoma",
     "id": "stomach-adenocarcinoma",
-    "url": "/rows/stomach-adenocarcinoma.html"
+    "url": "/concepts/stomach-adenocarcinoma.html"
   },
   {
     "label": "Stomach Cancer",
     "id": "stomach-cancer",
-    "url": "/rows/stomach-cancer.html"
+    "url": "/concepts/stomach-cancer.html"
   },
   {
     "label": "Streptozotocin",
     "id": "streptozotocin",
-    "url": "/rows/streptozotocin.html"
+    "url": "/concepts/streptozotocin.html"
   },
   {
     "label": "Stress Management",
     "id": "stress-management",
-    "url": "/rows/stress-management.html"
+    "url": "/concepts/stress-management.html"
   },
   {
     "label": "Subcutaneous administration",
     "id": "subcutaneous-administration",
-    "url": "/rows/subcutaneous-administration.html"
+    "url": "/concepts/subcutaneous-administration.html"
   },
   {
     "label": "Subcutaneous Panniculitis-Like T-Cell Lymphoma",
     "id": "subcutaneous-panniculitis-like-t-cell-lymphoma",
-    "url": "/rows/subcutaneous-panniculitis-like-t-cell-lymphoma.html"
+    "url": "/concepts/subcutaneous-panniculitis-like-t-cell-lymphoma.html"
   },
   {
     "label": "Subependymoma",
     "id": "subependymoma",
-    "url": "/rows/subependymoma.html"
+    "url": "/concepts/subependymoma.html"
   },
   {
     "label": "Susan G. Komen Breast Cancer Foundation",
     "id": "susan-g-komen",
-    "url": "/rows/susan-g-komen.html"
+    "url": "/concepts/susan-g-komen.html"
   },
   {
     "label": "Sweat Gland Adenocarcinoma",
     "id": "sweat-gland-adenocarcinoma",
-    "url": "/rows/sweat-gland-adenocarcinoma.html"
+    "url": "/concepts/sweat-gland-adenocarcinoma.html"
   },
   {
     "label": "Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma",
     "id": "sweat-gland-carcinoma-apocrine-eccrine-carcinoma",
-    "url": "/rows/sweat-gland-carcinoma-apocrine-eccrine-carcinoma.html"
+    "url": "/concepts/sweat-gland-carcinoma-apocrine-eccrine-carcinoma.html"
   },
   {
     "label": "Karolinska Institutet",
     "id": "sweden-nch",
-    "url": "/rows/sweden-nch.html"
+    "url": "/concepts/sweden-nch.html"
   },
   {
     "label": "Swedish Cancer Institute",
     "id": "swedish-cancer-institute",
-    "url": "/rows/swedish-cancer-institute.html"
+    "url": "/concepts/swedish-cancer-institute.html"
   },
   {
     "label": "SNCR",
     "id": "swedish-national-cancer-register",
-    "url": "/rows/swedish-national-cancer-register.html"
+    "url": "/concepts/swedish-national-cancer-register.html"
   },
   {
     "label": "Swiss Cancer League",
     "id": "swiss-cancer-league",
-    "url": "/rows/swiss-cancer-league.html"
+    "url": "/concepts/swiss-cancer-league.html"
   },
   {
     "label": "SWOG Cancer Research Network",
     "id": "swog",
-    "url": "/rows/swog.html"
+    "url": "/concepts/swog.html"
   },
   {
     "label": "Sylvester Comprehensive Cancer Center",
     "id": "sylvester-comprehensive-cancer-center",
-    "url": "/rows/sylvester-comprehensive-cancer-center.html"
+    "url": "/concepts/sylvester-comprehensive-cancer-center.html"
   },
   {
     "label": "Synovial Sarcoma",
     "id": "synovial-sarcoma",
-    "url": "/rows/synovial-sarcoma.html"
+    "url": "/concepts/synovial-sarcoma.html"
   },
   {
     "label": "Systemic EBV Positive T-Cell Lymphoma of Childhood",
     "id": "systemic-ebv-positive-t-cell-lymphoma-of-childhood",
-    "url": "/rows/systemic-ebv-positive-t-cell-lymphoma-of-childhood.html"
+    "url": "/concepts/systemic-ebv-positive-t-cell-lymphoma-of-childhood.html"
   },
   {
     "label": "Systemic Mastocytosis with an Associated Hematological Neoplasm",
     "id": "systemic-mastocytosis-with-an-associated-hematological-neoplasm",
-    "url": "/rows/systemic-mastocytosis-with-an-associated-hematological-neoplasm.html"
+    "url": "/concepts/systemic-mastocytosis-with-an-associated-hematological-neoplasm.html"
   },
   {
     "label": "Systemic Mastocytosis",
     "id": "systemic-mastocytosis",
-    "url": "/rows/systemic-mastocytosis.html"
+    "url": "/concepts/systemic-mastocytosis.html"
   },
   {
     "label": "T-Cell/Histiocyte-Rich Large B-Cell Lymphoma",
     "id": "t-cell-histiocyte-rich-large-b-cell-lymphoma",
-    "url": "/rows/t-cell-histiocyte-rich-large-b-cell-lymphoma.html"
+    "url": "/concepts/t-cell-histiocyte-rich-large-b-cell-lymphoma.html"
   },
   {
     "label": "T-Cell Large Granular Lymphocytic Leukemia",
     "id": "t-cell-large-granular-lymphocytic-leukemia",
-    "url": "/rows/t-cell-large-granular-lymphocytic-leukemia.html"
+    "url": "/concepts/t-cell-large-granular-lymphocytic-leukemia.html"
   },
   {
     "label": "T-Cell Prolymphocytic Leukemia",
     "id": "t-cell-prolymphocytic-leukemia",
-    "url": "/rows/t-cell-prolymphocytic-leukemia.html"
+    "url": "/concepts/t-cell-prolymphocytic-leukemia.html"
   },
   {
     "label": "T-Lymphoblastic Leukemia/Lymphoma",
     "id": "t-lymphoblastic-leukemia-lymphoma",
-    "url": "/rows/t-lymphoblastic-leukemia-lymphoma.html"
+    "url": "/concepts/t-lymphoblastic-leukemia-lymphoma.html"
   },
   {
     "label": "Tai chi",
     "id": "tai-chi",
-    "url": "/rows/tai-chi.html"
+    "url": "/concepts/tai-chi.html"
   },
   {
     "label": "Takeda Pharmaceutical Company",
     "id": "takeda",
-    "url": "/rows/takeda.html"
+    "url": "/concepts/takeda.html"
   },
   {
     "label": "Tamoxifen",
     "id": "tamoxifen",
-    "url": "/rows/tamoxifen.html"
+    "url": "/concepts/tamoxifen.html"
   },
   {
     "label": "Taxotere",
     "id": "taxotere",
-    "url": "/rows/taxotere.html"
+    "url": "/concepts/taxotere.html"
   },
   {
     "label": "TCGA",
     "id": "tcga",
-    "url": "/rows/tcga.html"
+    "url": "/concepts/tcga.html"
   },
   {
     "label": "TCR",
     "id": "tcr-au",
-    "url": "/rows/tcr-au.html"
+    "url": "/concepts/tcr-au.html"
   },
   {
     "label": "Telangiectatic Osteosarcoma",
     "id": "telangiectatic-osteosarcoma",
-    "url": "/rows/telangiectatic-osteosarcoma.html"
+    "url": "/concepts/telangiectatic-osteosarcoma.html"
   },
   {
     "label": "Temozolomide",
     "id": "temozolomide",
-    "url": "/rows/temozolomide.html"
+    "url": "/concepts/temozolomide.html"
   },
   {
     "label": "Teniposide",
     "id": "teniposide",
-    "url": "/rows/teniposide.html"
+    "url": "/concepts/teniposide.html"
   },
   {
     "label": "Tenosynovial Giant Cell Tumor Diffuse Type",
     "id": "tenosynovial-giant-cell-tumor-diffuse-type",
-    "url": "/rows/tenosynovial-giant-cell-tumor-diffuse-type.html"
+    "url": "/concepts/tenosynovial-giant-cell-tumor-diffuse-type.html"
   },
   {
     "label": "Teratoma",
     "id": "teratoma",
-    "url": "/rows/teratoma.html"
+    "url": "/concepts/teratoma.html"
   },
   {
     "label": "Tesetaxel",
     "id": "tesetaxel",
-    "url": "/rows/tesetaxel.html"
+    "url": "/concepts/tesetaxel.html"
   },
   {
     "label": "Testicular Lymphoma",
     "id": "testicular-lymphoma",
-    "url": "/rows/testicular-lymphoma.html"
+    "url": "/concepts/testicular-lymphoma.html"
   },
   {
     "label": "Testicular Mesothelioma",
     "id": "testicular-mesothelioma",
-    "url": "/rows/testicular-mesothelioma.html"
+    "url": "/concepts/testicular-mesothelioma.html"
   },
   {
     "label": "Testicular Cancer",
     "id": "testis",
-    "url": "/rows/testis.html"
+    "url": "/concepts/testis.html"
   },
   {
     "label": "Teva Pharmaceutical Industries Ltd.",
     "id": "teva",
-    "url": "/rows/teva.html"
+    "url": "/concepts/teva.html"
   },
   {
     "label": "The Barbara Ann Karmanos Cancer Institute",
     "id": "the-barbara-ann-karmanos-cancer-institute",
-    "url": "/rows/the-barbara-ann-karmanos-cancer-institute.html"
+    "url": "/concepts/the-barbara-ann-karmanos-cancer-institute.html"
   },
   {
     "label": "The Biology of Cancer",
     "id": "the-biology-of-cancer",
-    "url": "/rows/the-biology-of-cancer.html"
+    "url": "/concepts/the-biology-of-cancer.html"
   },
   {
     "label": "The Bright Hour: A Memoir of Living and Dying",
     "id": "the-bright-hour-a-memoir-of-living-and-dying",
-    "url": "/rows/the-bright-hour-a-memoir-of-living-and-dying.html"
+    "url": "/concepts/the-bright-hour-a-memoir-of-living-and-dying.html"
   },
   {
     "label": "The C Word",
     "id": "the-c-word",
-    "url": "/rows/the-c-word.html"
+    "url": "/concepts/the-c-word.html"
   },
   {
     "label": "The Cancer Journals",
     "id": "the-cancer-journals",
-    "url": "/rows/the-cancer-journals.html"
+    "url": "/concepts/the-cancer-journals.html"
   },
   {
     "label": "The Death of Cancer: After Fifty Years on the Front Lines of Medicine, a Pioneering Oncologist Reveals Why the War on Cancer Is Winnable--and How We Can Get There",
     "id": "the-death-of-cancer-book",
-    "url": "/rows/the-death-of-cancer-book.html"
+    "url": "/concepts/the-death-of-cancer-book.html"
   },
   {
     "label": "The Dog Cancer Survival Guide",
     "id": "the-dog-cancer-survival-guide",
-    "url": "/rows/the-dog-cancer-survival-guide.html"
+    "url": "/concepts/the-dog-cancer-survival-guide.html"
   },
   {
     "label": "The Eden Prescription: The war on cancer is not what you think...",
     "id": "the-eden-prescription-book",
-    "url": "/rows/the-eden-prescription-book.html"
+    "url": "/concepts/the-eden-prescription-book.html"
   },
   {
     "label": "The Effects of Herbs and Fruits on Leukaemia",
     "id": "the-effects-of-herbs-and-fruits-on-leukaemia",
-    "url": "/rows/the-effects-of-herbs-and-fruits-on-leukaemia.html"
+    "url": "/concepts/the-effects-of-herbs-and-fruits-on-leukaemia.html"
   },
   {
     "label": "The Hope Foundation For Cancer Research",
     "id": "the-hope-foundation",
-    "url": "/rows/the-hope-foundation.html"
+    "url": "/concepts/the-hope-foundation.html"
   },
   {
     "label": "The Hyve",
     "id": "the-hyve",
-    "url": "/rows/the-hyve.html"
+    "url": "/concepts/the-hyve.html"
   },
   {
     "label": "The Immortal Life of Henrietta Lacks",
     "id": "the-immortal-life-of-henrietta-lacks",
-    "url": "/rows/the-immortal-life-of-henrietta-lacks.html"
+    "url": "/concepts/the-immortal-life-of-henrietta-lacks.html"
   },
   {
     "label": "The Jackson Laboratory Cancer Center",
     "id": "the-jackson-laboratory-cancer-center",
-    "url": "/rows/the-jackson-laboratory-cancer-center.html"
+    "url": "/concepts/the-jackson-laboratory-cancer-center.html"
   },
   {
     "label": "The Lancet Oncology",
     "id": "the-lancet-oncology",
-    "url": "/rows/the-lancet-oncology.html"
+    "url": "/concepts/the-lancet-oncology.html"
   },
   {
     "label": "The Metabolic Approach to Cancer",
     "id": "the-metabolic-approach-to-cancer",
-    "url": "/rows/the-metabolic-approach-to-cancer.html"
+    "url": "/concepts/the-metabolic-approach-to-cancer.html"
   },
   {
     "label": "The Ohio State University Comprehensive Cancer Center",
     "id": "the-ohio-state-university-comprehensive-cancer-center",
-    "url": "/rows/the-ohio-state-university-comprehensive-cancer-center.html"
+    "url": "/concepts/the-ohio-state-university-comprehensive-cancer-center.html"
   },
   {
     "label": "The Skin Cancer Foundation",
     "id": "the-skin-cancer-foundation",
-    "url": "/rows/the-skin-cancer-foundation.html"
+    "url": "/concepts/the-skin-cancer-foundation.html"
   },
   {
     "label": "The Truth About Cancer",
     "id": "the-truth-about-cancer",
-    "url": "/rows/the-truth-about-cancer.html"
+    "url": "/concepts/the-truth-about-cancer.html"
   },
   {
     "label": "The Truth in Small Doses: Why We're Losing the War on Cancer-and How to Win It",
     "id": "the-truth-in-small-doses-book",
-    "url": "/rows/the-truth-in-small-doses-book.html"
+    "url": "/concepts/the-truth-in-small-doses-book.html"
   },
   {
     "label": "The University of Chicago Comprehensive Cancer Center",
     "id": "the-university-of-chicago-comprehensive-cancer-center",
-    "url": "/rows/the-university-of-chicago-comprehensive-cancer-center.html"
+    "url": "/concepts/the-university-of-chicago-comprehensive-cancer-center.html"
   },
   {
     "label": "The University of Kansas Cancer Center",
     "id": "the-university-of-kansas-cancer-center",
-    "url": "/rows/the-university-of-kansas-cancer-center.html"
+    "url": "/concepts/the-university-of-kansas-cancer-center.html"
   },
   {
     "label": "The Wistar Institute Cancer Center",
     "id": "the-wistar-institute-cancer-center",
-    "url": "/rows/the-wistar-institute-cancer-center.html"
+    "url": "/concepts/the-wistar-institute-cancer-center.html"
   },
   {
     "label": "Therapy-Related Acute Myeloid Leukemia",
     "id": "therapy-related-acute-myeloid-leukemia",
-    "url": "/rows/therapy-related-acute-myeloid-leukemia.html"
+    "url": "/concepts/therapy-related-acute-myeloid-leukemia.html"
   },
   {
     "label": "Therapy-Related Myelodysplastic Syndrome",
     "id": "therapy-related-myelodysplastic-syndrome",
-    "url": "/rows/therapy-related-myelodysplastic-syndrome.html"
+    "url": "/concepts/therapy-related-myelodysplastic-syndrome.html"
   },
   {
     "label": "Therapy-Related Myeloid Neoplasms",
     "id": "therapy-related-myeloid-neoplasms",
-    "url": "/rows/therapy-related-myeloid-neoplasms.html"
+    "url": "/concepts/therapy-related-myeloid-neoplasms.html"
   },
   {
     "label": "Thiotepa",
     "id": "thiotepa",
-    "url": "/rows/thiotepa.html"
+    "url": "/concepts/thiotepa.html"
   },
   {
     "label": "Thymic Carcinoma",
     "id": "thymic-carcinoma",
-    "url": "/rows/thymic-carcinoma.html"
+    "url": "/concepts/thymic-carcinoma.html"
   },
   {
     "label": "Thymic Epithelial Tumor",
     "id": "thymic-epithelial-tumor",
-    "url": "/rows/thymic-epithelial-tumor.html"
+    "url": "/concepts/thymic-epithelial-tumor.html"
   },
   {
     "label": "Thymic Neuroendocrine Tumor",
     "id": "thymic-neuroendocrine-tumor",
-    "url": "/rows/thymic-neuroendocrine-tumor.html"
+    "url": "/concepts/thymic-neuroendocrine-tumor.html"
   },
   {
     "label": "Thymoma",
     "id": "thymoma",
-    "url": "/rows/thymoma.html"
+    "url": "/concepts/thymoma.html"
   },
   {
     "label": "Thymus Cancer",
     "id": "thymus",
-    "url": "/rows/thymus.html"
+    "url": "/concepts/thymus.html"
   },
   {
     "label": "Thyroid Cancer Subreddit",
     "id": "thyroid-cancer-subreddit",
-    "url": "/rows/thyroid-cancer-subreddit.html"
+    "url": "/concepts/thyroid-cancer-subreddit.html"
   },
   {
     "label": "Thyroid Cancer",
     "id": "thyroid",
-    "url": "/rows/thyroid.html"
+    "url": "/concepts/thyroid.html"
   },
   {
     "label": "Thyroidectomy",
     "id": "thyroidectomy",
-    "url": "/rows/thyroidectomy.html"
+    "url": "/concepts/thyroidectomy.html"
   },
   {
     "label": "Tioguanine",
     "id": "tioguanine",
-    "url": "/rows/tioguanine.html"
+    "url": "/concepts/tioguanine.html"
   },
   {
     "label": "Tisch Cancer Institute",
     "id": "tisch-cancer-institute",
-    "url": "/rows/tisch-cancer-institute.html"
+    "url": "/concepts/tisch-cancer-institute.html"
   },
   {
     "label": "TLCR",
     "id": "tlcr-dz",
-    "url": "/rows/tlcr-dz.html"
+    "url": "/concepts/tlcr-dz.html"
   },
   {
     "label": "TOCR",
     "id": "tocr-dz",
-    "url": "/rows/tocr-dz.html"
+    "url": "/concepts/tocr-dz.html"
   },
   {
     "label": "Topical medication",
     "id": "topical-medication",
-    "url": "/rows/topical-medication.html"
+    "url": "/concepts/topical-medication.html"
   },
   {
     "label": "Topotecan",
     "id": "topotecan",
-    "url": "/rows/topotecan.html"
+    "url": "/concepts/topotecan.html"
   },
   {
     "label": "Toxin Advoidance",
     "id": "toxin-avoidance",
-    "url": "/rows/toxin-avoidance.html"
+    "url": "/concepts/toxin-avoidance.html"
   },
   {
     "label": "Transarterial Chemoembolization",
     "id": "transarterial-chemoembolization",
-    "url": "/rows/transarterial-chemoembolization.html"
+    "url": "/concepts/transarterial-chemoembolization.html"
   },
   {
     "label": "Transarterial Embolization",
     "id": "transarterial-embolization",
-    "url": "/rows/transarterial-embolization.html"
+    "url": "/concepts/transarterial-embolization.html"
   },
   {
     "label": "Transient Abnormal Myelopoiesis",
     "id": "transient-abnormal-myelopoiesis",
-    "url": "/rows/transient-abnormal-myelopoiesis.html"
+    "url": "/concepts/transient-abnormal-myelopoiesis.html"
   },
   {
     "label": "Translocation-Associated Renal Cell Carcinoma",
     "id": "translocation-associated-renal-cell-carcinoma",
-    "url": "/rows/translocation-associated-renal-cell-carcinoma.html"
+    "url": "/concepts/translocation-associated-renal-cell-carcinoma.html"
   },
   {
     "label": "Treosulfan",
     "id": "treosulfan",
-    "url": "/rows/treosulfan.html"
+    "url": "/concepts/treosulfan.html"
   },
   {
     "label": "Tretinoin",
     "id": "tretinoin",
-    "url": "/rows/tretinoin.html"
+    "url": "/concepts/tretinoin.html"
   },
   {
     "label": "Triaziquone",
     "id": "triaziquone",
-    "url": "/rows/triaziquone.html"
+    "url": "/concepts/triaziquone.html"
   },
   {
     "label": "Triethylenemelamine",
     "id": "triethylenemelamine",
-    "url": "/rows/triethylenemelamine.html"
+    "url": "/concepts/triethylenemelamine.html"
   },
   {
     "label": "Trofosfamide",
     "id": "trofosfamide",
-    "url": "/rows/trofosfamide.html"
+    "url": "/concepts/trofosfamide.html"
   },
   {
     "label": "Tubular Adenoma of the Colon",
     "id": "tubular-adenoma-of-the-colon",
-    "url": "/rows/tubular-adenoma-of-the-colon.html"
+    "url": "/concepts/tubular-adenoma-of-the-colon.html"
   },
   {
     "label": "Tubular Stomach Adenocarcinoma",
     "id": "tubular-stomach-adenocarcinoma",
-    "url": "/rows/tubular-stomach-adenocarcinoma.html"
+    "url": "/concepts/tubular-stomach-adenocarcinoma.html"
   },
   {
     "label": "UC Davis Comprehensive Cancer Center",
     "id": "uc-davis-comprehensive-cancer-center",
-    "url": "/rows/uc-davis-comprehensive-cancer-center.html"
+    "url": "/concepts/uc-davis-comprehensive-cancer-center.html"
   },
   {
     "label": "UCCC",
     "id": "uccc",
-    "url": "/rows/uccc.html"
+    "url": "/concepts/uccc.html"
   },
   {
     "label": "UCSF Helen Diller Family Comprehensive Cancer Center",
     "id": "ucsf-helen-diller-family-comprehensive-cancer-center",
-    "url": "/rows/ucsf-helen-diller-family-comprehensive-cancer-center.html"
+    "url": "/concepts/ucsf-helen-diller-family-comprehensive-cancer-center.html"
   },
   {
     "label": "UE LifeSciences",
     "id": "ue-lifesciences",
-    "url": "/rows/ue-lifesciences.html"
+    "url": "/concepts/ue-lifesciences.html"
   },
   {
     "label": "UICC",
     "id": "uicc",
-    "url": "/rows/uicc.html"
+    "url": "/concepts/uicc.html"
   },
   {
     "label": "Unified Medical Language System",
     "id": "umls",
-    "url": "/rows/umls.html"
+    "url": "/concepts/umls.html"
   },
   {
     "label": "United Nations",
     "id": "un",
-    "url": "/rows/un.html"
+    "url": "/concepts/un.html"
   },
   {
     "label": "UNC Lineberger Comprehensive Cancer Center",
     "id": "unc-lineberger-comprehensive-cancer-center",
-    "url": "/rows/unc-lineberger-comprehensive-cancer-center.html"
+    "url": "/concepts/unc-lineberger-comprehensive-cancer-center.html"
   },
   {
     "label": "Unclassified Renal Cell Carcinoma",
     "id": "unclassified-renal-cell-carcinoma",
-    "url": "/rows/unclassified-renal-cell-carcinoma.html"
+    "url": "/concepts/unclassified-renal-cell-carcinoma.html"
   },
   {
     "label": "Undifferentiated Carcinoma of the Pancreas",
     "id": "undifferentiated-carcinoma-of-the-pancreas",
-    "url": "/rows/undifferentiated-carcinoma-of-the-pancreas.html"
+    "url": "/concepts/undifferentiated-carcinoma-of-the-pancreas.html"
   },
   {
     "label": "Undifferentiated Embryonal Sarcoma of the Liver",
     "id": "undifferentiated-embryonal-sarcoma-of-the-liver",
-    "url": "/rows/undifferentiated-embryonal-sarcoma-of-the-liver.html"
+    "url": "/concepts/undifferentiated-embryonal-sarcoma-of-the-liver.html"
   },
   {
     "label": "Undifferentiated Malignant Neoplasm",
     "id": "undifferentiated-malignant-neoplasm",
-    "url": "/rows/undifferentiated-malignant-neoplasm.html"
+    "url": "/concepts/undifferentiated-malignant-neoplasm.html"
   },
   {
     "label": "Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma",
     "id": "undifferentiated-pleomorphic-sarcoma-malignant-fibrous-histiocytoma-high-grade-spindle-cell-sarcoma",
-    "url": "/rows/undifferentiated-pleomorphic-sarcoma-malignant-fibrous-histiocytoma-high-grade-spindle-cell-sarcoma.html"
+    "url": "/concepts/undifferentiated-pleomorphic-sarcoma-malignant-fibrous-histiocytoma-high-grade-spindle-cell-sarcoma.html"
   },
   {
     "label": "Undifferentiated Stomach Adenocarcinoma",
     "id": "undifferentiated-stomach-adenocarcinoma",
-    "url": "/rows/undifferentiated-stomach-adenocarcinoma.html"
+    "url": "/concepts/undifferentiated-stomach-adenocarcinoma.html"
   },
   {
     "label": "Undifferentiated Uterine Sarcoma",
     "id": "undifferentiated-uterine-sarcoma",
-    "url": "/rows/undifferentiated-uterine-sarcoma.html"
+    "url": "/concepts/undifferentiated-uterine-sarcoma.html"
   },
   {
     "label": "Unicancer",
     "id": "unicancer",
-    "url": "/rows/unicancer.html"
+    "url": "/concepts/unicancer.html"
   },
   {
     "label": "University of Colorado Cancer Center",
     "id": "university-of-colorado-cancer-center",
-    "url": "/rows/university-of-colorado-cancer-center.html"
+    "url": "/concepts/university-of-colorado-cancer-center.html"
   },
   {
     "label": "University of Hawaii Cancer Center",
     "id": "university-of-hawaii-cancer-center",
-    "url": "/rows/university-of-hawaii-cancer-center.html"
+    "url": "/concepts/university-of-hawaii-cancer-center.html"
   },
   {
     "label": "University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center",
     "id": "university-of-maryland-marlene-and-stewart-greenebaum-comprehensive-cancer-center",
-    "url": "/rows/university-of-maryland-marlene-and-stewart-greenebaum-comprehensive-cancer-center.html"
+    "url": "/concepts/university-of-maryland-marlene-and-stewart-greenebaum-comprehensive-cancer-center.html"
   },
   {
     "label": "University of Michigan Rogel Cancer Center",
     "id": "university-of-michigan-rogel-cancer-center",
-    "url": "/rows/university-of-michigan-rogel-cancer-center.html"
+    "url": "/concepts/university-of-michigan-rogel-cancer-center.html"
   },
   {
     "label": "University of New Mexico Cancer Research and Treatment Center",
     "id": "university-of-new-mexico-cancer-research-and-treatment-center",
-    "url": "/rows/university-of-new-mexico-cancer-research-and-treatment-center.html"
+    "url": "/concepts/university-of-new-mexico-cancer-research-and-treatment-center.html"
   },
   {
     "label": "University of Virginia Cancer Center",
     "id": "university-of-virginia-cancer-center",
-    "url": "/rows/university-of-virginia-cancer-center.html"
+    "url": "/concepts/university-of-virginia-cancer-center.html"
   },
   {
     "label": "University of Wisconsin Carbone Cancer Center",
     "id": "university-of-wisconsin-carbone-cancer-center",
-    "url": "/rows/university-of-wisconsin-carbone-cancer-center.html"
+    "url": "/concepts/university-of-wisconsin-carbone-cancer-center.html"
   },
   {
     "label": "UPMC Hillman Cancer Center",
     "id": "upmc-hillman-cancer-center",
-    "url": "/rows/upmc-hillman-cancer-center.html"
+    "url": "/concepts/upmc-hillman-cancer-center.html"
   },
   {
     "label": "Upper Tract Urothelial Carcinoma",
     "id": "upper-tract-urothelial-carcinoma",
-    "url": "/rows/upper-tract-urothelial-carcinoma.html"
+    "url": "/concepts/upper-tract-urothelial-carcinoma.html"
   },
   {
     "label": "Urachal Adenocarcinoma",
     "id": "urachal-adenocarcinoma",
-    "url": "/rows/urachal-adenocarcinoma.html"
+    "url": "/concepts/urachal-adenocarcinoma.html"
   },
   {
     "label": "Urachal Carcinoma",
     "id": "urachal-carcinoma",
-    "url": "/rows/urachal-carcinoma.html"
+    "url": "/concepts/urachal-carcinoma.html"
   },
   {
     "label": "Uramustine",
     "id": "uramustine",
-    "url": "/rows/uramustine.html"
+    "url": "/concepts/uramustine.html"
   },
   {
     "label": "Urethral Adenocarcinoma",
     "id": "urethral-adenocarcinoma",
-    "url": "/rows/urethral-adenocarcinoma.html"
+    "url": "/concepts/urethral-adenocarcinoma.html"
   },
   {
     "label": "Urethral Cancer",
     "id": "urethral-cancer",
-    "url": "/rows/urethral-cancer.html"
+    "url": "/concepts/urethral-cancer.html"
   },
   {
     "label": "Urethral Squamous Cell Carcinoma",
     "id": "urethral-squamous-cell-carcinoma",
-    "url": "/rows/urethral-squamous-cell-carcinoma.html"
+    "url": "/concepts/urethral-squamous-cell-carcinoma.html"
   },
   {
     "label": "Urethral Urothelial Carcinoma",
     "id": "urethral-urothelial-carcinoma",
-    "url": "/rows/urethral-urothelial-carcinoma.html"
+    "url": "/concepts/urethral-urothelial-carcinoma.html"
   },
   {
     "label": "Urothelial Papilloma",
     "id": "urothelial-papilloma",
-    "url": "/rows/urothelial-papilloma.html"
+    "url": "/concepts/urothelial-papilloma.html"
   },
   {
     "label": "USC Norris Comprehensive Cancer Center",
     "id": "usc-norris-comprehensive-cancer-center",
-    "url": "/rows/usc-norris-comprehensive-cancer-center.html"
+    "url": "/concepts/usc-norris-comprehensive-cancer-center.html"
   },
   {
     "label": "USCS",
     "id": "uscs",
-    "url": "/rows/uscs.html"
+    "url": "/concepts/uscs.html"
   },
   {
     "label": "Uterine Adenosarcoma",
     "id": "uterine-adenosarcoma",
-    "url": "/rows/uterine-adenosarcoma.html"
+    "url": "/concepts/uterine-adenosarcoma.html"
   },
   {
     "label": "Uterine Adenosquamous Carcinoma",
     "id": "uterine-adenosquamous-carcinoma",
-    "url": "/rows/uterine-adenosquamous-carcinoma.html"
+    "url": "/concepts/uterine-adenosquamous-carcinoma.html"
   },
   {
     "label": "Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor",
     "id": "uterine-carcinosarcoma-uterine-malignant-mixed-mullerian-tumor",
-    "url": "/rows/uterine-carcinosarcoma-uterine-malignant-mixed-mullerian-tumor.html"
+    "url": "/concepts/uterine-carcinosarcoma-uterine-malignant-mixed-mullerian-tumor.html"
   },
   {
     "label": "Uterine Clear Cell Carcinoma",
     "id": "uterine-clear-cell-carcinoma",
-    "url": "/rows/uterine-clear-cell-carcinoma.html"
+    "url": "/concepts/uterine-clear-cell-carcinoma.html"
   },
   {
     "label": "Uterine Dedifferentiated Carcinoma",
     "id": "uterine-dedifferentiated-carcinoma",
-    "url": "/rows/uterine-dedifferentiated-carcinoma.html"
+    "url": "/concepts/uterine-dedifferentiated-carcinoma.html"
   },
   {
     "label": "Uterine Endometrioid Carcinoma",
     "id": "uterine-endometrioid-carcinoma",
-    "url": "/rows/uterine-endometrioid-carcinoma.html"
+    "url": "/concepts/uterine-endometrioid-carcinoma.html"
   },
   {
     "label": "Uterine Epithelioid Leiomyosarcoma",
     "id": "uterine-epithelioid-leiomyosarcoma",
-    "url": "/rows/uterine-epithelioid-leiomyosarcoma.html"
+    "url": "/concepts/uterine-epithelioid-leiomyosarcoma.html"
   },
   {
     "label": "Uterine Leiomyoma",
     "id": "uterine-leiomyoma",
-    "url": "/rows/uterine-leiomyoma.html"
+    "url": "/concepts/uterine-leiomyoma.html"
   },
   {
     "label": "Uterine Leiomyosarcoma",
     "id": "uterine-leiomyosarcoma",
-    "url": "/rows/uterine-leiomyosarcoma.html"
+    "url": "/concepts/uterine-leiomyosarcoma.html"
   },
   {
     "label": "Uterine Mesonephric Carcinoma",
     "id": "uterine-mesonephric-carcinoma",
-    "url": "/rows/uterine-mesonephric-carcinoma.html"
+    "url": "/concepts/uterine-mesonephric-carcinoma.html"
   },
   {
     "label": "Uterine Mixed Endometrial Carcinoma",
     "id": "uterine-mixed-endometrial-carcinoma",
-    "url": "/rows/uterine-mixed-endometrial-carcinoma.html"
+    "url": "/concepts/uterine-mixed-endometrial-carcinoma.html"
   },
   {
     "label": "Uterine Mucinous Carcinoma",
     "id": "uterine-mucinous-carcinoma",
-    "url": "/rows/uterine-mucinous-carcinoma.html"
+    "url": "/concepts/uterine-mucinous-carcinoma.html"
   },
   {
     "label": "Uterine Myxoid Leiomyosarcoma",
     "id": "uterine-myxoid-leiomyosarcoma",
-    "url": "/rows/uterine-myxoid-leiomyosarcoma.html"
+    "url": "/concepts/uterine-myxoid-leiomyosarcoma.html"
   },
   {
     "label": "Uterine Neuroendocrine Carcinoma",
     "id": "uterine-neuroendocrine-carcinoma",
-    "url": "/rows/uterine-neuroendocrine-carcinoma.html"
+    "url": "/concepts/uterine-neuroendocrine-carcinoma.html"
   },
   {
     "label": "Uterine Perivascular Epithelioid Cell Tumor",
     "id": "uterine-perivascular-epithelioid-cell-tumor",
-    "url": "/rows/uterine-perivascular-epithelioid-cell-tumor.html"
+    "url": "/concepts/uterine-perivascular-epithelioid-cell-tumor.html"
   },
   {
     "label": "Uterine Sarcoma/Mesenchymal",
     "id": "uterine-sarcoma-mesenchymal",
-    "url": "/rows/uterine-sarcoma-mesenchymal.html"
+    "url": "/concepts/uterine-sarcoma-mesenchymal.html"
   },
   {
     "label": "Uterine Sarcoma, Other",
     "id": "uterine-sarcoma-other",
-    "url": "/rows/uterine-sarcoma-other.html"
+    "url": "/concepts/uterine-sarcoma-other.html"
   },
   {
     "label": "Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma",
     "id": "uterine-serous-carcinoma-uterine-papillary-serous-carcinoma",
-    "url": "/rows/uterine-serous-carcinoma-uterine-papillary-serous-carcinoma.html"
+    "url": "/concepts/uterine-serous-carcinoma-uterine-papillary-serous-carcinoma.html"
   },
   {
     "label": "Uterine Smooth Muscle Tumor of Uncertain Malignant Potential",
     "id": "uterine-smooth-muscle-tumor-of-uncertain-malignant-potential",
-    "url": "/rows/uterine-smooth-muscle-tumor-of-uncertain-malignant-potential.html"
+    "url": "/concepts/uterine-smooth-muscle-tumor-of-uncertain-malignant-potential.html"
   },
   {
     "label": "Uterine Smooth Muscle Tumor",
     "id": "uterine-smooth-muscle-tumor",
-    "url": "/rows/uterine-smooth-muscle-tumor.html"
+    "url": "/concepts/uterine-smooth-muscle-tumor.html"
   },
   {
     "label": "Uterine Undifferentiated Carcinoma",
     "id": "uterine-undifferentiated-carcinoma",
-    "url": "/rows/uterine-undifferentiated-carcinoma.html"
+    "url": "/concepts/uterine-undifferentiated-carcinoma.html"
   },
   {
     "label": "Uterine Cancer",
     "id": "uterus",
-    "url": "/rows/uterus.html"
+    "url": "/concepts/uterus.html"
   },
   {
     "label": "Uveal Melanoma",
     "id": "uveal-melanoma",
-    "url": "/rows/uveal-melanoma.html"
+    "url": "/concepts/uveal-melanoma.html"
   },
   {
     "label": "VACF",
     "id": "vacf",
-    "url": "/rows/vacf.html"
+    "url": "/concepts/vacf.html"
   },
   {
     "label": "Vaginal Adenocarcinoma",
     "id": "vaginal-adenocarcinoma",
-    "url": "/rows/vaginal-adenocarcinoma.html"
+    "url": "/concepts/vaginal-adenocarcinoma.html"
   },
   {
     "label": "Valrubicin",
     "id": "valrubicin",
-    "url": "/rows/valrubicin.html"
+    "url": "/concepts/valrubicin.html"
   },
   {
     "label": "Vanderbilt-Ingram Cancer Center",
     "id": "vanderbilt-ingram-cancer-center",
-    "url": "/rows/vanderbilt-ingram-cancer-center.html"
+    "url": "/concepts/vanderbilt-ingram-cancer-center.html"
   },
   {
     "label": "VATS",
     "id": "vats",
-    "url": "/rows/vats.html"
+    "url": "/concepts/vats.html"
   },
   {
     "label": "VCR",
     "id": "vcr-au",
-    "url": "/rows/vcr-au.html"
+    "url": "/concepts/vcr-au.html"
   },
   {
     "label": "Veganism",
     "id": "veganism",
-    "url": "/rows/veganism.html"
+    "url": "/concepts/veganism.html"
   },
   {
     "label": "Vegetarianism",
     "id": "vegetarianism",
-    "url": "/rows/vegetarianism.html"
+    "url": "/concepts/vegetarianism.html"
   },
   {
     "label": "Vemurafenib",
     "id": "vemurafenib",
-    "url": "/rows/vemurafenib.html"
+    "url": "/concepts/vemurafenib.html"
   },
   {
     "label": "Verrucous Penile Squamous Cell Carcinoma",
     "id": "verrucous-penile-squamous-cell-carcinoma",
-    "url": "/rows/verrucous-penile-squamous-cell-carcinoma.html"
+    "url": "/concepts/verrucous-penile-squamous-cell-carcinoma.html"
   },
   {
     "label": "Viatris",
     "id": "viatris",
-    "url": "/rows/viatris.html"
+    "url": "/concepts/viatris.html"
   },
   {
     "label": "Villoglandular Adenocarcinoma of the Cervix",
     "id": "villoglandular-adenocarcinoma-of-the-cervix",
-    "url": "/rows/villoglandular-adenocarcinoma-of-the-cervix.html"
+    "url": "/concepts/villoglandular-adenocarcinoma-of-the-cervix.html"
   },
   {
     "label": "Villoglandular Carcinoma",
     "id": "villoglandular-carcinoma",
-    "url": "/rows/villoglandular-carcinoma.html"
+    "url": "/concepts/villoglandular-carcinoma.html"
   },
   {
     "label": "Vinblastine",
     "id": "vinblastine",
-    "url": "/rows/vinblastine.html"
+    "url": "/concepts/vinblastine.html"
   },
   {
     "label": "Vincristine",
     "id": "vincristine",
-    "url": "/rows/vincristine.html"
+    "url": "/concepts/vincristine.html"
   },
   {
     "label": "Vindesine",
     "id": "vindesine",
-    "url": "/rows/vindesine.html"
+    "url": "/concepts/vindesine.html"
   },
   {
     "label": "Vinorelbine",
     "id": "vinorelbine",
-    "url": "/rows/vinorelbine.html"
+    "url": "/concepts/vinorelbine.html"
   },
   {
     "label": "Vismodegib",
     "id": "vismodegib",
-    "url": "/rows/vismodegib.html"
+    "url": "/concepts/vismodegib.html"
   },
   {
     "label": "Vitamin A",
     "id": "vitamin-a",
-    "url": "/rows/vitamin-a.html"
+    "url": "/concepts/vitamin-a.html"
   },
   {
     "label": "Vitamin B",
     "id": "vitamin-b",
-    "url": "/rows/vitamin-b.html"
+    "url": "/concepts/vitamin-b.html"
   },
   {
     "label": "Vitamin C",
     "id": "vitamin-c",
-    "url": "/rows/vitamin-c.html"
+    "url": "/concepts/vitamin-c.html"
   },
   {
     "label": "Vitamin D",
     "id": "vitamin-d",
-    "url": "/rows/vitamin-d.html"
+    "url": "/concepts/vitamin-d.html"
   },
   {
     "label": "Vorinostat",
     "id": "vorinostat",
-    "url": "/rows/vorinostat.html"
+    "url": "/concepts/vorinostat.html"
   },
   {
     "label": "Vulva and Vaginal Cancers",
     "id": "vulva-vagina",
-    "url": "/rows/vulva-vagina.html"
+    "url": "/concepts/vulva-vagina.html"
   },
   {
     "label": "WACANREG",
     "id": "wacanreg",
-    "url": "/rows/wacanreg.html"
+    "url": "/concepts/wacanreg.html"
   },
   {
     "label": "Wake Forest Baptist Comprehensive Cancer Center",
     "id": "wake-forest-baptist-comprehensive-cancer-center",
-    "url": "/rows/wake-forest-baptist-comprehensive-cancer-center.html"
+    "url": "/concepts/wake-forest-baptist-comprehensive-cancer-center.html"
   },
   {
     "label": "Waldenstrom Macroglobulinemia",
     "id": "waldenstrom-macroglobulinemia",
-    "url": "/rows/waldenstrom-macroglobulinemia.html"
+    "url": "/concepts/waldenstrom-macroglobulinemia.html"
   },
   {
     "label": "Warty Penile Squamous Cell Carcinoma",
     "id": "warty-penile-squamous-cell-carcinoma",
-    "url": "/rows/warty-penile-squamous-cell-carcinoma.html"
+    "url": "/concepts/warty-penile-squamous-cell-carcinoma.html"
   },
   {
     "label": "World Cancer Research Fund UK",
     "id": "wcrf-uk",
-    "url": "/rows/wcrf-uk.html"
+    "url": "/concepts/wcrf-uk.html"
   },
   {
     "label": "WCRF",
     "id": "wcrf",
-    "url": "/rows/wcrf.html"
+    "url": "/concepts/wcrf.html"
   },
   {
     "label": "Weight loss",
     "id": "weight-loss",
-    "url": "/rows/weight-loss.html"
+    "url": "/concepts/weight-loss.html"
   },
   {
     "label": "Well-Differentiated Liposarcoma",
     "id": "well-differentiated-liposarcoma",
-    "url": "/rows/well-differentiated-liposarcoma.html"
+    "url": "/concepts/well-differentiated-liposarcoma.html"
   },
   {
     "label": "Well-Differentiated Neuroendocrine Tumor of the Appendix",
     "id": "well-differentiated-neuroendocrine-tumor-of-the-appendix",
-    "url": "/rows/well-differentiated-neuroendocrine-tumor-of-the-appendix.html"
+    "url": "/concepts/well-differentiated-neuroendocrine-tumor-of-the-appendix.html"
   },
   {
     "label": "Well-Differentiated Neuroendocrine Tumor of the Rectum",
     "id": "well-differentiated-neuroendocrine-tumor-of-the-rectum",
-    "url": "/rows/well-differentiated-neuroendocrine-tumor-of-the-rectum.html"
+    "url": "/concepts/well-differentiated-neuroendocrine-tumor-of-the-rectum.html"
   },
   {
     "label": "Well-Differentiated Neuroendocrine Tumors of the Stomach",
     "id": "well-differentiated-neuroendocrine-tumors-of-the-stomach",
-    "url": "/rows/well-differentiated-neuroendocrine-tumors-of-the-stomach.html"
+    "url": "/concepts/well-differentiated-neuroendocrine-tumors-of-the-stomach.html"
   },
   {
     "label": "Well-Differentiated Thyroid Cancer",
     "id": "well-differentiated-thyroid-cancer",
-    "url": "/rows/well-differentiated-thyroid-cancer.html"
+    "url": "/concepts/well-differentiated-thyroid-cancer.html"
   },
   {
     "label": "When Breath Becomes Air",
     "id": "when-breath-becomes-air",
-    "url": "/rows/when-breath-becomes-air.html"
+    "url": "/concepts/when-breath-becomes-air.html"
   },
   {
     "label": "World Health Organization",
     "id": "who",
-    "url": "/rows/who.html"
+    "url": "/concepts/who.html"
   },
   {
     "label": "Wilms' Tumor",
     "id": "wilms-tumor",
-    "url": "/rows/wilms-tumor.html"
+    "url": "/concepts/wilms-tumor.html"
   },
   {
     "label": "Wim Hof Method",
     "id": "wim-hof-method",
-    "url": "/rows/wim-hof-method.html"
+    "url": "/concepts/wim-hof-method.html"
   },
   {
     "label": "Winning the War on Cancer: The Epic Journey Towards a Natural Cure",
     "id": "winning-the-war-on-cancer-the-epic-journey-towards-a-natural-cure-book",
-    "url": "/rows/winning-the-war-on-cancer-the-epic-journey-towards-a-natural-cure-book.html"
+    "url": "/concepts/winning-the-war-on-cancer-the-epic-journey-towards-a-natural-cure-book.html"
   },
   {
     "label": "Winship Cancer Institute",
     "id": "winship-cancer-institute",
-    "url": "/rows/winship-cancer-institute.html"
+    "url": "/concepts/winship-cancer-institute.html"
   },
   {
     "label": "WKOF",
     "id": "wkof",
-    "url": "/rows/wkof.html"
+    "url": "/concepts/wkof.html"
   },
   {
     "label": "World Cancer Day",
     "id": "world-cancer-day",
-    "url": "/rows/world-cancer-day.html"
+    "url": "/concepts/world-cancer-day.html"
   },
   {
     "label": "World Lymphoma Awareness Day",
     "id": "world-lymphoma-awareness-day",
-    "url": "/rows/world-lymphoma-awareness-day.html"
+    "url": "/concepts/world-lymphoma-awareness-day.html"
   },
   {
     "label": "Yale Cancer Center",
     "id": "yale-cancer-center",
-    "url": "/rows/yale-cancer-center.html"
+    "url": "/concepts/yale-cancer-center.html"
   },
   {
     "label": "Introduction to Breast Cancer",
     "id": "yale-introduction-to-breast-cancer",
-    "url": "/rows/yale-introduction-to-breast-cancer.html"
+    "url": "/concepts/yale-introduction-to-breast-cancer.html"
   },
   {
     "label": "Yoga",
     "id": "yoga",
-    "url": "/rows/yoga.html"
+    "url": "/concepts/yoga.html"
   },
   {
     "label": "Yolk Sac Tumor CNS/Brain",
     "id": "yolk-sac-tumor-cns-brain",
-    "url": "/rows/yolk-sac-tumor-cns-brain.html"
+    "url": "/concepts/yolk-sac-tumor-cns-brain.html"
   },
   {
     "label": "Yolk Sac Tumor Testis",
     "id": "yolk-sac-tumor-testis",
-    "url": "/rows/yolk-sac-tumor-testis.html"
+    "url": "/concepts/yolk-sac-tumor-testis.html"
   },
   {
     "label": "Yolk Sac Tumor Vulva/Vagina",
     "id": "yolk-sac-tumor-vulva-vagina",
-    "url": "/rows/yolk-sac-tumor-vulva-vagina.html"
+    "url": "/concepts/yolk-sac-tumor-vulva-vagina.html"
   },
   {
     "label": "Yolk Sac Tumor",
     "id": "yolk-sac-tumor",
-    "url": "/rows/yolk-sac-tumor.html"
+    "url": "/concepts/yolk-sac-tumor.html"
   },
   {
     "label": "Your Disease Risk",
     "id": "your-disease-risk",
-    "url": "/rows/your-disease-risk.html"
+    "url": "/concepts/your-disease-risk.html"
   },
   {
     "label": "zmncr",
     "id": "zmncr-zm",
-    "url": "/rows/zmncr-zm.html"
+    "url": "/concepts/zmncr-zm.html"
   },
   {
     "label": "zncr",
     "id": "zncr-zw",
-    "url": "/rows/zncr-zw.html"
+    "url": "/concepts/zncr-zw.html"
   },
   {
     "label": "Zorubicin",
     "id": "zorubicin",
-    "url": "/rows/zorubicin.html"
+    "url": "/concepts/zorubicin.html"
   }
 ]
 
@@ -24896,7 +24896,7 @@ lengthParser
  extends abstractComputedSumColumnParser
  // todo: bug the below line should be included via inheritance from WWC.
  boolean suggestInAutocomplete false
- description How many top level columns do we have about this?
+ description How many top level questions do we have about this?
 abstractYearColumnParser
  cells columnNameCell yearCell
  extends abstractIntColumnParser
@@ -26241,7 +26241,7 @@ class TrueBaseBrowserApp {
     if (data.error) return (document.getElementById("formHolder").innerHTML = data.error)
 
     const id = this.currentFileId
-    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/rows/${id}.html">${filename}</a></i>`
+    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/concepts/${id}.html">${filename}</a></i>`
 
     this.codeMirrorInstance.setValue(localValue ? localValue.childrenToString() : data.content)
     const title = new TreeNode(this.value).get("title") || filename

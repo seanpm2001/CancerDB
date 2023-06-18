@@ -1,0 +1,28 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/encr-sw.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav encapsulated-glioma.html endocervical-adenocarcinoma.html
+<a class="trueBaseThemePreviousItem" href="encapsulated-glioma.html">&lt;</a><a class="trueBaseThemeNextItem" href="endocervical-adenocarcinoma.html">&gt;</a>
+
+title ENCR
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=encr-sw" class="material-symbols-outlined">edit</a></div>
+
+The Swaziland ministry of Health,re-established a cancer registry in August 2015 and implemented a national cancer registry. In October 2015, reporting requirements were established for the SNCR which obliged all data sources including both public and private hospitals and laboratory providing diagnosis, treatment or any cancer management to make the data available as requested by the registry.Its vision is To improve the health status of Swazi population through early notification and improving the conditions of cancer patients and their families.Its Mission is to record and report all diagnosed cancer cases among the residents of Swaziland, by exploring all possible data sources in Swaziland and beyond.
+
+- Read more about ENCR on <a href="https://afcrn.org/index.php/membership/membership-list/146-eswatinincr">afcrn.org</a>
+
+code
+ title ENCR
+ type registry
+ standsFor Eswatini National Cancer Registry
+ description The Swaziland ministry of Health,re-established a cancer registry in August 2015 and implemented a national cancer registry. In October 2015, reporting requirements were established for the SNCR which obliged all data sources including both public and private hospitals and laboratory providing diagnosis, treatment or any cancer management to make the data available as requested by the registry.Its vision is To improve the health status of Swazi population through early notification and improving the conditions of cancer patients and their families.Its Mission is to record and report all diagnosed cancer cases among the residents of Swaziland, by exploring all possible data sources in Swaziland and beyond.
+ 
+ reference https://afcrn.org/index.php/membership/membership-list/146-eswatinincr
+ 
+ country Swaziland
+ 
+
+import ../footer.scroll

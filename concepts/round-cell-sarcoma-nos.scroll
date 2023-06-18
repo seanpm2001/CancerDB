@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/round-cell-sarcoma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav roswell-park-comprehensive-cancer-center.html rpcc.html
+<a class="trueBaseThemePreviousItem" href="roswell-park-comprehensive-cancer-center.html">&lt;</a><a class="trueBaseThemeNextItem" href="rpcc.html">&gt;</a>
+
+title Round Cell Sarcoma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=round-cell-sarcoma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Round Cell Sarcoma, NOS is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Round Cell Sarcoma, NOS
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId RCSNOS
+ parentOncoTreeId SOFT_TISSUE
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1266,7 +1266,7 @@ lengthParser
  extends abstractComputedSumColumnParser
  // todo: bug the below line should be included via inheritance from WWC.
  boolean suggestInAutocomplete false
- description How many top level columns do we have about this?
+ description How many top level questions do we have about this?
 abstractYearColumnParser
  cells columnNameCell yearCell
  extends abstractIntColumnParser

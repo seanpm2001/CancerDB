@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/mature-teratoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav mature-teratoma-vulva-vagina.html mayo-clinic-jacksonville.html
+<a class="trueBaseThemePreviousItem" href="mature-teratoma-vulva-vagina.html">&lt;</a><a class="trueBaseThemeNextItem" href="mayo-clinic-jacksonville.html">&gt;</a>
+
+title Mature Teratoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mature-teratoma" class="material-symbols-outlined">edit</a></div>
+
+* Mature Teratoma is a type of <a href="/concepts/ovarian-germ-cell-tumor.html">Ovarian Germ Cell Tumor</a>
+
+code
+ title Mature Teratoma
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId OMT
+ parentOncoTreeId OGCT
+ umls C1334637
+ nciCode C8112
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

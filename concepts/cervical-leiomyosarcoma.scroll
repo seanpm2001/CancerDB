@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/cervical-leiomyosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav cervical-endometrioid-carcinoma.html cervical-neuroendocrine-tumor.html
+<a class="trueBaseThemePreviousItem" href="cervical-endometrioid-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="cervical-neuroendocrine-tumor.html">&gt;</a>
+
+title Cervical Leiomyosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cervical-leiomyosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Cervical Leiomyosarcoma is a type of <a href="/concepts/cervix.html">Cervical Cancer</a>
+
+code
+ title Cervical Leiomyosarcoma
+ type cancerType
+ mainType Cervical Cancer
+ tissue Cervix
+ 
+ oncoTreeId CELI
+ parentOncoTreeId CERVIX
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

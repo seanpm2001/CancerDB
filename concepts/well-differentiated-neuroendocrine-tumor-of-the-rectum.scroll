@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/well-differentiated-neuroendocrine-tumor-of-the-rectum.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav well-differentiated-neuroendocrine-tumor-of-the-appendix.html well-differentiated-neuroendocrine-tumors-of-the-stomach.html
+<a class="trueBaseThemePreviousItem" href="well-differentiated-neuroendocrine-tumor-of-the-appendix.html">&lt;</a><a class="trueBaseThemeNextItem" href="well-differentiated-neuroendocrine-tumors-of-the-stomach.html">&gt;</a>
+
+title Well-Differentiated Neuroendocrine Tumor of the Rectum
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=well-differentiated-neuroendocrine-tumor-of-the-rectum" class="material-symbols-outlined">edit</a></div>
+
+* Well-Differentiated Neuroendocrine Tumor of the Rectum is a type of <a href="/concepts/gastrointestinal-neuroendocrine-tumors.html">Gastrointestinal Neuroendocrine Tumors</a>
+
+code
+ title Well-Differentiated Neuroendocrine Tumor of the Rectum
+ type cancerType
+ mainType Gastrointestinal Neuroendocrine Tumor
+ tissue Bowel
+ 
+ oncoTreeId RWDNET
+ parentOncoTreeId GINET
+ umls C3272610
+ nciCode C96159
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

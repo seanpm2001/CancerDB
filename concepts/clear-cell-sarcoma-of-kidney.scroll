@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/clear-cell-sarcoma-of-kidney.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav clear-cell-papillary-renal-cell-carcinoma.html clear-cell-sarcoma.html
+<a class="trueBaseThemePreviousItem" href="clear-cell-papillary-renal-cell-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="clear-cell-sarcoma.html">&gt;</a>
+
+title Clear Cell Sarcoma of Kidney
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=clear-cell-sarcoma-of-kidney" class="material-symbols-outlined">edit</a></div>
+
+* Clear Cell Sarcoma of Kidney is a type of <a href="/concepts/kidney.html">Kidney Cancer</a>
+
+code
+ title Clear Cell Sarcoma of Kidney
+ type cancerType
+ mainType Clear Cell Sarcoma of Kidney
+ tissue Kidney
+ 
+ oncoTreeId CCSK
+ parentOncoTreeId KIDNEY
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

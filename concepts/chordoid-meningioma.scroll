@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/chordoid-meningioma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chordoid-glioma-of-the-third-ventricle.html chordoma.html
+<a class="trueBaseThemePreviousItem" href="chordoid-glioma-of-the-third-ventricle.html">&lt;</a><a class="trueBaseThemeNextItem" href="chordoma.html">&gt;</a>
+
+title Chordoid Meningioma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chordoid-meningioma" class="material-symbols-outlined">edit</a></div>
+
+* Chordoid Meningioma is a type of <a href="/concepts/meningothelial-tumor.html">Meningothelial Tumor</a>
+
+code
+ title Chordoid Meningioma
+ type cancerType
+ mainType CNS Cancer
+ tissue CNS/Brain
+ 
+ oncoTreeId CHOM
+ parentOncoTreeId MNGT
+ umls C1370510
+ nciCode C6908
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

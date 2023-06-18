@@ -1,0 +1,33 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/conjunctival-melanoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav congenital-nevus.html conventional-type-chordoma.html
+<a class="trueBaseThemePreviousItem" href="congenital-nevus.html">&lt;</a><a class="trueBaseThemeNextItem" href="conventional-type-chordoma.html">&gt;</a>
+
+title Conjunctival Melanoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=conjunctival-melanoma" class="material-symbols-outlined">edit</a></div>
+
+* Conjunctival Melanoma is a type of <a href="/concepts/ocular-melanoma.html">Ocular Melanoma</a>
+
+- Read more about Conjunctival Melanoma on <a href="https://www.aao.org/education/current-insight/conjunctival-melanoma-rare-deadly">aao.org</a>
+
+code
+ title Conjunctival Melanoma
+ type cancerType
+ mainType Melanoma
+ tissue Eye
+ 
+ oncoTreeId CM
+ parentOncoTreeId OM
+ umls C0346360
+ nciCode C4550
+ oncoTreeLevel 3
+ subTypes 0
+ 
+ reference https://www.aao.org/education/current-insight/conjunctival-melanoma-rare-deadly
+ 
+
+import ../footer.scroll

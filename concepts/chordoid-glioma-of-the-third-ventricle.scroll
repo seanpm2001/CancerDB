@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/chordoid-glioma-of-the-third-ventricle.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav chondrosarcoma.html chordoid-meningioma.html
+<a class="trueBaseThemePreviousItem" href="chondrosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="chordoid-meningioma.html">&gt;</a>
+
+title Chordoid Glioma of the Third Ventricle
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=chordoid-glioma-of-the-third-ventricle" class="material-symbols-outlined">edit</a></div>
+
+* Chordoid Glioma of the Third Ventricle is a type of <a href="/concepts/miscellaneous-neuroepithelial-tumor.html">Miscellaneous Neuroepithelial Tumor</a>
+
+code
+ title Chordoid Glioma of the Third Ventricle
+ type cancerType
+ mainType Miscellaneous Neuroepithelial Tumor
+ tissue CNS/Brain
+ 
+ oncoTreeId CHGL
+ parentOncoTreeId MNET
+ umls C1322252
+ nciCode C5592
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

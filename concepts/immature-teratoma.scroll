@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/immature-teratoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav immature-teratoma-vulva-vagina.html immunotherapy.html
+<a class="trueBaseThemePreviousItem" href="immature-teratoma-vulva-vagina.html">&lt;</a><a class="trueBaseThemeNextItem" href="immunotherapy.html">&gt;</a>
+
+title Immature Teratoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=immature-teratoma" class="material-symbols-outlined">edit</a></div>
+
+* Immature Teratoma is a type of <a href="/concepts/ovarian-germ-cell-tumor.html">Ovarian Germ Cell Tumor</a>
+
+code
+ title Immature Teratoma
+ type cancerType
+ mainType Germ Cell Tumor
+ tissue Ovary/Fallopian Tube
+ 
+ oncoTreeId OIMT
+ parentOncoTreeId OGCT
+ umls C0346182
+ nciCode C8111
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

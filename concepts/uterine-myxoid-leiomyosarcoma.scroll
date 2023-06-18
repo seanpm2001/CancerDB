@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/uterine-myxoid-leiomyosarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav uterine-mucinous-carcinoma.html uterine-neuroendocrine-carcinoma.html
+<a class="trueBaseThemePreviousItem" href="uterine-mucinous-carcinoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="uterine-neuroendocrine-carcinoma.html">&gt;</a>
+
+title Uterine Myxoid Leiomyosarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=uterine-myxoid-leiomyosarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Uterine Myxoid Leiomyosarcoma is a type of <a href="/concepts/uterine-smooth-muscle-tumor.html">Uterine Smooth Muscle Tumor</a>
+
+code
+ title Uterine Myxoid Leiomyosarcoma
+ type cancerType
+ mainType Uterine Sarcoma
+ tissue Uterus
+ 
+ oncoTreeId UMLMS
+ parentOncoTreeId USMT
+ umls C1519861
+ nciCode C40175
+ oncoTreeLevel 4
+ subTypes 0
+ 
+
+import ../footer.scroll

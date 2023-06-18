@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/adenocarcinoma-nos.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav adenocarcinoma-in-situ.html adenocarcinoma-of-the-gastroesophageal-junction.html
+<a class="trueBaseThemePreviousItem" href="adenocarcinoma-in-situ.html">&lt;</a><a class="trueBaseThemeNextItem" href="adenocarcinoma-of-the-gastroesophageal-junction.html">&gt;</a>
+
+title Adenocarcinoma, NOS
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=adenocarcinoma-nos" class="material-symbols-outlined">edit</a></div>
+
+* Adenocarcinoma, NOS is a type of <a href="/concepts/cancer-of-unknown-primary.html">Cancer of Unknown Primary</a>
+
+code
+ title Adenocarcinoma, NOS
+ type cancerType
+ mainType Cancer of Unknown Primary
+ tissue Other
+ 
+ oncoTreeId ADNOS
+ parentOncoTreeId CUP
+ oncoTreeLevel 3
+ subTypes 0
+ 
+
+import ../footer.scroll

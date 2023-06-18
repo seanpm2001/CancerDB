@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/inverted-urothelial-papilloma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav invasive-hydatidiform-mole.html iran-ncc.html
+<a class="trueBaseThemePreviousItem" href="invasive-hydatidiform-mole.html">&lt;</a><a class="trueBaseThemeNextItem" href="iran-ncc.html">&gt;</a>
+
+title Inverted Urothelial Papilloma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=inverted-urothelial-papilloma" class="material-symbols-outlined">edit</a></div>
+
+* Inverted Urothelial Papilloma is a type of <a href="/concepts/bladder-cancer.html">Bladder Cancer</a>
+
+code
+ title Inverted Urothelial Papilloma
+ type cancerType
+ mainType Bladder Cancer
+ tissue Bladder/Urinary Tract
+ 
+ oncoTreeId IUP
+ parentOncoTreeId BLADDER
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll

@@ -1,0 +1,29 @@
+import ../header.scroll
+viewSourceUrl https://github.com/breck7/CancerDB/blob/main/concepts/alveolar-soft-part-sarcoma.cdb
+
+baseUrl https://cancerdb.com/truebase/
+
+keyboardNav alveolar-rhabdomyosarcoma.html alvin-j-siteman-cancer-center.html
+<a class="trueBaseThemePreviousItem" href="alveolar-rhabdomyosarcoma.html">&lt;</a><a class="trueBaseThemeNextItem" href="alvin-j-siteman-cancer-center.html">&gt;</a>
+
+title Alveolar Soft Part Sarcoma
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=alveolar-soft-part-sarcoma" class="material-symbols-outlined">edit</a></div>
+
+* Alveolar Soft Part Sarcoma is a type of <a href="/concepts/soft-tissue.html">Soft Tissue</a>
+
+code
+ title Alveolar Soft Part Sarcoma
+ type cancerType
+ mainType Soft Tissue Sarcoma
+ tissue Soft Tissue
+ 
+ oncoTreeId ASPS
+ parentOncoTreeId SOFT_TISSUE
+ umls C0206657
+ nciCode C3750
+ oncoTreeLevel 2
+ subTypes 0
+ 
+
+import ../footer.scroll
